@@ -1,0 +1,14 @@
+{
+   "baseURL": "http://localhost:1313/",
+   "footnoteReturnLinkContents": "↩",
+   "params": {
+      "AuthorName": "screenbeard",
+      "GitHubUser": "screenbeard",
+      "Subtitle": "Home of Rex Havoc, Space Adventurer and other assorted Geekeries."
+   },
+   "permalinks": {
+      "post": "/:title"
+   },
+   "title": "The Geekorium",
+   "theme": "potato-dark"
+}

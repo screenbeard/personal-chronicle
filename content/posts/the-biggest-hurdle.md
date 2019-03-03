@@ -1,0 +1,26 @@
+{
+    "date": "2009-06-13 02:24:29",
+    "draft": false,
+    "publishDate": "2009-06-13 02:24:29",
+    "slug": "the-biggest-hurdle",
+    "title": "The Biggest Hurdle",
+    "url": "\/the-biggest-hurdle\/",
+    "tags": [
+        "debate",
+        "gina trapani",
+        "problem",
+        "use case"
+    ],
+    "categories": [
+        "Quote"
+    ]
+}> Q: Do you see yourself using Wave on a daily basis? -mjf
+>
+> A: Could be my excitement about the novelty talking, but once all my
+> contacts are on Wave, I could see using it instead of Gmail entirely.
+
+[Google Wave Questions and
+Answers](http://smarterware.org/2021/google-wave-qa)
+
+This is the biggest hurdle Google faces. Users convincing other users to
+switch, so everyone can benefit.
