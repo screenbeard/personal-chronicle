@@ -7,7 +7,7 @@
     "url": "\/space-flight-704-chapter-10-new-flight\/",
     "tags": [
         "Final Flight of Xarnash",
-        "huh.",
+        "huh",
         "Rex Havoc"
     ],
     "categories": [
