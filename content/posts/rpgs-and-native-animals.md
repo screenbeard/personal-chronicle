@@ -15,10 +15,7 @@ Park](http://www.clelandwildlifepark.sa.gov.au/Home) today. It's one of
 my favourite places in Adelaide, and I've made some fun memories with
 the kids and various grandparents over the last ten years.
 
-!https://farm2.staticflickr.com/1740/42514732881_7d3b570f1b_c.jpg!:https://flic.kr/p/27LT7TT
-[Kangaroo in Sunlight, Cleland Wildlife
-Park](https://flic.kr/p/27LT7TT) by [Josh
-Nunn](https://www.flickr.com/photos/joshnunn/), on Flickr 
+{{< figure src="https://farm2.staticflickr.com/1740/42514732881_7d3b570f1b_c.jpg" link="https://flic.kr/p/27LT7TT" title="Kangaroo in Sunlight, Cleland Wildlife Park" attr="Josh Nunn on Flickr" attrlink="https://www.flickr.com/photos/joshnunn/" >}}
 
 Today I thought we'd do something different. We've got a year-long membership
 we've barely used in this last 12 month period, so entry is free, and
@@ -39,8 +36,6 @@ a Warlock with water powers. The basic gist of the game is that the
 characters themselves are kids so that the players can relate to them
 and get involved in the adventures.
 
-!//turbo.geekorium.com.au/images/Hero_Kids.jpg! I'm looking forward to
-putting more time into it. The kids all have great imaginations, so I
-think they'll really take to it. And I had to promise to take them all
-back to Cleland soon because we barely got to see any animals this time.
+![Hero Kids!](//turbo.geekorium.com.au/images/Hero_Kids.jpg) 
+I'm looking forward to putting more time into it. The kids all have great imaginations, so I think they'll really take to it. And I had to promise to take them all back to Cleland soon because we barely got to see any animals this time.
 

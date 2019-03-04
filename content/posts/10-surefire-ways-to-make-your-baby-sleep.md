@@ -4,18 +4,13 @@
     "publishDate": "2009-08-31 07:21:08",
     "slug": "10-surefire-ways-to-make-your-baby-sleep",
     "title": "10 Surefire ways to make your baby sleep.",
-    "url": "\/10-surefire-ways-to-make-your-baby-sleep\/",
-    "tags": [],
+    "tags": ["cute","baby","sleep","twitter bait"],
     "categories": [
         "Life"
     ]
-}[![Tuckered
-Out](//turbo.geekorium.com.au/wp-content/uploads/3146326254_7744f4e053.jpg){.alignnone
-width="375"
-height="500"}](http://www.flickr.com/photos/joshnunn/3146326254/ "Tuckered Out"){.tt-flickr
-.tt-flickr-Medium}
+}
 
-Tuckered out
+{{< figure src="//turbo.geekorium.com.au/wp-content/uploads/3146326254_7744f4e053.jpg" caption="Tuckered out" >}}
 
 That is a pure Twitter-bait title. I have no clue how to make my baby
 girl sleep except through time and patience. But I needed a hook to get
@@ -32,14 +27,13 @@ much she looks like me. I'm not sure if people are being polite (and
 really, who would *want* to look like me), but I see the most beautiful
 thing in the world when I look at her.
 
-Just-born babies are supposed to be at the peak of cuteness ((it's an
-evolutionary thing, look it up)), but this one just keeps getting cuter
+Just-born babies are supposed to be at the peak of cuteness [^evolution], but this one just keeps getting cuter
 by the day. Maybe parents see it best in their own children because a
 relaxed and happy playing child is one of the most joyful things you
 will ever see, and they're most relaxed around their own parents. If
 you've looked at my Flickr stream, there's no shortage of pics of her.
 But they're a tiny percentage of the actual photos I've taken and will
-not share with all and sundry ((You can thank me later)). I keep taking
+not share with all and sundry[^thank]. I keep taking
 them because each day her smile gets cheekier, her eyes get sparklier,
 and her wonder at the world more and more obvious.
 
@@ -66,10 +60,7 @@ And every day I ask myself how can she get cuter?
 
 And every day she does.
 
-[![Cuter?](//turbo.geekorium.com.au/wp-content/uploads/3873932698_33beeef20f.jpg){.alignnone
-width="375"
-height="500"}](http://www.flickr.com/photos/joshnunn/3873932698/ "Cuter?"){.tt-flickr
-.tt-flickr-Medium}
+{{< figure src="//turbo.geekorium.com.au/wp-content/uploads/3873932698_33beeef20f.jpg" caption="Cuter?" >}}
 
 Do you see? Do you see what I mean?
 
@@ -82,3 +73,6 @@ around here all the time.
 
 Thank you for reading. Share about your own families in the comments
 below.
+
+[^evolution]:it's an evolutionary thing, look it up
+[^thank]:You can thank me later

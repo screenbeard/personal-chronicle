@@ -15,13 +15,8 @@
     "categories": [
         "Life"
     ]
-}<div class="image">
+}
 
-[![Hats off to Christmas (by Georgie
-Sharp)](//static.flickr.com/114/311749963_b6ac4b5c67.jpg "Hats off to Christmas (by Georgie Sharp)"){.highlight}](http://www.flickr.com/photos/georgiesharp/311749963/ "Hats off to Christmas (by Georgie Sharp)")
-
-Hats off to Christmas (by Georgie Sharp)
-
-</div>
+{{< figure src="//turbo.geekorium.com.au/images/hats-off-to-christmas.jpg" caption="Hats off to Christmas" attr="by Georgie Sharp" attrlink="http://www.flickr.com/photos/georgiesharp/311749963/" >}}
 
 Merry Christmas everyone.

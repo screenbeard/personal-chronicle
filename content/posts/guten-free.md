@@ -5,8 +5,7 @@
     "draft": false,
     "date": "2019-02-11 12:49:53",
     "publishDate": "2019-02-11 12:49:53",
-    "url": "",
-    "tags": null,
+    "tags": ["puns", "wordpress", "technology", "star trek", "transporter"],
     "categories": [
         "Tech"
     ]
@@ -28,7 +27,6 @@ quote, you start a new paragraph and you select the "quote" block type
 and blammo, there's your quote:
 
 > Gutenberg is more than an editor.
->
 > [Gutenberg contributors](https://wordpress.org/plugins/gutenberg/)
 
 Which is something that for **years** I've thought was missing from all
@@ -39,8 +37,7 @@ what you get, but how you get it is usually some form of Lovecraft-ian
 horror on the back end, with tags embedded in tags like they've been
 involved in a transporter accident.
 
-![Not all transporter malfunctions are happy
-accidents](https://the.geekorium.com.au/wp-content/uploads/2019/02/Transporter-Accidents-700x156.jpg)
+{{< figure src="https://the.geekorium.com.au/wp-content/uploads/2019/02/Transporter-Accidents-700x156.jpg" caption="Not all transporter malfunctions are happy accidents" alt="A sequence of mildy gruesome accidents caused by Star Trek technology. And Tuvix" >}}
 
 The ideal goal of a "block" powered editor in my mind would be to
 teach your users how to think in blocks, so that their HTML is

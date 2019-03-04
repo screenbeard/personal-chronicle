@@ -16,17 +16,15 @@
     "categories": [
         "Share"
     ]
-}<span>[Christmas by Joshua Nunn on
-Grooveshark](http://grooveshark.com/playlist/Christmas/41386196 "Christmas by Joshua Nunn on Grooveshark")</span>
+}
 
-Embedded here are a bunch of Christmas favourites done by some of the
-best modern artists I could find ((And yes I know some of them haven't
-been "modern" for some time, but it's not John Denver at least.)). No
-Boney M for my family this Christmas ((who am I kidding - my sister
-loves them))! Let me know if there's anyone I've missed out! And no mum,
-Celine Dion doesn't count.
+[~~Christmas by Joshua Nunn on Grooveshark~~](http://grooveshark.com/playlist/Christmas/41386196)
 
-Oh, and here's a special playlist [just for
-Paul](http://listen.grooveshark.com/playlist/A+Very+8+bit+Christmas/41416810).
+Embedded here are a bunch of Christmas favourites done by some of the best modern artists I could find[^modern]. No Boney M for my family this Christmas[^sister]! Let me know if there's anyone I've missed out! And no mum, Celine Dion doesn't count.
 
-**Merry Christmas everyone![]()**
+Oh, and here's a special playlist [~~just for Paul~~](http://listen.grooveshark.com/playlist/A+Very+8+bit+Christmas/41416810).
+
+**Merry Christmas everyone!**
+
+[^modern]:And yes I know some of them haven't been "modern" for some time, but it's not John Denver at least.
+[^sister]:Who am I kidding - my sister loves them
