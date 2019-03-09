@@ -1,0 +1,7 @@
+#!/bin/sh
+HOST=geekorium
+DIR=public_html/the/   # might sometimes be empty!
+
+hugo && rsync -avz --delete public/ ${HOST}:~/${DIR}
+
+exit 0
