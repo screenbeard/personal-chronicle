@@ -1,7 +1,7 @@
 {
     "title": "Moving to Hugo",
     "date": "2019-03-09T16:35:38+10:30",
-    "draft": true,
+    "draft": false,
     "tags": ["hugo","go","wordpress","change","pandoc"],
     "categories": [
         "Tech"
