@@ -22,7 +22,7 @@ What's immediately appealing is that everything is a block of "something" and yo
 
 Which is something that for **years** I've thought was missing from all the nice GUI editors bundled with netlog software. I've had to deal with the source-code HTML fallout of websites written with WYSIWYG editors, and for the most part what you see on the front end might be what you get, but how you get it is usually some form of Lovecraft-ian horror on the back end, with tags embedded in tags like they've been involved in a transporter accident.
 
-{{< figure src="https://the.geekorium.com.au/wp-content/uploads/2019/02/Transporter-Accidents-700x156.jpg" caption="Not all transporter malfunctions are happy accidents" alt="A sequence of mildy gruesome accidents caused by Star Trek technology. And Tuvix" >}}
+{{< figure src="https://turbo.geekorium.com.au/wp-content/uploads/2019/02/Transporter-Accidents-700x156.jpg" caption="Not all transporter malfunctions are happy accidents" alt="A sequence of mildy gruesome accidents caused by Star Trek technology. And Tuvix" >}}
 
 The ideal goal of a "block" powered editor in my mind would be to teach your users how to think in blocks, so that their HTML is structured and formatted from the get-go with the particular idiosyncrasies of that format in mind. I'm not sure if that's what the authors of Gutenberg set out to accomplish, but it's the ideal outcome I can think of from such a project.
 
