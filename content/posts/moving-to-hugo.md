@@ -16,7 +16,7 @@ So if you can't tell the difference, today's post (and all past posts) are now b
 
 I also used this as the excuse I needed to finally put the effort into dual booting Linux on my machine. I'm trying out Linux Mint, and I'm proud I actually got it working with Secure Boot[^notalent]. Starting out, my "flow" is to create a post in Markdown, then build the site and rsync it to to the same location my old site was.
 
-Please let me know if you notice anything funky. As usual I can be reached on [Telegram](https://t.me/TheGeekorium), [Discord](https://discord.gg/MdRrxQC), and just recently, [Twitter](https://twitter.com/screenbeard)[^sellout]. However, I'm aware that there's lots of posts that will not have survived the switch over without some... problems. I will get to them eventually.
+Please let me know if you notice anything funky. As usual I can be reached on [Telegram](https://t.me/TheGeekoriumChat), [Discord](https://discord.gg/MdRrxQC), and just recently, [Twitter](https://twitter.com/screenbeard)[^sellout]. However, I'm aware that there's lots of posts that will not have survived the switch over without some... problems. I will get to them eventually.
 
 The process of moving was interesting. All my posts in Wordpress were written in [Textile](https://textile-lang.com/) which *for years* was my preferred markup language, but Textile turned out to be Betamax to Markdown's VHS, or what Mercurial is to Git, or what Bitbucket is to Github, or what this sentence is to any other sentence.
 
