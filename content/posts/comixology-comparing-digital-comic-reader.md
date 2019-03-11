@@ -29,7 +29,7 @@ swath of the Marvel back-catalogue online or on your Apple/Sony devices.
 You can subscribe for \$60US a year, and read a lot of classic Marvel
 comics, as well as a selection of the new stuff.
 
-![](//turbo.geekorium.com.au/wp-content/uploads/digitalHulk-500x1881222222112222212312111.jpg "Some Hulk titles"){.alignnone
+![](https://turbo.geekorium.com.au/wp-content/uploads/digitalHulk-500x1881222222112222212312111.jpg "Some Hulk titles"){.alignnone
 width="500" height="188"}
 
 "You wouldn't like me on a tiny screen"
@@ -79,7 +79,7 @@ build their own to compete with Marvel. The remaining contributors are a
 diverse bunch, including Dark Horse, Image (publishers of my current
 favourite comic *Chew*), and even Comixology's own brand.
 
-![](//turbo.geekorium.com.au/wp-content/uploads/comicsbycomixology42212312111.jpg)
+![](https://turbo.geekorium.com.au/wp-content/uploads/comicsbycomixology42212312111.jpg)
 
 \*Marvel on iOS only...
 
@@ -124,7 +124,7 @@ shown as big as your display will allow and carefully edited for clarity
 and dramatic impact. Compared to the Marvel reader, this is far-and-away
 the biggest and most important difference between the two experiences.
 
-![](//turbo.geekorium.com.au/wp-content/uploads/f-1024-14-e131115944128712312111.jpg "Comixology with Atomic Robo"){.alignnone
+![](https://turbo.geekorium.com.au/wp-content/uploads/f-1024-14-e131115944128712312111.jpg "Comixology with Atomic Robo"){.alignnone
 .size-full .wp-image-134645820 width="600" height="292"}
 
 Atomic Robo![]()
@@ -161,7 +161,7 @@ store and reader has been revolutionary. The prices are what I used to
 wish comics would be at the local store and, most compelling of all, the
 titles are all ad free.
 
-![](//turbo.geekorium.com.au/wp-content/uploads/mzl.xrdujmrj.320x480-751212312111.jpg)
+![](https://turbo.geekorium.com.au/wp-content/uploads/mzl.xrdujmrj.320x480-751212312111.jpg)
 
 DC available on iOS too!
 

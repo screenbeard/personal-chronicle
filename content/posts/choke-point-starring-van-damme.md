@@ -12,7 +12,7 @@
     "categories": [
         "Photo"
     ]
-}![](//turbo.geekorium.com.au/images/spelling-suggestion-for-sharepoint.png)
+}![](https://turbo.geekorium.com.au/images/spelling-suggestion-for-sharepoint.png)
 
 Tehe
 

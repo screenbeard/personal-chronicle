@@ -30,7 +30,7 @@ ask my wife, but I want to widen my base and get an idea from some of
 the people who read it. I realise I'm not giving you much to go on, but
 I'd love some off-the-top-of-your-head thoughts.
 
-![](//turbo.geekorium.com.au/images/geekorium-preview.png)
+![](https://turbo.geekorium.com.au/images/geekorium-preview.png)
 
 A sneaky peak
 

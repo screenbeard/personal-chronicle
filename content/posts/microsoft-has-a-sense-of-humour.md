@@ -26,7 +26,7 @@ this clever "cloning kit" to promote their range of management tools and
 software licensing options. I though it very clever.
 
 [![Microsoft has a sense of
-humour](//turbo.geekorium.com.au/wp-content/uploads/3875609721_8656994b5c.jpg){.alignnone
+humour](https://turbo.geekorium.com.au/wp-content/uploads/3875609721_8656994b5c.jpg){.alignnone
 width="375"
 height="500"}](http://www.flickr.com/photos/joshnunn/3875609721/ "Microsoft has a sense of humour"){.tt-flickr
 .tt-flickr-Medium}

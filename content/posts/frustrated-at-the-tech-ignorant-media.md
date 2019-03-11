@@ -12,7 +12,7 @@
     "categories": [
         "Tech"
     ]
-}![](//turbo.geekorium.com.au/images/262091025_9825a64b68.jpg)
+}![](https://turbo.geekorium.com.au/images/262091025_9825a64b68.jpg)
 
 [SPAM! \[don't
 buy\]](http://www.flickr.com/photos/david-trattnig/262091025/) /\

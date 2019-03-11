@@ -17,7 +17,7 @@ me now that his style of comedy inspired a lot of the most well loved
 Muppet Show routines.
 
 [![Victor
-Borge](//turbo.geekorium.com.au/wp-content/uploads/2011/03/Borge.jpg "Victor Borge")](//turbo.geekorium.com.au/wp-content/uploads/2011/03/Borge.jpg)
+Borge](https://turbo.geekorium.com.au/wp-content/uploads/2011/03/Borge.jpg "Victor Borge")](https://turbo.geekorium.com.au/wp-content/uploads/2011/03/Borge.jpg)
 
 What a guy
 

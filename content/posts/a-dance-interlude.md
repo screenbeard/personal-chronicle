@@ -16,7 +16,7 @@
         "Photo"
     ]
 }![If they don't
-dance...](//turbo.geekorium.com.au/images/Dance-Carly-Ammy.gif)
+dance...](https://turbo.geekorium.com.au/images/Dance-Carly-Ammy.gif)
 
 If they don't dance...
 

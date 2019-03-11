@@ -14,7 +14,7 @@
     "categories": [
         "Tech"
     ]
-}![](//turbo.geekorium.com.au/images/3656648715_eae0212b5e_b660.jpg):http://www.flickr.com/photos/tstadler/3656648715/
+}![](https://turbo.geekorium.com.au/images/3656648715_eae0212b5e_b660.jpg):http://www.flickr.com/photos/tstadler/3656648715/
 
 [Stupid printer
 tricks](http://www.flickr.com/photos/tstadler/3656648715/) /\
@@ -96,7 +96,7 @@ to create a printer policy and target specific computer OUs, but then
 instead of turning on local-loopback, I simply ticked *Run in logged-on
 user's security context (user policy option)*.
 
-![](//turbo.geekorium.com.au/images/win7printer.png)
+![](https://turbo.geekorium.com.au/images/win7printer.png)
 
 Now my printers deploy and are set as default based on the current
 computer's OU without using local-loopback at all.

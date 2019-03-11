@@ -23,8 +23,8 @@ the trimmings and sit in a park and read and write, and never fix
 another jammed printer or reset another password, and just make giant
 run-on sentences that would make Zombie\_Plan and Rubenerd proud.
 
-[![](//turbo.geekorium.com.au/wp-content/uploads/2010/04/p_1600_1200_4FB853D8-D618-4F01-B506-A8404245DF30.jpeg){.alignnone
-.size-full}](//turbo.geekorium.com.au/wp-content/uploads/2010/04/p_1600_1200_4FB853D8-D618-4F01-B506-A8404245DF30.jpeg)
+[![](https://turbo.geekorium.com.au/wp-content/uploads/2010/04/p_1600_1200_4FB853D8-D618-4F01-B506-A8404245DF30.jpeg){.alignnone
+.size-full}](https://turbo.geekorium.com.au/wp-content/uploads/2010/04/p_1600_1200_4FB853D8-D618-4F01-B506-A8404245DF30.jpeg)
 
 I hear talk of mythical beings who enjoy their day jobs. But I'm an
 atheist, so I don't believe in fairy stories like that.

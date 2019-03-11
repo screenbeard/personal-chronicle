@@ -16,7 +16,7 @@
         "Rambling"
     ]
 }[![Google Logo made of
-LEGO](//turbo.geekorium.com.au/wp-content/uploads/108805307_c43af20f59_m.jpg)](http://flickr.com/photos/keso/108805307/)
+LEGO](https://turbo.geekorium.com.au/wp-content/uploads/108805307_c43af20f59_m.jpg)](http://flickr.com/photos/keso/108805307/)
 
 [google\_logo](http://flickr.com/photos/keso/108805307/ "Google Logo in LEGO")
 by [Gayle Laakmann

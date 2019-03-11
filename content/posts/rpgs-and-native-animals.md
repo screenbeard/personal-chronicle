@@ -36,6 +36,6 @@ a Warlock with water powers. The basic gist of the game is that the
 characters themselves are kids so that the players can relate to them
 and get involved in the adventures.
 
-![Hero Kids!](//turbo.geekorium.com.au/images/Hero_Kids.jpg) 
+![Hero Kids!](https://turbo.geekorium.com.au/images/Hero_Kids.jpg) 
 I'm looking forward to putting more time into it. The kids all have great imaginations, so I think they'll really take to it. And I had to promise to take them all back to Cleland soon because we barely got to see any animals this time.
 

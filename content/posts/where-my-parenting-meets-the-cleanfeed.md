@@ -28,7 +28,7 @@ seeing her learn. By gum it's the greatest feeling I've ever
 experienced, to watch her discover her world.
 
 [![Hacking the
-interwebz](//turbo.geekorium.com.au/wp-content/uploads/3060409361_812971765c.jpg)](http://www.flickr.com/photos/joshnunn/3060409361/ "Hacking the interwebz")
+interwebz](https://turbo.geekorium.com.au/wp-content/uploads/3060409361_812971765c.jpg)](http://www.flickr.com/photos/joshnunn/3060409361/ "Hacking the interwebz")
 
 Hax0r the interw3bz
 

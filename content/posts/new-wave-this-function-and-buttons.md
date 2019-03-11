@@ -34,9 +34,9 @@ pages (not the front page).
 
 I created a couple of button images you can feel free to use:
 
-![](//turbo.geekorium.com.au/images/wavethis-button-dark.png)
+![](https://turbo.geekorium.com.au/images/wavethis-button-dark.png)
 
-![](//turbo.geekorium.com.au/images/wavethis-button-white.png)
+![](https://turbo.geekorium.com.au/images/wavethis-button-white.png)
 
 So that's the new *Wave This!* button. Go ahead and give it a try. If
 you're a developer I'd be interested in seeing other ways to implement

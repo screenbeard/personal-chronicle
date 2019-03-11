@@ -25,7 +25,7 @@ was made public. Many good useful waves were effectively destroyed by
 granting the public editing rights.
 
 ![the read-only tool in
-action](//turbo.geekorium.com.au/images/read-only%20tool.PNG){.s3-img}
+action](https://turbo.geekorium.com.au/images/read-only%20tool.PNG){.s3-img}
 
 Well, with the release of the Read-Only feature, you can now specify
 select users and groups as read-only participants, meaning they can see

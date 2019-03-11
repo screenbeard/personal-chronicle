@@ -15,7 +15,7 @@ Having fired up the old blogging engine[^die], I now find myself wanting to comm
 
 No, email isn't public enough. A person cannot comment on another blogger's content from the detached privacy of an email - we are after all "civilised gentlemen"[^static].
 
-{{< figure src="//turbo.geekorium.com.au/images/no-comment.jpg" link="//flic.kr/p/9f2C5A" title="Comment of the Day" attr="Mike Seyfang" attrlink="//www.flickr.com/photos/mikeblogs/" >}}
+{{< figure src="https://turbo.geekorium.com.au/images/no-comment.jpg" link="//flic.kr/p/9f2C5A" title="Comment of the Day" attr="Mike Seyfang" attrlink="//www.flickr.com/photos/mikeblogs/" >}}
 
 So consider this another comment in a long series of posts directly directed at Rubenerd. Tune out from here if you're not him, and have no interest in how he chooses to enable comments.
 

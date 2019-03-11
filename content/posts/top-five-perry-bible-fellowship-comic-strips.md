@@ -16,7 +16,7 @@
     ]
 }
 
-{{< figure src="//turbo.geekorium.com.au/wp-content/uploads/Cover-CU.jpg" title="The Trial of Colonel Sweeto Cover" >}}
+{{< figure src="https://turbo.geekorium.com.au/wp-content/uploads/Cover-CU.jpg" title="The Trial of Colonel Sweeto Cover" >}}
 
 [The Perry Bible Fellowship](http://www.pbfcomics.com/) is the comic
 strip of Nicholas Gurewitch. It's at times very dark and always

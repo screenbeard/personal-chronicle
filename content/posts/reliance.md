@@ -14,7 +14,7 @@
         "Education"
     ]
 }[![Learning
-time](//turbo.geekorium.com.au/wp-content/uploads/3948369923_f1d620f00b_o1.png){width="599"
+time](https://turbo.geekorium.com.au/wp-content/uploads/3948369923_f1d620f00b_o1.png){width="599"
 height="401"}](http://www.flickr.com/photos/34053291@N05/3948369923/ "Learning time by Temari 09, on Flickr")
 
 [Image cc Temari

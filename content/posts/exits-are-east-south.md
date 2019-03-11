@@ -19,7 +19,7 @@ you.
 The Wave Dice Gadget generates a dice-roll for you, and supports
 "standard PnP dice types".
 
-![images.png](//turbo.geekorium.com.au/images/images.png){.s3-img}
+![images.png](https://turbo.geekorium.com.au/images/images.png){.s3-img}
 
 Go get your game on in-wave!
 

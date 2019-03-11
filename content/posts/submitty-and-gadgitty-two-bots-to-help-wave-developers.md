@@ -26,7 +26,7 @@ href="https://www.google.com/accounts/ServiceLogin?service=wave&passive=true&nui
 Now Google have made it easier than ever to submit an extension to the
 Wave Extension review team using a simple bot.
 
-[![submitty.PNG](//turbo.geekorium.com.au/submitty.PNG){.s3-img}](http://wave-samples-gallery.appspot.com/about_app?app_id=109013)
+[![submitty.PNG](https://turbo.geekorium.com.au/submitty.PNG){.s3-img}](http://wave-samples-gallery.appspot.com/about_app?app_id=109013)
 
 Create a new wave and add the
 [Submitty](http://wave-samples-gallery.appspot.com/about_app?app_id=109013)

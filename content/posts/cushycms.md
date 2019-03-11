@@ -17,7 +17,7 @@
         "Tech"
     ]
 }[![CushyCMS - Take the work out of managing
-content](//turbo.geekorium.com.au/images/6t9_bor_rou_sha.jpg "CushyCMS - Take the work out of managing content")](http://www.cushycms.com/)
+content](https://turbo.geekorium.com.au/images/6t9_bor_rou_sha.jpg "CushyCMS - Take the work out of managing content")](http://www.cushycms.com/)
 
 [CushyCMS - Take the work out of managing
 content](http://www.cushycms.com/%3C/figcaption%3E)

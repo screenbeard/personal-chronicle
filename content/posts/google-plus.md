@@ -123,7 +123,7 @@ vision. It's easy to imagine this as the start of something big, which
 is why I'm so excited about it.
 
 [![Screenshot of the Introduction presentation for Google
-Plus](//turbo.geekorium.com.au/wp-content/uploads/The-Google-Plus-Project-e1310561957204.png "The Google Plus Project"){.alignnone
+Plus](https://turbo.geekorium.com.au/wp-content/uploads/The-Google-Plus-Project-e1310561957204.png "The Google Plus Project"){.alignnone
 .size-full .wp-image-229477796 width="600"
 height="339"}](//the.geekorium.com.au/the-google-plus-project/)
 

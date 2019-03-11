@@ -26,7 +26,7 @@ Normally I would have steered clear of something like this ((14% on the
 tomatometer![]())), but occasionally I have to watch a romantic comedy
 so that my wife will keep watching SciFi with me.
 
-![](//turbo.geekorium.com.au/images/File-Ugly_truth.jpg)
+![](https://turbo.geekorium.com.au/images/File-Ugly_truth.jpg)
 
 Bleh
 
@@ -38,7 +38,7 @@ Bruce Willis. I had heard it wasn't fantastic, but the idea behind it
 intrigued me: what if everyone lived their lives virtually through robot
 simulacrum ((thanks P.K. Dick for that word!))?
 
-![](//turbo.geekorium.com.au/images/File-Surrogates2009MP.jpg)
+![](https://turbo.geekorium.com.au/images/File-Surrogates2009MP.jpg)
 
 Bruce Willis: Bored.
 

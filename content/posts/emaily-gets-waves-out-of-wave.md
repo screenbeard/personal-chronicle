@@ -37,7 +37,7 @@ a wave, with "&gt;" reply markers and signatures left in. For anything
 more than simple communication back and forth this could get messy.
 
 [![Picture
-1.png](//turbo.geekorium.com.au/images/Picture%201.png){.s3-img}](http://emaily.dlux.hu/)
+1.png](https://turbo.geekorium.com.au/images/Picture%201.png){.s3-img}](http://emaily.dlux.hu/)
 
 The developers of Emaily have said they are planning to integrate Emaily
 even more into Wave by "rearchitecting Emaily into an application, which

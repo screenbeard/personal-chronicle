@@ -13,7 +13,7 @@
     "categories": [
         "Media"
     ]
-}![tumblr\_ksau9h7EsE1qzeh8ao1\_400.jpg](//turbo.geekorium.com.au/images/tumblr_ksau9h7EsE1qzeh8ao1_400.jpg){.s3-img}
+}![tumblr\_ksau9h7EsE1qzeh8ao1\_400.jpg](https://turbo.geekorium.com.au/images/tumblr_ksau9h7EsE1qzeh8ao1_400.jpg){.s3-img}
 
 [When to use Google Wave \[Google Wave
 Help\]](http://wave.google.com/using-wave.html)

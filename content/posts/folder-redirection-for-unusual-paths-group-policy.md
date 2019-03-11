@@ -40,7 +40,7 @@ If you've worked with group policy before I won't insult your
 intelligence more by explaining everything in here, suffice to say that
 in our environment, I've chosen to use the settings as shown below:
 
-![folderredirectionsettings.png](//turbo.geekorium.com.au/images/folderredirectionsettings.png){.s3-img}
+![folderredirectionsettings.png](https://turbo.geekorium.com.au/images/folderredirectionsettings.png){.s3-img}
 
 Settings for redirecting *My Documents* to a shared network location.
 
@@ -92,7 +92,7 @@ When you view the GP report for Folder Redirection you'll notice that MS
 includes the VARIABLES that it uses to fill in the user's home folder
 path (as shown):
 
-![documentssettings.png](//turbo.geekorium.com.au/images/documentssettings.png){.s3-img}
+![documentssettings.png](https://turbo.geekorium.com.au/images/documentssettings.png){.s3-img}
 
 AH! Variables!
 

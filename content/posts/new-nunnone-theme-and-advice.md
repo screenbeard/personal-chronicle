@@ -21,7 +21,7 @@ from start to finish (with the help of some [online
 guides](http://codex.wordpress.org/Theme_Development)).
 
 ![Browser Stats for
-NunnOne.com](//turbo.geekorium.com.au/wp-content/uploads/546967240_12e0e9e74f.jpg "Browser Stats for NunnOne.com")
+NunnOne.com](https://turbo.geekorium.com.au/wp-content/uploads/546967240_12e0e9e74f.jpg "Browser Stats for NunnOne.com")
 
 My stats since the beginning of the year show the percentages of
 browsers that visit my site, with IE on top. So I've tested it on Opera,
@@ -32,7 +32,7 @@ look at it.
 To those of you using Internet Explorer 6
 
 (it looks like this ![Internet Explorer 6
-interface](//turbo.geekorium.com.au/wp-content/uploads/547176766_964a8a855d_t.jpg "Internet Explorer 6 interface")),
+interface](https://turbo.geekorium.com.au/wp-content/uploads/547176766_964a8a855d_t.jpg "Internet Explorer 6 interface")),
 
 I strongly recommend you switch ASAP. You can download [the latest
 version of Internet

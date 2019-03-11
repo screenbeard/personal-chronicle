@@ -14,7 +14,7 @@
         "Life"
     ]
 }[![How To Be An Explorer of the
-World](//turbo.geekorium.com.au/wp-content/uploads/6140167250_076971f6653511211.jpg){width="500"
+World](https://turbo.geekorium.com.au/wp-content/uploads/6140167250_076971f6653511211.jpg){width="500"
 height="375"}](//www.flickr.com/photos/joshnunn/6140167250/ "How To Be An Explorer of the World by joshnunn, on Flickr")
 
 It starts here.

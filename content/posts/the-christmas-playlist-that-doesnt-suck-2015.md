@@ -22,7 +22,7 @@
     ]
 }
 
-{{< figure src="//turbo.geekorium.com.au/images/stormtrooper-christmas.jpg" alt="A photo of a Star Wars Stormtrooper toy in a Christmas tree with twinkling lights behind" caption="Merry Christmas" attr="by Jose Maria Cuellar" attrlink="//flic.kr/p/qcZ7u8" >}}
+{{< figure src="https://turbo.geekorium.com.au/images/stormtrooper-christmas.jpg" alt="A photo of a Star Wars Stormtrooper toy in a Christmas tree with twinkling lights behind" caption="Merry Christmas" attr="by Jose Maria Cuellar" attrlink="//flic.kr/p/qcZ7u8" >}}
 
 I've scoured Soundcloud to find the best Christmas music I could find. It's chock full of Christmas favourites (and a few new ones) that are guaranteed to:
 

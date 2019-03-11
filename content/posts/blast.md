@@ -13,6 +13,6 @@
 
 Maybe I'll try Buddycloud.
 
-![image](//turbo.geekorium.com.au/wp-content/uploads/wpid-256x256.png)
+![image](https://turbo.geekorium.com.au/wp-content/uploads/wpid-256x256.png)
 
 Could this be the answer?

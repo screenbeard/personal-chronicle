@@ -2,6 +2,6 @@
 HOST=geekorium
 DIR=public_html/the/   # might sometimes be empty!
 
-hugo && rsync -avz --delete public/ ${HOST}:~/${DIR}
+hugo && rsync -az --info=progress2 --delete --exclude .htaccess public/ ${HOST}:~/${DIR}
 
 exit 0

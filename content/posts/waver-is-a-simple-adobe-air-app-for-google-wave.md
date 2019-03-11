@@ -27,7 +27,7 @@ pop it into a corner of your screen and keep working. While Wave is
 getting its feet, it also saves you dedicating a tab to it while letting
 you participate and build up the community.
 
-![waver-screenshot.PNG](//turbo.geekorium.com.au/images/waver-screenshot.PNG){.s3-img}
+![waver-screenshot.PNG](https://turbo.geekorium.com.au/images/waver-screenshot.PNG){.s3-img}
 
 Unfortunately because it’s simply a view to the mobile interface it
 suffers one of the same beta flaws - it does not sync changes until you

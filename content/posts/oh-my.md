@@ -11,7 +11,7 @@
     "categories": [
         "Media"
     ]
-}![tumblr\_krq1qrB4hW1qa7o0ko1\_500.jpg](//turbo.geekorium.com.au/images/tumblr_krq1qrB4hW1qa7o0ko1_500.jpg){.s3-img}
+}![tumblr\_krq1qrB4hW1qa7o0ko1\_500.jpg](https://turbo.geekorium.com.au/images/tumblr_krq1qrB4hW1qa7o0ko1_500.jpg){.s3-img}
 
 > I think us Wavers should be worried…
 

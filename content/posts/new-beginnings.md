@@ -25,7 +25,7 @@ was the sort of story i thought other people might like to read. that's
 clearly not the case. from this moment, i refuse to write what is
 popular and choose to concentrate on what will make me happy.
 
-![](//turbo.geekorium.com.au/wp-content/uploads/satyrwearbear.png){.alignnone
+![](https://turbo.geekorium.com.au/wp-content/uploads/satyrwearbear.png){.alignnone
 .size-full .wp-image-229477973 width="622" height="400"}
 
 Leylanilu and Mr Ruffles

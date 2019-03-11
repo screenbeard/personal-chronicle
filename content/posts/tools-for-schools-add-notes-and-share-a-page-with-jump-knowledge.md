@@ -14,7 +14,7 @@
         "Education"
     ]
 }![Jump Knowledge
-example](//turbo.geekorium.com.au/wp-content/uploads/2007/05/picture-2.png)
+example](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/picture-2.png)
 
 Here's an easy to use little app for both staff and students. It's
 called [Jump Knowledge](http://info.jkn.com) (jkn for short) and it

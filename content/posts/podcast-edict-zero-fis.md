@@ -18,7 +18,7 @@
 
 I'm not sure how many of my friends are in the market for good podcasts, but one of my favourites has just returned from a lengthy hiatus.
 
-{{< figure src="//turbo.geekorium.com.au/images/edict-zero-fis.png" alt="A logo that says Edict Zero FIS" >}}
+{{< figure src="https://turbo.geekorium.com.au/images/edict-zero-fis.png" alt="A logo that says Edict Zero FIS" >}}
 
 This is a superb treat for your ears. No other podcast I listen to sounds quite so epic and intimate at the same time. The voice acting is sublime and draws you in to the intricately created world of the Edicts.
 

@@ -11,7 +11,7 @@
     ]
 }
 
-{{< figure src="//turbo.geekorium.com.au/images/space-santa.jpg" alt="A night photo of a big anamatronic Santa in a space ship" caption="Space santa" attr="by Beth Wilson" attrlink="https://flic.kr/p/dBnG1y" >}}
+{{< figure src="https://turbo.geekorium.com.au/images/space-santa.jpg" alt="A night photo of a big anamatronic Santa in a space ship" caption="Space santa" attr="by Beth Wilson" attrlink="https://flic.kr/p/dBnG1y" >}}
 
 I've scoured Soundcloud to find the best Christmas music I could find.
 It's chock full of Christmas favourites that are guaranteed to:

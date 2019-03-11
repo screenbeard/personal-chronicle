@@ -14,7 +14,7 @@
 }Hi there!
 
 [![Thank you
-\*](//turbo.geekorium.com.au/wp-content/uploads/2486506322_0df7094b181.jpg){width="412"
+\*](https://turbo.geekorium.com.au/wp-content/uploads/2486506322_0df7094b181.jpg){width="412"
 height="500"}](http://www.flickr.com/photos/russmorris/2486506322/ "Thank you * by rustman, on Flickr")
 
 [cc Thank you \* by rustman, on

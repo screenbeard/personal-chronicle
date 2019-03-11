@@ -15,6 +15,6 @@
 }Check out how many unread netnewswire feeds I have, that's not really
 how many I have.
 
-[![](//turbo.geekorium.com.au/wp-content/uploads/2008/10/p-480-320-880144c5-d390-4cdd-8d97-b175b1c31d43.jpeg){.alignnone
+[![](https://turbo.geekorium.com.au/wp-content/uploads/2008/10/p-480-320-880144c5-d390-4cdd-8d97-b175b1c31d43.jpeg){.alignnone
 .size-full .wp-image-364 width="200"
-height="300"}](//turbo.geekorium.com.au/wp-content/uploads/2008/10/p-480-320-880144c5-d390-4cdd-8d97-b175b1c31d43.jpeg)
+height="300"}](https://turbo.geekorium.com.au/wp-content/uploads/2008/10/p-480-320-880144c5-d390-4cdd-8d97-b175b1c31d43.jpeg)

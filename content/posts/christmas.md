@@ -17,6 +17,6 @@
     ]
 }
 
-{{< figure src="//turbo.geekorium.com.au/images/hats-off-to-christmas.jpg" caption="Hats off to Christmas" attr="by Georgie Sharp" attrlink="http://www.flickr.com/photos/georgiesharp/311749963/" >}}
+{{< figure src="https://turbo.geekorium.com.au/images/hats-off-to-christmas.jpg" caption="Hats off to Christmas" attr="by Georgie Sharp" attrlink="http://www.flickr.com/photos/georgiesharp/311749963/" >}}
 
 Merry Christmas everyone.

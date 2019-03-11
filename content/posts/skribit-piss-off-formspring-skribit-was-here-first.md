@@ -15,7 +15,7 @@
     "categories": [
         "Tech"
     ]
-}[![Skribit.png](//turbo.geekorium.com.au/images/Skribit.png){.s3-img}](http://skribit.com/)
+}[![Skribit.png](https://turbo.geekorium.com.au/images/Skribit.png){.s3-img}](http://skribit.com/)
 
 There's this
 [new](http://www.techcrunch.com/2010/01/04/formspring-ask-me-anything/)

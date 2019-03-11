@@ -44,7 +44,7 @@ sent to. The tool even picked my Google Apps email even though it's not
 my official Wave address because I've set it as primary in my Google
 profile.
 
-[![NotificationsMenu.png](//turbo.geekorium.com.au/images/NotificationsMenu.png){.s3-img}](http://googlewave.blogspot.com/2010/03/help-test-email-notifications.html)
+[![NotificationsMenu.png](https://turbo.geekorium.com.au/images/NotificationsMenu.png){.s3-img}](http://googlewave.blogspot.com/2010/03/help-test-email-notifications.html)
 
 In the Google Wave Blog Ged goes on to say:
 

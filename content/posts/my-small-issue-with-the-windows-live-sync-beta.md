@@ -20,7 +20,7 @@ Beta](http://explore.live.com/windows-live-devices-and-sync-sync-mesh-upgrade-ui
 It's working fine on one of my computers, but on the other one, it drops
 a letter when I set up a folder to sync.
 
-![](//turbo.geekorium.com.au/images/windows-live-sync-problems.png)
+![](https://turbo.geekorium.com.au/images/windows-live-sync-problems.png)
 
 See what I mean?
 

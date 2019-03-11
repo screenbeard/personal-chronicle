@@ -17,7 +17,7 @@
         "Tech"
     ]
 }![Jungle Disk - Reliable online storage powered by Amazon S3 -
-JungleDisk](//turbo.geekorium.com.au/images/4x5_bor_rou_sha.jpg "Jungle Disk - Reliable online storage powered by Amazon S3 - JungleDisk"):
+JungleDisk](https://turbo.geekorium.com.au/images/4x5_bor_rou_sha.jpg "Jungle Disk - Reliable online storage powered by Amazon S3 - JungleDisk"):
 
 [Jungle Disk - Reliable online
 storage](http://jungledisk.com/%3C/figcaption%3E)

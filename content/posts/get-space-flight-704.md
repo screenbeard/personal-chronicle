@@ -16,7 +16,7 @@
     ]
 }
 
-{{< figure src="//turbo.geekorium.com.au/wp-content/uploads/Final-Flight-of-Xarnash-cover-421x600.png" caption="Found an old copy in the attic" >}}
+{{< figure src="https://turbo.geekorium.com.au/wp-content/uploads/Final-Flight-of-Xarnash-cover-421x600.png" caption="Found an old copy in the attic" >}}
 
 [Only last week](//the.geekorium.com.au/space-flight-704-the-book/) I published the Time Diversion story arc from Rex Havoc's adventures over [on Amazon](http://amzn.com/B00718SIHQ). Today I'm uploading [the first ten chapters of the main story](//the.geekorium.com.au/tag/final-flight-of-xarnash/) [up on Amazon too](http://amzn.com/B0075S9BUK)!
 
@@ -26,9 +26,9 @@ Amazon wouldn't let me offer it for free, so I'm offering it here too for anyone
 
 [Space Flight 704: Final Flight of Xarnash](http://amzn.com/B0075S9BUK) is available in
 
--   [ePub for iPad and eReaders](//turbo.geekorium.com.au/ebooks/Final-Flight-of-Xarnash.epub)
--   [mobi version for Kindle](//turbo.geekorium.com.au/ebooks/Final-Flight-of-Xarnash.mobi);     and
--   [PDF](//turbo.geekorium.com.au/ebooks/Final-Flight-of-Xarnash.pdf)
+-   [ePub for iPad and eReaders](https://turbo.geekorium.com.au/ebooks/Final-Flight-of-Xarnash.epub)
+-   [mobi version for Kindle](https://turbo.geekorium.com.au/ebooks/Final-Flight-of-Xarnash.mobi);     and
+-   [PDF](https://turbo.geekorium.com.au/ebooks/Final-Flight-of-Xarnash.pdf)
 
 Of course, if you have a Kindle, and need a quick way to get your Rex fix, you can visit Amazon and purchase it there.
 

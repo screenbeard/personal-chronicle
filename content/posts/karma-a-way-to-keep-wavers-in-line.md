@@ -20,7 +20,7 @@ Add the Karma Gadget and Bot to your waves and use it to rate your users
 (out of five stars). If users get consistently low scores, they will be
 automatically kicked from Waves that choose to turn on this option.
 
-[![Karma Rating Gadget](//turbo.geekorium.com.au/images/karma.png)\
+[![Karma Rating Gadget](https://turbo.geekorium.com.au/images/karma.png)\
 ](http://wave-samples-gallery.appspot.com/about_app?app_id=100001)
 
 Of course there are some potential problems with such a tool: if a user

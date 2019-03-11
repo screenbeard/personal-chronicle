@@ -22,7 +22,7 @@ definitely some tummy on her.
 We went to the doctor to get an opinion, and they sent us for some
 scans. Scan A clearly shows some sort of growth:
 
-{{<figure src="//turbo.geekorium.com.au/wp-content/uploads/baby-a.png" caption="It's alive!" alt="Baby A">}}
+{{<figure src="https://turbo.geekorium.com.au/wp-content/uploads/baby-a.png" caption="It's alive!" alt="Baby A">}}
 
 They tell us that it's perfectly normal that Mil would feel the way she
 does. But [the last
@@ -36,7 +36,7 @@ we wanted to make sure it was nothing more sinister.
 I'm glad we did, because when we checked again, Scan B shows the growth
 has clearly doubled!
 
-{{<figure src="//turbo.geekorium.com.au/wp-content/uploads/baby-b.png" caption="Faints" alt="Baby B" >}}
+{{<figure src="https://turbo.geekorium.com.au/wp-content/uploads/baby-b.png" caption="Faints" alt="Baby B" >}}
 
 The doctors have told us not to worry, it's still all perfectly normal.
 
@@ -57,7 +57,7 @@ already.
 
 Now I'm off to start a Kickstarter campaign to buy one of these:
 
-{{<figure src="//turbo.geekorium.com.au/wp-content/uploads/imax-e1334753252833.jpg" caption="It's an IMAX, guys!" alt="Hyundai iMax" >}}
+{{<figure src="https://turbo.geekorium.com.au/wp-content/uploads/imax-e1334753252833.jpg" caption="It's an IMAX, guys!" alt="Hyundai iMax" >}}
 
 Teeheehee.
 

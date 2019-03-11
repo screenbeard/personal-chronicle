@@ -15,7 +15,7 @@
         "Tech"
     ]
 }![The Visual design of Wordpress
-2.7](//turbo.geekorium.com.au/images/newpost.png "The Visual design of Wordpress 2.7")
+2.7](https://turbo.geekorium.com.au/images/newpost.png "The Visual design of Wordpress 2.7")
 
 Good Design in Wordpress 2.7
 

@@ -21,12 +21,12 @@ browser, some of you probably know it only as "the Internet". It looks
 like this:
 
 ![Internet Explorer 6
-screenshot](//turbo.geekorium.com.au/wp-content/uploads/2007/05/ie61.png "Internet Explorer 6 screenshot")
+screenshot](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/ie61.png "Internet Explorer 6 screenshot")
 
 and you usually start it with this icon:
 
 ![Internet Explorer 6
-icon](//turbo.geekorium.com.au/wp-content/uploads/2007/05/ie6icon.png "Internet Explorer 6 icon")
+icon](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/ie6icon.png "Internet Explorer 6 icon")
 
 ### In with IE7
 
@@ -44,31 +44,31 @@ The first thing you notice when you start it up is that the tool bar
 with all the menu options is gone
 
 ![Internet Explorer 7
-screenshot](//turbo.geekorium.com.au/wp-content/uploads/2007/05/ie7.png "Internet Explorer 7 screenshot")
+screenshot](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/ie7.png "Internet Explorer 7 screenshot")
 
 (actually you may notice the spiffy new icon first).
 
 ![Internet Explorer 7
-icon](//turbo.geekorium.com.au/wp-content/uploads/2007/05/screenshot-21_05_2007-4_05_06-pm.png "Internet Explorer 7 icon")
+icon](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/screenshot-21_05_2007-4_05_06-pm.png "Internet Explorer 7 icon")
 
 All the same commands are still here, just hidden. To access most of the
 old menu items, you now click 'Tools' on the second bar.
 
 ![IE7
-toolbar](//turbo.geekorium.com.au/wp-content/uploads/2007/05/toolbar.png "IE7 toolbar")
+toolbar](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/toolbar.png "IE7 toolbar")
 
 Most of the common functions you may have used in IE6 are placed in this
 spot. For instance, you can go quickly to your homepage ![IE7 Homepage
-button](//turbo.geekorium.com.au/wp-content/uploads/2007/05/homebutton.png "IE7 Homepage button"),
+button](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/homebutton.png "IE7 Homepage button"),
 access your saved RSS feeds (more on this in another article), or use
 the one-click-print option ![IE7 Print
-button](//turbo.geekorium.com.au/wp-content/uploads/2007/05/printbutton.png "IE7 Print button").
+button](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/printbutton.png "IE7 Print button").
 However, if you miss the menu bar you can bring it back by clicking
 'Tools' then 'Menu Bar' (or simply pressing the 'Alt' key on your
 keyboard brings it back temporarily).
 
 ![How to turn on the menu
-bar](//turbo.geekorium.com.au/wp-content/uploads/2007/05/turnonmenubar.png "How to turn on the menu bar")
+bar](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/turnonmenubar.png "How to turn on the menu bar")
 
 Some schools may have the tool bar turned off completely (disabling tool
 menus can stop tampering with settings), so check with your school's
@@ -77,7 +77,7 @@ computer technician if you don't have this option.
 ### Simplified
 
 ![IE7 Address
-Bar](//turbo.geekorium.com.au/wp-content/uploads/2007/05/addressbar.png "IE7 Address Bar")
+Bar](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/addressbar.png "IE7 Address Bar")
 
 IE7 has a simplified set of icons for doing the most common tasks. The
 buttons are the same as those in IE6, but they have been made smaller
@@ -91,10 +91,10 @@ it did previously - you type in a website address, you go to that
 website. The "Go" button from IE6 has become the "Refresh/Go" button.
 Now if you are at a page that is already open in the browser, the button
 will display as "Refresh" ![IE7 Refresh
-button](//turbo.geekorium.com.au/wp-content/uploads/2007/05/refreshbutton1.png "IE7 Refresh button")
+button](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/refreshbutton1.png "IE7 Refresh button")
 allowing you to re-load the page. If however you have just typed in a
 new page, the button changes to a 'Go' arrow ![IE7 Go
-button](//turbo.geekorium.com.au/wp-content/uploads/2007/05/gobutton.png "IE7 Go button"),
+button](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/gobutton.png "IE7 Go button"),
 and if you click on it, it will take you to the page you just entered.
 
 Finally, we have the 'Stop' button , which has changed from the stop
@@ -106,7 +106,7 @@ a red 'x' on the right.
 Next to the address bar is the 'Search bar'.
 
 ![IE7 search
-bar](//turbo.geekorium.com.au/wp-content/uploads/2007/05/searchbar.png "IE7 search bar")
+bar](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/searchbar.png "IE7 search bar")
 
 You can type a search term into the bar, and whatever search-engine is
 listed will perform your search for you. In this picture I have made
@@ -116,7 +116,7 @@ the drop-down button beside the magnifying glass and clicking the
 search-engine you wish to use.
 
 ![How to choose a different search
-engine](//turbo.geekorium.com.au/wp-content/uploads/2007/05/choosesearchengine.png "How to choose a different search engine")
+engine](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/choosesearchengine.png "How to choose a different search engine")
 
 If you don't have many options here you can choose 'Find more providers'
 from this menu and it will take you to a web page where you can set up
@@ -132,7 +132,7 @@ On the next line we have two buttons that handle your 'Favorites' (sorry
 about the American spelling).
 
 ![IE7 favorites
-bar](//turbo.geekorium.com.au/wp-content/uploads/2007/05/favoritesbar1.png "IE7 favorites bar")
+bar](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/favoritesbar1.png "IE7 favorites bar")
 
 Favorites (or bookmarks as they're more commonly known) are links that
 you want to remember, so you can visit them in future without
@@ -141,7 +141,7 @@ little pop-out window and selecting a link from here closes the pop-out
 and takes you to the site. This is ideal if you want a quick way to
 access sites you visit regularly. If you need to browse your favorites
 more thoroughly though, you can click the 'Pin' button ![IE7 Pin
-button](//turbo.geekorium.com.au/wp-content/uploads/2007/05/pinbutton.png "IE7 Pin button")
+button](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/pinbutton.png "IE7 Pin button")
 and the favorites pop-out will become a bar that stays at the side of
 your browser window.
 
@@ -158,7 +158,7 @@ My favourite (I spell it right when I can!) part of the new Internet
 Explorer is the new 'Tab Bar'
 
 ![IE7’s new tab
-bar](//turbo.geekorium.com.au/wp-content/uploads/2007/05/tabbar.png "IE7’s new tab bar")
+bar](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/tabbar.png "IE7’s new tab bar")
 
 Next to the 'Favorite' buttons is a long shiny lozenge that can change
 the way you use the Internet . Similar to the task bar at the bottom of
@@ -170,7 +170,7 @@ above it, but trust me on this - having tabs in your browser is very
 useful.
 
 You can click the 'New Tab' button ![IE7 New Tab
-button](//turbo.geekorium.com.au/wp-content/uploads/2007/05/newtabbutton.png "IE7 New Tab button")
+button](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/newtabbutton.png "IE7 New Tab button")
 and not surprisingly a new tab will open - type in a new address and
 viola, two websites for the price of one. You might open your email (or
 EdPortal) in one tab, and Google in another so you can keep checking for
@@ -179,11 +179,11 @@ up your task bar. You can open up lots of tabs along the tab bar, and as
 you go they'll start to shrink in size to fit more on.
 
 ![Tabs shrink to fit as you open
-them](//turbo.geekorium.com.au/wp-content/uploads/2007/05/multipletabsopen.png "Tabs shrink to fit as you open them")
+them](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/multipletabsopen.png "Tabs shrink to fit as you open them")
 
 When there are too many to fit, IE7 will give you a little button at the
 sides that you can scroll to show more tabs ![IE7 Tab Bar Scroll
-button](//turbo.geekorium.com.au/wp-content/uploads/2007/05/scrolltabbar.png "IE7 Tab Bar Scroll button").
+button](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/scrolltabbar.png "IE7 Tab Bar Scroll button").
 
 One thing that I've been asked numerous times since installing IE7 at my
 school is how to close one website without closing all the tabs. In IE6,
@@ -195,12 +195,12 @@ only the site you want, you need to click the 'x' on the individual tab.
 
 The simplest way to find a tab that you've opened is to use the 'Quick
 Tabs' feature. If you click the 'Quick Tabs' button ![IE7 Quick Tab View
-button](//turbo.geekorium.com.au/wp-content/uploads/2007/05/openquicktabviewbutton.png "IE7 Quick Tab View button")
+button](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/openquicktabviewbutton.png "IE7 Quick Tab View button")
 (or press Ctrl and Q), IE7 opens up all your tabs at once as little
 pictures so you can see the sites you have open at a glance.
 
 ![IE7’s new Quick Tab
-view](//turbo.geekorium.com.au/wp-content/uploads/2007/05/quicktabs.png "IE7’s new Quick Tab view")
+view](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/quicktabs.png "IE7’s new Quick Tab view")
 
 You can click on a picture and the site will open for you, or even click
 the 'x' button in the top right of the picture to close that site.
@@ -216,7 +216,7 @@ the 'Back' button to return to Google. In IE7, I can right-click the
 page I'm interested in and select 'Open in New Tab',
 
 ![How to open a result in a new
-tab](//turbo.geekorium.com.au/wp-content/uploads/2007/05/openinnewtab.png "How to open a result in a new tab")
+tab](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/openinnewtab.png "How to open a result in a new tab")
 
 leaving my original Google search open to return to later. It's also
 possible to [set up
@@ -227,7 +227,7 @@ multiple pages to load in the background while you continue to look at
 the page you were on.
 
 ![Opened pages are loaded in the
-background](//turbo.geekorium.com.au/wp-content/uploads/2007/05/loadtabsinbackgrounds.png "Opened pages are loaded in the background")
+background](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/loadtabsinbackgrounds.png "Opened pages are loaded in the background")
 
 You're not limited to searches either. You can open links from any page
 into new tabs and keep reading. Imagine reading a Wikipedia article and
@@ -240,7 +240,7 @@ you can click the scroll wheel (middle-click) on a link to automatically
 open it in a new tab.
 
 ![How to ‘middle-click’ with your
-mouse](//turbo.geekorium.com.au/wp-content/uploads/2007/05/middleclick.png "How to ‘middle-click’ with your mouse")
+mouse](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/middleclick.png "How to ‘middle-click’ with your mouse")
 
 You can quickly close tabs too, by middle-clicking them regardless of
 whether they have a visible 'x' on them.

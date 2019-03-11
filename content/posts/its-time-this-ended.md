@@ -19,6 +19,6 @@
 }OK, time to step it up a notch.
 
 ![You have insurance...
-Right?](//turbo.geekorium.com.au/wp-content/uploads/2182191599_01321ef085_o.png)
+Right?](https://turbo.geekorium.com.au/wp-content/uploads/2182191599_01321ef085_o.png)
 
 This poke war has gone on long enough

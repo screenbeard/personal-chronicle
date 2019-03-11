@@ -10,7 +10,7 @@
     ]
 }
 
-{{< figure src="//turbo.geekorium.com.au/wp-content/uploads/3146326254_7744f4e053.jpg" caption="Tuckered out" >}}
+{{< figure src="https://turbo.geekorium.com.au/wp-content/uploads/3146326254_7744f4e053.jpg" caption="Tuckered out" >}}
 
 That is a pure Twitter-bait title. I have no clue how to make my baby
 girl sleep except through time and patience. But I needed a hook to get
@@ -60,7 +60,7 @@ And every day I ask myself how can she get cuter?
 
 And every day she does.
 
-{{< figure src="//turbo.geekorium.com.au/wp-content/uploads/3873932698_33beeef20f.jpg" caption="Cuter?" >}}
+{{< figure src="https://turbo.geekorium.com.au/wp-content/uploads/3873932698_33beeef20f.jpg" caption="Cuter?" >}}
 
 Do you see? Do you see what I mean?
 

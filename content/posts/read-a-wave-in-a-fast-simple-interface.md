@@ -24,7 +24,7 @@ Reader](http://antimatter15.com/wp/2010/01/wave-reader-4-6/) that takes
 a wave and displays it as a web page without the reader needing an
 account.
 
-[![wavereader.png](//turbo.geekorium.com.au/wavereader.png){.s3-img}](http://antimatter15.com/misc/read/?googlewave.com!w%252BrnG0vaFXA)
+[![wavereader.png](https://turbo.geekorium.com.au/wavereader.png){.s3-img}](http://antimatter15.com/misc/read/?googlewave.com!w%252BrnG0vaFXA)
 
 Take the URL `http://antimatter15.com/misc/read/?` and tack on the wave
 ID you want to publish, and BAM! a simple published wave. For example:

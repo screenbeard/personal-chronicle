@@ -15,7 +15,7 @@ I've been thinking more about yesterday's post on [comment systems](/internet-dr
 
 I started posting to my Reddit profile, then realised why stop there - I've been mucking around so much with chat apps that I've got profiles everywhere, and I thought I could try and make them useful. My two communication preferences right now are Discord (because it's like Slack but more relaxed), and Telegram (because it's exactly like Facebook Messenger but better. Both offer simple ways to set up and harness the power of bots and make using them simple, and with a couple of WordPress plugins the process is even simpler than it should be.
 
-{{< figure src="//turbo.geekorium.com.au/images/my-robot.jpg" title="My robot" link="//flic.kr/p/3kyGF5" attr="Aaron Williamson on Flickr" attrlink="//www.flickr.com/photos/clickclickclickclick/" >}}
+{{< figure src="https://turbo.geekorium.com.au/images/my-robot.jpg" title="My robot" link="//flic.kr/p/3kyGF5" attr="Aaron Williamson on Flickr" attrlink="//www.flickr.com/photos/clickclickclickclick/" >}}
 
 The two plugins I'm giving a crack are [WP Discord](//en-au.wordpress.org/plugins/wp-discord/) and [WP Telegram](//en-au.wordpress.org/plugins/wptelegram/).
 

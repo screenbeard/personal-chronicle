@@ -16,7 +16,7 @@
 since I told my family and friends I was getting married. And unlike
 then, it's actually taken people by surprise!
 
-![](//turbo.geekorium.com.au/wp-content/uploads/DSC002721.jpg)
+![](https://turbo.geekorium.com.au/wp-content/uploads/DSC002721.jpg)
 
 It's mine... MINE...
 

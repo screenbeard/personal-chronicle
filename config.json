@@ -37,11 +37,11 @@
             "username": "screenbeard",
             "repository": "personal-chronicle",
             "branch": "master"
-        },
-        "Favicon": "image/favicon.ico"
+        }
+
 	},
 	"permalinks": {
-		"post": "/:title"
+		"posts": "/:title"
 	},
 	"title": "The Geekorium",
 	"theme": "ooh-er"

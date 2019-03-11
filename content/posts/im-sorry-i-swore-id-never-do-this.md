@@ -25,7 +25,7 @@ But damn if this one isn't really funny. More than that it's a comic
 about a future that I feel is really possible and it scares me to death.
 
 &lt;a href="http://www.smbc-comics.com/index.php?db=comics&id=691"&gt;\
-![](//turbo.geekorium.com.au/wp-content/uploads/200701051.gif)
+![](https://turbo.geekorium.com.au/wp-content/uploads/200701051.gif)
 
 Saturday Morning Breakfast Cereal comic
 

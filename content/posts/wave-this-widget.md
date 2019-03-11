@@ -29,7 +29,7 @@ the ["Wave This" API](http://code.google.com/apis/wave/wavethis/).
 
 &lt;a
 href="https://wave.google.com/wave/wavethis?t=Wave+This+Widget+for+Wordpress&c=%22This+sidebar+widget+adds+a+button+to+individual+post+pages+that+sends+the+post+title+and+exerpt+to+Wave.+If+you+haven%27t+set+an+exerpt+the+widget+uses+the+default+one+generated+by+Wordpress+for+each+post.+The+default+button+is+300px+wide+to+allow+for+larger+sidebars.+Please+resize+the+button+using+the+widget+options.%22"&gt;![Wave
-This!](//turbo.geekorium.com.au/wp-content/uploads/button32.png)
+This!](https://turbo.geekorium.com.au/wp-content/uploads/button32.png)
 
 This sidebar widget adds a button to individual post pages that sends
 the post title and exerpt to Wave. If you haven't set an exerpt the

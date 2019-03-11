@@ -16,7 +16,7 @@
     ]
 }<div class="image">
 
-![iNothing-600px.png](//turbo.geekorium.com.au/images/iNothing-600px.png){.s3-img}
+![iNothing-600px.png](https://turbo.geekorium.com.au/images/iNothing-600px.png){.s3-img}
 
 </div>
 

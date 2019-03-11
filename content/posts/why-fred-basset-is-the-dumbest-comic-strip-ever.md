@@ -39,7 +39,7 @@ very pitchfork of Satan himself. Hold on, and pray to whatever gods you
 must. I take no responsibility for it's hideousness.
 
 [![Fred Basset bringing pain to
-millions](//turbo.geekorium.com.au/wp-content/uploads/527066829_0b0afb1b22.jpg)](//turbo.geekorium.com.au/wp-content/uploads/527066829_0b0afb1b22.jpg)
+millions](https://turbo.geekorium.com.au/wp-content/uploads/527066829_0b0afb1b22.jpg)](https://turbo.geekorium.com.au/wp-content/uploads/527066829_0b0afb1b22.jpg)
 
 Fred Basset bringing pain to millions
 
@@ -50,6 +50,6 @@ If you need something to ease the pain, I will provide you with an
 example of the greatest comic of all time:
 
 [![Calvin and
-Hobbes](//turbo.geekorium.com.au/wp-content/uploads/526976548_08de98b96d.jpg)](//turbo.geekorium.com.au/wp-content/uploads/526976548_08de98b96d.jpg)
+Hobbes](https://turbo.geekorium.com.au/wp-content/uploads/526976548_08de98b96d.jpg)](https://turbo.geekorium.com.au/wp-content/uploads/526976548_08de98b96d.jpg)
 
 A better cartoon

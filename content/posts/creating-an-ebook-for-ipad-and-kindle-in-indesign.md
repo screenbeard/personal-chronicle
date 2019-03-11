@@ -41,7 +41,7 @@ not currently possible straight from InDesign.
 \# As you create them, fill in the *Export Tagging* options at the
 bottom of the *Paragraph Style Options* window.
 
-![](//turbo.geekorium.com.au/wp-content/uploads/Paragraph-Style-Options_2012-04-01_17-05-47.png "Paragraph Style Options"){.size-full
+![](https://turbo.geekorium.com.au/wp-content/uploads/Paragraph-Style-Options_2012-04-01_17-05-47.png "Paragraph Style Options"){.size-full
 .wp-image-134646907 width="661" height="553"}
 
 Be sparing with the H tags
@@ -68,7 +68,7 @@ you have the choice to include it and you should do it then.
 
 **** When you export the document, choose the *Contents* as shown.
 
-![](//turbo.geekorium.com.au/wp-content/uploads/EPUB-Export-Options_2012-04-01_17-47-53.png "EPUB Export Options_2012-04-01_17-47-53"){.alignnone
+![](https://turbo.geekorium.com.au/wp-content/uploads/EPUB-Export-Options_2012-04-01_17-47-53.png "EPUB Export Options_2012-04-01_17-47-53"){.alignnone
 .size-full .wp-image-134646905 width="671" height="588"}
 
 Remember this, there's a Quiz later
@@ -77,7 +77,7 @@ Remember this, there's a Quiz later
 *File Info* in the menu.) This will pre-fill a lot of the metadata your
 eBook needs.
 
-![](//turbo.geekorium.com.au/wp-content/uploads/File-Information-for-Time-Diversion.png "File Information"){.alignnone
+![](https://turbo.geekorium.com.au/wp-content/uploads/File-Information-for-Time-Diversion.png "File Information"){.alignnone
 .size-full .wp-image-134646906 width="680" height="620"}
 
 Metadata is **always** important

@@ -15,7 +15,7 @@
     "categories": [
         "Post"
     ]
-}[![liu.gif](//turbo.geekorium.com.au/images/liu.gif){.s3-img}](https://www.liu.se/?l=en)
+}[![liu.gif](https://turbo.geekorium.com.au/images/liu.gif){.s3-img}](https://www.liu.se/?l=en)
 
 In a short and succinct tweet by [Joakim
 Nejdeby](http://twitter.com/joakimnejdeby), we finally have news of
@@ -52,7 +52,7 @@ withing their own domain Nejdeby replied:
 Email exchange with Joakim Nejdeby
 
 ![GA with Wave
-active.png](//turbo.geekorium.com.au/images/GA%20with%20Wave%20active.png){.s3-img}
+active.png](https://turbo.geekorium.com.au/images/GA%20with%20Wave%20active.png){.s3-img}
 
 I've asked to connect with Mr Nejdeby ([a fan of Google Wave from day
 one](http://joakimblog.nejdeby.se/2009/10/google-wave.html)) on Wave to

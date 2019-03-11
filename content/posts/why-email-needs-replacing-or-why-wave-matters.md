@@ -14,7 +14,7 @@
     "categories": [
         "Post"
     ]
-}[![wave-email.jpg](//turbo.geekorium.com.au/images/wave-email.jpg){.s3-img}](http://www.flickr.com/photos/lovati/4052787238/)
+}[![wave-email.jpg](https://turbo.geekorium.com.au/images/wave-email.jpg){.s3-img}](http://www.flickr.com/photos/lovati/4052787238/)
 
 ###
 

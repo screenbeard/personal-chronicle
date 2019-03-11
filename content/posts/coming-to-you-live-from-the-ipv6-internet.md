@@ -20,7 +20,7 @@ But now, thanks to the power of
 [CloudFlare](https://www.cloudflare.com/), The Geekorium is here now
 too!
 
-![](//turbo.geekorium.com.au/wp-content/uploads/ipv6.the_.geekorium.com_331111.png "The Geekorium is now IPv6 compatable")
+![](https://turbo.geekorium.com.au/wp-content/uploads/ipv6.the_.geekorium.com_331111.png "The Geekorium is now IPv6 compatable")
 
 Ping me bitch!
 

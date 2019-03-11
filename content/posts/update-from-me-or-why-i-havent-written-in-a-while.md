@@ -43,7 +43,7 @@ So on to my update:
     little taste of how marvellous it is.
 
 ![Robin Leaps to
-Action](//turbo.geekorium.com.au/wp-content/uploads/2472274643_d7b0c3988b_o1.gif)
+Action](https://turbo.geekorium.com.au/wp-content/uploads/2472274643_d7b0c3988b_o1.gif)
 
 -   I've got a few extra plans for my site (or my 'NunnOne Network' as
     I've facetiously called it). One is to create a wiki, where (in a

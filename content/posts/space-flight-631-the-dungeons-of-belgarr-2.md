@@ -35,7 +35,7 @@ him flying into next week with a surprise uppercut.
 Princess. ((This post was originally published as a subscriber only
 story.))
 
-![](//turbo.geekorium.com.au/wp-content/uploads/Space-Flight-631.png "Space-Flight-631"){.alignnone
+![](https://turbo.geekorium.com.au/wp-content/uploads/Space-Flight-631.png "Space-Flight-631"){.alignnone
 .size-full .wp-image-134646499 width="475" height="720"}
 
 Rex Havoc Away!

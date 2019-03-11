@@ -13,7 +13,7 @@
     "categories": [
         "Media"
     ]
-}![GCni23Br0on9c9n2AL1UihaVo1\_250](//turbo.geekorium.com.au/wp-content/uploads/GCni23Br0on9c9n2AL1UihaVo1_250.png){.alignnone
+}![GCni23Br0on9c9n2AL1UihaVo1\_250](https://turbo.geekorium.com.au/wp-content/uploads/GCni23Br0on9c9n2AL1UihaVo1_250.png){.alignnone
 .size-full .wp-image-229478167 width="164" height="40"}
 
 > You've reached a page that contains content from Google Wave. We’re

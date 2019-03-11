@@ -18,7 +18,7 @@
 
 I've been searching for a new theme, and nothing out there really said "me". My other themes have been fairly modest and simple and this time I wanted something with big bold bright colours and some pop out graphics. Hopefully the comic book inspiration is evident and makes you feel a bit like you're reading something equally as entertaining.
 
-![Comic Book Hero Screenshot](//turbo.geekorium.com.au/wp-content/themes/comic-book-hero/screenshot.png)
+![Comic Book Hero Screenshot](https://turbo.geekorium.com.au/wp-content/themes/comic-book-hero/screenshot.png)
 
 Isn't it beautiful?
 

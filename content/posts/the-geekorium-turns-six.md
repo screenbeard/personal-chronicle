@@ -21,7 +21,7 @@ remember the night, if not the software. I thought it might be
 therapeutic, and it *did* let me get a lot off my chest in those early
 days.
 
-[![Sixth](//turbo.geekorium.com.au/wp-content/uploads/2639761994_0cf28018e6_z1.jpg)](http://www.flickr.com/photos/scarequotes/2639761994/ "Sixth by James Callan, on Flickr")
+[![Sixth](https://turbo.geekorium.com.au/wp-content/uploads/2639761994_0cf28018e6_z1.jpg)](http://www.flickr.com/photos/scarequotes/2639761994/ "Sixth by James Callan, on Flickr")
 
 [Sixth](http://www.flickr.com/photos/scarequotes/2639761994/ "Sixth by James Callan, on Flickr")
 by [James

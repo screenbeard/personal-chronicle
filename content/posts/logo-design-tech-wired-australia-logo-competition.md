@@ -25,7 +25,7 @@ sketch to mockup in my career and I was mighty proud of it for only a
 few hours work. The initial version looked like this:
 
 [![Tech Wired Logo Submission
-300px](//turbo.geekorium.com.au/wp-content/uploads/3002533870_20b09130001.jpg){.alignnone
+300px](https://turbo.geekorium.com.au/wp-content/uploads/3002533870_20b09130001.jpg){.alignnone
 width="300"
 height="300"}](http://www.flickr.com/photos/joshnunn/3002533870/ "Tech Wired Logo Submission 300px"){.tt-flickr
 .tt-flickr-Medium}
@@ -37,7 +37,7 @@ lacking. So the next day I had a go at sprucing it up, and re-doing the
 typography.
 
 [![Tech Wired Logo Submission (take 2)
-300px](//turbo.geekorium.com.au/wp-content/uploads/3001699639_a9278d2af31.jpg){.alignnone
+300px](https://turbo.geekorium.com.au/wp-content/uploads/3001699639_a9278d2af31.jpg){.alignnone
 width="300"
 height="300"}](http://www.flickr.com/photos/joshnunn/3001699639/ "Tech Wired Logo Submission (take 2) 300px"){.tt-flickr
 .tt-flickr-Medium}
@@ -56,7 +56,7 @@ feeds](http://en.wikipedia.org/wiki/RSS "RSS"){.zem_slink}, but it
 doesn't need to be orange - it could be any colour.
 
 [![Tech Wired Logo Submission revision
-3](//turbo.geekorium.com.au/wp-content/uploads/3002534932_59110deb6c1.jpg){.alignnone
+3](https://turbo.geekorium.com.au/wp-content/uploads/3002534932_59110deb6c1.jpg){.alignnone
 width="500"
 height="500"}](http://www.flickr.com/photos/joshnunn/3002534932/ "Tech Wired Logo Submission revision 3"){.tt-flickr
 .tt-flickr-Medium}
@@ -77,7 +77,7 @@ created this version to give a sense of how the logo could stand by
 itself to some degree within the design.
 
 [![tech wired logo additional
-concepts](//turbo.geekorium.com.au/wp-content/uploads/3001699463_e0f4f963581.jpg){.alignnone
+concepts](https://turbo.geekorium.com.au/wp-content/uploads/3001699463_e0f4f963581.jpg){.alignnone
 width="500"
 height="250"}](http://www.flickr.com/photos/joshnunn/3001699463/ "tech wired logo additional concepts"){.tt-flickr
 .tt-flickr-Medium}
@@ -89,7 +89,7 @@ logo in a less colourful design (perhaps as a promotional badge, or on a
 sub-page you wish to stand out from the main site in some way).
 
 [![tech wired logo additional concepts reversed
-out](//turbo.geekorium.com.au/wp-content/uploads/3001698785_df49bfed711.jpg){.alignnone
+out](https://turbo.geekorium.com.au/wp-content/uploads/3001698785_df49bfed711.jpg){.alignnone
 width="300"}](http://www.flickr.com/photos/joshnunn/3001698785/ "tech wired logo additional concepts reversed out"){.tt-flickr
 .tt-flickr-Medium}
 
@@ -100,14 +100,14 @@ visually appealing as the few designs above, show the versatility of the
 design and some of the possibilities.
 
 [![tech wired logo additional concepts
-2](//turbo.geekorium.com.au/wp-content/uploads/3002535038_595437b9f91.jpg){.alignnone
+2](https://turbo.geekorium.com.au/wp-content/uploads/3002535038_595437b9f91.jpg){.alignnone
 width="300"}](http://www.flickr.com/photos/joshnunn/3002535038/ "tech wired logo additional concepts 2"){.tt-flickr
 .tt-flickr-Medium}
 
 Meh.
 
 [![Tech Wired Logo Submission revision
-4](//turbo.geekorium.com.au/wp-content/uploads/3002535750_8a31080d401.jpg){.alignnone
+4](https://turbo.geekorium.com.au/wp-content/uploads/3002535750_8a31080d401.jpg){.alignnone
 width="300"}](http://www.flickr.com/photos/joshnunn/3002535750/ "Tech Wired Logo Submission revision 4"){.tt-flickr
 .tt-flickr-Medium}
 
@@ -117,15 +117,15 @@ Finally, just for fun, and as a bit of cheeky poke to help tip things in
 my favour, I've included an iPhone bookmark icon, and a couple of
 favicons.
 
-[![apple-touch-icon](//turbo.geekorium.com.au/wp-content/uploads/3002534668_dc232e99f4_o1.png){.alignnone
+[![apple-touch-icon](https://turbo.geekorium.com.au/wp-content/uploads/3002534668_dc232e99f4_o1.png){.alignnone
 width="45"
 height="45"}](http://www.flickr.com/photos/joshnunn/3002534668/ "apple-touch-icon"){.tt-flickr
 .tt-flickr-Original} [![tech wired logo additional concepts favicon
-light](//turbo.geekorium.com.au/wp-content/uploads/3001698963_486c968f8b_o1.png){.alignnone
+light](https://turbo.geekorium.com.au/wp-content/uploads/3001698963_486c968f8b_o1.png){.alignnone
 width="16"
 height="16"}](http://www.flickr.com/photos/joshnunn/3001698963/ "tech wired logo additional concepts favicon light"){.tt-flickr
 .tt-flickr-Original} [![tech wired logo additional concepts
-favicon](//turbo.geekorium.com.au/wp-content/uploads/3001698839_7afec3a8dc_o1.png){.alignnone
+favicon](https://turbo.geekorium.com.au/wp-content/uploads/3001698839_7afec3a8dc_o1.png){.alignnone
 width="16"
 height="16"}](http://www.flickr.com/photos/joshnunn/3001698839/ "tech wired logo additional concepts favicon"){.tt-flickr
 .tt-flickr-Original}

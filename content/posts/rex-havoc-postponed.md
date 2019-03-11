@@ -14,7 +14,7 @@
         "Life"
     ]
 }[![Sorry, no.
-:-(](//turbo.geekorium.com.au/wp-content/uploads/2697110891_30b94c17d32.jpg){width="500"
+:-(](https://turbo.geekorium.com.au/wp-content/uploads/2697110891_30b94c17d32.jpg){width="500"
 height="375"}](http://www.flickr.com/photos/fboyd/2697110891/ "Sorry, no.  :-( by °Florian, on Flickr")
 
 Can you forgive me?

@@ -11,7 +11,7 @@
     "categories": [
         "Media"
     ]
-}![tumblr\_krjl4kiMwZ1qzeh8ao1\_250.png](//turbo.geekorium.com.au/images/tumblr_krjl4kiMwZ1qzeh8ao1_250.png){.s3-img}
+}![tumblr\_krjl4kiMwZ1qzeh8ao1\_250.png](https://turbo.geekorium.com.au/images/tumblr_krjl4kiMwZ1qzeh8ao1_250.png){.s3-img}
 
 [Google Wave Add-on for Firefox at That
 Smith](http://thatsmith.com/2009/10/google-wave-add-on-for-firefox)

@@ -14,7 +14,7 @@
     "categories": [
         "Tech"
     ]
-}![](//turbo.geekorium.com.au/images/Dell-Mini-5-No-Watermark.jpg)
+}![](https://turbo.geekorium.com.au/images/Dell-Mini-5-No-Watermark.jpg)
 
 This might be my next phone...
 

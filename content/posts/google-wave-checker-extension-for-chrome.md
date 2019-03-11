@@ -25,7 +25,7 @@ that shows you how many unread waves you have in your inbox. It checks
 every thirty minutes by default (at the request of the Wave team), but
 you can set it to check more frequently in the extension options.
 
-![googlechromenotifier.PNG](//turbo.geekorium.com.au/images/googlechromenotifier.PNG){.s3-img}
+![googlechromenotifier.PNG](https://turbo.geekorium.com.au/images/googlechromenotifier.PNG){.s3-img}
 
 Something that makes a sound, or pops up a notification box
 (Growl-style) would be even more useful in some circumstances (Firefox

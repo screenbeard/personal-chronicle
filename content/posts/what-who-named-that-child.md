@@ -24,7 +24,7 @@ niche. Anyway, this page was a genealogy site with details of the birth
 and death of one Josh Nunn... But well...
 
 ![Who named the
-child?](//turbo.geekorium.com.au/wp-content/uploads/526976456_907bab0da92.jpg)
+child?](https://turbo.geekorium.com.au/wp-content/uploads/526976456_907bab0da92.jpg)
 
 O\_o
 

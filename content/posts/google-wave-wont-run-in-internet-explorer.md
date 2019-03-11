@@ -13,7 +13,7 @@
     "categories": [
         "Media"
     ]
-}![tumblr\_krlc6af4781qzeh8ao1\_400.png](//turbo.geekorium.com.au/images/tumblr_krlc6af4781qzeh8ao1_400.png){.s3-img}
+}![tumblr\_krlc6af4781qzeh8ao1\_400.png](https://turbo.geekorium.com.au/images/tumblr_krlc6af4781qzeh8ao1_400.png){.s3-img}
 
 Google Wave won’t run in Internet Explorer.
 

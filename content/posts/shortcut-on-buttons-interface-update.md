@@ -12,7 +12,7 @@
     "categories": [
         "Media"
     ]
-}![done-with-shortcut.png](//turbo.geekorium.com.au/images/done-with-shortcut.png){.s3-img}
+}![done-with-shortcut.png](https://turbo.geekorium.com.au/images/done-with-shortcut.png){.s3-img}
 
 Not a big thing, but a simple update that shows the shortcut for closing
 a blip on the *Done* button. Also missing is the *Draft* check box which

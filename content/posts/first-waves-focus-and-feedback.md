@@ -9,7 +9,7 @@
     "categories": [
         "Post"
     ]
-}![waveblue.png](//turbo.geekorium.com.au/images/waveblue.png){.s3-img}
+}![waveblue.png](https://turbo.geekorium.com.au/images/waveblue.png){.s3-img}
 
 As a follow on from my last post, I felt the need to clarify that this
 site, First Waves, is not meant to be cutting edge day-to-day technology

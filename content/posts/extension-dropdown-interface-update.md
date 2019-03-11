@@ -13,7 +13,7 @@
         "Media"
     ]
 }![new look
-extension.png](//turbo.geekorium.com.au/images/new%20look%20extension.png){.s3-img}
+extension.png](https://turbo.geekorium.com.au/images/new%20look%20extension.png){.s3-img}
 
 Another minor update (perhaps a test) - the new Extensions link has been
 moved down to the drop-down folder area, and been separated into

@@ -23,7 +23,7 @@ is here! What this means if you're not an addicted Wave user, is that
 wave authors now have total control over who comes and goes from their
 waves.
 
-![remove-participant.png](//turbo.geekorium.com.au/images/remove-participant.png){.s3-img}
+![remove-participant.png](https://turbo.geekorium.com.au/images/remove-participant.png){.s3-img}
 
 This is a **big deal** for Google Wave. The button has been there since
 the beginning, but grayed out and unusable. It's taken some of the shine
@@ -37,7 +37,7 @@ shows the last thing they were able to see before you removed them. If
 you remove them before they even open the wave, they won't even know it
 existed!
 
-![remove-from-wave-receiver.png](//turbo.geekorium.com.au/images/remove-from-wave-receiver.png){.s3-img}
+![remove-from-wave-receiver.png](https://turbo.geekorium.com.au/images/remove-from-wave-receiver.png){.s3-img}
 
 Part of me balks at the idea of removing waves right out from under
 their noses if they haven't opened them. It feels somewhat dishonest -

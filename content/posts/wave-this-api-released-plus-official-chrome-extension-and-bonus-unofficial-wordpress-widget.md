@@ -24,7 +24,7 @@ This") was not officially announced at the time, and I was asked
 politely not to say anything more at the time until the team could
 officially announce it.
 
-[![wave-this-buttons.png](//turbo.geekorium.com.au/images/wave-this-buttons.png){.s3-img}](http://code.google.com/apis/wave/wavethis/){.vt-p}
+[![wave-this-buttons.png](https://turbo.geekorium.com.au/images/wave-this-buttons.png){.s3-img}](http://code.google.com/apis/wave/wavethis/){.vt-p}
 
 In addition to this, the [Wave
 This](http://code.google.com/apis/wave/wavethis/){.vt-p} function has an

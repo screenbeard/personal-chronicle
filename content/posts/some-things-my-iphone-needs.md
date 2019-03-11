@@ -17,7 +17,7 @@
     ]
 }
 
-{{< figure src="//turbo.geekorium.com.au/wp-content/uploads/100x150.jpg" attrlink="http://www.daylife.com/image/06v1ekSgOD4QC" attr="Image by Getty Images" caption="SAN FRANCISCO, CA - JANUARY 9: Apple CEO Steve Jobs" >}}
+{{< figure src="https://turbo.geekorium.com.au/wp-content/uploads/100x150.jpg" attrlink="http://www.daylife.com/image/06v1ekSgOD4QC" attr="Image by Getty Images" caption="SAN FRANCISCO, CA - JANUARY 9: Apple CEO Steve Jobs" >}}
 
 The iPhone is awesome. Lets just get that out there. You can deny it, or call me a fanboy, but let's be honest - Apple has made a very good (and attractive) product that has stomped on the competition. It's easy to use, powerful and extensible. And it's done something the competition hasn't been able to - captured the imagination of content providers like nothing else. The Windows Mobile platform has been around for years with a handfull of tools for it, but it took only six months for half the web (I'm exaggerating[^probably]) to make iPhone compatible websites and tools. I've got to believe that's due to having a decent platform, rather than rampant fanboyism.
 

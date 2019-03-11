@@ -12,7 +12,7 @@
 
 This was going to be a post for my 500th published... post. 500 is a big milestone. So I've been cleaning up my site, migrating and consolidating AWS S3 buckets and setting up https hosting on one for some of the images and videos I've posted here in the past.
 
-{{< figure src="//turbo.geekorium.com.au/images/445-milestone.jpg" caption="500 steps forward, 55 steps back. That's how that saying goes right?" >}}
+{{< figure src="https://turbo.geekorium.com.au/images/445-milestone.jpg" caption="500 steps forward, 55 steps back. That's how that saying goes right?" >}}
 
 But as I've been cleaning, I've discovered lots of old photos and short text posts that were imported through various automatic processes, like Flickr photos that were imported for a while when I tweeted them, or things I reblogged from other sites with dubious attribution.
 
