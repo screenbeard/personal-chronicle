@@ -37,8 +37,10 @@
             "username": "screenbeard",
             "repository": "personal-chronicle",
             "branch": "master"
+        },
+        "DuckDuckGo": {
+            "site": "the.geekorium.com.au"
         }
-
 	},
 	"permalinks": {
 		"posts": "/:title"
