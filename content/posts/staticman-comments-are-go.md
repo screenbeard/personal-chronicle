@@ -32,4 +32,6 @@ My final recourse is to try something that I'm guessing won't work for long. Sta
 
 I've also disabled the form on posts older than a month, so if you want to comment, do it **now**!
 
+***Update:*** 24 hours without a spam comment. Success!
+
 [^1]: https://www.youtube.com/watch?v=WqnXp6Saa8Y
