@@ -1,22 +1,17 @@
-{
-    "date": "2010-12-24 12:36:18",
-    "draft": false,
-    "publishDate": "2010-12-24 12:36:18",
-    "slug": "a-christmas-playlist-that-doesnt-suck",
-    "title": "A Christmas Playlist that Doesn't Suck",
-    "url": "\/a-christmas-playlist-that-doesnt-suck\/",
-    "tags": [
-        "carols",
-        "christmas",
-        "christmas spirit",
-        "music",
-        "season",
-        "songs"
-    ],
-    "categories": [
-        "Share"
-    ]
-}
+---
+date: 2010-12-24 12:36:18
+draft: false
+title: A Christmas Playlist that Doesn't Suck
+tags:
+- carols
+- christmas
+- christmas spirit
+- music
+- season
+- songs
+categories:
+- Share
+---
 
 [~~Christmas by Joshua Nunn on Grooveshark~~](http://grooveshark.com/playlist/Christmas/41386196)
 

@@ -1,26 +1,18 @@
-{
-    "date": "2009-10-27 04:46:00",
-    "draft": false,
-    "publishDate": "2009-10-27 04:46:00",
-    "slug": "a-wave-extension-market-place",
-    "title": "A Wave Extension Market Place?",
-    "url": "\/a-wave-extension-market-place\/",
-    "tags": [
-        "direction",
-        "extensions",
-        "future",
-        "prediction"
-    ],
-    "categories": [
-        "Quote"
-    ]
-}> “…developers have asked us a lot for a market place where we’ll help
-> them sell their extensions to our users including a revenue share so
-> we’ll also make some money from it.
->
-> “I’ll be very surprised if we don’t go down that route.”
+---
+date: 2009-10-27 04:46:00
+draft: false
+title: A Wave Extension Market Place?
+tags:
+- direction
+- extensions
+- future
+- prediction
+- quote
+categories:
+- Google Wave
+---
 
-[Google Wave to have application store | News | TechRadar
+> “…developers have asked us a lot for a market place where we’ll help them sell their extensions to our users including a revenue share so we’ll also make some money from it. “I’ll be very surprised if we don’t go down that route.” - [Google Wave to have application store | News | TechRadar
 UK](http://www.techradar.com/news/internet/google-wave-to-have-application-store-644809)
 
 This will be a very important development in the success of Wave. The
