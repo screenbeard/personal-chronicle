@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-02-25 00:15:24"
+date: "2010-02-25 00:15:24 +0930"
 draft: false
-publishDate: "2010-02-25 00:15:24"
+publishdate: "2010-02-25 00:15:24 +0930"
 slug: deploy-printers-with-group-policy-without-using-local-loopback
 tags:
 - group policy

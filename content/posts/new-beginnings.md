@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2013-03-31 22:30:22"
+date: "2013-03-31 22:30:22 +0930"
 draft: false
-publishDate: "2013-03-31 22:30:22"
+publishdate: "2013-03-31 22:30:22 +0930"
 slug: new-beginnings
 tags:
 - beginnings

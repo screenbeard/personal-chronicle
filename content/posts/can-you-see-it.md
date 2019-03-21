@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2009-06-07 11:35:45"
+date: "2009-06-07 11:35:45 +0930"
 draft: false
-publishDate: "2009-06-07 11:35:45"
+publishdate: "2009-06-07 11:35:45 +0930"
 slug: can-you-see-it
 tags:
 - Amelynne Grace

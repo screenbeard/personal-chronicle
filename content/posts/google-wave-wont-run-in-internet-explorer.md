@@ -1,9 +1,9 @@
 ---
 categories:
 - Media
-date: "2009-10-16 04:51:45"
+date: "2009-10-16 04:51:45 +0930"
 draft: false
-publishDate: "2009-10-16 04:51:45"
+publishdate: "2009-10-16 04:51:45 +0930"
 slug: google-wave-wont-run-in-internet-explorer
 tags:
 - browser

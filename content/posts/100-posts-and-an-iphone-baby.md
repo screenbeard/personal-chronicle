@@ -1,7 +1,7 @@
 ---
 categories:
 - Site
-date: "2008-07-20 12:48:49"
+date: "2008-07-20 12:48:49 +0930"
 draft: false
 tags:
 - iPhone

@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-10-16 00:35:15"
+date: "2009-10-16 00:35:15 +0930"
 draft: false
-publishDate: "2009-10-16 00:35:15"
+publishdate: "2009-10-16 00:35:15 +0930"
 slug: i-believe-that-people-who-dont-see-what-google-wave-is-for-are-simply-looking-at-it-from-the-wrong-angle-wave-is-not-a-social-tool-its-not-twitter-its-not-gtalk-its-not-facebook-it-was-never-designed
 tags:
 - debate

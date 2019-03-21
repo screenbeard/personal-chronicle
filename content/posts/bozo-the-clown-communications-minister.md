@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-05-28 08:18:24"
+date: "2010-05-28 08:18:24 +0930"
 draft: false
-publishDate: "2010-05-28 08:18:24"
+publishdate: "2010-05-28 08:18:24 +0930"
 slug: bozo-the-clown-communications-minister
 tags:
 - numbskull

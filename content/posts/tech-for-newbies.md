@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-04-23 11:47:25"
+date: "2010-04-23 11:47:25 +0930"
 draft: false
-publishDate: "2010-04-23 11:47:25"
+publishdate: "2010-04-23 11:47:25 +0930"
 slug: tech-for-newbies
 tags:
 - new

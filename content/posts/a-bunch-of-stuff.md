@@ -1,7 +1,7 @@
 ---
 categories:
 - Life
-date: "2010-03-30 11:46:38"
+date: "2010-03-30 11:46:38 +0930"
 draft: false
 tags:
 - awesome

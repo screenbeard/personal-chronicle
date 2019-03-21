@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2011-03-19 00:29:14"
+date: "2011-03-19 00:29:14 +0930"
 draft: false
-publishDate: "2011-03-19 00:29:14"
+publishdate: "2011-03-19 00:29:14 +0930"
 slug: short-term-memory
 tags: []
 title: Short Term Memory

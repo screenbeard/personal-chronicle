@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-20 09:46:00"
+date: "2009-10-20 09:46:00 +0930"
 draft: false
-publishDate: "2009-10-20 09:46:00"
+publishdate: "2009-10-20 09:46:00 +0930"
 slug: the-best-bits-of-the-google-wave-presentation-for-easy-digestion
 tags:
 - first look

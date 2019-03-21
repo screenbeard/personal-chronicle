@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-24 01:00:00"
+date: "2009-10-24 01:00:00 +0930"
 draft: false
-publishDate: "2009-10-24 01:00:00"
+publishdate: "2009-10-24 01:00:00 +0930"
 slug: expecting-invites-to-give-out
 tags:
 - faq

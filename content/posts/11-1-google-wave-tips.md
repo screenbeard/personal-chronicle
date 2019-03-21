@@ -1,7 +1,7 @@
 ---
 categories:
 - Google Wave
-date: "2009-10-20 03:49:00"
+date: "2009-10-20 03:49:00 +0930"
 draft: false
 tags:
 - guide

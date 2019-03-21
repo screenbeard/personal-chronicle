@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-11-10 11:09:29"
+date: "2009-11-10 11:09:29 +0930"
 draft: false
-publishDate: "2009-11-10 11:09:29"
+publishdate: "2009-11-10 11:09:29 +0930"
 slug: find-local-waves
 tags:
 - first look

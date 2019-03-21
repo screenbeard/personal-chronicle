@@ -1,9 +1,9 @@
 ---
 categories:
 - Quick
-date: "2009-07-18 00:31:48"
+date: "2009-07-18 00:31:48 +0930"
 draft: false
-publishDate: "2009-07-18 00:31:48"
+publishdate: "2009-07-18 00:31:48 +0930"
 slug: bioinformatics-on-aardvark
 tags:
 - aardvark

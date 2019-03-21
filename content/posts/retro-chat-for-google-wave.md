@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-20 04:15:00"
+date: "2009-10-20 04:15:00 +0930"
 draft: false
-publishDate: "2009-10-20 04:15:00"
+publishdate: "2009-10-20 04:15:00 +0930"
 slug: retro-chat-for-google-wave
 tags:
 - chat

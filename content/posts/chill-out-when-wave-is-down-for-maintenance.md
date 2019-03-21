@@ -1,9 +1,9 @@
 ---
 categories:
 - Media
-date: "2009-10-16 05:08:00"
+date: "2009-10-16 05:08:00 +0930"
 draft: false
-publishDate: "2009-10-16 05:08:00"
+publishdate: "2009-10-16 05:08:00 +0930"
 slug: chill-out-when-wave-is-down-for-maintenance
 tags:
 - fun

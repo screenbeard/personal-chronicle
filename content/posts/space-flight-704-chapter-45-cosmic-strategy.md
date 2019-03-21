@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-03-19 08:30:36"
+date: "2013-03-19 08:30:36 +0930"
 draft: false
-publishDate: "2013-03-19 08:30:36"
+publishdate: "2013-03-19 08:30:36 +0930"
 slug: space-flight-704-chapter-45-cosmic-strategy
 tags:
 - Rex Havoc

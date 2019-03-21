@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-04-30 07:30:23"
+date: "2013-04-30 07:30:23 +0930"
 draft: false
-publishDate: "2013-04-30 07:30:23"
+publishdate: "2013-04-30 07:30:23 +0930"
 slug: space-flight-704-chapter-59-familiar-places
 tags:
 - industrial planet

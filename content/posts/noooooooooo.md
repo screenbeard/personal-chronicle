@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2008-03-11 08:00:07"
+date: "2008-03-11 08:00:07 +0930"
 draft: false
-publishDate: "2008-03-11 08:00:07"
+publishdate: "2008-03-11 08:00:07 +0930"
 slug: noooooooooo
 tags:
 - heat stroke

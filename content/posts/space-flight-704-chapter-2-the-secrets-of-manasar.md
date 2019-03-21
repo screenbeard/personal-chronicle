@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-12 09:30:41"
+date: "2011-09-12 09:30:41 +0930"
 draft: false
-publishDate: "2011-09-12 09:30:41"
+publishdate: "2011-09-12 09:30:41 +0930"
 slug: space-flight-704-chapter-2-the-secrets-of-manasar
 tags:
 - captured

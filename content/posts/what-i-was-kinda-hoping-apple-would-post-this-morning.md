@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-01-28 02:09:10"
+date: "2010-01-28 02:09:10 +0930"
 draft: false
-publishDate: "2010-01-28 02:09:10"
+publishdate: "2010-01-28 02:09:10 +0930"
 slug: what-i-was-kinda-hoping-apple-would-post-this-morning
 tags:
 - apple

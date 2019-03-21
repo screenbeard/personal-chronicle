@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-06-30 11:36:58"
+date: "2010-06-30 11:36:58 +0930"
 draft: false
-publishDate: "2010-06-30 11:36:58"
+publishdate: "2010-06-30 11:36:58 +0930"
 slug: my-small-issue-with-the-windows-live-sync-beta
 tags:
 - beta

@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-10-15 02:24:00"
+date: "2009-10-15 02:24:00 +0930"
 draft: false
-publishDate: "2009-10-15 02:24:00"
+publishdate: "2009-10-15 02:24:00 +0930"
 slug: twitter-on-wave
 tags:
 - gadgets

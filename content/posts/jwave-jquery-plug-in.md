@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-06-14 00:58:39"
+date: "2009-06-14 00:58:39 +0930"
 draft: false
-publishDate: "2009-06-14 00:58:39"
+publishdate: "2009-06-14 00:58:39 +0930"
 slug: jwave-jquery-plug-in
 tags:
 - api

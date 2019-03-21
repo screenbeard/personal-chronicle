@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2010-03-02 21:48:54"
+date: "2010-03-02 21:48:54 +0930"
 draft: false
-publishDate: "2010-03-02 21:48:54"
+publishdate: "2010-03-02 21:48:54 +0930"
 slug: my-wife-a-_______-story
 tags:
 - create

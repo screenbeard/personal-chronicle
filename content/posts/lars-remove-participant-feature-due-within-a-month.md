@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2010-02-13 04:51:17"
+date: "2010-02-13 04:51:17 +0930"
 draft: false
-publishDate: "2010-02-13 04:51:17"
+publishdate: "2010-02-13 04:51:17 +0930"
 slug: lars-remove-participant-feature-due-within-a-month
 tags:
 - direction

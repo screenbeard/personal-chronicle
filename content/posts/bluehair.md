@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2006-05-11 15:31:56"
+date: "2006-05-11 15:31:56 +0930"
 draft: false
-publishDate: "2006-05-11 15:31:56"
+publishdate: "2006-05-11 15:31:56 +0930"
 slug: bluehair
 tags:
 - cfs

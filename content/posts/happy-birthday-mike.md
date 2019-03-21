@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2018-04-30 11:36:13"
+date: "2018-04-30 11:36:13 +0930"
 draft: false
-publishDate: "2018-04-30 11:36:13"
+publishdate: "2018-04-30 11:36:13 +0930"
 slug: happy-birthday-mike
 tags: []
 title: Happy Birthday Mike!

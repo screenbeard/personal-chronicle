@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-06-19 12:09:13"
+date: "2009-06-19 12:09:13 +0930"
 draft: false
-publishDate: "2009-06-19 12:09:13"
+publishdate: "2009-06-19 12:09:13 +0930"
 slug: wave-is-game-changing
 tags:
 - debate

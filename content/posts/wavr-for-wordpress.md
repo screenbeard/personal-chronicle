@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-08-02 10:49:46"
+date: "2009-08-02 10:49:46 +0930"
 draft: false
-publishDate: "2009-08-02 10:49:46"
+publishdate: "2009-08-02 10:49:46 +0930"
 slug: wavr-for-wordpress
 tags:
 - embed

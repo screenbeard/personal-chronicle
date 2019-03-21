@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2009-09-24 04:40:19"
+date: "2009-09-24 04:40:19 +0930"
 draft: false
-publishDate: "2009-09-24 04:40:19"
+publishdate: "2009-09-24 04:40:19 +0930"
 slug: inglourious-basterds-vs-up
 tags:
 - conversation

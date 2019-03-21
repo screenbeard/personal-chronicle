@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-15 09:30:46"
+date: "2011-09-15 09:30:46 +0930"
 draft: false
-publishDate: "2011-09-15 09:30:46"
+publishdate: "2011-09-15 09:30:46 +0930"
 slug: space-flight-704-chapter-5-the-exodus-from-manasar
 tags:
 - change of plans

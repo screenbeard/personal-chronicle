@@ -1,7 +1,7 @@
 ---
 categories:
 - Video
-date: "2010-11-07 06:40:03"
+date: "2010-11-07 06:40:03 +0930"
 draft: false
 tags:
 - vodcast

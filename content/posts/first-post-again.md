@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2006-04-01 23:07:46"
+date: "2006-04-01 23:07:46 +0930"
 draft: false
-publishDate: "2006-04-01 23:07:46"
+publishdate: "2006-04-01 23:07:46 +0930"
 slug: first-post-again
 tags:
 - hosting

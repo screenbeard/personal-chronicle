@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2008-08-16 03:00:16"
+date: "2008-08-16 03:00:16 +0930"
 draft: false
-publishDate: "2008-08-16 03:00:16"
+publishdate: "2008-08-16 03:00:16 +0930"
 slug: welcome-home-amelynne-grace
 tags:
 - Amelynne Grace

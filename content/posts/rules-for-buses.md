@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2007-12-01 03:47:48"
+date: "2007-12-01 03:47:48 +0930"
 draft: false
-publishDate: "2007-12-01 03:47:48"
+publishdate: "2007-12-01 03:47:48 +0930"
 slug: rules-for-buses
 tags:
 - adelaide

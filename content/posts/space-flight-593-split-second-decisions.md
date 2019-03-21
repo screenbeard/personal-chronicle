@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-04-02 08:30:51"
+date: "2013-04-02 08:30:51 +0930"
 draft: false
-publishDate: "2013-04-02 08:30:51"
+publishdate: "2013-04-02 08:30:51 +0930"
 slug: space-flight-593-split-second-decisions
 tags:
 - Anrianna

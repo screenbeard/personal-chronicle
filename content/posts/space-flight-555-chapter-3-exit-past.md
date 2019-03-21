@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-12-02 08:30:07"
+date: "2011-12-02 08:30:07 +0930"
 draft: false
-publishDate: "2011-12-02 08:30:07"
+publishdate: "2011-12-02 08:30:07 +0930"
 slug: space-flight-555-chapter-3-exit-past
 tags:
 - industrial planet

@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2007-04-22 00:28:27"
+date: "2007-04-22 00:28:27 +0930"
 draft: false
-publishDate: "2007-04-22 00:28:27"
+publishdate: "2007-04-22 00:28:27 +0930"
 slug: what-i-write
 tags:
 - blogging

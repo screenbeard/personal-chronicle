@@ -1,9 +1,9 @@
 ---
 categories:
 - Coding
-date: "2009-08-13 07:00:37"
+date: "2009-08-13 07:00:37 +0930"
 draft: false
-publishDate: "2009-08-13 07:00:37"
+publishdate: "2009-08-13 07:00:37 +0930"
 slug: setjavahackercoding3-1
 tags:
 - dumb

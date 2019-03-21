@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-04-03 12:18:43"
+date: "2010-04-03 12:18:43 +0930"
 draft: false
-publishDate: "2010-04-03 12:18:43"
+publishdate: "2010-04-03 12:18:43 +0930"
 slug: our-small-world-is-getting-smaller-still
 tags:
 - bots

@@ -1,9 +1,9 @@
 ---
 categories:
 - Coding
-date: "2009-08-02 12:37:18"
+date: "2009-08-02 12:37:18 +0930"
 draft: false
-publishDate: "2009-08-02 12:37:18"
+publishdate: "2009-08-02 12:37:18 +0930"
 slug: first-week-of-javahackercoding
 tags:
 - beginner

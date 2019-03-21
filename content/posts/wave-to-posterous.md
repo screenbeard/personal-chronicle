@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-11-10 20:46:58"
+date: "2009-11-10 20:46:58 +0930"
 draft: false
-publishDate: "2009-11-10 20:46:58"
+publishdate: "2009-11-10 20:46:58 +0930"
 slug: wave-to-posterous
 tags:
 - blogging

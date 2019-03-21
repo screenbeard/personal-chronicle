@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2011-09-30 11:21:35"
+date: "2011-09-30 11:21:35 +0930"
 draft: false
-publishDate: "2011-09-30 11:21:35"
+publishdate: "2011-09-30 11:21:35 +0930"
 slug: coming-to-you-live-from-the-ipv6-internet
 tags: []
 title: Coming to You Live from the IPV6 Internet!

@@ -1,9 +1,9 @@
 ---
 categories:
 - Photo
-date: "2010-04-13 06:11:15"
+date: "2010-04-13 06:11:15 +0930"
 draft: false
-publishDate: "2010-04-13 06:11:15"
+publishdate: "2010-04-13 06:11:15 +0930"
 slug: choke-point-starring-van-damme
 tags:
 - fun

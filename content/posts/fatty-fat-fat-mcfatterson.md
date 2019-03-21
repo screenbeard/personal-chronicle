@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2007-08-05 11:41:42"
+date: "2007-08-05 11:41:42 +0930"
 draft: false
-publishDate: "2007-08-05 11:41:42"
+publishdate: "2007-08-05 11:41:42 +0930"
 slug: fatty-fat-fat-mcfatterson
 tags:
 - diet

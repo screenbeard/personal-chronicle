@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-10-21 08:30:09"
+date: "2011-10-21 08:30:09 +0930"
 draft: false
-publishDate: "2011-10-21 08:30:09"
+publishdate: "2011-10-21 08:30:09 +0930"
 slug: space-flight-704-chapter-25-understand-the-rock
 tags:
 - exercise

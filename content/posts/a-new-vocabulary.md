@@ -1,7 +1,7 @@
 ---
 categories:
 - Opinions
-date: "2009-09-13 04:20:16"
+date: "2009-09-13 04:20:16 +0930"
 draft: false
 tags:
 - chat

@@ -1,9 +1,9 @@
 ---
 categories:
 - Religion
-date: "2006-03-16 22:51:06"
+date: "2006-03-16 22:51:06 +0930"
 draft: false
-publishDate: "2006-03-16 22:51:06"
+publishdate: "2006-03-16 22:51:06 +0930"
 slug: please-dont-take-this-the-wrong-way
 tags:
 - atheism

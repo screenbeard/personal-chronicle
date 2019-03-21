@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-23 23:15:53"
+date: "2009-10-23 23:15:53 +0930"
 draft: false
-publishDate: "2009-10-23 23:15:53"
+publishdate: "2009-10-23 23:15:53 +0930"
 slug: exits-are-east-south
 tags:
 - extensions

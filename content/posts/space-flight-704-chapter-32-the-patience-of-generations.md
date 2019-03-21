@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-11-11 11:48:17"
+date: "2011-11-11 11:48:17 +0930"
 draft: false
-publishDate: "2011-11-11 11:48:17"
+publishdate: "2011-11-11 11:48:17 +0930"
 slug: space-flight-704-chapter-32-the-patience-of-generations
 tags:
 - AI

@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-06-06 02:10:09"
+date: "2009-06-06 02:10:09 +0930"
 draft: false
-publishDate: "2009-06-06 02:10:09"
+publishdate: "2009-06-06 02:10:09 +0930"
 slug: embed-and-extend
 tags:
 - api

@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2019-02-11 12:49:53"
+date: "2019-02-11 12:49:53 +0930"
 draft: false
-publishDate: "2019-02-11 12:49:53"
+publishdate: "2019-02-11 12:49:53 +0930"
 slug: guten-free
 tags:
 - puns

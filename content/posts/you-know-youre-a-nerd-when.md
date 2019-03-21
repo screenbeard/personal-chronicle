@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2011-01-09 07:04:34"
+date: "2011-01-09 07:04:34 +0930"
 draft: false
-publishDate: "2011-01-09 07:04:34"
+publishdate: "2011-01-09 07:04:34 +0930"
 slug: you-know-youre-a-nerd-when
 tags:
 - batman

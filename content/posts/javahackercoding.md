@@ -1,9 +1,9 @@
 ---
 categories:
 - Coding
-date: "2009-10-29 11:19:36"
+date: "2009-10-29 11:19:36 +0930"
 draft: false
-publishDate: "2009-10-29 11:19:36"
+publishdate: "2009-10-29 11:19:36 +0930"
 slug: javahackercoding
 tags: []
 title: Javahackercoding ∞

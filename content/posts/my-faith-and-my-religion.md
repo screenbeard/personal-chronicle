@@ -1,9 +1,9 @@
 ---
 categories:
 - Religion
-date: "2006-03-06 22:00:19"
+date: "2006-03-06 22:00:19 +0930"
 draft: false
-publishDate: "2006-03-06 22:00:19"
+publishdate: "2006-03-06 22:00:19 +0930"
 slug: my-faith-and-my-religion
 tags:
 - c.s. lewis

@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-05-22 09:30:05"
+date: "2012-05-22 09:30:05 +0930"
 draft: false
-publishDate: "2012-05-22 09:30:05"
+publishdate: "2012-05-22 09:30:05 +0930"
 slug: space-flight-704-chapter-44-devastating-consequences
 tags:
 - consequences

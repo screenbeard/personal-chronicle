@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2008-04-10 12:47:52"
+date: "2008-04-10 12:47:52 +0930"
 draft: false
-publishDate: "2008-04-10 12:47:52"
+publishdate: "2008-04-10 12:47:52 +0930"
 slug: test-of-the-photo-dropper-plugin
 tags:
 - creative commons

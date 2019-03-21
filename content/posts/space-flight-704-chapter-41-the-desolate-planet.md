@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-05-16 09:30:31"
+date: "2012-05-16 09:30:31 +0930"
 draft: false
-publishDate: "2012-05-16 09:30:31"
+publishdate: "2012-05-16 09:30:31 +0930"
 slug: space-flight-704-chapter-41-the-desolate-planet
 tags:
 - Rex Havoc

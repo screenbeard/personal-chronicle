@@ -1,9 +1,9 @@
 ---
 categories:
 - Web Hosting
-date: "2013-06-13 14:26:06"
+date: "2013-06-13 14:26:06 +0930"
 draft: false
-publishDate: "2013-06-13 14:26:06"
+publishdate: "2013-06-13 14:26:06 +0930"
 slug: how-to-change-the-whmcs-bridge-page
 tags: []
 title: How to Change the WHMCS Bridge Page

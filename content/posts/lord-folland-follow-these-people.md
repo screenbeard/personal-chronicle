@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2009-06-29 11:23:07"
+date: "2009-06-29 11:23:07 +0930"
 draft: false
-publishDate: "2009-06-29 11:23:07"
+publishdate: "2009-06-29 11:23:07 +0930"
 slug: lord-folland-follow-these-people
 tags:
 - friend

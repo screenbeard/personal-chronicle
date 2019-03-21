@@ -1,9 +1,9 @@
 ---
 categories:
 - Education
-date: "2007-05-15 12:00:53"
+date: "2007-05-15 12:00:53 +0930"
 draft: false
-publishDate: "2007-05-15 12:00:53"
+publishdate: "2007-05-15 12:00:53 +0930"
 slug: our-job
 tags:
 - blogging

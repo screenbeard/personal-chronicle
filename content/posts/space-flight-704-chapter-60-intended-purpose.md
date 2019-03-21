@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-05-18 06:25:57"
+date: "2013-05-18 06:25:57 +0930"
 draft: false
-publishDate: "2013-05-18 06:25:57"
+publishdate: "2013-05-18 06:25:57 +0930"
 slug: space-flight-704-chapter-60-intended-purpose
 tags:
 - power

@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-22 09:30:54"
+date: "2011-09-22 09:30:54 +0930"
 draft: false
-publishDate: "2011-09-22 09:30:54"
+publishdate: "2011-09-22 09:30:54 +0930"
 slug: space-flight-704-chapter-10-new-flight
 tags:
 - Final Flight of Xarnash

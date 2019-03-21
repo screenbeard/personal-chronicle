@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-11-09 08:31:05"
+date: "2011-11-09 08:31:05 +0930"
 draft: false
-publishDate: "2011-11-09 08:31:05"
+publishdate: "2011-11-09 08:31:05 +0930"
 slug: space-flight-704-chapter-31-the-difficulty-of-silence
 tags:
 - consciousness

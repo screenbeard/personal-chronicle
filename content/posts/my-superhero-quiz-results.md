@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2006-02-23 14:13:30"
+date: "2006-02-23 14:13:30 +0930"
 draft: false
-publishDate: "2006-02-23 14:13:30"
+publishdate: "2006-02-23 14:13:30 +0930"
 slug: my-superhero-quiz-results
 tags:
 - green lantern

@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-06-06 01:17:00"
+date: "2009-06-06 01:17:00 +0930"
 draft: false
-publishDate: "2009-06-06 01:17:00"
+publishdate: "2009-06-06 01:17:00 +0930"
 slug: wave-the-platform
 tags:
 - api

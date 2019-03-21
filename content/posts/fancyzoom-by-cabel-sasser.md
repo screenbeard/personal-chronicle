@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2008-04-29 08:11:12"
+date: "2008-04-29 08:11:12 +0930"
 draft: false
-publishDate: "2008-04-29 08:11:12"
+publishdate: "2008-04-29 08:11:12 +0930"
 slug: fancyzoom-by-cabel-sasser
 tags:
 - cabel sasser

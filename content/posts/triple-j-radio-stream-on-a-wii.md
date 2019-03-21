@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2009-06-08 08:37:02"
+date: "2009-06-08 08:37:02 +0930"
 draft: false
-publishDate: "2009-06-08 08:37:02"
+publishdate: "2009-06-08 08:37:02 +0930"
 slug: triple-j-radio-stream-on-a-wii
 tags:
 - flash

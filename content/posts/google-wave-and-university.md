@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-12-06 07:01:25"
+date: "2009-12-06 07:01:25 +0930"
 draft: false
-publishDate: "2009-12-06 07:01:25"
+publishdate: "2009-12-06 07:01:25 +0930"
 slug: google-wave-and-university
 tags:
 - chat

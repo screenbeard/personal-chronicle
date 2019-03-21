@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2007-11-12 09:29:13"
+date: "2007-11-12 09:29:13 +0930"
 draft: false
-publishDate: "2007-11-12 09:29:13"
+publishdate: "2007-11-12 09:29:13 +0930"
 slug: dreams-of-soaring
 tags:
 - dreaming

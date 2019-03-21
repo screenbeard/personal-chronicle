@@ -1,9 +1,9 @@
 ---
 categories:
 - Education
-date: "2007-03-12 09:56:57"
+date: "2007-03-12 09:56:57 +0930"
 draft: false
-publishDate: "2007-03-12 09:56:57"
+publishdate: "2007-03-12 09:56:57 +0930"
 slug: another-blog-really
 tags:
 - personal

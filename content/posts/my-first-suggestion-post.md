@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2010-04-03 11:02:10"
+date: "2010-04-03 11:02:10 +0930"
 draft: false
-publishDate: "2010-04-03 11:02:10"
+publishdate: "2010-04-03 11:02:10 +0930"
 slug: my-first-suggestion-post
 tags:
 - fun

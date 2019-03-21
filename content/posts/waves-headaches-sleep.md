@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2009-11-03 02:14:30"
+date: "2009-11-03 02:14:30 +0930"
 draft: false
-publishDate: "2009-11-03 02:14:30"
+publishdate: "2009-11-03 02:14:30 +0930"
 slug: waves-headaches-sleep
 tags:
 - Life

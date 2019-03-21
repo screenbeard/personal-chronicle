@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-04-23 11:47:45"
+date: "2010-04-23 11:47:45 +0930"
 draft: false
-publishDate: "2010-04-23 11:47:45"
+publishdate: "2010-04-23 11:47:45 +0930"
 slug: should-i-buy-a-mac
 tags:
 - advice

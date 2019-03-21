@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-12-09 01:18:10"
+date: "2009-12-09 01:18:10 +0930"
 draft: false
-publishDate: "2009-12-09 01:18:10"
+publishdate: "2009-12-09 01:18:10 +0930"
 slug: group-waves
 tags:
 - new feature

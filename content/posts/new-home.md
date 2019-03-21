@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2006-12-04 13:31:57"
+date: "2006-12-04 13:31:57 +0930"
 draft: false
-publishDate: "2006-12-04 13:31:57"
+publishdate: "2006-12-04 13:31:57 +0930"
 slug: new-home
 tags:
 - house

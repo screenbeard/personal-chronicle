@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-11-09 20:12:58"
+date: "2009-11-09 20:12:58 +0930"
 draft: false
-publishDate: "2009-11-09 20:12:58"
+publishdate: "2009-11-09 20:12:58 +0930"
 slug: five-things-to-do-when-you-get-google-wave
 tags:
 - first look

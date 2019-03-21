@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2006-06-24 21:43:06"
+date: "2006-06-24 21:43:06 +0930"
 draft: false
-publishDate: "2006-06-24 21:43:06"
+publishdate: "2006-06-24 21:43:06 +0930"
 slug: lost-season-two
 tags:
 - lost

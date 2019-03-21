@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-11-12 23:05:26"
+date: "2009-11-12 23:05:26 +0930"
 draft: false
-publishDate: "2009-11-12 23:05:26"
+publishdate: "2009-11-12 23:05:26 +0930"
 slug: follow-the-waves-you-choose
 tags:
 - community

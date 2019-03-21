@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-04-14 12:19:56"
+date: "2010-04-14 12:19:56 +0930"
 draft: false
-publishDate: "2010-04-14 12:19:56"
+publishdate: "2010-04-14 12:19:56 +0930"
 slug: new-wave-this-function-and-buttons
 tags:
 - blogging

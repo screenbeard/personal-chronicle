@@ -1,9 +1,9 @@
 ---
 categories:
 - Status
-date: "2009-11-07 11:10:18"
+date: "2009-11-07 11:10:18 +0930"
 draft: false
-publishDate: "2009-11-07 11:10:18"
+publishdate: "2009-11-07 11:10:18 +0930"
 slug: new-look
 tags:
 - Site News

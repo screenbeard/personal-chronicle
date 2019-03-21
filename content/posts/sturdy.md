@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2009-02-23 07:45:06"
+date: "2009-02-23 07:45:06 +0930"
 draft: false
-publishDate: "2009-02-23 07:45:06"
+publishdate: "2009-02-23 07:45:06 +0930"
 slug: sturdy
 tags:
 - '"wrong"'

@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2007-04-22 10:36:24"
+date: "2007-04-22 10:36:24 +0930"
 draft: false
-publishDate: "2007-04-22 10:36:24"
+publishdate: "2007-04-22 10:36:24 +0930"
 slug: im-sorry-i-swore-id-never-do-this
 tags:
 - comicstrip

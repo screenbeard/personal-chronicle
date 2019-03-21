@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2007-07-01 07:55:09"
+date: "2007-07-01 07:55:09 +0930"
 draft: false
-publishDate: "2007-07-01 07:55:09"
+publishdate: "2007-07-01 07:55:09 +0930"
 slug: free-music-from-triple-j-an-unofficial-feed
 tags:
 - free

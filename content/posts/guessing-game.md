@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2011-09-11 11:00:41"
+date: "2011-09-11 11:00:41 +0930"
 draft: false
-publishDate: "2011-09-11 11:00:41"
+publishdate: "2011-09-11 11:00:41 +0930"
 slug: guessing-game
 tags: []
 title: Guessing Game

@@ -1,9 +1,9 @@
 ---
 categories:
 - Media
-date: "2009-10-16 05:17:24"
+date: "2009-10-16 05:17:24 +0930"
 draft: false
-publishDate: "2009-10-16 05:17:24"
+publishdate: "2009-10-16 05:17:24 +0930"
 slug: collaboration-via-google-wave
 tags:
 - use case

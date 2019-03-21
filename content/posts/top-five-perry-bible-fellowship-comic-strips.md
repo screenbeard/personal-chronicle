@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2007-11-04 05:05:17"
+date: "2007-11-04 05:05:17 +0930"
 draft: false
-publishDate: "2007-11-04 05:05:17"
+publishdate: "2007-11-04 05:05:17 +0930"
 slug: top-five-perry-bible-fellowship-comic-strips
 tags:
 - books

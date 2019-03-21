@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-05-18 06:50:27"
+date: "2013-05-18 06:50:27 +0930"
 draft: false
-publishDate: "2013-05-18 06:50:27"
+publishdate: "2013-05-18 06:50:27 +0930"
 slug: space-flight-704-chapter-63-re-evaluated-perspective
 tags:
 - emotions

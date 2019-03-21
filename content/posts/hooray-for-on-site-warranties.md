@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2007-11-09 08:28:03"
+date: "2007-11-09 08:28:03 +0930"
 draft: false
-publishDate: "2007-11-09 08:28:03"
+publishdate: "2007-11-09 08:28:03 +0930"
 slug: hooray-for-on-site-warranties
 tags:
 - onsite warranty

@@ -1,9 +1,9 @@
 ---
 categories:
 - Quick
-date: "2010-03-24 10:21:22"
+date: "2010-03-24 10:21:22 +0930"
 draft: false
-publishDate: "2010-03-24 10:21:22"
+publishdate: "2010-03-24 10:21:22 +0930"
 slug: ooh-eeh-ooooh-weee-ooh-ooooh
 tags:
 - doctor who

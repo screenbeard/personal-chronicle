@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-12-05 11:40:09"
+date: "2009-12-05 11:40:09 +0930"
 draft: false
-publishDate: "2009-12-05 11:40:09"
+publishdate: "2009-12-05 11:40:09 +0930"
 slug: google-wave-checker-extension-for-chrome
 tags:
 - client

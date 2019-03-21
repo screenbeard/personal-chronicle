@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-11-10 11:42:20"
+date: "2009-11-10 11:42:20 +0930"
 draft: false
-publishDate: "2009-11-10 11:42:20"
+publishdate: "2009-11-10 11:42:20 +0930"
 slug: expectations
 tags:
 - direction

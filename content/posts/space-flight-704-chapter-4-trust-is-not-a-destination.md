@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-14 09:30:50"
+date: "2011-09-14 09:30:50 +0930"
 draft: false
-publishDate: "2011-09-14 09:30:50"
+publishdate: "2011-09-14 09:30:50 +0930"
 slug: space-flight-704-chapter-4-trust-is-not-a-destination
 tags:
 - Final Flight of Xarnash

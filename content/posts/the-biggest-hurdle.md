@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-06-13 02:24:29"
+date: "2009-06-13 02:24:29 +0930"
 draft: false
-publishDate: "2009-06-13 02:24:29"
+publishdate: "2009-06-13 02:24:29 +0930"
 slug: the-biggest-hurdle
 tags:
 - debate

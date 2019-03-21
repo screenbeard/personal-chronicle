@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-07-03 03:10:50"
+date: "2009-07-03 03:10:50 +0930"
 draft: false
-publishDate: "2009-07-03 03:10:50"
+publishdate: "2009-07-03 03:10:50 +0930"
 slug: wavetycom
 tags:
 - extensions

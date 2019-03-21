@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-05-03 09:30:38"
+date: "2012-05-03 09:30:38 +0930"
 draft: false
-publishDate: "2012-05-03 09:30:38"
+publishdate: "2012-05-03 09:30:38 +0930"
 slug: space-flight-704-chapter-35-olats-story-part-2
 tags:
 - beastly

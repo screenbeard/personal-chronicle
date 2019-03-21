@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-11-21 08:30:00"
+date: "2011-11-21 08:30:00 +0930"
 draft: false
-publishDate: "2011-11-21 08:30:00"
+publishdate: "2011-11-21 08:30:00 +0930"
 slug: space-flight-556-stranger-in-her-midst
 tags:
 - body double

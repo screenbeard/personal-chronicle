@@ -1,7 +1,7 @@
 ---
 categories:
 - Coding
-date: "2009-09-03 12:24:09"
+date: "2009-09-03 12:24:09 +0930"
 draft: false
 tags:
 - class

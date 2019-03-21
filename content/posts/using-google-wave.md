@@ -1,9 +1,9 @@
 ---
 categories:
 - Media
-date: "2009-10-29 23:22:28"
+date: "2009-10-29 23:22:28 +0930"
 draft: false
-publishDate: "2009-10-29 23:22:28"
+publishdate: "2009-10-29 23:22:28 +0930"
 slug: using-google-wave
 tags:
 - ideas

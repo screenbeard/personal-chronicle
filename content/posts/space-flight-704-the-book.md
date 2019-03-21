@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2012-01-31 01:12:03"
+date: "2012-01-31 01:12:03 +0930"
 draft: false
-publishDate: "2012-01-31 01:12:03"
+publishdate: "2012-01-31 01:12:03 +0930"
 slug: space-flight-704-the-book
 tags:
 - amazon

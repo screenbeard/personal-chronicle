@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2013-04-06 23:18:03"
+date: "2013-04-06 23:18:03 +0930"
 draft: false
-publishDate: "2013-04-06 23:18:03"
+publishdate: "2013-04-06 23:18:03 +0930"
 slug: roger-ebert-i-do-not-fear-death
 tags:
 - quote

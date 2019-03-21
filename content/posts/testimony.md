@@ -1,9 +1,9 @@
 ---
 categories:
 - Religion
-date: "2006-03-10 15:59:33"
+date: "2006-03-10 15:59:33 +0930"
 draft: false
-publishDate: "2006-03-10 15:59:33"
+publishdate: "2006-03-10 15:59:33 +0930"
 slug: testimony
 tags:
 - faith

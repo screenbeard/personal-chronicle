@@ -1,9 +1,9 @@
 ---
 categories:
 - Religion
-date: "2006-01-30 05:36:49"
+date: "2006-01-30 05:36:49 +0930"
 draft: false
-publishDate: "2006-01-30 05:36:49"
+publishdate: "2006-01-30 05:36:49 +0930"
 slug: games-and-the-meaning-of-the-universe
 tags:
 - evolution

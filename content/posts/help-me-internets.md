@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2008-08-28 05:01:30"
+date: "2008-08-28 05:01:30 +0930"
 draft: false
-publishDate: "2008-08-28 05:01:30"
+publishdate: "2008-08-28 05:01:30 +0930"
 slug: help-me-internets
 tags:
 - Help me

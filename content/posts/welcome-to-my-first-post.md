@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2005-12-27 22:21:45"
+date: "2005-12-27 22:21:45 +0930"
 draft: false
-publishDate: "2005-12-27 22:21:45"
+publishdate: "2005-12-27 22:21:45 +0930"
 slug: welcome-to-my-first-post
 tags:
 - about

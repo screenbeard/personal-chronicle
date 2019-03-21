@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-18 07:46:06"
+date: "2009-10-18 07:46:06 +0930"
 draft: false
-publishDate: "2009-10-18 07:46:06"
+publishdate: "2009-10-18 07:46:06 +0930"
 slug: votely-votes-for-public-waves
 tags:
 - bots

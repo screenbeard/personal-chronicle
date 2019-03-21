@@ -1,9 +1,9 @@
 ---
 categories:
 - Quick
-date: "2011-09-07 23:42:00"
+date: "2011-09-07 23:42:00 +0930"
 draft: false
-publishDate: "2011-09-07 23:42:00"
+publishdate: "2011-09-07 23:42:00 +0930"
 slug: blast
 tags: []
 title: Blast.

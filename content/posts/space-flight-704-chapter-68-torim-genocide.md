@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-05-18 07:16:23"
+date: "2013-05-18 07:16:23 +0930"
 draft: false
-publishDate: "2013-05-18 07:16:23"
+publishdate: "2013-05-18 07:16:23 +0930"
 slug: space-flight-704-chapter-68-torim-genocide
 tags:
 - death

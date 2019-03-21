@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2009-12-21 05:12:06"
+date: "2009-12-21 05:12:06 +0930"
 draft: false
-publishDate: "2009-12-21 05:12:06"
+publishdate: "2009-12-21 05:12:06 +0930"
 slug: don-dodge-stole-my-idea
 tags:
 - awesome

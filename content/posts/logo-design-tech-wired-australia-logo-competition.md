@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2008-11-04 01:27:28"
+date: "2008-11-04 01:27:28 +0930"
 draft: false
-publishDate: "2008-11-04 01:27:28"
+publishdate: "2008-11-04 01:27:28 +0930"
 slug: logo-design-tech-wired-australia-logo-competition
 tags:
 - Competition

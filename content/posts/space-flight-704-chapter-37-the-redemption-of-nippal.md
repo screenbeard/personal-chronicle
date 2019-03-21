@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-05-05 09:30:48"
+date: "2012-05-05 09:30:48 +0930"
 draft: false
-publishDate: "2012-05-05 09:30:48"
+publishdate: "2012-05-05 09:30:48 +0930"
 slug: space-flight-704-chapter-37-the-redemption-of-nippal
 tags:
 - Doctor Van de Nippal

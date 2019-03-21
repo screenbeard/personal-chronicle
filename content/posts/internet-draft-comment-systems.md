@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2018-04-12 13:28:26"
+date: "2018-04-12 13:28:26 +0930"
 draft: false
-publishDate: "2018-04-12 13:28:26"
+publishdate: "2018-04-12 13:28:26 +0930"
 slug: internet-draft-comment-systems
 tags: []
 title: 'Internet Draft: Comment systems'

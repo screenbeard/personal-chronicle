@@ -1,9 +1,9 @@
 ---
 categories:
 - Quick
-date: "2010-04-06 00:41:30"
+date: "2010-04-06 00:41:30 +0930"
 draft: false
-publishDate: "2010-04-06 00:41:30"
+publishdate: "2010-04-06 00:41:30 +0930"
 slug: gina-trapani-on-feeling-like-an-adult
 tags:
 - blogging

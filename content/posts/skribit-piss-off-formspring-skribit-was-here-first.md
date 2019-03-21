@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-01-22 05:14:45"
+date: "2010-01-22 05:14:45 +0930"
 draft: false
-publishDate: "2010-01-22 05:14:45"
+publishdate: "2010-01-22 05:14:45 +0930"
 slug: skribit-piss-off-formspring-skribit-was-here-first
 tags:
 - free software

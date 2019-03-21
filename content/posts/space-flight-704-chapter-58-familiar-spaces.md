@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-04-27 03:30:20"
+date: "2013-04-27 03:30:20 +0930"
 draft: false
-publishDate: "2013-04-27 03:30:20"
+publishdate: "2013-04-27 03:30:20 +0930"
 slug: space-flight-704-chapter-58-familiar-spaces
 tags:
 - familiar

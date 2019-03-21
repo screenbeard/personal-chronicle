@@ -1,9 +1,9 @@
 ---
 categories:
 - Coding
-date: "2009-09-03 08:40:09"
+date: "2009-09-03 08:40:09 +0930"
 draft: false
-publishDate: "2009-09-03 08:40:09"
+publishdate: "2009-09-03 08:40:09 +0930"
 slug: quick-update-before-javahackercoding-6-so-this-is-5
 tags:
 - assignment

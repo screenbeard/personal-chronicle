@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-12-16 08:30:00"
+date: "2011-12-16 08:30:00 +0930"
 draft: false
-publishDate: "2011-12-16 08:30:00"
+publishdate: "2011-12-16 08:30:00 +0930"
 slug: space-flight-558-chapter-0-wiped
 tags:
 - anomaly

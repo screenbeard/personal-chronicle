@@ -1,9 +1,9 @@
 ---
 categories:
 - Coding
-date: "2009-09-23 07:57:21"
+date: "2009-09-23 07:57:21 +0930"
 draft: false
-publishDate: "2009-09-23 07:57:21"
+publishdate: "2009-09-23 07:57:21 +0930"
 slug: private-int-javahackercoding-7
 tags: []
 title: private int javaHackerCoding = 7;

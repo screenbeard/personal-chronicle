@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-05-19 19:34:43"
+date: "2010-05-19 19:34:43 +0930"
 draft: false
-publishDate: "2010-05-19 19:34:43"
+publishdate: "2010-05-19 19:34:43 +0930"
 slug: wave-this-api-released-plus-official-chrome-extension-and-bonus-unofficial-wordpress-widget
 tags:
 - addon

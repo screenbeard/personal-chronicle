@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2013-03-15 11:42:44"
+date: "2013-03-15 11:42:44 +0930"
 draft: false
-publishDate: "2013-03-15 11:42:44"
+publishdate: "2013-03-15 11:42:44 +0930"
 slug: make-tiny-tiny-rss-look-and-behave-like-google-reader
 tags:
 - bad decisions

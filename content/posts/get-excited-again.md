@@ -1,9 +1,9 @@
 ---
 categories:
 - Status
-date: "2011-07-06 11:02:34"
+date: "2011-07-06 11:02:34 +0930"
 draft: false
-publishDate: "2011-07-06 11:02:34"
+publishdate: "2011-07-06 11:02:34 +0930"
 slug: get-excited-again
 tags: []
 title: 'Get excited again! '

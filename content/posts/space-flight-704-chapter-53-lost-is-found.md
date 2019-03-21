@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-04-09 09:30:00"
+date: "2013-04-09 09:30:00 +0930"
 draft: false
-publishDate: "2013-04-09 09:30:00"
+publishdate: "2013-04-09 09:30:00 +0930"
 slug: space-flight-704-chapter-53-lost-is-found
 tags:
 - Ortrix

@@ -1,9 +1,9 @@
 ---
 categories:
 - Photo
-date: "2018-03-28 11:14:57"
+date: "2018-03-28 11:14:57 +0930"
 draft: false
-publishDate: "2018-03-28 11:14:57"
+publishdate: "2018-03-28 11:14:57 +0930"
 slug: wizballin
 tags:
 - tattooideas

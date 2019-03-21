@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-06-08 13:01:51"
+date: "2009-06-08 13:01:51 +0930"
 draft: false
-publishDate: "2009-06-08 13:01:51"
+publishdate: "2009-06-08 13:01:51 +0930"
 slug: wave-the-protocol
 tags:
 - opensource

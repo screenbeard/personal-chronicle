@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2007-12-05 11:32:57"
+date: "2007-12-05 11:32:57 +0930"
 draft: false
-publishDate: "2007-12-05 11:32:57"
+publishdate: "2007-12-05 11:32:57 +0930"
 slug: hair-passes-forward-screams-pass-backward
 tags:
 - comedy

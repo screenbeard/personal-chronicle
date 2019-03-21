@@ -1,7 +1,7 @@
 ---
 categories:
 - Share
-date: "2009-11-26 05:50:04"
+date: "2009-11-26 05:50:04 +0930"
 draft: false
 tags:
 - fun

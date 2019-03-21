@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-04-01 09:00:32"
+date: "2010-04-01 09:00:32 +0930"
 draft: false
-publishDate: "2010-04-01 09:00:32"
+publishdate: "2010-04-01 09:00:32 +0930"
 slug: its-easter-so-chill-out-try-wave-check-out-mr-ray-and-say-hello
 tags:
 - chat

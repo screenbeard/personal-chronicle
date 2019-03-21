@@ -1,7 +1,7 @@
 ---
 categories:
 - Quick
-date: "2010-02-25 02:13:38"
+date: "2010-02-25 02:13:38 +0930"
 draft: false
 title: Intermission
 ---

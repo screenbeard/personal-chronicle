@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-10-25 08:32:45"
+date: "2011-10-25 08:32:45 +0930"
 draft: false
-publishDate: "2011-10-25 08:32:45"
+publishdate: "2011-10-25 08:32:45 +0930"
 slug: space-flight-631-the-dungeons-of-belgarr-2
 tags:
 - Belgarr

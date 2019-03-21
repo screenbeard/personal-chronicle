@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2009-07-13 23:33:32"
+date: "2009-07-13 23:33:32 +0930"
 draft: false
-publishDate: "2009-07-13 23:33:32"
+publishdate: "2009-07-13 23:33:32 +0930"
 slug: testing-pubsubhubbub
 tags:
 - Quick

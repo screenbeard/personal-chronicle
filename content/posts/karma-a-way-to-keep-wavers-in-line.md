@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2010-02-04 05:41:14"
+date: "2010-02-04 05:41:14 +0930"
 draft: false
-publishDate: "2010-02-04 05:41:14"
+publishdate: "2010-02-04 05:41:14 +0930"
 slug: karma-a-way-to-keep-wavers-in-line
 tags:
 - bots

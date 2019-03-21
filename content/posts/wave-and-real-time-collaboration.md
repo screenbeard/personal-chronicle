@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-10-08 11:29:47"
+date: "2009-10-08 11:29:47 +0930"
 draft: false
-publishDate: "2009-10-08 11:29:47"
+publishdate: "2009-10-08 11:29:47 +0930"
 slug: wave-and-real-time-collaboration
 tags:
 - debate

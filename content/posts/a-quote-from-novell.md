@@ -1,7 +1,7 @@
 ---
 categories:
 - Google Wave
-date: "2010-03-26 02:12:27"
+date: "2010-03-26 02:12:27 +0930"
 draft: false
 tags:
 - Competition

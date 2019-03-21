@@ -1,7 +1,7 @@
 ---
 categories:
 - Share
-date: "2010-02-05 06:25:21"
+date: "2010-02-05 06:25:21 +0930"
 draft: false
 tags:
 - awesome

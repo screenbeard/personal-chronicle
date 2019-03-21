@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2011-03-07 21:04:53"
+date: "2011-03-07 21:04:53 +0930"
 draft: false
-publishDate: "2011-03-07 21:04:53"
+publishdate: "2011-03-07 21:04:53 +0930"
 slug: when-play-school-becomes-too-much-play-school
 tags:
 - Amelynne

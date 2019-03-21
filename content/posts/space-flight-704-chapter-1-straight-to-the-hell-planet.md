@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-09 12:17:16"
+date: "2011-09-09 12:17:16 +0930"
 draft: false
-publishDate: "2011-09-09 12:17:16"
+publishdate: "2011-09-09 12:17:16 +0930"
 slug: space-flight-704-chapter-1-straight-to-the-hell-planet
 tags:
 - Final Flight of Xarnash

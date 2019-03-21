@@ -1,7 +1,7 @@
 ---
 categories:
 - Opinions
-date: "2009-10-15 20:58:43"
+date: "2009-10-15 20:58:43 +0930"
 draft: false
 tags:
 - astroboy

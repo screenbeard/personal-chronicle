@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2015-03-25 11:31:21"
+date: "2015-03-25 11:31:21 +0930"
 draft: false
-publishDate: "2015-03-25 11:31:21"
+publishdate: "2015-03-25 11:31:21 +0930"
 slug: podcast-edict-zero-fis
 tags:
 - audio drama

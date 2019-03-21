@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-06-19 12:24:23"
+date: "2009-06-19 12:24:23 +0930"
 draft: false
-publishDate: "2009-06-19 12:24:23"
+publishdate: "2009-06-19 12:24:23 +0930"
 slug: implications-of-google-wave
 tags:
 - debate

@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-10-19 00:21:58"
+date: "2009-10-19 00:21:58 +0930"
 draft: false
-publishDate: "2009-10-19 00:21:58"
+publishdate: "2009-10-19 00:21:58 +0930"
 slug: emaily-an-important-first-step
 tags:
 - addon

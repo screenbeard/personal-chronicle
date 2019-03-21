@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2006-07-12 12:51:11"
+date: "2006-07-12 12:51:11 +0930"
 draft: false
-publishDate: "2006-07-12 12:51:11"
+publishdate: "2006-07-12 12:51:11 +0930"
 slug: why-fred-basset-is-the-dumbest-comic-strip-ever
 tags:
 - comicstrip

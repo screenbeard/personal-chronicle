@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2010-03-02 10:48:43"
+date: "2010-03-02 10:48:43 +0930"
 draft: false
-publishDate: "2010-03-02 10:48:43"
+publishdate: "2010-03-02 10:48:43 +0930"
 slug: twitter-sucks
 tags: []
 title: Twitter Sucks

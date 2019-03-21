@@ -1,9 +1,9 @@
 ---
 categories:
 - Quick
-date: "2010-04-19 12:49:24"
+date: "2010-04-19 12:49:24 +0930"
 draft: false
-publishDate: "2010-04-19 12:49:24"
+publishdate: "2010-04-19 12:49:24 +0930"
 slug: to-zombie_plan
 tags:
 - birthday

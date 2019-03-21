@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-01-16 08:30:35"
+date: "2012-01-16 08:30:35 +0930"
 draft: false
-publishDate: "2012-01-16 08:30:35"
+publishdate: "2012-01-16 08:30:35 +0930"
 slug: space-flight-558-chapter-1-addendum
 tags:
 - Anrianna

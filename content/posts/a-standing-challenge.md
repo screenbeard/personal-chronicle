@@ -1,7 +1,7 @@
 ---
 categories:
 - Tech
-date: "2010-03-05 03:22:46"
+date: "2010-03-05 03:22:46 +0930"
 draft: false
 tags:
 - learning

@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-05-18 07:08:26"
+date: "2013-05-18 07:08:26 +0930"
 draft: false
-publishDate: "2013-05-18 07:08:26"
+publishdate: "2013-05-18 07:08:26 +0930"
 slug: space-flight-704-chapter-66-torim-excised
 tags:
 - Rex Havoc

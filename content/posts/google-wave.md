@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2009-06-01 12:28:21"
+date: "2009-06-01 12:28:21 +0930"
 draft: false
-publishDate: "2009-06-01 12:28:21"
+publishdate: "2009-06-01 12:28:21 +0930"
 slug: google-wave
 tags:
 - brilliant

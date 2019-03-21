@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2011-07-13 13:02:33"
+date: "2011-07-13 13:02:33 +0930"
 draft: false
-publishDate: "2011-07-13 13:02:33"
+publishdate: "2011-07-13 13:02:33 +0930"
 slug: google-plus
 tags:
 - buzz

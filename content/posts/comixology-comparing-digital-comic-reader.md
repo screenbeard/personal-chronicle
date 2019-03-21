@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2011-07-20 11:45:05"
+date: "2011-07-20 11:45:05 +0930"
 draft: false
-publishDate: "2011-07-20 11:45:05"
+publishdate: "2011-07-20 11:45:05 +0930"
 slug: comixology-comparing-digital-comic-reader
 tags:
 - android

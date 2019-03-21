@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2009-06-16 13:03:55"
+date: "2009-06-16 13:03:55 +0930"
 draft: false
-publishDate: "2009-06-16 13:03:55"
+publishdate: "2009-06-16 13:03:55 +0930"
 slug: some-uncomfortable-truths
 tags:
 - humour

@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2007-02-08 10:08:20"
+date: "2007-02-08 10:08:20 +0930"
 draft: false
-publishDate: "2007-02-08 10:08:20"
+publishdate: "2007-02-08 10:08:20 +0930"
 slug: little-man-stop-motion-animation
 tags:
 - animation

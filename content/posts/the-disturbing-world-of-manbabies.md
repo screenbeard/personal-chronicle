@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2009-06-20 04:43:30"
+date: "2009-06-20 04:43:30 +0930"
 draft: false
-publishDate: "2009-06-20 04:43:30"
+publishdate: "2009-06-20 04:43:30 +0930"
 slug: the-disturbing-world-of-manbabies
 tags:
 - baby

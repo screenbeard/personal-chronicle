@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2007-02-13 00:55:49"
+date: "2007-02-13 00:55:49 +0930"
 draft: false
-publishDate: "2007-02-13 00:55:49"
+publishdate: "2007-02-13 00:55:49 +0930"
 slug: did-you-mean-aaaarrrggghhh
 tags:
 - google

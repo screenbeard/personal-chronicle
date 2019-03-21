@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2006-08-17 03:57:10"
+date: "2006-08-17 03:57:10 +0930"
 draft: false
-publishDate: "2006-08-17 03:57:10"
+publishdate: "2006-08-17 03:57:10 +0930"
 slug: things-to-share-clever-animator-and-artist-jon-klassen
 tags:
 - animation

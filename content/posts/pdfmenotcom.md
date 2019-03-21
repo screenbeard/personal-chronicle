@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2008-04-27 11:17:43"
+date: "2008-04-27 11:17:43 +0930"
 draft: false
-publishDate: "2008-04-27 11:17:43"
+publishdate: "2008-04-27 11:17:43 +0930"
 slug: pdfmenotcom
 tags:
 - embed

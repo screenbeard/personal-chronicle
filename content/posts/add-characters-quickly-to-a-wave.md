@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-27 07:04:36"
+date: "2009-10-27 07:04:36 +0930"
 draft: false
-publishDate: "2009-10-27 07:04:36"
+publishdate: "2009-10-27 07:04:36 +0930"
 slug: add-characters-quickly-to-a-wave
 tags:
 - bots

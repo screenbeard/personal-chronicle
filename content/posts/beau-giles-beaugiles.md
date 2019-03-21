@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2009-07-01 11:38:00"
+date: "2009-07-01 11:38:00 +0930"
 draft: false
-publishDate: "2009-07-01 11:38:00"
+publishdate: "2009-07-01 11:38:00 +0930"
 slug: beau-giles-beaugiles
 tags:
 - beaugiles

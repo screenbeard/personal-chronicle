@@ -1,9 +1,9 @@
 ---
 categories:
 - Themes
-date: "2007-06-14 23:30:32"
+date: "2007-06-14 23:30:32 +0930"
 draft: false
-publishDate: "2007-06-14 23:30:32"
+publishdate: "2007-06-14 23:30:32 +0930"
 slug: joshnunn-theme
 tags:
 - create

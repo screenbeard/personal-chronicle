@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2008-04-16 05:34:40"
+date: "2008-04-16 05:34:40 +0930"
 draft: false
-publishDate: "2008-04-16 05:34:40"
+publishdate: "2008-04-16 05:34:40 +0930"
 slug: cushycms
 tags:
 - alternative

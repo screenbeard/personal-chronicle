@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2006-04-26 09:59:49"
+date: "2006-04-26 09:59:49 +0930"
 draft: false
-publishDate: "2006-04-26 09:59:49"
+publishdate: "2006-04-26 09:59:49 +0930"
 slug: most-needed-entertainment-technology
 tags:
 - music

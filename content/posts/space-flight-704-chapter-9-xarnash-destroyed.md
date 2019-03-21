@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-21 09:30:59"
+date: "2011-09-21 09:30:59 +0930"
 draft: false
-publishDate: "2011-09-21 09:30:59"
+publishdate: "2011-09-21 09:30:59 +0930"
 slug: space-flight-704-chapter-9-xarnash-destroyed
 tags:
 - Final Flight of Xarnash

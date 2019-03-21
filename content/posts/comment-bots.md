@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2018-04-13 12:55:17"
+date: "2018-04-13 12:55:17 +0930"
 draft: false
-publishDate: "2018-04-13 12:55:17"
+publishdate: "2018-04-13 12:55:17 +0930"
 slug: comment-bots
 tags: []
 title: Comment Bots

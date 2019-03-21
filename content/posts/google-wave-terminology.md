@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-06-26 10:35:54"
+date: "2009-06-26 10:35:54 +0930"
 draft: false
-publishDate: "2009-06-26 10:35:54"
+publishdate: "2009-06-26 10:35:54 +0930"
 slug: google-wave-terminology
 tags:
 - guide

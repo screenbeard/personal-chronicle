@@ -1,8 +1,8 @@
 ---
 categories:
 - Life
-date: "2018-06-02 14:13:35"
-publishDate: "2018-06-02 14:13:35"
+date: "2018-06-02 14:13:35 +0930"
+publishdate: "2018-06-02 14:13:35 +0930"
 slug: rpgs-and-native-animals
 tags: null
 title: RPGs and Native Animals

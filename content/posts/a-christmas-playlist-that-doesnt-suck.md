@@ -1,7 +1,7 @@
 ---
 categories:
 - Share
-date: "2010-12-24 12:36:18"
+date: "2010-12-24 12:36:18 +0930"
 draft: false
 tags:
 - carols

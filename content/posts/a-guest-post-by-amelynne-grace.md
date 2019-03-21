@@ -1,7 +1,7 @@
 ---
 categories:
 - Life
-date: "2011-10-21 23:21:40"
+date: "2011-10-21 23:21:40 +0930"
 draft: false
 tags:
 - Amelynne

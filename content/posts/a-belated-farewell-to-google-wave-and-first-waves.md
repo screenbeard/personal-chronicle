@@ -1,7 +1,7 @@
 ---
 categories:
 - Google Wave
-date: "2012-05-21 11:36:05"
+date: "2012-05-21 11:36:05 +0930"
 draft: false
 tags:
 - First Waves

@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2007-04-02 12:25:39"
+date: "2007-04-02 12:25:39 +0930"
 draft: false
-publishDate: "2007-04-02 12:25:39"
+publishdate: "2007-04-02 12:25:39 +0930"
 slug: herwin-attacks
 tags:
 - dramatic

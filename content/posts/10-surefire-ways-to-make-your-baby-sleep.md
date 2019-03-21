@@ -1,7 +1,7 @@
 ---
 categories:
 - Life
-date: "2009-08-31 07:21:08"
+date: "2009-08-31 07:21:08 +0930"
 draft: false
 tags:
 - cute

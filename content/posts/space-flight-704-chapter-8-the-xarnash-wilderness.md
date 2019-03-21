@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-20 09:30:59"
+date: "2011-09-20 09:30:59 +0930"
 draft: false
-publishDate: "2011-09-20 09:30:59"
+publishdate: "2011-09-20 09:30:59 +0930"
 slug: space-flight-704-chapter-8-the-xarnash-wilderness
 tags:
 - Final Flight of Xarnash

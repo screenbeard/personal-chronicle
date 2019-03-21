@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2006-02-08 04:45:49"
+date: "2006-02-08 04:45:49 +0930"
 draft: false
-publishDate: "2006-02-08 04:45:49"
+publishdate: "2006-02-08 04:45:49 +0930"
 slug: gmail-easter-egg
 tags:
 - easter egg

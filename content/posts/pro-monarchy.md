@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2008-04-18 08:34:20"
+date: "2008-04-18 08:34:20 +0930"
 draft: false
-publishDate: "2008-04-18 08:34:20"
+publishdate: "2008-04-18 08:34:20 +0930"
 slug: pro-monarchy
 tags:
 - actor

@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2006-03-13 04:18:14"
+date: "2006-03-13 04:18:14 +0930"
 draft: false
-publishDate: "2006-03-13 04:18:14"
+publishdate: "2006-03-13 04:18:14 +0930"
 slug: psycho-an-unfinished-book-review
 tags:
 - books

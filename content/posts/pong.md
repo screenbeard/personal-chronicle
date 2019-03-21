@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2018-04-06 14:33:43"
+date: "2018-04-06 14:33:43 +0930"
 draft: false
-publishDate: "2018-04-06 14:33:43"
+publishdate: "2018-04-06 14:33:43 +0930"
 slug: pong
 tags: []
 title: Pong

@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-02-15 09:02:38"
+date: "2010-02-15 09:02:38 +0930"
 draft: false
-publishDate: "2010-02-15 09:02:38"
+publishdate: "2010-02-15 09:02:38 +0930"
 slug: frustrated-at-the-tech-ignorant-media
 tags:
 - correcting ignorance

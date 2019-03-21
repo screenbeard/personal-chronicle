@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2006-05-14 14:08:29"
+date: "2006-05-14 14:08:29 +0930"
 draft: false
-publishDate: "2006-05-14 14:08:29"
+publishdate: "2006-05-14 14:08:29 +0930"
 slug: why-you-want-a-mac
 tags:
 - apple

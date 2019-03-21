@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2008-06-08 00:39:26"
+date: "2008-06-08 00:39:26 +0930"
 draft: false
-publishDate: "2008-06-08 00:39:26"
+publishdate: "2008-06-08 00:39:26 +0930"
 slug: starting-the-google-treasure-hunt-how-to-do-the-first-three-questions
 tags:
 - fun

@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2006-01-27 00:00:41"
+date: "2006-01-27 00:00:41 +0930"
 draft: false
-publishDate: "2006-01-27 00:00:41"
+publishdate: "2006-01-27 00:00:41 +0930"
 slug: web-crazies
 tags:
 - crazy

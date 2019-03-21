@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-04-16 09:30:51"
+date: "2013-04-16 09:30:51 +0930"
 draft: false
-publishDate: "2013-04-16 09:30:51"
+publishdate: "2013-04-16 09:30:51 +0930"
 slug: space-flight-704-chapter-55
 tags:
 - back way back

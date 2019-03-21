@@ -1,9 +1,9 @@
 ---
 categories:
 - Education
-date: "2007-05-04 12:21:39"
+date: "2007-05-04 12:21:39 +0930"
 draft: false
-publishDate: "2007-05-04 12:21:39"
+publishdate: "2007-05-04 12:21:39 +0930"
 slug: tools-for-schools-add-notes-and-share-a-page-with-jump-knowledge
 tags:
 - software

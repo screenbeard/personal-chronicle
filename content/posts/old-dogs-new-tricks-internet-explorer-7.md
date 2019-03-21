@@ -1,9 +1,9 @@
 ---
 categories:
 - Education
-date: "2007-05-22 01:45:30"
+date: "2007-05-22 01:45:30 +0930"
 draft: false
-publishDate: "2007-05-22 01:45:30"
+publishdate: "2007-05-22 01:45:30 +0930"
 slug: old-dogs-new-tricks-internet-explorer-7
 tags: []
 title: Old Dogs, New Tricks - Internet Explorer 7

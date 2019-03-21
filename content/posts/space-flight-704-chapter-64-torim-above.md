@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-05-18 06:55:48"
+date: "2013-05-18 06:55:48 +0930"
 draft: false
-publishDate: "2013-05-18 06:55:48"
+publishdate: "2013-05-18 06:55:48 +0930"
 slug: space-flight-704-chapter-64-torim-above
 tags:
 - Rex Havoc

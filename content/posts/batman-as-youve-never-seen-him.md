@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2006-09-03 13:16:03"
+date: "2006-09-03 13:16:03 +0930"
 draft: false
-publishDate: "2006-09-03 13:16:03"
+publishdate: "2006-09-03 13:16:03 +0930"
 slug: batman-as-youve-never-seen-him
 tags:
 - batman

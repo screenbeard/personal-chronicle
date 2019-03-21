@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-10-23 09:54:36"
+date: "2009-10-23 09:54:36 +0930"
 draft: false
-publishDate: "2009-10-23 09:54:36"
+publishdate: "2009-10-23 09:54:36 +0930"
 slug: waver-is-a-simple-adobe-air-app-for-google-wave
 tags:
 - adobe air

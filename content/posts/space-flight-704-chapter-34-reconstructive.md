@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-03-01 08:30:13"
+date: "2012-03-01 08:30:13 +0930"
 draft: false
-publishDate: "2012-03-01 08:30:13"
+publishdate: "2012-03-01 08:30:13 +0930"
 slug: space-flight-704-chapter-34-reconstructive
 tags:
 - cyber-bear

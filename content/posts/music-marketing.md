@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-06-19 12:01:03"
+date: "2009-06-19 12:01:03 +0930"
 draft: false
-publishDate: "2009-06-19 12:01:03"
+publishdate: "2009-06-19 12:01:03 +0930"
 slug: music-marketing
 tags:
 - debate

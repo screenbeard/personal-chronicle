@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2005-12-28 05:10:43"
+date: "2005-12-28 05:10:43 +0930"
 draft: false
-publishDate: "2005-12-28 05:10:43"
+publishdate: "2005-12-28 05:10:43 +0930"
 slug: outrage
 tags:
 - google

@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2008-07-23 12:49:47"
+date: "2008-07-23 12:49:47 +0930"
 draft: false
-publishDate: "2008-07-23 12:49:47"
+publishdate: "2008-07-23 12:49:47 +0930"
 slug: from-my-iphone
 tags:
 - apps

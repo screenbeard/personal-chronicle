@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-14 10:02:46"
+date: "2009-10-14 10:02:46 +0930"
 draft: false
-publishDate: "2009-10-14 10:02:46"
+publishdate: "2009-10-14 10:02:46 +0930"
 slug: some-google-wave-tools-you-might-not-know-about
 tags:
 - extensions

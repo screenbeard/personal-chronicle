@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-11-07 11:17:44"
+date: "2009-11-07 11:17:44 +0930"
 draft: false
-publishDate: "2009-11-07 11:17:44"
+publishdate: "2009-11-07 11:17:44 +0930"
 slug: where-to-start
 tags:
 - gina trapani

@@ -1,9 +1,9 @@
 ---
 categories:
 - Coding
-date: "2009-07-30 01:31:20"
+date: "2009-07-30 01:31:20 +0930"
 draft: false
-publishDate: "2009-07-30 01:31:20"
+publishdate: "2009-07-30 01:31:20 +0930"
 slug: snipplr-com-vs-snipt-net-code-snippet-hosting-comparison
 tags:
 - learning

@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2007-12-24 23:41:20"
+date: "2007-12-24 23:41:20 +0930"
 draft: false
-publishDate: "2007-12-24 23:41:20"
+publishdate: "2007-12-24 23:41:20 +0930"
 slug: christmas
 tags:
 - christmas

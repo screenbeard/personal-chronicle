@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-03-21 08:30:01"
+date: "2013-03-21 08:30:01 +0930"
 draft: false
-publishDate: "2013-03-21 08:30:01"
+publishdate: "2013-03-21 08:30:01 +0930"
 slug: space-flight-704-chapter-46-fateful-realisation
 tags:
 - dick

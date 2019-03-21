@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2012-04-18 21:00:00"
+date: "2012-04-18 21:00:00 +0930"
 draft: false
-publishDate: "2012-04-18 21:00:00"
+publishdate: "2012-04-18 21:00:00 +0930"
 slug: life-change
 tags: []
 title: Life == Change

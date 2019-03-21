@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2009-07-28 13:36:42"
+date: "2009-07-28 13:36:42 +0930"
 draft: false
-publishDate: "2009-07-28 13:36:42"
+publishdate: "2009-07-28 13:36:42 +0930"
 slug: site-direction
 tags: []
 title: Site Direction?

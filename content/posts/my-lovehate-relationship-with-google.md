@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2007-06-18 12:20:17"
+date: "2007-06-18 12:20:17 +0930"
 draft: false
-publishDate: "2007-06-18 12:20:17"
+publishdate: "2007-06-18 12:20:17 +0930"
 slug: my-lovehate-relationship-with-google
 tags:
 - criticism

@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-11-01 05:13:00"
+date: "2009-11-01 05:13:00 +0930"
 draft: false
-publishDate: "2009-11-01 05:13:00"
+publishdate: "2009-11-01 05:13:00 +0930"
 slug: trick-or-treat
 tags:
 - bots

@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2005-12-28 18:25:18"
+date: "2005-12-28 18:25:18 +0930"
 draft: false
-publishDate: "2005-12-28 18:25:18"
+publishdate: "2005-12-28 18:25:18 +0930"
 slug: web-20-and-free-stuff
 tags:
 - apple

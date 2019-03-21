@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2007-02-04 05:05:11"
+date: "2007-02-04 05:05:11 +0930"
 draft: false
-publishDate: "2007-02-04 05:05:11"
+publishdate: "2007-02-04 05:05:11 +0930"
 slug: my-first-movie-on-the-web
 tags:
 - animation

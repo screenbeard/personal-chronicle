@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-23 22:24:00"
+date: "2009-10-23 22:24:00 +0930"
 draft: false
-publishDate: "2009-10-23 22:24:00"
+publishdate: "2009-10-23 22:24:00 +0930"
 slug: learn-these-now
 tags:
 - shortcut

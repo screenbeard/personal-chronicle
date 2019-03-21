@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2010-06-13 13:06:05"
+date: "2010-06-13 13:06:05 +0930"
 draft: false
-publishDate: "2010-06-13 13:06:05"
+publishdate: "2010-06-13 13:06:05 +0930"
 slug: as-good-as
 tags: []
 title: As Good As

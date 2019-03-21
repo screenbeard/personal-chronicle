@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2008-12-09 13:24:11"
+date: "2008-12-09 13:24:11 +0930"
 draft: false
-publishDate: "2008-12-09 13:24:11"
+publishdate: "2008-12-09 13:24:11 +0930"
 slug: twitter-client-faceoff
 tags:
 - FriendFeed

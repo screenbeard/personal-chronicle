@@ -1,9 +1,9 @@
 ---
 categories:
 - Coding
-date: "2009-08-12 22:42:18"
+date: "2009-08-12 22:42:18 +0930"
 draft: false
-publishDate: "2009-08-12 22:42:18"
+publishdate: "2009-08-12 22:42:18 +0930"
 slug: javahackercoding-3-with-a-vengeance
 tags:
 - java

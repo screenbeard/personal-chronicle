@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2011-10-10 10:35:06"
+date: "2011-10-10 10:35:06 +0930"
 draft: false
-publishDate: "2011-10-10 10:35:06"
+publishdate: "2011-10-10 10:35:06 +0930"
 slug: mac-osxwin7
 tags: []
 title: mac osx/win7

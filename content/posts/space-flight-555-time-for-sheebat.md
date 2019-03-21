@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-11-08 08:30:58"
+date: "2011-11-08 08:30:58 +0930"
 draft: false
-publishDate: "2011-11-08 08:30:58"
+publishdate: "2011-11-08 08:30:58 +0930"
 slug: space-flight-555-time-for-sheebat
 tags:
 - cards

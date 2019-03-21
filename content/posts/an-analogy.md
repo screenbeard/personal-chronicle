@@ -1,9 +1,9 @@
 ---
 categories:
 - Religion
-date: "2006-03-09 22:30:38"
+date: "2006-03-09 22:30:38 +0930"
 draft: false
-publishDate: "2006-03-09 22:30:38"
+publishdate: "2006-03-09 22:30:38 +0930"
 slug: an-analogy
 tags:
 - analogy

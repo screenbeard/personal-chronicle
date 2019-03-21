@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2010-04-06 03:52:07"
+date: "2010-04-06 03:52:07 +0930"
 draft: false
-publishDate: "2010-04-06 03:52:07"
+publishdate: "2010-04-06 03:52:07 +0930"
 slug: wordpress-plugins-i-cant-live-without
 tags:
 - plugin

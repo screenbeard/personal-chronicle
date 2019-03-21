@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2015-02-26 10:01:24"
+date: "2015-02-26 10:01:24 +0930"
 draft: false
-publishDate: "2015-02-26 10:01:24"
+publishdate: "2015-02-26 10:01:24 +0930"
 slug: mandatory-detention-of-asylum-seeker-children
 tags: []
 title: Mandatory Detention of Asylum Seeker Children

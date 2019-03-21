@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2011-04-09 11:22:50"
+date: "2011-04-09 11:22:50 +0930"
 draft: false
-publishDate: "2011-04-09 11:22:50"
+publishdate: "2011-04-09 11:22:50 +0930"
 slug: fur-trap-chapter-1-in-the-style-of-ben-bova
 tags:
 - ben bova

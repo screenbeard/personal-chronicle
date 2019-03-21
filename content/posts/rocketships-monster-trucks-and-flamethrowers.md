@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2009-09-30 06:01:25"
+date: "2009-09-30 06:01:25 +0930"
 draft: false
-publishDate: "2009-09-30 06:01:25"
+publishdate: "2009-09-30 06:01:25 +0930"
 slug: rocketships-monster-trucks-and-flamethrowers
 tags:
 - cupcakes

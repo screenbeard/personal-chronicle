@@ -1,9 +1,9 @@
 ---
 categories:
 - Media
-date: "2009-10-28 09:52:57"
+date: "2009-10-28 09:52:57 +0930"
 draft: false
-publishDate: "2009-10-28 09:52:57"
+publishdate: "2009-10-28 09:52:57 +0930"
 slug: minor-interface-tweak
 tags:
 - Avatar

@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2009-06-02 21:57:56"
+date: "2009-06-02 21:57:56 +0930"
 draft: false
-publishDate: "2009-06-02 21:57:56"
+publishdate: "2009-06-02 21:57:56 +0930"
 slug: im-pretty-impressed-with-myself-for-this-this-is-my-website-rendered-by-ie6-and-firefox-30-overlayed-over-each-other-onion-skinned-using-httpsbrowserlabadobecomthe-differences-are-minimal-can-i-co
 tags: []
 title: I’m pretty impressed with myself for this.

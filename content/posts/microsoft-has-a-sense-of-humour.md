@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2009-08-31 23:37:44"
+date: "2009-08-31 23:37:44 +0930"
 draft: false
-publishDate: "2009-08-31 23:37:44"
+publishdate: "2009-08-31 23:37:44 +0930"
 slug: microsoft-has-a-sense-of-humour
 tags:
 - cloning

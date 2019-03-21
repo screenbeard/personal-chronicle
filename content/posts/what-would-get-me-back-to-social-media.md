@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-04-12 00:00:40"
+date: "2010-04-12 00:00:40 +0930"
 draft: false
-publishDate: "2010-04-12 00:00:40"
+publishdate: "2010-04-12 00:00:40 +0930"
 slug: what-would-get-me-back-to-social-media
 tags: []
 title: What Would Get Me Back to Social Media

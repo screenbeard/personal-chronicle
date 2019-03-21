@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2011-11-11 12:30:14"
+date: "2011-11-11 12:30:14 +0930"
 draft: false
-publishDate: "2011-11-11 12:30:14"
+publishdate: "2011-11-11 12:30:14 +0930"
 slug: the-geekorium-turns-six
 tags:
 - happy birthday you thing from another world you

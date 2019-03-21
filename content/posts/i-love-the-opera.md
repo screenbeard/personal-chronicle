@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2006-03-14 05:18:02"
+date: "2006-03-14 05:18:02 +0930"
 draft: false
-publishDate: "2006-03-14 05:18:02"
+publishdate: "2006-03-14 05:18:02 +0930"
 slug: i-love-the-opera
 tags:
 - application

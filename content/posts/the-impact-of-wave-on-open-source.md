@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-06-17 21:38:47"
+date: "2009-06-17 21:38:47 +0930"
 draft: false
-publishDate: "2009-06-17 21:38:47"
+publishdate: "2009-06-17 21:38:47 +0930"
 slug: the-impact-of-wave-on-open-source
 tags:
 - debate

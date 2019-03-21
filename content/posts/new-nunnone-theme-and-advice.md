@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2007-06-15 11:46:11"
+date: "2007-06-15 11:46:11 +0930"
 draft: false
-publishDate: "2007-06-15 11:46:11"
+publishdate: "2007-06-15 11:46:11 +0930"
 slug: new-nunnone-theme-and-advice
 tags:
 - browsers

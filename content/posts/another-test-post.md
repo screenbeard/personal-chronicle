@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2009-07-22 11:48:55"
+date: "2009-07-22 11:48:55 +0930"
 draft: false
-publishDate: "2009-07-22 11:48:55"
+publishdate: "2009-07-22 11:48:55 +0930"
 slug: another-test-post
 tags: []
 title: Another Test Post

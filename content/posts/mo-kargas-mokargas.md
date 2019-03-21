@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2009-07-02 11:49:50"
+date: "2009-07-02 11:49:50 +0930"
 draft: false
-publishDate: "2009-07-02 11:49:50"
+publishdate: "2009-07-02 11:49:50 +0930"
 slug: mo-kargas-mokargas
 tags:
 - '@mokargas'

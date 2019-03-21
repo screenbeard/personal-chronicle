@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-26 09:30:06"
+date: "2011-09-26 09:30:06 +0930"
 draft: false
-publishDate: "2011-09-26 09:30:06"
+publishdate: "2011-09-26 09:30:06 +0930"
 slug: space-flight-704-chapter-12-an-answer-in-the-dark
 tags:
 - incredulous

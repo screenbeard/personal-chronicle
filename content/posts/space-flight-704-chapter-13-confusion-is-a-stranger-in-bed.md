@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-27 09:30:14"
+date: "2011-09-27 09:30:14 +0930"
 draft: false
-publishDate: "2011-09-27 09:30:14"
+publishdate: "2011-09-27 09:30:14 +0930"
 slug: space-flight-704-chapter-13-confusion-is-a-stranger-in-bed
 tags:
 - ghost

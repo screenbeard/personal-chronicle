@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2008-12-14 13:15:18"
+date: "2008-12-14 13:15:18 +0930"
 draft: false
-publishDate: "2008-12-14 13:15:18"
+publishdate: "2008-12-14 13:15:18 +0930"
 slug: oh-27-you-know-just-what-i-like
 tags:
 - FriendFeed

@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-10-03 08:36:10"
+date: "2009-10-03 08:36:10 +0930"
 draft: false
-publishDate: "2009-10-03 08:36:10"
+publishdate: "2009-10-03 08:36:10 +0930"
 slug: what-is-amazing-is-that-google-has-developed-a-real-time-communication-framework-that-can-work-in-a-federated-environmentpeople-arent-getting-it-right-now-because-theyre-expecting-the-beta-to-all-be-a
 tags:
 - debate

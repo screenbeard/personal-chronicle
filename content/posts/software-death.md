@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2018-03-31 12:55:57"
+date: "2018-03-31 12:55:57 +0930"
 draft: false
-publishDate: "2018-03-31 12:55:57"
+publishdate: "2018-03-31 12:55:57 +0930"
 slug: software-death
 tags:
 - alternatives

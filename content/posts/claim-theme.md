@@ -1,9 +1,9 @@
 ---
 categories:
 - Themes
-date: "2007-12-24 10:35:43"
+date: "2007-12-24 10:35:43 +0930"
 draft: false
-publishDate: "2007-12-24 10:35:43"
+publishdate: "2007-12-24 10:35:43 +0930"
 slug: claim-theme
 tags:
 - claim

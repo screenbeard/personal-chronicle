@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-10-20 08:30:50"
+date: "2011-10-20 08:30:50 +0930"
 draft: false
-publishDate: "2011-10-20 08:30:50"
+publishdate: "2011-10-20 08:30:50 +0930"
 slug: space-flight-704-chapter-24-something-must-be-done
 tags:
 - explode something

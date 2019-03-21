@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2008-03-04 10:46:08"
+date: "2008-03-04 10:46:08 +0930"
 draft: false
-publishDate: "2008-03-04 10:46:08"
+publishdate: "2008-03-04 10:46:08 +0930"
 slug: peanut-at-twenty
 tags:
 - baby

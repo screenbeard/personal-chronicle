@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2008-03-05 10:05:09"
+date: "2008-03-05 10:05:09 +0930"
 draft: false
-publishDate: "2008-03-05 10:05:09"
+publishdate: "2008-03-05 10:05:09 +0930"
 slug: batmans-weakness
 tags:
 - batman

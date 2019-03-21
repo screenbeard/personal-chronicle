@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-03-18 12:23:45"
+date: "2010-03-18 12:23:45 +0930"
 draft: false
-publishDate: "2010-03-18 12:23:45"
+publishdate: "2010-03-18 12:23:45 +0930"
 slug: french-postboxes-and-wave
 tags:
 - Competition

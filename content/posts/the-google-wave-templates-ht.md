@@ -1,9 +1,9 @@
 ---
 categories:
 - Status
-date: "2010-02-22 20:17:17"
+date: "2010-02-22 20:17:17 +0930"
 draft: false
-publishDate: "2010-02-22 20:17:17"
+publishdate: "2010-02-22 20:17:17 +0930"
 slug: the-google-wave-templates-ht
 tags:
 - tweet

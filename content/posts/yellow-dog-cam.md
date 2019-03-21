@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2007-08-24 12:21:58"
+date: "2007-08-24 12:21:58 +0930"
 draft: false
-publishDate: "2007-08-24 12:21:58"
+publishdate: "2007-08-24 12:21:58 +0930"
 slug: yellow-dog-cam
 tags:
 - camera

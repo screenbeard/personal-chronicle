@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2011-10-22 09:28:48"
+date: "2011-10-22 09:28:48 +0930"
 draft: false
-publishDate: "2011-10-22 09:28:48"
+publishdate: "2011-10-22 09:28:48 +0930"
 slug: thank-you-amazing-supporters
 tags:
 - cheers big ears!

@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-03-31 22:30:45"
+date: "2010-03-31 22:30:45 +0930"
 draft: false
-publishDate: "2010-03-31 22:30:45"
+publishdate: "2010-03-31 22:30:45 +0930"
 slug: six-things-wave-needs-soon
 tags:
 - direction

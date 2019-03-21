@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-05-18 07:12:33"
+date: "2013-05-18 07:12:33 +0930"
 draft: false
-publishDate: "2013-05-18 07:12:33"
+publishdate: "2013-05-18 07:12:33 +0930"
 slug: space-flight-704-chapter-67-torim-tragedy
 tags:
 - fear hatred tension

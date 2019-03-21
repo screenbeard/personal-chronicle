@@ -1,7 +1,7 @@
 ---
 categories:
 - Religion
-date: "2006-01-20 04:50:27"
+date: "2006-01-20 04:50:27 +0930"
 draft: false
 tags:
 - faith

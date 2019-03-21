@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2011-10-28 23:52:26"
+date: "2011-10-28 23:52:26 +0930"
 draft: false
-publishDate: "2011-10-28 23:52:26"
+publishdate: "2011-10-28 23:52:26 +0930"
 slug: spam-of-the-month-october-2011
 tags:
 - beautiful spam

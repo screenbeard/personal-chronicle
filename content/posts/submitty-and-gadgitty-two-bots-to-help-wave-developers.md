@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-03-02 03:57:33"
+date: "2010-03-02 03:57:33 +0930"
 draft: false
-publishDate: "2010-03-02 03:57:33"
+publishdate: "2010-03-02 03:57:33 +0930"
 slug: submitty-and-gadgitty-two-bots-to-help-wave-developers
 tags:
 - bots

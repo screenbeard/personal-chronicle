@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-04-23 07:30:04"
+date: "2013-04-23 07:30:04 +0930"
 draft: false
-publishDate: "2013-04-23 07:30:04"
+publishdate: "2013-04-23 07:30:04 +0930"
 slug: space-flight-704-chapter-56
 tags:
 - Jones

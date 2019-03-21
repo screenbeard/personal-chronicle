@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-10-05 07:30:47"
+date: "2011-10-05 07:30:47 +0930"
 draft: false
-publishDate: "2011-10-05 07:30:47"
+publishdate: "2011-10-05 07:30:47 +0930"
 slug: space-flight-704-chapter-17-time-enough
 tags:
 - plans

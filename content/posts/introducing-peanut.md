@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2008-01-11 03:37:02"
+date: "2008-01-11 03:37:02 +0930"
 draft: false
-publishDate: "2008-01-11 03:37:02"
+publishdate: "2008-01-11 03:37:02 +0930"
 slug: introducing-peanut
 tags:
 - baby

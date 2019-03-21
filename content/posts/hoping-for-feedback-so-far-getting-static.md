@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2010-03-15 07:59:35"
+date: "2010-03-15 07:59:35 +0930"
 draft: false
-publishDate: "2010-03-15 07:59:35"
+publishdate: "2010-03-15 07:59:35 +0930"
 slug: hoping-for-feedback-so-far-getting-static
 tags:
 - family

@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2008-12-16 11:44:48"
+date: "2008-12-16 11:44:48 +0930"
 draft: false
-publishDate: "2008-12-16 11:44:48"
+publishdate: "2008-12-16 11:44:48 +0930"
 slug: how-my-avatar-differs-from-my-real-face-a-guide
 tags:
 - Avatar

@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2006-03-17 23:05:44"
+date: "2006-03-17 23:05:44 +0930"
 draft: false
-publishDate: "2006-03-17 23:05:44"
+publishdate: "2006-03-17 23:05:44 +0930"
 slug: what-who-named-that-child
 tags:
 - gender confusion

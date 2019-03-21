@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2011-10-01 12:14:17"
+date: "2011-10-01 12:14:17 +0930"
 draft: false
-publishDate: "2011-10-01 12:14:17"
+publishdate: "2011-10-01 12:14:17 +0930"
 slug: rex-havoc-postponed
 tags:
 - delay

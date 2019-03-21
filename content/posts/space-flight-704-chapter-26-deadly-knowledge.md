@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-10-24 08:30:11"
+date: "2011-10-24 08:30:11 +0930"
 draft: false
-publishDate: "2011-10-24 08:30:11"
+publishdate: "2011-10-24 08:30:11 +0930"
 slug: space-flight-704-chapter-26-deadly-knowledge
 tags:
 - crushed

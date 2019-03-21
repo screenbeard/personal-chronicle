@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2009-08-14 13:31:03"
+date: "2009-08-14 13:31:03 +0930"
 draft: false
-publishDate: "2009-08-14 13:31:03"
+publishdate: "2009-08-14 13:31:03 +0930"
 slug: web-guysvs-real-programmers
 tags:
 - learning

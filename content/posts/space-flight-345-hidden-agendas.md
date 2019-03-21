@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-09-27 09:30:29"
+date: "2012-09-27 09:30:29 +0930"
 draft: false
-publishDate: "2012-09-27 09:30:29"
+publishdate: "2012-09-27 09:30:29 +0930"
 slug: space-flight-345-hidden-agendas
 tags:
 - Dr Phelchoff

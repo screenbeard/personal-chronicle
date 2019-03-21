@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-10-08 09:12:58"
+date: "2009-10-08 09:12:58 +0930"
 draft: false
-publishDate: "2009-10-08 09:12:58"
+publishdate: "2009-10-08 09:12:58 +0930"
 slug: the-freedom-problem
 tags:
 - debate

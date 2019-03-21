@@ -1,9 +1,9 @@
 ---
 categories:
 - Religion
-date: "2006-06-04 13:45:11"
+date: "2006-06-04 13:45:11 +0930"
 draft: false
-publishDate: "2006-06-04 13:45:11"
+publishdate: "2006-06-04 13:45:11 +0930"
 slug: confusion-and-head-trauma
 tags:
 - faith

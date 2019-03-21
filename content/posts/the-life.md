@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2010-04-05 01:19:40"
+date: "2010-04-05 01:19:40 +0930"
 draft: false
-publishDate: "2010-04-05 01:19:40"
+publishdate: "2010-04-05 01:19:40 +0930"
 slug: the-life
 tags:
 - child

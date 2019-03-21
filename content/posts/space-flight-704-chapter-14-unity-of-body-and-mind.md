@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-28 09:30:35"
+date: "2011-09-28 09:30:35 +0930"
 draft: false
-publishDate: "2011-09-28 09:30:35"
+publishdate: "2011-09-28 09:30:35 +0930"
 slug: space-flight-704-chapter-14-unity-of-body-and-mind
 tags:
 - Jones

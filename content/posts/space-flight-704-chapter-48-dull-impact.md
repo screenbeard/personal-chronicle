@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-03-26 08:30:32"
+date: "2013-03-26 08:30:32 +0930"
 draft: false
-publishDate: "2013-03-26 08:30:32"
+publishdate: "2013-03-26 08:30:32 +0930"
 slug: space-flight-704-chapter-48-dull-impact
 tags:
 - Anrianna

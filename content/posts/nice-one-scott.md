@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2007-07-12 01:38:29"
+date: "2007-07-12 01:38:29 +0930"
 draft: false
-publishDate: "2007-07-12 01:38:29"
+publishdate: "2007-07-12 01:38:29 +0930"
 slug: nice-one-scott
 tags:
 - banking

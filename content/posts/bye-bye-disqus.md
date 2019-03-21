@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-04-12 12:10:50"
+date: "2010-04-12 12:10:50 +0930"
 draft: false
-publishDate: "2010-04-12 12:10:50"
+publishdate: "2010-04-12 12:10:50 +0930"
 slug: bye-bye-disqus
 tags:
 - comments

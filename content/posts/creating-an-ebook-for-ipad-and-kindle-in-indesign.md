@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2012-04-01 12:30:44"
+date: "2012-04-01 12:30:44 +0930"
 draft: false
-publishDate: "2012-04-01 12:30:44"
+publishdate: "2012-04-01 12:30:44 +0930"
 slug: creating-an-ebook-for-ipad-and-kindle-in-indesign
 tags:
 - Calibre

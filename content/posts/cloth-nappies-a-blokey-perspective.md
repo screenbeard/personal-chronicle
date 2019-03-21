@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2009-09-30 13:37:44"
+date: "2009-09-30 13:37:44 +0930"
 draft: false
-publishDate: "2009-09-30 13:37:44"
+publishdate: "2009-09-30 13:37:44 +0930"
 slug: cloth-nappies-a-blokey-perspective
 tags:
 - housewife

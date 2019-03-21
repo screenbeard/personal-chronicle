@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-03-30 10:20:14"
+date: "2010-03-30 10:20:14 +0930"
 draft: false
-publishDate: "2010-03-30 10:20:14"
+publishdate: "2010-03-30 10:20:14 +0930"
 slug: why-email-needs-replacing-or-why-wave-matters
 tags:
 - email

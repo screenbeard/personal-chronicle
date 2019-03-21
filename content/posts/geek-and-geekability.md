@@ -1,7 +1,7 @@
 ---
 categories:
 - Video
-date: "2010-11-21 23:23:44"
+date: "2010-11-21 23:23:44 +0930"
 draft: false
 tags:
 - ben bova

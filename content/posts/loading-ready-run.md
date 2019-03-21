@@ -1,9 +1,9 @@
 ---
 categories:
 - Themes
-date: "2007-12-08 23:00:30"
+date: "2007-12-08 23:00:30 +0930"
 draft: false
-publishDate: "2007-12-08 23:00:30"
+publishdate: "2007-12-08 23:00:30 +0930"
 slug: loading-ready-run
 tags:
 - commodore 64

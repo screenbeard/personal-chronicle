@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2009-11-18 03:32:59"
+date: "2009-11-18 03:32:59 +0930"
 draft: false
-publishDate: "2009-11-18 03:32:59"
+publishdate: "2009-11-18 03:32:59 +0930"
 slug: to-brizzly-tweetie-seesmic-echofon-add-this-feature-and-i-will-have-your-babies
 tags:
 - application

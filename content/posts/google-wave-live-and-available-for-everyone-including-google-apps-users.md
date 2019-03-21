@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-05-19 20:11:13"
+date: "2010-05-19 20:11:13 +0930"
 draft: false
-publishDate: "2010-05-19 20:11:13"
+publishdate: "2010-05-19 20:11:13 +0930"
 slug: google-wave-live-and-available-for-everyone-including-google-apps-users
 tags: []
 title: Google Wave Live and Available for Everyone! Including Google Apps users!

@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2010-10-16 11:43:43"
+date: "2010-10-16 11:43:43 +0930"
 draft: false
-publishDate: "2010-10-16 11:43:43"
+publishdate: "2010-10-16 11:43:43 +0930"
 slug: well-this-is-embarrassing
 tags: []
 title: Well this is embarrassing

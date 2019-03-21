@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2007-09-07 01:30:03"
+date: "2007-09-07 01:30:03 +0930"
 draft: false
-publishDate: "2007-09-07 01:30:03"
+publishdate: "2007-09-07 01:30:03 +0930"
 slug: the-weekend
 tags:
 - bichon frise

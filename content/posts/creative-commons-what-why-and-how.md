@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-06-01 03:34:13"
+date: "2010-06-01 03:34:13 +0930"
 draft: false
-publishDate: "2010-06-01 03:34:13"
+publishdate: "2010-06-01 03:34:13 +0930"
 slug: creative-commons-what-why-and-how
 tags: []
 title: 'Creative Commons: What, Why and How.'

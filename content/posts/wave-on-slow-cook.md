@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-03-16 12:10:43"
+date: "2010-03-16 12:10:43 +0930"
 draft: false
-publishDate: "2010-03-16 12:10:43"
+publishdate: "2010-03-16 12:10:43 +0930"
 slug: wave-on-slow-cook
 tags:
 - debate

@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-03-30 08:30:08"
+date: "2013-03-30 08:30:08 +0930"
 draft: false
-publishDate: "2013-03-30 08:30:08"
+publishdate: "2013-03-30 08:30:08 +0930"
 slug: space-flight-704-chapter-50
 tags:
 - Anrianna

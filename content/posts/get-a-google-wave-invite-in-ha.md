@@ -1,9 +1,9 @@
 ---
 categories:
 - Status
-date: "2009-11-15 11:46:50"
+date: "2009-11-15 11:46:50 +0930"
 draft: false
-publishDate: "2009-11-15 11:46:50"
+publishdate: "2009-11-15 11:46:50 +0930"
 slug: get-a-google-wave-invite-in-ha
 tags: []
 title: Get a Google Wave invite in ha...

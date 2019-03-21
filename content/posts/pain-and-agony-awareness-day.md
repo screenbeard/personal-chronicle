@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2008-05-12 05:14:54"
+date: "2008-05-12 05:14:54 +0930"
 draft: false
-publishDate: "2008-05-12 05:14:54"
+publishdate: "2008-05-12 05:14:54 +0930"
 slug: pain-and-agony-awareness-day
 tags:
 - cfs

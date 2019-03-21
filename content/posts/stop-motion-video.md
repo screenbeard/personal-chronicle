@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2007-01-28 10:04:20"
+date: "2007-01-28 10:04:20 +0930"
 draft: false
-publishDate: "2007-01-28 10:04:20"
+publishdate: "2007-01-28 10:04:20 +0930"
 slug: stop-motion-video
 tags:
 - animation

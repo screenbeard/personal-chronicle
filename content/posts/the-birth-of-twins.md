@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2012-08-21 12:30:04"
+date: "2012-08-21 12:30:04 +0930"
 draft: false
-publishDate: "2012-08-21 12:30:04"
+publishdate: "2012-08-21 12:30:04 +0930"
 slug: the-birth-of-twins
 tags:
 - babies

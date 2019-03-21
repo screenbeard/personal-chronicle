@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-06-13 02:23:32"
+date: "2009-06-13 02:23:32 +0930"
 draft: false
-publishDate: "2009-06-13 02:23:32"
+publishdate: "2009-06-13 02:23:32 +0930"
 slug: crystal-ball
 tags:
 - debate

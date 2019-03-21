@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2008-01-10 11:12:58"
+date: "2008-01-10 11:12:58 +0930"
 draft: false
-publishDate: "2008-01-10 11:12:58"
+publishdate: "2008-01-10 11:12:58 +0930"
 slug: its-time-this-ended
 tags:
 - create

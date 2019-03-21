@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-05-18 09:30:53"
+date: "2012-05-18 09:30:53 +0930"
 draft: false
-publishDate: "2012-05-18 09:30:53"
+publishdate: "2012-05-18 09:30:53 +0930"
 slug: space-flight-704-chapter-42-the-wounded-people
 tags:
 - Jones-thing

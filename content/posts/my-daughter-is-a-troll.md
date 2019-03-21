@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2011-03-31 23:53:52"
+date: "2011-03-31 23:53:52 +0930"
 draft: false
-publishDate: "2011-03-31 23:53:52"
+publishdate: "2011-03-31 23:53:52 +0930"
 slug: my-daughter-is-a-troll
 tags:
 - Amelynne

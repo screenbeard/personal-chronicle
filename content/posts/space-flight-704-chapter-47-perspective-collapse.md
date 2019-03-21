@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-03-23 08:30:53"
+date: "2013-03-23 08:30:53 +0930"
 draft: false
-publishDate: "2013-03-23 08:30:53"
+publishdate: "2013-03-23 08:30:53 +0930"
 slug: space-flight-704-chapter-47-perspective-collapse
 tags:
 - Anrianna

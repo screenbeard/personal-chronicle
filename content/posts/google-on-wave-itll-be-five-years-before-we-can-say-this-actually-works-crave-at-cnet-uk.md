@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2010-04-21 12:40:22"
+date: "2010-04-21 12:40:22 +0930"
 draft: false
-publishDate: "2010-04-21 12:40:22"
+publishdate: "2010-04-21 12:40:22 +0930"
 slug: google-on-wave-itll-be-five-years-before-we-can-say-this-actually-works-crave-at-cnet-uk
 tags:
 - direction

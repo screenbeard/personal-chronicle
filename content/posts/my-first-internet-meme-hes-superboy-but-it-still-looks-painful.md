@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2007-05-30 11:46:37"
+date: "2007-05-30 11:46:37 +0930"
 draft: false
-publishDate: "2007-05-30 11:46:37"
+publishdate: "2007-05-30 11:46:37 +0930"
 slug: my-first-internet-meme-hes-superboy-but-it-still-looks-painful
 tags:
 - crash

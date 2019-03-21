@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2010-04-05 11:17:30"
+date: "2010-04-05 11:17:30 +0930"
 draft: false
-publishDate: "2010-04-05 11:17:30"
+publishdate: "2010-04-05 11:17:30 +0930"
 slug: the-worst-movie-ive-seen-this-year
 tags:
 - fun

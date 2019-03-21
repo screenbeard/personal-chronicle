@@ -1,9 +1,9 @@
 ---
 categories:
 - Themes
-date: "2011-01-16 11:52:07"
+date: "2011-01-16 11:52:07 +0930"
 draft: false
-publishDate: "2011-01-16 11:52:07"
+publishdate: "2011-01-16 11:52:07 +0930"
 slug: comic-book-hero
 tags:
 - batman

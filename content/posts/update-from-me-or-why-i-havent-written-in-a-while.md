@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2006-04-23 09:12:06"
+date: "2006-04-23 09:12:06 +0930"
 draft: false
-publishDate: "2006-04-23 09:12:06"
+publishdate: "2006-04-23 09:12:06 +0930"
 slug: update-from-me-or-why-i-havent-written-in-a-while
 tags:
 - animation

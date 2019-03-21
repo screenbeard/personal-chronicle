@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-06-05 01:25:00"
+date: "2009-06-05 01:25:00 +0930"
 draft: false
-publishDate: "2009-06-05 01:25:00"
+publishdate: "2009-06-05 01:25:00 +0930"
 slug: wave-the-product
 tags:
 - client

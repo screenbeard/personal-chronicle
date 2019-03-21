@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2011-03-19 09:12:42"
+date: "2011-03-19 09:12:42 +0930"
 draft: false
-publishDate: "2011-03-19 09:12:42"
+publishdate: "2011-03-19 09:12:42 +0930"
 slug: applicant-a-short-sci-fi-story
 tags:
 - scifi

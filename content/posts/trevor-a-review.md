@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2007-09-09 08:49:31"
+date: "2007-09-09 08:49:31 +0930"
 draft: false
-publishDate: "2007-09-09 08:49:31"
+publishdate: "2007-09-09 08:49:31 +0930"
 slug: trevor-a-review
 tags:
 - friend

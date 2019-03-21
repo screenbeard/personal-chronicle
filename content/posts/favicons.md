@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-05-11 11:49:19"
+date: "2010-05-11 11:49:19 +0930"
 draft: false
-publishDate: "2010-05-11 11:49:19"
+publishdate: "2010-05-11 11:49:19 +0930"
 slug: favicons
 tags:
 - favicon

@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-05-09 09:30:00"
+date: "2012-05-09 09:30:00 +0930"
 draft: false
-publishDate: "2012-05-09 09:30:00"
+publishdate: "2012-05-09 09:30:00 +0930"
 slug: space-flight-704-chapter-39-nowhere-to-run
 tags:
 - Jones

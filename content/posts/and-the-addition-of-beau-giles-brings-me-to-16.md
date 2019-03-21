@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2008-03-22 01:38:49"
+date: "2008-03-22 01:38:49 +0930"
 draft: false
-publishDate: "2008-03-22 01:38:49"
+publishdate: "2008-03-22 01:38:49 +0930"
 slug: and-the-addition-of-beau-giles-brings-me-to-16
 tags:
 - beau giles

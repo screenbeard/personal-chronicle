@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-06-19 12:14:30"
+date: "2009-06-19 12:14:30 +0930"
 draft: false
-publishDate: "2009-06-19 12:14:30"
+publishdate: "2009-06-19 12:14:30 +0930"
 slug: some-downsides-to-wave
 tags:
 - problem

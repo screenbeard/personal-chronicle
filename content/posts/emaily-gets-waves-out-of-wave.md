@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-04-02 22:30:58"
+date: "2010-04-02 22:30:58 +0930"
 draft: false
-publishDate: "2010-04-02 22:30:58"
+publishdate: "2010-04-02 22:30:58 +0930"
 slug: emaily-gets-waves-out-of-wave
 tags:
 - api

@@ -1,9 +1,9 @@
 ---
 categories:
 - Education
-date: "2008-10-05 10:05:11"
+date: "2008-10-05 10:05:11 +0930"
 draft: false
-publishDate: "2008-10-05 10:05:11"
+publishdate: "2008-10-05 10:05:11 +0930"
 slug: reliance
 tags:
 - Education

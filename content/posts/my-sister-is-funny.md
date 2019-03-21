@@ -1,9 +1,9 @@
 ---
 categories:
 - Quick
-date: "2010-05-24 05:17:06"
+date: "2010-05-24 05:17:06 +0930"
 draft: false
-publishDate: "2010-05-24 05:17:06"
+publishdate: "2010-05-24 05:17:06 +0930"
 slug: my-sister-is-funny
 tags: []
 title: My Sister is Funny

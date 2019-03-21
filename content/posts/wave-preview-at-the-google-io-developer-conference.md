@@ -1,9 +1,9 @@
 ---
 categories:
 - Media
-date: "2009-06-04 11:11:00"
+date: "2009-06-04 11:11:00 +0930"
 draft: false
-publishDate: "2009-06-04 11:11:00"
+publishdate: "2009-06-04 11:11:00 +0930"
 slug: wave-preview-at-the-google-io-developer-conference
 tags:
 - first look

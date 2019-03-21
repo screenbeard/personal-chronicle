@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2018-04-28 06:04:26"
+date: "2018-04-28 06:04:26 +0930"
 draft: false
-publishDate: "2018-04-28 06:04:26"
+publishdate: "2018-04-28 06:04:26 +0930"
 slug: c128-journey
 tags: []
 title: C=128 Journey

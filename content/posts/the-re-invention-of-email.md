@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-06-19 12:04:44"
+date: "2009-06-19 12:04:44 +0930"
 draft: false
-publishDate: "2009-06-19 12:04:44"
+publishdate: "2009-06-19 12:04:44 +0930"
 slug: the-re-invention-of-email
 tags:
 - Competition

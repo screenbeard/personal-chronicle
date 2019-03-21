@@ -1,9 +1,9 @@
 ---
 categories:
 - eBook
-date: "2012-02-05 10:03:59"
+date: "2012-02-05 10:03:59 +0930"
 draft: false
-publishDate: "2012-02-05 10:03:59"
+publishdate: "2012-02-05 10:03:59 +0930"
 slug: get-space-flight-704
 tags:
 - ebook

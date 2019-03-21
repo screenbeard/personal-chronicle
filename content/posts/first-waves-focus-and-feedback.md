@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-03-16 12:51:48"
+date: "2010-03-16 12:51:48 +0930"
 draft: false
-publishDate: "2010-03-16 12:51:48"
+publishdate: "2010-03-16 12:51:48 +0930"
 slug: first-waves-focus-and-feedback
 tags: []
 title: First Waves - Focus and Feedback

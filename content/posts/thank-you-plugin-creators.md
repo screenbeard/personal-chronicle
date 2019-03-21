@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2009-01-29 03:14:45"
+date: "2009-01-29 03:14:45 +0930"
 draft: false
-publishDate: "2009-01-29 03:14:45"
+publishdate: "2009-01-29 03:14:45 +0930"
 slug: thank-you-plugin-creators
 tags:
 - Flickr

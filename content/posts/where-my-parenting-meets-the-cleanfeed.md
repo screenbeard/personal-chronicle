@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2008-12-07 05:57:01"
+date: "2008-12-07 05:57:01 +0930"
 draft: false
-publishDate: "2008-12-07 05:57:01"
+publishdate: "2008-12-07 05:57:01 +0930"
 slug: where-my-parenting-meets-the-cleanfeed
 tags:
 - baby

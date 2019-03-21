@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2006-07-10 12:30:51"
+date: "2006-07-10 12:30:51 +0930"
 draft: false
-publishDate: "2006-07-10 12:30:51"
+publishdate: "2006-07-10 12:30:51 +0930"
 slug: pirates-of-the-caribbean-dead-mans-chest-or-how-to-wow-and-annoy-an-audience-all-at-once
 tags:
 - imdb

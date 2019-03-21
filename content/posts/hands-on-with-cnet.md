@@ -1,9 +1,9 @@
 ---
 categories:
 - Quote
-date: "2009-06-14 10:56:08"
+date: "2009-06-14 10:56:08 +0930"
 draft: false
-publishDate: "2009-06-14 10:56:08"
+publishdate: "2009-06-14 10:56:08 +0930"
 slug: hands-on-with-cnet
 tags:
 - debate

@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2018-04-20 13:48:54"
+date: "2018-04-20 13:48:54 +0930"
 draft: false
-publishDate: "2018-04-20 13:48:54"
+publishdate: "2018-04-20 13:48:54 +0930"
 slug: letting-the-internet-die
 tags:
 - let it go

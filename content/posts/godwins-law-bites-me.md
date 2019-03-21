@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2007-11-10 23:38:02"
+date: "2007-11-10 23:38:02 +0930"
 draft: false
-publishDate: "2007-11-10 23:38:02"
+publishdate: "2007-11-10 23:38:02 +0930"
 slug: godwins-law-bites-me
 tags:
 - comicstrip

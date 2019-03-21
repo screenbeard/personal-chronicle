@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2010-03-02 21:34:07"
+date: "2010-03-02 21:34:07 +0930"
 draft: false
-publishDate: "2010-03-02 21:34:07"
+publishdate: "2010-03-02 21:34:07 +0930"
 slug: my-wife-a-love-story
 tags:
 - family

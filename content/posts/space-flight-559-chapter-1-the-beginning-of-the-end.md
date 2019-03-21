@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-05-14 09:30:39"
+date: "2012-05-14 09:30:39 +0930"
 draft: false
-publishDate: "2012-05-14 09:30:39"
+publishdate: "2012-05-14 09:30:39 +0930"
 slug: space-flight-559-chapter-1-the-beginning-of-the-end
 tags:
 - The Professor

@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-03-30 06:10:20"
+date: "2010-03-30 06:10:20 +0930"
 draft: false
-publishDate: "2010-03-30 06:10:20"
+publishdate: "2010-03-30 06:10:20 +0930"
 slug: how-wave-could-tackle-the-spam-problem
 tags:
 - future

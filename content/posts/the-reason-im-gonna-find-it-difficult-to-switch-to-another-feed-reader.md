@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2008-10-17 23:03:01"
+date: "2008-10-17 23:03:01 +0930"
 draft: false
-publishDate: "2008-10-17 23:03:01"
+publishdate: "2008-10-17 23:03:01 +0930"
 slug: the-reason-im-gonna-find-it-difficult-to-switch-to-another-feed-reader
 tags:
 - photo evidence

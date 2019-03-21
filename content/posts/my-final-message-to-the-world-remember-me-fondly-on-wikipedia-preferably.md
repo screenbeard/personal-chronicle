@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2010-03-15 12:16:46"
+date: "2010-03-15 12:16:46 +0930"
 draft: false
-publishDate: "2010-03-15 12:16:46"
+publishdate: "2010-03-15 12:16:46 +0930"
 slug: my-final-message-to-the-world-remember-me-fondly-on-wikipedia-preferably
 tags:
 - fun

@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2018-04-02 03:04:43"
+date: "2018-04-02 03:04:43 +0930"
 draft: false
-publishDate: "2018-04-02 03:04:43"
+publishdate: "2018-04-02 03:04:43 +0930"
 slug: dashing-dynamic-duo
 tags: []
 title: Dashing Dynamic Duo

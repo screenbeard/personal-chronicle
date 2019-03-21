@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2011-03-15 20:58:40"
+date: "2011-03-15 20:58:40 +0930"
 draft: false
-publishDate: "2011-03-15 20:58:40"
+publishdate: "2011-03-15 20:58:40 +0930"
 slug: let-me-get-this-straight
 tags:
 - stupid

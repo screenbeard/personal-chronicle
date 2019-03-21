@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-20 09:38:50"
+date: "2009-10-20 09:38:50 +0930"
 draft: false
-publishDate: "2009-10-20 09:38:50"
+publishdate: "2009-10-20 09:38:50 +0930"
 slug: waveboard-stand-alone-wave-app
 tags:
 - client

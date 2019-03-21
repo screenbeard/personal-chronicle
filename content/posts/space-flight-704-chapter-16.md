@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-10-04 09:30:33"
+date: "2011-10-04 09:30:33 +0930"
 draft: false
-publishDate: "2011-10-04 09:30:33"
+publishdate: "2011-10-04 09:30:33 +0930"
 slug: space-flight-704-chapter-16
 tags:
 - concentration

@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-03-04 23:12:53"
+date: "2010-03-04 23:12:53 +0930"
 draft: false
-publishDate: "2010-03-04 23:12:53"
+publishdate: "2010-03-04 23:12:53 +0930"
 slug: google-wave-gets-email-notifications
 tags:
 - addon

@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2006-04-03 08:21:41"
+date: "2006-04-03 08:21:41 +0930"
 draft: false
-publishDate: "2006-04-03 08:21:41"
+publishdate: "2006-04-03 08:21:41 +0930"
 slug: css-naked-day
 tags:
 - browsers

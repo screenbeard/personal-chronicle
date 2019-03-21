@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-04-09 03:46:07"
+date: "2010-04-09 03:46:07 +0930"
 draft: false
-publishDate: "2010-04-09 03:46:07"
+publishdate: "2010-04-09 03:46:07 +0930"
 slug: iphone-competitors-you-have-4-months
 tags:
 - google

@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-10-17 08:30:51"
+date: "2011-10-17 08:30:51 +0930"
 draft: false
-publishDate: "2011-10-17 08:30:51"
+publishdate: "2011-10-17 08:30:51 +0930"
 slug: space-flight-704-chapter-21-doom-is-overrated
 tags:
 - clarity

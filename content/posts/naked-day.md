@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2008-04-08 14:31:54"
+date: "2008-04-08 14:31:54 +0930"
 draft: false
-publishDate: "2008-04-08 14:31:54"
+publishdate: "2008-04-08 14:31:54 +0930"
 slug: naked-day
 tags:
 - css

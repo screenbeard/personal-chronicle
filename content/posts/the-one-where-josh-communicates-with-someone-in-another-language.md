@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2007-07-01 01:49:55"
+date: "2007-07-01 01:49:55 +0930"
 draft: false
-publishDate: "2007-07-01 01:49:55"
+publishdate: "2007-07-01 01:49:55 +0930"
 slug: the-one-where-josh-communicates-with-someone-in-another-language
 tags:
 - commenters rock

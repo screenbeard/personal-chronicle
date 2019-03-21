@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-10-07 08:30:54"
+date: "2011-10-07 08:30:54 +0930"
 draft: false
-publishDate: "2011-10-07 08:30:54"
+publishdate: "2011-10-07 08:30:54 +0930"
 slug: space-flight-704-chapter-19-the-haunted-cliffs-of-tanshaa
 tags:
 - feelings

@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-06-13 02:22:10"
+date: "2009-06-13 02:22:10 +0930"
 draft: false
-publishDate: "2009-06-13 02:22:10"
+publishdate: "2009-06-13 02:22:10 +0930"
 slug: google-wave-questions-and-answers
 tags:
 - debate

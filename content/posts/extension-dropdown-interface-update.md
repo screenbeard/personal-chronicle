@@ -1,9 +1,9 @@
 ---
 categories:
 - Media
-date: "2010-04-13 05:59:56"
+date: "2010-04-13 05:59:56 +0930"
 draft: false
-publishDate: "2010-04-13 05:59:56"
+publishdate: "2010-04-13 05:59:56 +0930"
 slug: extension-dropdown-interface-update
 tags:
 - interface

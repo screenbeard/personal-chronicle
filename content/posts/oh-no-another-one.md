@@ -1,7 +1,7 @@
 ---
 categories:
 - Video
-date: "2010-10-31 12:08:30"
+date: "2010-10-31 12:08:30 +0930"
 draft: false
 tags:
 - long

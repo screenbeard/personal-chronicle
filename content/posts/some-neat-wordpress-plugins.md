@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-04-29 12:41:33"
+date: "2010-04-29 12:41:33 +0930"
 draft: false
-publishDate: "2010-04-29 12:41:33"
+publishdate: "2010-04-29 12:41:33 +0930"
 slug: some-neat-wordpress-plugins
 tags:
 - application

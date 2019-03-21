@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-05-20 12:59:27"
+date: "2013-05-20 12:59:27 +0930"
 draft: false
-publishDate: "2013-05-20 12:59:27"
+publishdate: "2013-05-20 12:59:27 +0930"
 slug: space-flight-704-chapter-70-introspection
 tags:
 - Ortrix

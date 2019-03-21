@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2010-03-12 05:23:23"
+date: "2010-03-12 05:23:23 +0930"
 draft: false
-publishDate: "2010-03-12 05:23:23"
+publishdate: "2010-03-12 05:23:23 +0930"
 slug: folder-redirection-for-unusual-paths-group-policy
 tags:
 - active directory

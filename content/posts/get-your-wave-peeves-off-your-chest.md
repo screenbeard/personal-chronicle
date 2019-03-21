@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-04-26 02:00:48"
+date: "2010-04-26 02:00:48 +0930"
 draft: false
-publishDate: "2010-04-26 02:00:48"
+publishdate: "2010-04-26 02:00:48 +0930"
 slug: get-your-wave-peeves-off-your-chest
 tags:
 - community

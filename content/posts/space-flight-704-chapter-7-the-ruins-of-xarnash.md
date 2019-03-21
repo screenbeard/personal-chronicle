@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-19 09:30:04"
+date: "2011-09-19 09:30:04 +0930"
 draft: false
-publishDate: "2011-09-19 09:30:04"
+publishdate: "2011-09-19 09:30:04 +0930"
 slug: space-flight-704-chapter-7-the-ruins-of-xarnash
 tags:
 - Final Flight of Xarnash

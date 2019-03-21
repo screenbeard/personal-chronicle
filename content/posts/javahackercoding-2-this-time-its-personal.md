@@ -1,9 +1,9 @@
 ---
 categories:
 - Coding
-date: "2009-08-06 22:18:57"
+date: "2009-08-06 22:18:57 +0930"
 draft: false
-publishDate: "2009-08-06 22:18:57"
+publishdate: "2009-08-06 22:18:57 +0930"
 slug: javahackercoding-2-this-time-its-personal
 tags:
 - classes

@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-01-23 02:59:36"
+date: "2010-01-23 02:59:36 +0930"
 draft: false
-publishDate: "2010-01-23 02:59:36"
+publishdate: "2010-01-23 02:59:36 +0930"
 slug: restore-a-wave-to-a-former-state-or-make-it-read-only
 tags:
 - editing

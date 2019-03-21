@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2007-11-11 00:24:11"
+date: "2007-11-11 00:24:11 +0930"
 draft: false
-publishDate: "2007-11-11 00:24:11"
+publishdate: "2007-11-11 00:24:11 +0930"
 slug: potential-google-game
 tags:
 - game

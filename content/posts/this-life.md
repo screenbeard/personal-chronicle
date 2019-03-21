@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2016-04-06 11:34:44"
+date: "2016-04-06 11:34:44 +0930"
 draft: false
-publishDate: "2016-04-06 11:34:44"
+publishdate: "2016-04-06 11:34:44 +0930"
 slug: this-life
 tags:
 - happiness

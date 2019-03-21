@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-05-04 09:30:32"
+date: "2012-05-04 09:30:32 +0930"
 draft: false
-publishDate: "2012-05-04 09:30:32"
+publishdate: "2012-05-04 09:30:32 +0930"
 slug: space-flight-704-chapter-36-the-power-of-nippal
 tags:
 - crazy

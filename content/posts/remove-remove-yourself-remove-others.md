@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-04-25 07:28:20"
+date: "2010-04-25 07:28:20 +0930"
 draft: false
-publishDate: "2010-04-25 07:28:20"
+publishdate: "2010-04-25 07:28:20 +0930"
 slug: remove-remove-yourself-remove-others
 tags:
 - editing

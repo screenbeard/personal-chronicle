@@ -1,9 +1,9 @@
 ---
 categories:
 - Coding
-date: "2009-08-27 08:02:34"
+date: "2009-08-27 08:02:34 +0930"
 draft: false
-publishDate: "2009-08-27 08:02:34"
+publishdate: "2009-08-27 08:02:34 +0930"
 slug: the-big-4-oh-javahackercoding
 tags:
 - class

@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-01-13 22:30:15"
+date: "2012-01-13 22:30:15 +0930"
 draft: false
-publishDate: "2012-01-13 22:30:15"
+publishdate: "2012-01-13 22:30:15 +0930"
 slug: space-flight-558-chapter-1-the-return
 tags:
 - confusing

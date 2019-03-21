@@ -1,9 +1,9 @@
 ---
 categories:
 - Media
-date: "2009-06-13 02:33:00"
+date: "2009-06-13 02:33:00 +0930"
 draft: false
-publishDate: "2009-06-13 02:33:00"
+publishdate: "2009-06-13 02:33:00 +0930"
 slug: the-problem-with-embedding
 tags:
 - embed

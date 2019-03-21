@@ -1,8 +1,8 @@
 ---
 categories:
 - Quote
-date: "2009-10-03 08:36:10"
-publishDate: "2009-10-03 08:36:10"
+date: "2009-10-03 08:36:10 +0930"
+publishdate: "2009-10-03 08:36:10 +0930"
 slug: what-is-amazing-is-that-google-has-developed-a-real-time-communication-framework-that-can-work-in-a
 tags: null
 title: ""

@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-11-15 11:39:55"
+date: "2009-11-15 11:39:55 +0930"
 draft: false
-publishDate: "2009-11-15 11:39:55"
+publishdate: "2009-11-15 11:39:55 +0930"
 slug: wave-invite-turn-around-time-down-to-thirty-minutes
 tags:
 - invites

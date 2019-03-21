@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2009-09-18 15:10:43"
+date: "2009-09-18 15:10:43 +0930"
 draft: false
-publishDate: "2009-09-18 15:10:43"
+publishdate: "2009-09-18 15:10:43 +0930"
 slug: so-i-get-it-the-first-time-next-time
 tags:
 - friends

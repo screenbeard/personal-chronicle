@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-03-28 08:30:45"
+date: "2013-03-28 08:30:45 +0930"
 draft: false
-publishDate: "2013-03-28 08:30:45"
+publishdate: "2013-03-28 08:30:45 +0930"
 slug: space-flight-704-chapter-49-violent-passage
 tags:
 - Anrianna

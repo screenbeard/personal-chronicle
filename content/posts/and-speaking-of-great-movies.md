@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2006-03-13 04:31:05"
+date: "2006-03-13 04:31:05 +0930"
 draft: false
-publishDate: "2006-03-13 04:31:05"
+publishdate: "2006-03-13 04:31:05 +0930"
 slug: and-speaking-of-great-movies
 tags:
 - kung-fu hussle

@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2013-03-16 10:30:44"
+date: "2013-03-16 10:30:44 +0930"
 draft: false
-publishDate: "2013-03-16 10:30:44"
+publishdate: "2013-03-16 10:30:44 +0930"
 slug: the-story-so-far-a-space-flight-704-recap
 tags: []
 title: 'The Story So Far: A Space Flight 704 Recap.'

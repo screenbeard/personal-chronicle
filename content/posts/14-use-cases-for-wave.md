@@ -1,7 +1,7 @@
 ---
 categories:
 - Google Wave
-date: "2009-10-15 06:08:57"
+date: "2009-10-15 06:08:57 +0930"
 draft: false
 tags:
 - gina trapani

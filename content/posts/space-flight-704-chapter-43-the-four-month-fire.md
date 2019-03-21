@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-05-20 09:30:04"
+date: "2012-05-20 09:30:04 +0930"
 draft: false
-publishDate: "2012-05-20 09:30:04"
+publishdate: "2012-05-20 09:30:04 +0930"
 slug: space-flight-704-chapter-43-the-four-month-fire
 tags:
 - Jones-thing

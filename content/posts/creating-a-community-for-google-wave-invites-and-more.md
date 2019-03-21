@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-03 02:47:27"
+date: "2009-10-03 02:47:27 +0930"
 draft: false
-publishDate: "2009-10-03 02:47:27"
+publishdate: "2009-10-03 02:47:27 +0930"
 slug: creating-a-community-for-google-wave-invites-and-more
 tags:
 - community

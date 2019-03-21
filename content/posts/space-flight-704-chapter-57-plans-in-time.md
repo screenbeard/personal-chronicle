@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2013-04-25 07:30:52"
+date: "2013-04-25 07:30:52 +0930"
 draft: false
-publishDate: "2013-04-25 07:30:52"
+publishdate: "2013-04-25 07:30:52 +0930"
 slug: space-flight-704-chapter-57-plans-in-time
 tags:
 - Jones

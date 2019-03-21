@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2006-07-03 05:15:39"
+date: "2006-07-03 05:15:39 +0930"
 draft: false
-publishDate: "2006-07-03 05:15:39"
+publishdate: "2006-07-03 05:15:39 +0930"
 slug: hercules-returns-please
 tags:
 - comedy

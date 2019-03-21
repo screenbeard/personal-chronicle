@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-12-07 08:30:50"
+date: "2011-12-07 08:30:50 +0930"
 draft: false
-publishDate: "2011-12-07 08:30:50"
+publishdate: "2011-12-07 08:30:50 +0930"
 slug: space-flight-556-date-with-death
 tags:
 - Anrianna

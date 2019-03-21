@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2012-05-19 23:45:43"
+date: "2012-05-19 23:45:43 +0930"
 draft: false
-publishDate: "2012-05-19 23:45:43"
+publishdate: "2012-05-19 23:45:43 +0930"
 slug: that-damn-basset-hound-again
 tags:
 - fred basset

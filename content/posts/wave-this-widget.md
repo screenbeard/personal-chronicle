@@ -1,9 +1,9 @@
 ---
 categories:
 - Invention
-date: "2010-05-19 18:15:06"
+date: "2010-05-19 18:15:06 +0930"
 draft: false
-publishDate: "2010-05-19 18:15:06"
+publishdate: "2010-05-19 18:15:06 +0930"
 slug: wave-this-widget
 tags:
 - Google Wave

@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2011-09-13 09:30:03"
+date: "2011-09-13 09:30:03 +0930"
 draft: false
-publishDate: "2011-09-13 09:30:03"
+publishdate: "2011-09-13 09:30:03 +0930"
 slug: space-flight-704-chapter-3-the-strength-within
 tags:
 - Final Flight of Xarnash

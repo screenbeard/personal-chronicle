@@ -1,7 +1,7 @@
 ---
 categories:
 - Video
-date: "2010-10-23 11:52:04"
+date: "2010-10-23 11:52:04 +0930"
 draft: false
 tags:
 - rambly

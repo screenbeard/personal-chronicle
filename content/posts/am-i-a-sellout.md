@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2010-03-22 10:15:19"
+date: "2010-03-22 10:15:19 +0930"
 draft: false
-publishDate: "2010-03-22 10:15:19"
+publishdate: "2010-03-22 10:15:19 +0930"
 slug: am-i-a-sellout
 tags:
 - advertising

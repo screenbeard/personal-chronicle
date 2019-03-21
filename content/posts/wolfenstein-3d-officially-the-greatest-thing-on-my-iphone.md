@@ -1,9 +1,9 @@
 ---
 categories:
 - Tech
-date: "2009-03-25 11:33:16"
+date: "2009-03-25 11:33:16 +0930"
 draft: false
-publishDate: "2009-03-25 11:33:16"
+publishdate: "2009-03-25 11:33:16 +0930"
 slug: wolfenstein-3d-officially-the-greatest-thing-on-my-iphone
 tags:
 - AppStore

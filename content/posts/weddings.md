@@ -1,9 +1,9 @@
 ---
 categories:
 - Life
-date: "2006-01-01 05:08:45"
+date: "2006-01-01 05:08:45 +0930"
 draft: false
-publishDate: "2006-01-01 05:08:45"
+publishdate: "2006-01-01 05:08:45 +0930"
 slug: weddings
 tags:
 - friend

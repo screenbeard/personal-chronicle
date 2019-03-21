@@ -1,9 +1,9 @@
 ---
 categories:
 - Media
-date: "2010-04-09 07:45:07"
+date: "2010-04-09 07:45:07 +0930"
 draft: false
-publishDate: "2010-04-09 07:45:07"
+publishdate: "2010-04-09 07:45:07 +0930"
 slug: shortcut-on-buttons-interface-update
 tags:
 - interface

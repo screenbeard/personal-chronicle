@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-10-08 11:25:20"
+date: "2009-10-08 11:25:20 +0930"
 draft: false
-publishDate: "2009-10-08 11:25:20"
+publishdate: "2009-10-08 11:25:20 +0930"
 slug: lifehackers-google-wave-101
 tags:
 - gina trapani

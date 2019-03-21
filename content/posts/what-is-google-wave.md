@@ -1,7 +1,7 @@
 ---
 categories:
 - Media
-date: "2009-10-03 09:03:14"
+date: "2009-10-03 09:03:14 +0930"
 draft: false
 tags:
 - guide

@@ -1,9 +1,9 @@
 ---
 categories:
 - Link
-date: "2009-07-22 05:49:47"
+date: "2009-07-22 05:49:47 +0930"
 draft: false
-publishDate: "2009-07-22 05:49:47"
+publishdate: "2009-07-22 05:49:47 +0930"
 slug: wave-protocol-installation-instructions
 tags:
 - official help

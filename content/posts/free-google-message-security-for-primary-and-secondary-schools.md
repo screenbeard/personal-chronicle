@@ -1,9 +1,9 @@
 ---
 categories:
 - Education
-date: "2009-07-01 07:32:11"
+date: "2009-07-01 07:32:11 +0930"
 draft: false
-publishDate: "2009-07-01 07:32:11"
+publishdate: "2009-07-01 07:32:11 +0930"
 slug: free-google-message-security-for-primary-and-secondary-schools
 tags: []
 title: Free Google Message Security for primary and secondary schools

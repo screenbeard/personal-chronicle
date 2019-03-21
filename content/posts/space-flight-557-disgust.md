@@ -1,9 +1,9 @@
 ---
 categories:
 - Space Flight 704
-date: "2012-01-17 23:30:25"
+date: "2012-01-17 23:30:25 +0930"
 draft: false
-publishDate: "2012-01-17 23:30:25"
+publishdate: "2012-01-17 23:30:25 +0930"
 slug: space-flight-557-disgust
 tags:
 - Jones

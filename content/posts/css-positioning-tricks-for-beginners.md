@@ -1,9 +1,9 @@
 ---
 categories:
 - Rambling
-date: "2008-09-15 03:50:04"
+date: "2008-09-15 03:50:04 +0930"
 draft: false
-publishDate: "2008-09-15 03:50:04"
+publishdate: "2008-09-15 03:50:04 +0930"
 slug: css-positioning-tricks-for-beginners
 tags:
 - beginners

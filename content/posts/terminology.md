@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-01-01 02:09:32"
+date: "2010-01-01 02:09:32 +0930"
 draft: false
-publishDate: "2010-01-01 02:09:32"
+publishdate: "2010-01-01 02:09:32 +0930"
 slug: terminology
 tags: []
 title: Terminology

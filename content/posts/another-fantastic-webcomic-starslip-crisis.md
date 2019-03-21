@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2008-04-16 10:21:47"
+date: "2008-04-16 10:21:47 +0930"
 draft: false
-publishDate: "2008-04-16 10:21:47"
+publishdate: "2008-04-16 10:21:47 +0930"
 slug: another-fantastic-webcomic-starslip-crisis
 tags:
 - comicstrip

@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2009-10-27 22:34:47"
+date: "2009-10-27 22:34:47 +0930"
 draft: false
-publishDate: "2009-10-27 22:34:47"
+publishdate: "2009-10-27 22:34:47 +0930"
 slug: four-reasons-wave-has-a-real-chance-to-replace-email
 tags:
 - email

@@ -1,9 +1,8 @@
 ---
 categories:
 - Google Wave
-date: "2010-04-13 16:30:54"
+date: "2010-04-13 16:30:54 +0930"
 draft: false
-publishDate: "2010-04-13 16:30:54"
 tags:
 - debate
 - direction

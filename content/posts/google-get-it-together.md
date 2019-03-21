@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2010-04-23 00:50:17"
+date: "2010-04-23 00:50:17 +0930"
 draft: false
-publishDate: "2010-04-23 00:50:17"
+publishdate: "2010-04-23 00:50:17 +0930"
 slug: google-get-it-together
 tags:
 - application

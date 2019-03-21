@@ -1,9 +1,9 @@
 ---
 categories:
 - Site News
-date: "2009-10-16 02:05:25"
+date: "2009-10-16 02:05:25 +0930"
 draft: false
-publishDate: "2009-10-16 02:05:25"
+publishdate: "2009-10-16 02:05:25 +0930"
 slug: site-changes-and-an-apology
 tags:
 - Site News

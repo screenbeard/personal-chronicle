@@ -1,9 +1,9 @@
 ---
 categories:
 - Opinions
-date: "2008-07-19 12:46:48"
+date: "2008-07-19 12:46:48 +0930"
 draft: false
-publishDate: "2008-07-19 12:46:48"
+publishdate: "2008-07-19 12:46:48 +0930"
 slug: my-batman-the-dark-knight-review-in-700-characters-or-less
 tags:
 - Dark Knight

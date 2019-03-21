@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-03-20 01:19:25"
+date: "2010-03-20 01:19:25 +0930"
 draft: false
-publishDate: "2010-03-20 01:19:25"
+publishdate: "2010-03-20 01:19:25 +0930"
 slug: google-wave-for-apps-being-rolled-out-to-some-organisations
 tags:
 - direction

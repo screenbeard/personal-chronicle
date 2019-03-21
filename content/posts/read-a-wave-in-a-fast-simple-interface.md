@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-01-31 05:06:26"
+date: "2010-01-31 05:06:26 +0930"
 draft: false
-publishDate: "2010-01-31 05:06:26"
+publishdate: "2010-01-31 05:06:26 +0930"
 slug: read-a-wave-in-a-fast-simple-interface
 tags:
 - blogging

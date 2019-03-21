@@ -1,9 +1,9 @@
 ---
 categories:
 - Post
-date: "2010-04-16 01:08:28"
+date: "2010-04-16 01:08:28 +0930"
 draft: false
-publishDate: "2010-04-16 01:08:28"
+publishdate: "2010-04-16 01:08:28 +0930"
 slug: the-massive-list-of-wave-resources
 tags:
 - blogging

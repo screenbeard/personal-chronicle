@@ -1,9 +1,9 @@
 ---
 categories:
 - Share
-date: "2009-07-28 12:29:11"
+date: "2009-07-28 12:29:11 +0930"
 draft: false
-publishDate: "2009-07-28 12:29:11"
+publishdate: "2009-07-28 12:29:11 +0930"
 slug: do-i-keep-it
 tags: []
 title: Do I Keep It?
