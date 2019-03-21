@@ -11,7 +11,7 @@ categories:
 
 After having followed in his footsteps and [converted my site to Hugo]({{< ref "/posts/moving-to-hugo.md" >}}), Rubenerd also prompted me to check out my HTTPS score on Mozilla's Observatory with [his post on the topic](https://rubenerd.com/testing-https-tls-sites/).
 
-Using Wordpress my grade was an F, but the change wasn't enough in-and-of-itself to change the grade at all. It turns out Mozilla is *super* persnicketty about HTTPS security and focuses on your site's
+Using Wordpress my grade was an F, but the change wasn't enough in-and-of-itself to change the grade at all. It turns out Mozilla is *super* persnickety about HTTPS security and focuses on your site's
 [Content Security Policy](https://infosec.mozilla.org/guidelines/web_security#content-security-policy) as one of it's primary measures.
 
 The CPS is not something I'd ever heard of before. Other sites gave my site a clean bill of health when I'd checked to see if my SSL certificate was doing it's job, so I figured my site was safe. It turns out that browsers now support a Content Security Policy header that can tell the browser to ignore any potentially dangerous content that isn't explicitly allowed by the creator.
