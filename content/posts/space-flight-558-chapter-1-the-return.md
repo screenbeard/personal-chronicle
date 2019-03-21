@@ -1,23 +1,22 @@
-{
-    "date": "2012-01-13 22:30:15",
-    "draft": false,
-    "publishDate": "2012-01-13 22:30:15",
-    "slug": "space-flight-558-chapter-1-the-return",
-    "title": "Space Flight 558, Chapter 1: The Return",
-    "url": "\/space-flight-558-chapter-1-the-return\/",
-    "tags": [
-        "confusing",
-        "future",
-        "past",
-        "Rex Havoc",
-        "The Professor",
-        "Time Diversion",
-        "voice in the dark"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex awoke to a stunning headache.**
+---
+categories:
+- Space Flight 704
+date: "2012-01-13 22:30:15"
+draft: false
+publishDate: "2012-01-13 22:30:15"
+slug: space-flight-558-chapter-1-the-return
+tags:
+- confusing
+- future
+- past
+- Rex Havoc
+- The Professor
+- Time Diversion
+- voice in the dark
+title: 'Space Flight 558, Chapter 1: The Return'
+url: /space-flight-558-chapter-1-the-return/
+---
+**Rex awoke to a stunning headache.**
 
 **Rex awoke to brilliant darkness.**
 

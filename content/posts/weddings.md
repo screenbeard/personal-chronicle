@@ -1,18 +1,17 @@
-{
-    "date": "2006-01-01 05:08:45",
-    "draft": false,
-    "publishDate": "2006-01-01 05:08:45",
-    "slug": "weddings",
-    "title": "Weddings",
-    "url": "\/weddings\/",
-    "tags": [
-        "friend",
-        "wedding"
-    ],
-    "categories": [
-        "Life"
-    ]
-}I'm between Wedding and Reception for my best friends Anna and Andrew,
+---
+categories:
+- Life
+date: "2006-01-01 05:08:45"
+draft: false
+publishDate: "2006-01-01 05:08:45"
+slug: weddings
+tags:
+- friend
+- wedding
+title: Weddings
+url: /weddings/
+---
+I'm between Wedding and Reception for my best friends Anna and Andrew,
 the most excellentest people I know. They matched each other up there at
 the front of the Chapel, and I don't just mean that one wore black and
 the other wore white. I mean that they look **good** together. They

@@ -1,20 +1,19 @@
-{
-    "date": "2010-01-23 02:59:36",
-    "draft": false,
-    "publishDate": "2010-01-23 02:59:36",
-    "slug": "restore-a-wave-to-a-former-state-or-make-it-read-only",
-    "title": "Restore a Wave to a former state, or make it Read-Only.",
-    "url": "\/restore-a-wave-to-a-former-state-or-make-it-read-only\/",
-    "tags": [
-        "editing",
-        "interface",
-        "new feature",
-        "official help"
-    ],
-    "categories": [
-        "Post"
-    ]
-}In the first major update to the Google Wave client in what feels like
+---
+categories:
+- Post
+date: "2010-01-23 02:59:36"
+draft: false
+publishDate: "2010-01-23 02:59:36"
+slug: restore-a-wave-to-a-former-state-or-make-it-read-only
+tags:
+- editing
+- interface
+- new feature
+- official help
+title: Restore a Wave to a former state, or make it Read-Only.
+url: /restore-a-wave-to-a-former-state-or-make-it-read-only/
+---
+In the first major update to the Google Wave client in what feels like
 **ages**, the Wave team have implemented two new features that will make
 a big difference in managing your waves. The first fixes one of the most
 shocking things about the first release: that *anyone* you invited could

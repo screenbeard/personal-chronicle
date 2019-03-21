@@ -1,19 +1,18 @@
-{
-    "date": "2007-11-12 09:29:13",
-    "draft": false,
-    "publishDate": "2007-11-12 09:29:13",
-    "slug": "dreams-of-soaring",
-    "title": "Dreams of Soaring",
-    "url": "\/dreams-of-soaring\/",
-    "tags": [
-        "dreaming",
-        "flying",
-        "lucid"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}[![Image of clouds evoking bird
+---
+categories:
+- Rambling
+date: "2007-11-12 09:29:13"
+draft: false
+publishDate: "2007-11-12 09:29:13"
+slug: dreams-of-soaring
+tags:
+- dreaming
+- flying
+- lucid
+title: Dreams of Soaring
+url: /dreams-of-soaring/
+---
+[![Image of clouds evoking bird
 wings](//farm1.static.flickr.com/18/23076940_417930af8c_m_d.jpg)](http://www.flickr.com/photos/christinamatheson/23076940/ "photo sharing")
 
 [Soar to Freedom I -

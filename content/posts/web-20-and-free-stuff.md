@@ -1,20 +1,19 @@
-{
-    "date": "2005-12-28 18:25:18",
-    "draft": false,
-    "publishDate": "2005-12-28 18:25:18",
-    "slug": "web-20-and-free-stuff",
-    "title": "Web 2.0 and free stuff",
-    "url": "\/web-20-and-free-stuff\/",
-    "tags": [
-        "apple",
-        "application",
-        "browsers",
-        "google"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}I must have the best and latest of everything. This holds true for me as
+---
+categories:
+- Opinions
+date: "2005-12-28 18:25:18"
+draft: false
+publishDate: "2005-12-28 18:25:18"
+slug: web-20-and-free-stuff
+tags:
+- apple
+- application
+- browsers
+- google
+title: Web 2.0 and free stuff
+url: /web-20-and-free-stuff/
+---
+I must have the best and latest of everything. This holds true for me as
 long as my budget holds up. In fact, its less 'latest and greatest' and
 more 'what people are willing to give me' most of the time. Not that I'm
 cheep, just that I'm poor.

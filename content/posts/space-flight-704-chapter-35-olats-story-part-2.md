@@ -1,25 +1,24 @@
-{
-    "date": "2012-05-03 09:30:38",
-    "draft": false,
-    "publishDate": "2012-05-03 09:30:38",
-    "slug": "space-flight-704-chapter-35-olats-story-part-2",
-    "title": "Space Flight 704, Chapter 35: Olat's Story Part 2",
-    "url": "\/space-flight-704-chapter-35-olats-story-part-2\/",
-    "tags": [
-        "beastly",
-        "Bonwhanney",
-        "change",
-        "Commander Del",
-        "Doctor Van de Nippal",
-        "Egron",
-        "Olat",
-        "un-man",
-        "Zenmar"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Egron went down to his left, screaming. Olat fumbled with his clip.**
+---
+categories:
+- Space Flight 704
+date: "2012-05-03 09:30:38"
+draft: false
+publishDate: "2012-05-03 09:30:38"
+slug: space-flight-704-chapter-35-olats-story-part-2
+tags:
+- beastly
+- Bonwhanney
+- change
+- Commander Del
+- Doctor Van de Nippal
+- Egron
+- Olat
+- un-man
+- Zenmar
+title: 'Space Flight 704, Chapter 35: Olat''s Story Part 2'
+url: /space-flight-704-chapter-35-olats-story-part-2/
+---
+**Egron went down to his left, screaming. Olat fumbled with his clip.**
 
 Zenmar crumpled soundlessly, looking like something had exploded in his
 gut. Olat cursed and picked up his weapon.

@@ -1,15 +1,15 @@
-{
-    "date": "2011-09-30 11:21:35",
-    "draft": false,
-    "publishDate": "2011-09-30 11:21:35",
-    "slug": "coming-to-you-live-from-the-ipv6-internet",
-    "title": "Coming to You Live from the IPV6 Internet!",
-    "url": "\/coming-to-you-live-from-the-ipv6-internet\/",
-    "tags": [],
-    "categories": [
-        "Site News"
-    ]
-}A few weeks ago I posted on G+ that I'd [enabled IPv6 on my home
+---
+categories:
+- Site News
+date: "2011-09-30 11:21:35"
+draft: false
+publishDate: "2011-09-30 11:21:35"
+slug: coming-to-you-live-from-the-ipv6-internet
+tags: []
+title: Coming to You Live from the IPV6 Internet!
+url: /coming-to-you-live-from-the-ipv6-internet/
+---
+A few weeks ago I posted on G+ that I'd [enabled IPv6 on my home
 network](https://plus.google.com/101929452061447291902/posts/Lf47ynbPHE3)
 through Internode's experimental support. The couple of responses I got
 were variations of "why?" which is understandable, as it's kinda like

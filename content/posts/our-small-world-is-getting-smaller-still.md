@@ -1,21 +1,20 @@
-{
-    "date": "2010-04-03 12:18:43",
-    "draft": false,
-    "publishDate": "2010-04-03 12:18:43",
-    "slug": "our-small-world-is-getting-smaller-still",
-    "title": "Our Small World is Getting Smaller Still",
-    "url": "\/our-small-world-is-getting-smaller-still\/",
-    "tags": [
-        "bots",
-        "chat",
-        "language",
-        "use case",
-        "users"
-    ],
-    "categories": [
-        "Post"
-    ]
-}I had my first taste of international communication today thanks to
+---
+categories:
+- Post
+date: "2010-04-03 12:18:43"
+draft: false
+publishDate: "2010-04-03 12:18:43"
+slug: our-small-world-is-getting-smaller-still
+tags:
+- bots
+- chat
+- language
+- use case
+- users
+title: Our Small World is Getting Smaller Still
+url: /our-small-world-is-getting-smaller-still/
+---
+I had my first taste of international communication today thanks to
 Google Wave. David Alviz runs an excellent Spanish Google Wave site
 called [WAVEsfera](http://www.wavesfera.com/). He keeps up with the
 latest bots and gadgets, and writes very well. A while ago it might have

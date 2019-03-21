@@ -1,19 +1,18 @@
-{
-    "date": "2011-11-03 08:57:00",
-    "draft": false,
-    "publishDate": "2011-11-03 08:57:00",
-    "slug": "space-flight-323-a-new-ally",
-    "title": "Space Flight 323: A New Ally",
-    "url": "\/space-flight-323-a-new-ally\/",
-    "tags": [
-        "prequel",
-        "Rex Havoc",
-        "stranger"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**If they ever got out of this, he'd owe this guy one.**
+---
+categories:
+- Space Flight 704
+date: "2011-11-03 08:57:00"
+draft: false
+publishDate: "2011-11-03 08:57:00"
+slug: space-flight-323-a-new-ally
+tags:
+- prequel
+- Rex Havoc
+- stranger
+title: 'Space Flight 323: A New Ally'
+url: /space-flight-323-a-new-ally/
+---
+**If they ever got out of this, he'd owe this guy one.**
 
 He'd sat there in his holding cell, wishing he hadn't already used The
 Professor's hidden grenade launcher, wondering how he was going to make

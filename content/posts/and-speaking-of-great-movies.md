@@ -1,20 +1,19 @@
-{
-    "date": "2006-03-13 04:31:05",
-    "draft": false,
-    "publishDate": "2006-03-13 04:31:05",
-    "slug": "and-speaking-of-great-movies",
-    "title": "And speaking of great movies",
-    "url": "\/and-speaking-of-great-movies\/",
-    "tags": [
-        "kung-fu hussle",
-        "movie",
-        "spiderman",
-        "superhero"
-    ],
-    "categories": [
-        "Share"
-    ]
-}I saw *Kung-Fu Hussle* on the weekend. It was tops.
+---
+categories:
+- Share
+date: "2006-03-13 04:31:05"
+draft: false
+publishDate: "2006-03-13 04:31:05"
+slug: and-speaking-of-great-movies
+tags:
+- kung-fu hussle
+- movie
+- spiderman
+- superhero
+title: And speaking of great movies
+url: /and-speaking-of-great-movies/
+---
+I saw *Kung-Fu Hussle* on the weekend. It was tops.
 
 It was a lot of good fun. Don't see it expecting your life to be
 changed, see it to laugh. See it to watch groups of people fighting in

@@ -1,20 +1,19 @@
-{
-    "date": "2007-09-09 08:49:31",
-    "draft": false,
-    "publishDate": "2007-09-09 08:49:31",
-    "slug": "trevor-a-review",
-    "title": "Trevor - a review.",
-    "url": "\/trevor-a-review\/",
-    "tags": [
-        "friend",
-        "goofy",
-        "hreview",
-        "trevor grace"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}<div id="hreview-Excellent-Trevor,-the-best-Trevor-I-ever--knew"
+---
+categories:
+- Rambling
+date: "2007-09-09 08:49:31"
+draft: false
+publishDate: "2007-09-09 08:49:31"
+slug: trevor-a-review
+tags:
+- friend
+- goofy
+- hreview
+- trevor grace
+title: Trevor - a review.
+url: /trevor-a-review/
+---
+<div id="hreview-Excellent-Trevor,-the-best-Trevor-I-ever--knew"
 class="hreview">
 
 ###  {#section .summary}

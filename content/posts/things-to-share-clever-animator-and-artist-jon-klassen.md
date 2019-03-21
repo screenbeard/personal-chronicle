@@ -1,19 +1,18 @@
-{
-    "date": "2006-08-17 03:57:10",
-    "draft": false,
-    "publishDate": "2006-08-17 03:57:10",
-    "slug": "things-to-share-clever-animator-and-artist-jon-klassen",
-    "title": "Things to Share: Clever Animator and Artist - Jon Klassen",
-    "url": "\/things-to-share-clever-animator-and-artist-jon-klassen\/",
-    "tags": [
-        "animation",
-        "cartoon",
-        "jon klassen"
-    ],
-    "categories": [
-        "Share"
-    ]
-}<http://burstofbeaden.com> Home of Jon Klassen and very talented artist
+---
+categories:
+- Share
+date: "2006-08-17 03:57:10"
+draft: false
+publishDate: "2006-08-17 03:57:10"
+slug: things-to-share-clever-animator-and-artist-jon-klassen
+tags:
+- animation
+- cartoon
+- jon klassen
+title: 'Things to Share: Clever Animator and Artist - Jon Klassen'
+url: /things-to-share-clever-animator-and-artist-jon-klassen/
+---
+<http://burstofbeaden.com> Home of Jon Klassen and very talented artist
 and animator.
 
 I was catching up on my [Channel

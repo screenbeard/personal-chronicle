@@ -1,20 +1,19 @@
-{
-    "date": "2009-06-05 01:25:00",
-    "draft": false,
-    "publishDate": "2009-06-05 01:25:00",
-    "slug": "wave-the-product",
-    "title": "Wave the Product",
-    "url": "\/wave-the-product\/",
-    "tags": [
-        "client",
-        "debate",
-        "direction",
-        "interface"
-    ],
-    "categories": [
-        "Post"
-    ]
-}The first of Google Wave’s "Three Ps" announced at the Google I/O
+---
+categories:
+- Post
+date: "2009-06-05 01:25:00"
+draft: false
+publishDate: "2009-06-05 01:25:00"
+slug: wave-the-product
+tags:
+- client
+- debate
+- direction
+- interface
+title: Wave the Product
+url: /wave-the-product/
+---
+The first of Google Wave’s "Three Ps" announced at the Google I/O
 Developer Conference was Google Wave the Product.
 
 As previously mentioned, Google’s Wave product is a re-invention of our

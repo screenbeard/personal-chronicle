@@ -1,19 +1,18 @@
-{
-    "date": "2007-06-18 12:20:17",
-    "draft": false,
-    "publishDate": "2007-06-18 12:20:17",
-    "slug": "my-lovehate-relationship-with-google",
-    "title": "My Love\/Hate relationship with Google",
-    "url": "\/my-lovehate-relationship-with-google\/",
-    "tags": [
-        "criticism",
-        "google",
-        "technology"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}Actually, it's more of a love/frustration relationship. It's so
+---
+categories:
+- Opinions
+date: "2007-06-18 12:20:17"
+draft: false
+publishDate: "2007-06-18 12:20:17"
+slug: my-lovehate-relationship-with-google
+tags:
+- criticism
+- google
+- technology
+title: My Love/Hate relationship with Google
+url: /my-lovehate-relationship-with-google/
+---
+Actually, it's more of a love/frustration relationship. It's so
 one-sided.
 
 I'm a big fan of [Google](http://www.google.com/). About 3 years ago I

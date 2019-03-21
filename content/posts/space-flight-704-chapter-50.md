@@ -1,18 +1,17 @@
-{
-    "date": "2013-03-30 08:30:08",
-    "draft": false,
-    "publishDate": "2013-03-30 08:30:08",
-    "slug": "space-flight-704-chapter-50",
-    "title": "Space Flight 704, Chapter 50",
-    "url": "\/space-flight-704-chapter-50\/",
-    "tags": [
-        "Anrianna",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Leave here. Don't stay.**
+---
+categories:
+- Space Flight 704
+date: "2013-03-30 08:30:08"
+draft: false
+publishDate: "2013-03-30 08:30:08"
+slug: space-flight-704-chapter-50
+tags:
+- Anrianna
+- Rex Havoc
+title: Space Flight 704, Chapter 50
+url: /space-flight-704-chapter-50/
+---
+**Leave here. Don't stay.**
 
 The foam dissipates. How long it takes is hard to say.
 

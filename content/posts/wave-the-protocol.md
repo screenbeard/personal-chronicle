@@ -1,18 +1,17 @@
-{
-    "date": "2009-06-08 13:01:51",
-    "draft": false,
-    "publishDate": "2009-06-08 13:01:51",
-    "slug": "wave-the-protocol",
-    "title": "Wave the Protocol",
-    "url": "\/wave-the-protocol\/",
-    "tags": [
-        "opensource",
-        "protocol"
-    ],
-    "categories": [
-        "Post"
-    ]
-}The final and most exciting of the "Three Ps" is [Wave as a
+---
+categories:
+- Post
+date: "2009-06-08 13:01:51"
+draft: false
+publishDate: "2009-06-08 13:01:51"
+slug: wave-the-protocol
+tags:
+- opensource
+- protocol
+title: Wave the Protocol
+url: /wave-the-protocol/
+---
+The final and most exciting of the "Three Ps" is [Wave as a
 protocol](http://www.waveprotocol.org/). [The
 Product](//the.geekorium.com.au/wave-the-product/) is Google owned and
 operated. [The Platform](//the.geekorium.com.au/wave-the-platform/)

@@ -1,15 +1,15 @@
-{
-    "date": "2013-03-16 10:30:44",
-    "draft": false,
-    "publishDate": "2013-03-16 10:30:44",
-    "slug": "the-story-so-far-a-space-flight-704-recap",
-    "title": "The Story So Far: A Space Flight 704 Recap.",
-    "url": "\/the-story-so-far-a-space-flight-704-recap\/",
-    "tags": [],
-    "categories": [
-        "Invention"
-    ]
-}I was tempted to do a “clip show” thing to refresh readers of the
+---
+categories:
+- Invention
+date: "2013-03-16 10:30:44"
+draft: false
+publishDate: "2013-03-16 10:30:44"
+slug: the-story-so-far-a-space-flight-704-recap
+tags: []
+title: 'The Story So Far: A Space Flight 704 Recap.'
+url: /the-story-so-far-a-space-flight-704-recap/
+---
+I was tempted to do a “clip show” thing to refresh readers of the
 important plot points that have happened so far. Fortunately for you, I
 can’t imagine how to make something like that work in text, and still be
 fun to read. So what follows is a basic recap of the story so far, as

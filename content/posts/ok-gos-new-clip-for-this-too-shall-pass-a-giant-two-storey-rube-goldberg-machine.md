@@ -1,15 +1,16 @@
 ---
-date: 2010-03-03 08:22:05
+categories:
+- Share
+date: "2010-03-03 08:22:05"
 draft: false
-title: OK Go's new clip for This Too Shall Pass - a giant two storey Rube Goldberg Machine
 tags:
 - awesome
 - fun
 - Marketing
 - music
 - Video
-categories:
-- Share
+title: OK Go's new clip for This Too Shall Pass - a giant two storey Rube Goldberg
+  Machine
 ---
 
 {{< youtube qybUFnY7Y8w >}}

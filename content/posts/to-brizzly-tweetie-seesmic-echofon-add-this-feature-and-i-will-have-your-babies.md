@@ -1,21 +1,21 @@
-{
-    "date": "2009-11-18 03:32:59",
-    "draft": false,
-    "publishDate": "2009-11-18 03:32:59",
-    "slug": "to-brizzly-tweetie-seesmic-echofon-add-this-feature-and-i-will-have-your-babies",
-    "title": "To @brizzly @tweetie @seesmic @echofon: Add this feature and I will have your babies.",
-    "url": "\/to-brizzly-tweetie-seesmic-echofon-add-this-feature-and-i-will-have-your-babies\/",
-    "tags": [
-        "application",
-        "idea",
-        "movie",
-        "music",
-        "Twitter"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}[![Heart/Toxic](//farm3.static.flickr.com/2782/4113242446_bb9eef0ca0.jpg){.alignnone
+---
+categories:
+- Opinions
+date: "2009-11-18 03:32:59"
+draft: false
+publishDate: "2009-11-18 03:32:59"
+slug: to-brizzly-tweetie-seesmic-echofon-add-this-feature-and-i-will-have-your-babies
+tags:
+- application
+- idea
+- movie
+- music
+- Twitter
+title: 'To @brizzly @tweetie @seesmic @echofon: Add this feature and I will have your
+  babies.'
+url: /to-brizzly-tweetie-seesmic-echofon-add-this-feature-and-i-will-have-your-babies/
+---
+[![Heart/Toxic](//farm3.static.flickr.com/2782/4113242446_bb9eef0ca0.jpg){.alignnone
 width="500"
 height="277"}](http://www.flickr.com/photos/joshnunn/4113242446/ "Heart/Toxic"){.tt-flickr
 .tt-flickr-Medium}

@@ -1,20 +1,19 @@
-{
-    "date": "2013-04-09 09:30:00",
-    "draft": false,
-    "publishDate": "2013-04-09 09:30:00",
-    "slug": "space-flight-704-chapter-53-lost-is-found",
-    "title": "Space Flight 704, Chapter 53: Lost is Found",
-    "url": "\/space-flight-704-chapter-53-lost-is-found\/",
-    "tags": [
-        "Ortrix",
-        "Rex Havoc",
-        "searching",
-        "time travel"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**\[voiceinthedark\]You are searching for the Torimbalo.
+---
+categories:
+- Space Flight 704
+date: "2013-04-09 09:30:00"
+draft: false
+publishDate: "2013-04-09 09:30:00"
+slug: space-flight-704-chapter-53-lost-is-found
+tags:
+- Ortrix
+- Rex Havoc
+- searching
+- time travel
+title: 'Space Flight 704, Chapter 53: Lost is Found'
+url: /space-flight-704-chapter-53-lost-is-found/
+---
+**\[voiceinthedark\]You are searching for the Torimbalo.
 \[/voiceinthedark\]**
 
 "Well I still don't know what that is," corrected Rex, "I'm looking for

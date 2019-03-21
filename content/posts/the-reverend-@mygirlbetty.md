@@ -1,11 +1,11 @@
 ---
-title: The Reverend @mygirlbetty
-date: 2019-03-19 21:50:55
+categories:
+- null
+date: "2019-03-19 21:50:55"
 draft: true
 tags:
-    -
-categories:
-    -
+- null
+title: The Reverend @mygirlbetty
 ---
 
 

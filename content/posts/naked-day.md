@@ -1,20 +1,19 @@
-{
-    "date": "2008-04-08 14:31:54",
-    "draft": false,
-    "publishDate": "2008-04-08 14:31:54",
-    "slug": "naked-day",
-    "title": "naked day - april 9th",
-    "url": "\/naked-day\/",
-    "tags": [
-        "css",
-        "dustin diaz",
-        "naked day",
-        "usability"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}> It's time to show off your &lt;body&gt;. [Annual CSS Naked
+---
+categories:
+- Tech
+date: "2008-04-08 14:31:54"
+draft: false
+publishDate: "2008-04-08 14:31:54"
+slug: naked-day
+tags:
+- css
+- dustin diaz
+- naked day
+- usability
+title: naked day - april 9th
+url: /naked-day/
+---
+> It's time to show off your &lt;body&gt;. [Annual CSS Naked
 > Day](http://naked.dustindiaz.com "Web Standards Naked Day Host Website")
 
 What a laff! I've participated in it in previous years, and [Naked

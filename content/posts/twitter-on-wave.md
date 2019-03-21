@@ -1,18 +1,17 @@
-{
-    "date": "2009-10-15 02:24:00",
-    "draft": false,
-    "publishDate": "2009-10-15 02:24:00",
-    "slug": "twitter-on-wave",
-    "title": "Twitter on Wave",
-    "url": "\/twitter-on-wave\/",
-    "tags": [
-        "gadgets",
-        "Twitter"
-    ],
-    "categories": [
-        "Post"
-    ]
-}I should preface this post with an introduction.
+---
+categories:
+- Post
+date: "2009-10-15 02:24:00"
+draft: false
+publishDate: "2009-10-15 02:24:00"
+slug: twitter-on-wave
+tags:
+- gadgets
+- Twitter
+title: Twitter on Wave
+url: /twitter-on-wave/
+---
+I should preface this post with an introduction.
 
 I’m Cathie and I am the “bloody end user” component of this blogging
 team.  We figured that if Wave is going to be the ubiquitous thing that

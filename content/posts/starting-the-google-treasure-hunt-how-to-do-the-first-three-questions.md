@@ -1,22 +1,21 @@
-{
-    "date": "2008-06-08 00:39:26",
-    "draft": false,
-    "publishDate": "2008-06-08 00:39:26",
-    "slug": "starting-the-google-treasure-hunt-how-to-do-the-first-three-questions",
-    "title": "Starting the Google Treasure Hunt: How to do the first three questions",
-    "url": "\/starting-the-google-treasure-hunt-how-to-do-the-first-three-questions\/",
-    "tags": [
-        "fun",
-        "game",
-        "google",
-        "how to",
-        "puzzle",
-        "treasure hunt"
-    ],
-    "categories": [
-        "Share"
-    ]
-}Google has been running a
+---
+categories:
+- Share
+date: "2008-06-08 00:39:26"
+draft: false
+publishDate: "2008-06-08 00:39:26"
+slug: starting-the-google-treasure-hunt-how-to-do-the-first-three-questions
+tags:
+- fun
+- game
+- google
+- how to
+- puzzle
+- treasure hunt
+title: 'Starting the Google Treasure Hunt: How to do the first three questions'
+url: /starting-the-google-treasure-hunt-how-to-do-the-first-three-questions/
+---
+Google has been running a
 "[treasurehunt](http://treasurehunt.appspot.com)" with unspecified
 prizes up for grabs for the fastest times to complete the tasks. What it
 amounts to is four questions spaced over a month, that you can log onto

@@ -1,15 +1,15 @@
 ---
-date: 2010-03-30 11:46:38
+categories:
+- Life
+date: "2010-03-30 11:46:38"
 draft: false
-title: A Bunch of Stuff
 tags:
 - awesome
 - friend
 - fun
 - technology
 - Twitter
-categories:
-- Life
+title: A Bunch of Stuff
 ---
 
 {{< figure src="//farm4.static.flickr.com/3575/3495363654_cf67d4a9ff.jpg" title="Keep Calm and Ramble On" attr="Cole Henley" attrlink="https://www.flickr.com/photos/cole007/3495363654/" >}}

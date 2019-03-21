@@ -1,19 +1,18 @@
-{
-    "date": "2009-12-06 07:01:25",
-    "draft": false,
-    "publishDate": "2009-12-06 07:01:25",
-    "slug": "google-wave-and-university",
-    "title": "Google Wave and University",
-    "url": "\/google-wave-and-university\/",
-    "tags": [
-        "chat",
-        "direction",
-        "use case"
-    ],
-    "categories": [
-        "Post"
-    ]
-}[![Café Area Saltire Centre Glasgow Caledonian
+---
+categories:
+- Post
+date: "2009-12-06 07:01:25"
+draft: false
+publishDate: "2009-12-06 07:01:25"
+slug: google-wave-and-university
+tags:
+- chat
+- direction
+- use case
+title: Google Wave and University
+url: /google-wave-and-university/
+---
+[![Café Area Saltire Centre Glasgow Caledonian
 University](//farm1.static.flickr.com/45/146799101_1d3538261d.jpg){.alignnone
 width="500"
 height="334"}](http://www.flickr.com/photos/jiscinfonet/146799101/ "Café Area Saltire Centre Glasgow Caledonian University by jisc_infonet, on Flickr")

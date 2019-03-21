@@ -1,20 +1,19 @@
-{
-    "date": "2008-07-09 23:59:29",
-    "draft": false,
-    "publishDate": "2008-07-09 23:59:29",
-    "slug": "someone-hacked-my-gmail",
-    "title": "Someone hacked my Gmail!",
-    "url": "\/someone-hacked-my-gmail\/",
-    "tags": [
-        "gmail",
-        "google",
-        "IP address",
-        "Security"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}Not really.
+---
+categories:
+- Tech
+date: "2008-07-09 23:59:29"
+draft: false
+publishDate: "2008-07-09 23:59:29"
+slug: someone-hacked-my-gmail
+tags:
+- gmail
+- google
+- IP address
+- Security
+title: Someone hacked my Gmail!
+url: /someone-hacked-my-gmail/
+---
+Not really.
 
 Google released a small update yesterday that adds information about
 recent activity on your

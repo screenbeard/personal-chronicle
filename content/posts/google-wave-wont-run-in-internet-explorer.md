@@ -1,19 +1,18 @@
-{
-    "date": "2009-10-16 04:51:45",
-    "draft": false,
-    "publishDate": "2009-10-16 04:51:45",
-    "slug": "google-wave-wont-run-in-internet-explorer",
-    "title": "Google Wave won't run in Internet Explorer.",
-    "url": "\/google-wave-wont-run-in-internet-explorer\/",
-    "tags": [
-        "browser",
-        "guide",
-        "official help"
-    ],
-    "categories": [
-        "Media"
-    ]
-}![tumblr\_krlc6af4781qzeh8ao1\_400.png](https://turbo.geekorium.com.au/images/tumblr_krlc6af4781qzeh8ao1_400.png){.s3-img}
+---
+categories:
+- Media
+date: "2009-10-16 04:51:45"
+draft: false
+publishDate: "2009-10-16 04:51:45"
+slug: google-wave-wont-run-in-internet-explorer
+tags:
+- browser
+- guide
+- official help
+title: Google Wave won't run in Internet Explorer.
+url: /google-wave-wont-run-in-internet-explorer/
+---
+![tumblr\_krlc6af4781qzeh8ao1\_400.png](https://turbo.geekorium.com.au/images/tumblr_krlc6af4781qzeh8ao1_400.png){.s3-img}
 
 Google Wave won’t run in Internet Explorer.
 

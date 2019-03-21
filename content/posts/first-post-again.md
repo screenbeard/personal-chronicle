@@ -1,19 +1,18 @@
-{
-    "date": "2006-04-01 23:07:46",
-    "draft": false,
-    "publishDate": "2006-04-01 23:07:46",
-    "slug": "first-post-again",
-    "title": "First Post\u2026 Again",
-    "url": "\/first-post-again\/",
-    "tags": [
-        "hosting",
-        "technology",
-        "web"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}I've switched web hosts. This might not mean much to some, but it means
+---
+categories:
+- Site News
+date: "2006-04-01 23:07:46"
+draft: false
+publishDate: "2006-04-01 23:07:46"
+slug: first-post-again
+tags:
+- hosting
+- technology
+- web
+title: First Post… Again
+url: /first-post-again/
+---
+I've switched web hosts. This might not mean much to some, but it means
 a better, easier experience for me. What it does mean though, is that I
 had the opportunity to switch from one blogging program to another.
 However they are two entirely different beasts, and I'm manually moving

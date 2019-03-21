@@ -1,19 +1,18 @@
-{
-    "date": "2013-03-19 08:30:36",
-    "draft": false,
-    "publishDate": "2013-03-19 08:30:36",
-    "slug": "space-flight-704-chapter-45-cosmic-strategy",
-    "title": "Space Flight 704, Chapter 45: Cosmic Strategy",
-    "url": "\/space-flight-704-chapter-45-cosmic-strategy\/",
-    "tags": [
-        "Rex Havoc",
-        "sneaky",
-        "time travel"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex went back, way back.**
+---
+categories:
+- Space Flight 704
+date: "2013-03-19 08:30:36"
+draft: false
+publishDate: "2013-03-19 08:30:36"
+slug: space-flight-704-chapter-45-cosmic-strategy
+tags:
+- Rex Havoc
+- sneaky
+- time travel
+title: 'Space Flight 704, Chapter 45: Cosmic Strategy'
+url: /space-flight-704-chapter-45-cosmic-strategy/
+---
+**Rex went back, way back.**
 
 Having watched the Xentash calamity play out in reverse, Rex realised
 time was as malleable to him as his own form.

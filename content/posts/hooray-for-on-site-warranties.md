@@ -1,20 +1,19 @@
-{
-    "date": "2007-11-09 08:28:03",
-    "draft": false,
-    "publishDate": "2007-11-09 08:28:03",
-    "slug": "hooray-for-on-site-warranties",
-    "title": "Hooray for On-Site Warranties",
-    "url": "\/hooray-for-on-site-warranties\/",
-    "tags": [
-        "onsite warranty",
-        "repair",
-        "tip",
-        "work"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}[![Image of a broken
+---
+categories:
+- Tech
+date: "2007-11-09 08:28:03"
+draft: false
+publishDate: "2007-11-09 08:28:03"
+slug: hooray-for-on-site-warranties
+tags:
+- onsite warranty
+- repair
+- tip
+- work
+title: Hooray for On-Site Warranties
+url: /hooray-for-on-site-warranties/
+---
+[![Image of a broken
 laptop](//farm1.static.flickr.com/115/280931618_7692459a07_m_d.jpg)](http://www.flickr.com/photos/sarahbaker/280931618/ "Broken Computer Image")
 
 [Present](http://www.flickr.com/photos/sarahbaker/280931618/),

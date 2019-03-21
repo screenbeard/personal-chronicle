@@ -1,19 +1,18 @@
-{
-    "date": "2007-05-17 19:30:21",
-    "draft": false,
-    "publishDate": "2007-05-17 19:30:21",
-    "slug": "our-newest-family-member-herwin",
-    "title": "Our newest family member - Herwin!",
-    "url": "\/our-newest-family-member-herwin\/",
-    "tags": [
-        "herwin",
-        "puppy",
-        "slideshow"
-    ],
-    "categories": [
-        "Life"
-    ]
-}[![Hello
+---
+categories:
+- Life
+date: "2007-05-17 19:30:21"
+draft: false
+publishDate: "2007-05-17 19:30:21"
+slug: our-newest-family-member-herwin
+tags:
+- herwin
+- puppy
+- slideshow
+title: Our newest family member - Herwin!
+url: /our-newest-family-member-herwin/
+---
+[![Hello
 :)](https://farm4.staticflickr.com/3120/2595163118_b5a153a6ee_z.jpg){width="640"
 height="480"}](https://www.flickr.com/photos/joshnunn/2595163118/in/dateposted-public/ "Hello :)")
 

@@ -1,26 +1,24 @@
-{
-    "date": "2015-12-24 01:06:48",
-    "draft": false,
-    "publishDate": "2015-12-24 01:06:48",
-    "slug": "the-christmas-playlist-that-doesnt-suck-2015",
-    "title": "The Christmas Playlist That Doesn't Suck (2015)",
-    "url": "\/the-christmas-playlist-that-doesnt-suck-2015\/",
-    "tags": [
-        "awesome",
-        "carol",
-        "christmas",
-        "doesn't suck",
-        "folk",
-        "funk",
-        "instrumental",
-        "playlist",
-        "rock",
-        "unusual"
-    ],
-    "categories": [
-        "Share"
-    ]
-}
+---
+categories:
+- Share
+date: "2015-12-24 01:06:48"
+draft: false
+publishDate: "2015-12-24 01:06:48"
+slug: the-christmas-playlist-that-doesnt-suck-2015
+tags:
+- awesome
+- carol
+- christmas
+- doesn't suck
+- folk
+- funk
+- instrumental
+- playlist
+- rock
+- unusual
+title: The Christmas Playlist That Doesn't Suck (2015)
+url: /the-christmas-playlist-that-doesnt-suck-2015/
+---
 
 {{< figure src="https://turbo.geekorium.com.au/images/stormtrooper-christmas.jpg" alt="A photo of a Star Wars Stormtrooper toy in a Christmas tree with twinkling lights behind" caption="Merry Christmas" attr="by Jose Maria Cuellar" attrlink="//flic.kr/p/qcZ7u8" >}}
 

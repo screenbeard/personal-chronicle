@@ -1,20 +1,19 @@
-{
-    "date": "2008-07-23 12:49:47",
-    "draft": false,
-    "publishDate": "2008-07-23 12:49:47",
-    "slug": "from-my-iphone",
-    "title": "From my iPhone",
-    "url": "\/from-my-iphone\/",
-    "tags": [
-        "apps",
-        "fun",
-        "iPhone",
-        "wordpress"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}[![Yay! WordPress for iPhone is finally
+---
+categories:
+- Tech
+date: "2008-07-23 12:49:47"
+draft: false
+publishDate: "2008-07-23 12:49:47"
+slug: from-my-iphone
+tags:
+- apps
+- fun
+- iPhone
+- wordpress
+title: From my iPhone
+url: /from-my-iphone/
+---
+[![Yay! WordPress for iPhone is finally
 out!](//farm4.static.flickr.com/3115/2692065738_706ab25e55_m.jpg)](http://www.flickr.com/photos/44124452748@N01/2692065738)
 
 Image by [Josh

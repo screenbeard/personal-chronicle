@@ -1,20 +1,19 @@
-{
-    "date": "2010-03-30 10:20:14",
-    "draft": false,
-    "publishDate": "2010-03-30 10:20:14",
-    "slug": "why-email-needs-replacing-or-why-wave-matters",
-    "title": "Why Email Needs Replacing (or Why Wave Matters)",
-    "url": "\/why-email-needs-replacing-or-why-wave-matters\/",
-    "tags": [
-        "email",
-        "future",
-        "opinion",
-        "protocol"
-    ],
-    "categories": [
-        "Post"
-    ]
-}[![wave-email.jpg](https://turbo.geekorium.com.au/images/wave-email.jpg){.s3-img}](http://www.flickr.com/photos/lovati/4052787238/)
+---
+categories:
+- Post
+date: "2010-03-30 10:20:14"
+draft: false
+publishDate: "2010-03-30 10:20:14"
+slug: why-email-needs-replacing-or-why-wave-matters
+tags:
+- email
+- future
+- opinion
+- protocol
+title: Why Email Needs Replacing (or Why Wave Matters)
+url: /why-email-needs-replacing-or-why-wave-matters/
+---
+[![wave-email.jpg](https://turbo.geekorium.com.au/images/wave-email.jpg){.s3-img}](http://www.flickr.com/photos/lovati/4052787238/)
 
 ###
 

@@ -1,21 +1,20 @@
-{
-    "date": "2011-09-16 09:30:33",
-    "draft": false,
-    "publishDate": "2011-09-16 09:30:33",
-    "slug": "space-flight-704-chapter-6-escape-from-the-hell-planet",
-    "title": "Space Flight 704, Chapter 6: Escape from the Hell Planet",
-    "url": "\/space-flight-704-chapter-6-escape-from-the-hell-planet\/",
-    "tags": [
-        "autopilot",
-        "doubt",
-        "Final Flight of Xarnash",
-        "Rex Havoc",
-        "starship"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He wasn't sure he could do it this time.**
+---
+categories:
+- Space Flight 704
+date: "2011-09-16 09:30:33"
+draft: false
+publishDate: "2011-09-16 09:30:33"
+slug: space-flight-704-chapter-6-escape-from-the-hell-planet
+tags:
+- autopilot
+- doubt
+- Final Flight of Xarnash
+- Rex Havoc
+- starship
+title: 'Space Flight 704, Chapter 6: Escape from the Hell Planet'
+url: /space-flight-704-chapter-6-escape-from-the-hell-planet/
+---
+**He wasn't sure he could do it this time.**
 
 Normally at this point in the mission he'd succeeded in liberating the
 artifact or downloading the master plans. He would rocket out of the

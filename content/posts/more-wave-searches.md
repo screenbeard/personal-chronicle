@@ -1,19 +1,18 @@
-{
-    "date": "2009-10-18 07:42:57",
-    "draft": false,
-    "publishDate": "2009-10-18 07:42:57",
-    "slug": "more-wave-searches",
-    "title": "More Wave Searches",
-    "url": "\/more-wave-searches\/",
-    "tags": [
-        "gina trapani",
-        "search",
-        "tip"
-    ],
-    "categories": [
-        "Link"
-    ]
-}With so much happening at once in Wave it’s easy to be overwhelmed with
+---
+categories:
+- Link
+date: "2009-10-18 07:42:57"
+draft: false
+publishDate: "2009-10-18 07:42:57"
+slug: more-wave-searches
+tags:
+- gina trapani
+- search
+- tip
+title: More Wave Searches
+url: /more-wave-searches/
+---
+With so much happening at once in Wave it’s easy to be overwhelmed with
 it all. Save yourself some grief and use these handy searches to make
 managing the flood easier.
 

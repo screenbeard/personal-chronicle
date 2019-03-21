@@ -1,12 +1,12 @@
 ---
-date: 2009-10-20 03:49:00
-draft: false
-title: 11 + 1 Google Wave Tips at Nethead
-tags:
-    -   guide
-    -   tip
 categories:
-    -   Google Wave
+- Google Wave
+date: "2009-10-20 03:49:00"
+draft: false
+tags:
+- guide
+- tip
+title: 11 + 1 Google Wave Tips at Nethead
 ---
 
 If you’re wondering where to start when you first open Google Wave, try these 11 simple tasks that will give you a feel for the interface and the design decisions that went into it. For example, Tip 7 is:

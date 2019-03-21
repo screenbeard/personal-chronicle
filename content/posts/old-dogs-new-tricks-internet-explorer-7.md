@@ -1,15 +1,15 @@
-{
-    "date": "2007-05-22 01:45:30",
-    "draft": false,
-    "publishDate": "2007-05-22 01:45:30",
-    "slug": "old-dogs-new-tricks-internet-explorer-7",
-    "title": "Old Dogs, New Tricks - Internet Explorer 7",
-    "url": "\/old-dogs-new-tricks-internet-explorer-7\/",
-    "tags": [],
-    "categories": [
-        "Education"
-    ]
-}### Out with the Old
+---
+categories:
+- Education
+date: "2007-05-22 01:45:30"
+draft: false
+publishDate: "2007-05-22 01:45:30"
+slug: old-dogs-new-tricks-internet-explorer-7
+tags: []
+title: Old Dogs, New Tricks - Internet Explorer 7
+url: /old-dogs-new-tricks-internet-explorer-7/
+---
+### Out with the Old
 
 This intro is aimed at people who can use the Internet, and are
 comfortable using the last version of Microsoft's Internet browser:

@@ -1,19 +1,18 @@
-{
-    "date": "2006-02-08 04:45:49",
-    "draft": false,
-    "publishDate": "2006-02-08 04:45:49",
-    "slug": "gmail-easter-egg",
-    "title": "Gmail Easter Egg",
-    "url": "\/gmail-easter-egg\/",
-    "tags": [
-        "easter egg",
-        "gmail",
-        "google"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}Ok, originally I thought this was just a goofy co-incidence.
+---
+categories:
+- Rambling
+date: "2006-02-08 04:45:49"
+draft: false
+publishDate: "2006-02-08 04:45:49"
+slug: gmail-easter-egg
+tags:
+- easter egg
+- gmail
+- google
+title: Gmail Easter Egg
+url: /gmail-easter-egg/
+---
+Ok, originally I thought this was just a goofy co-incidence.
 
 [![Amusing Gmail 'spam' news
 clippings](//farm2.static.flickr.com/1102/526976402_2f3376fad1.jpg)](http://www.flickr.com/photos/joshnunn/526976402/)

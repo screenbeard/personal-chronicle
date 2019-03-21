@@ -1,21 +1,20 @@
-{
-    "date": "2010-04-06 00:41:30",
-    "draft": false,
-    "publishDate": "2010-04-06 00:41:30",
-    "slug": "gina-trapani-on-feeling-like-an-adult",
-    "title": "Gina Trapani on feeling like an adult",
-    "url": "\/gina-trapani-on-feeling-like-an-adult\/",
-    "tags": [
-        "blogging",
-        "hero",
-        "Life",
-        "lifehacker",
-        "Twitter"
-    ],
-    "categories": [
-        "Quick"
-    ]
-}<div id="tweet_11669889961" class="bbpBox"
+---
+categories:
+- Quick
+date: "2010-04-06 00:41:30"
+draft: false
+publishDate: "2010-04-06 00:41:30"
+slug: gina-trapani-on-feeling-like-an-adult
+tags:
+- blogging
+- hero
+- Life
+- lifehacker
+- Twitter
+title: Gina Trapani on feeling like an adult
+url: /gina-trapani-on-feeling-like-an-adult/
+---
+<div id="tweet_11669889961" class="bbpBox"
 style="background:url(http://a1.twimg.com/profile_background_images/16099684/3472210348_60d6226f47_o.jpg) #352726;padding:20px;">
 
 Most days I still feel like that painfully awkward, nerdy kid who had no

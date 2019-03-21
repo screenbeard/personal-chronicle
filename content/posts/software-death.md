@@ -1,15 +1,18 @@
-{
-    "date": "2018-03-31 12:55:57",
-    "draft": false,
-    "publishDate": "2018-03-31 12:55:57",
-    "slug": "software-death",
-    "title": "Software death",
-    "url": "\/software-death\/",
-    "tags": ["alternatives","facebook","comments","reddit"],
-    "categories": [
-        "Tech"
-    ]
-}
+---
+categories:
+- Tech
+date: "2018-03-31 12:55:57"
+draft: false
+publishDate: "2018-03-31 12:55:57"
+slug: software-death
+tags:
+- alternatives
+- facebook
+- comments
+- reddit
+title: Software death
+url: /software-death/
+---
 
 Over on [Rubenerd](//rubenerd.com/goodbye-digg-reader/)[^lasthope], Ruben is upset about the death of his favourite feed reader, the Digg Reader.
 

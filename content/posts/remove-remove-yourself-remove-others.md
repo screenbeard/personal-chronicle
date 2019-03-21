@@ -1,19 +1,18 @@
-{
-    "date": "2010-04-25 07:28:20",
-    "draft": false,
-    "publishDate": "2010-04-25 07:28:20",
-    "slug": "remove-remove-yourself-remove-others",
-    "title": "Remove: Remove Yourself! Remove Others!",
-    "url": "\/remove-remove-yourself-remove-others\/",
-    "tags": [
-        "editing",
-        "interface",
-        "new feature"
-    ],
-    "categories": [
-        "Post"
-    ]
-}The most long-awaited feature (besides the [seemingly
+---
+categories:
+- Post
+date: "2010-04-25 07:28:20"
+draft: false
+publishDate: "2010-04-25 07:28:20"
+slug: remove-remove-yourself-remove-others
+tags:
+- editing
+- interface
+- new feature
+title: 'Remove: Remove Yourself! Remove Others!'
+url: /remove-remove-yourself-remove-others/
+---
+The most long-awaited feature (besides the [seemingly
 dead](//the.geekorium.com.au/shortcut-on-buttons-interface-update/)
 "Draft" button) has [finally been imlemented by the Google Wave
 team](http://googlewave.blogspot.com/2010/04/removing-participants.html).

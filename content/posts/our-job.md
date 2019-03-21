@@ -1,20 +1,19 @@
-{
-    "date": "2007-05-15 12:00:53",
-    "draft": false,
-    "publishDate": "2007-05-15 12:00:53",
-    "slug": "our-job",
-    "title": "Our job.",
-    "url": "\/our-job\/",
-    "tags": [
-        "blogging",
-        "internet",
-        "technology",
-        "Thoughts"
-    ],
-    "categories": [
-        "Education"
-    ]
-}They do **what** on the Internet?
+---
+categories:
+- Education
+date: "2007-05-15 12:00:53"
+draft: false
+publishDate: "2007-05-15 12:00:53"
+slug: our-job
+tags:
+- blogging
+- internet
+- technology
+- Thoughts
+title: Our job.
+url: /our-job/
+---
+They do **what** on the Internet?
 
 I recently spoke to a staff member at one of my schools who in all
 respects is a lovely person, but who shocked me thoroughly when we

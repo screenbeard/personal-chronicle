@@ -1,20 +1,19 @@
-{
-    "date": "2013-05-18 07:22:03",
-    "draft": false,
-    "publishDate": "2013-05-18 07:22:03",
-    "slug": "space-flight-704-chapter-69-birth-of-the-ortrix",
-    "title": "Space Flight 704, Chapter 69: Birth of the Ortrix",
-    "url": "\/space-flight-704-chapter-69-birth-of-the-ortrix\/",
-    "tags": [
-        "Ortrix",
-        "Rex Havoc",
-        "Torim above",
-        "Torim below"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**But the Torim below survived.**
+---
+categories:
+- Space Flight 704
+date: "2013-05-18 07:22:03"
+draft: false
+publishDate: "2013-05-18 07:22:03"
+slug: space-flight-704-chapter-69-birth-of-the-ortrix
+tags:
+- Ortrix
+- Rex Havoc
+- Torim above
+- Torim below
+title: 'Space Flight 704, Chapter 69: Birth of the Ortrix'
+url: /space-flight-704-chapter-69-birth-of-the-ortrix/
+---
+**But the Torim below survived.**
 
 Not as physical beings. Not when their bodies were forcibly taken.
 Reduced to so much ash and dust.

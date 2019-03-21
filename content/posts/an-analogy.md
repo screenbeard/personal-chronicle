@@ -1,19 +1,18 @@
-{
-    "date": "2006-03-09 22:30:38",
-    "draft": false,
-    "publishDate": "2006-03-09 22:30:38",
-    "slug": "an-analogy",
-    "title": "An Analogy",
-    "url": "\/an-analogy\/",
-    "tags": [
-        "analogy",
-        "hoax",
-        "religion"
-    ],
-    "categories": [
-        "Religion"
-    ]
-}Imagine you are a horny young teenager who is told by a close and
+---
+categories:
+- Religion
+date: "2006-03-09 22:30:38"
+draft: false
+publishDate: "2006-03-09 22:30:38"
+slug: an-analogy
+tags:
+- analogy
+- hoax
+- religion
+title: An Analogy
+url: /an-analogy/
+---
+Imagine you are a horny young teenager who is told by a close and
 **trusted** friend that you have caught the eye of a beautiful
 supermodel. They say that the supermodel wants to be your friend, nay -
 your lover. All you have to do is read a few letters that the supermodel

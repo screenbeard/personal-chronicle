@@ -1,23 +1,22 @@
-{
-    "date": "2011-11-25 08:30:00",
-    "draft": false,
-    "publishDate": "2011-11-25 08:30:00",
-    "slug": "space-flight-555-chapter-2-den-of-danger",
-    "title": "Space Flight 555, Chapter 2: Den of Danger",
-    "url": "\/space-flight-555-chapter-2-den-of-danger\/",
-    "tags": [
-        "evil in the shadows",
-        "future",
-        "Mondex",
-        "mystery",
-        "past",
-        "Rex Havoc",
-        "Time Diversion"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex plunged through the vortex, falling like a paraglider into an
+---
+categories:
+- Space Flight 704
+date: "2011-11-25 08:30:00"
+draft: false
+publishDate: "2011-11-25 08:30:00"
+slug: space-flight-555-chapter-2-den-of-danger
+tags:
+- evil in the shadows
+- future
+- Mondex
+- mystery
+- past
+- Rex Havoc
+- Time Diversion
+title: 'Space Flight 555, Chapter 2: Den of Danger'
+url: /space-flight-555-chapter-2-den-of-danger/
+---
+**Rex plunged through the vortex, falling like a paraglider into an
 unknown destination. Rex was right behind him.**
 
 When Rex and his younger self had confronted Mondex outside the casino,

@@ -1,15 +1,14 @@
-{
-    "date": "2018-04-13 12:55:17",
-    "draft": false,
-    "publishDate": "2018-04-13 12:55:17",
-    "slug": "comment-bots",
-    "title": "Comment Bots",
-    "url": "\/comment-bots\/",
-    "tags": [],
-    "categories": [
-        "Tech"
-    ]
-}
+---
+categories:
+- Tech
+date: "2018-04-13 12:55:17"
+draft: false
+publishDate: "2018-04-13 12:55:17"
+slug: comment-bots
+tags: []
+title: Comment Bots
+url: /comment-bots/
+---
 
 I've been thinking more about yesterday's post on [comment systems](/internet-draft-comment-systems/).
 

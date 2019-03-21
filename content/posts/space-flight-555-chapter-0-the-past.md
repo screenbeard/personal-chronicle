@@ -1,23 +1,22 @@
-{
-    "date": "2011-11-18 08:30:00",
-    "draft": false,
-    "publishDate": "2011-11-18 08:30:00",
-    "slug": "space-flight-555-chapter-0-the-past",
-    "title": "Space Flight 555, Chapter 0: The Past",
-    "url": "\/space-flight-555-chapter-0-the-past\/",
-    "tags": [
-        "back and forth",
-        "future",
-        "hover!",
-        "past",
-        "Rex Havoc",
-        "Time Diversion",
-        "time travel"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**I'm tracking a spacetime anomaly.**
+---
+categories:
+- Space Flight 704
+date: "2011-11-18 08:30:00"
+draft: false
+publishDate: "2011-11-18 08:30:00"
+slug: space-flight-555-chapter-0-the-past
+tags:
+- back and forth
+- future
+- hover!
+- past
+- Rex Havoc
+- Time Diversion
+- time travel
+title: 'Space Flight 555, Chapter 0: The Past'
+url: /space-flight-555-chapter-0-the-past/
+---
+**I'm tracking a spacetime anomaly.**
 
 **I'm tracking a spacetime anomaly.**
 

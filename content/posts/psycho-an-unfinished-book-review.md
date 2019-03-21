@@ -1,22 +1,21 @@
-{
-    "date": "2006-03-13 04:18:14",
-    "draft": false,
-    "publishDate": "2006-03-13 04:18:14",
-    "slug": "psycho-an-unfinished-book-review",
-    "title": "Psycho: An unfinished book review",
-    "url": "\/psycho-an-unfinished-book-review\/",
-    "tags": [
-        "books",
-        "lord of the rings",
-        "movie",
-        "peter jackson",
-        "psycho",
-        "robert bloch"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}I have just started reading *Psycho* by Robert Bloch. Actually, I think
+---
+categories:
+- Opinions
+date: "2006-03-13 04:18:14"
+draft: false
+publishDate: "2006-03-13 04:18:14"
+slug: psycho-an-unfinished-book-review
+tags:
+- books
+- lord of the rings
+- movie
+- peter jackson
+- psycho
+- robert bloch
+title: 'Psycho: An unfinished book review'
+url: /psycho-an-unfinished-book-review/
+---
+I have just started reading *Psycho* by Robert Bloch. Actually, I think
 I may have read it before, but it's hard to tell. Of course I've seen
 the movie, which confuses the issue further, but I can't help feeling
 like I've compared it to the movie before. Please understand, it's not

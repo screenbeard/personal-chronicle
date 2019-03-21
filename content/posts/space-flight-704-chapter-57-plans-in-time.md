@@ -1,21 +1,20 @@
-{
-    "date": "2013-04-25 07:30:52",
-    "draft": false,
-    "publishDate": "2013-04-25 07:30:52",
-    "slug": "space-flight-704-chapter-57-plans-in-time",
-    "title": "Space Flight 704, Chapter 57: Plans in Time",
-    "url": "\/space-flight-704-chapter-57-plans-in-time\/",
-    "tags": [
-        "Jones",
-        "Ortrix",
-        "plans",
-        "Rex Havoc",
-        "voice in the dark"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**The Other travelled with him.**
+---
+categories:
+- Space Flight 704
+date: "2013-04-25 07:30:52"
+draft: false
+publishDate: "2013-04-25 07:30:52"
+slug: space-flight-704-chapter-57-plans-in-time
+tags:
+- Jones
+- Ortrix
+- plans
+- Rex Havoc
+- voice in the dark
+title: 'Space Flight 704, Chapter 57: Plans in Time'
+url: /space-flight-704-chapter-57-plans-in-time/
+---
+**The Other travelled with him.**
 
 % \[voiceinthedark\]What will you do with it when you have followed the
 Ortrix to it's source?\[/voiceinthedark\]%

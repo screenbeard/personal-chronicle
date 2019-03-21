@@ -1,13 +1,13 @@
 ---
-date: 2009-10-15 20:58:43
+categories:
+- Opinions
+date: "2009-10-15 20:58:43"
 draft: false
-title: Astro Boy (movie review)
 tags:
 - astroboy
 - fun
 - movies
-categories:
-- Opinions
+title: Astro Boy (movie review)
 ---
 
 {{< youtube W5zJZQjP094 >}}

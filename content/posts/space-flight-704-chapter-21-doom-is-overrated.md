@@ -1,21 +1,20 @@
-{
-    "date": "2011-10-17 08:30:51",
-    "draft": false,
-    "publishDate": "2011-10-17 08:30:51",
-    "slug": "space-flight-704-chapter-21-doom-is-overrated",
-    "title": "Space Flight 704, Chapter 21: Doom is Overrated",
-    "url": "\/space-flight-704-chapter-21-doom-is-overrated\/",
-    "tags": [
-        "clarity",
-        "graphic violence",
-        "pain",
-        "powers",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex Plummeted to his death.**
+---
+categories:
+- Space Flight 704
+date: "2011-10-17 08:30:51"
+draft: false
+publishDate: "2011-10-17 08:30:51"
+slug: space-flight-704-chapter-21-doom-is-overrated
+tags:
+- clarity
+- graphic violence
+- pain
+- powers
+- Rex Havoc
+title: 'Space Flight 704, Chapter 21: Doom is Overrated'
+url: /space-flight-704-chapter-21-doom-is-overrated/
+---
+**Rex Plummeted to his death.**
 
 He had been pushed, he knew he had. Yet as he fell, he didn't feel
 anger, only surprise it had happened so soon.

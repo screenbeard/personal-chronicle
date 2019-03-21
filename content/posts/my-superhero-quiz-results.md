@@ -1,18 +1,17 @@
-{
-    "date": "2006-02-23 14:13:30",
-    "draft": false,
-    "publishDate": "2006-02-23 14:13:30",
-    "slug": "my-superhero-quiz-results",
-    "title": "My Superhero Quiz Results",
-    "url": "\/my-superhero-quiz-results\/",
-    "tags": [
-        "green lantern",
-        "superhero"
-    ],
-    "categories": [
-        "Share"
-    ]
-}When I found out I could discover my superhero identity, I had to try
+---
+categories:
+- Share
+date: "2006-02-23 14:13:30"
+draft: false
+publishDate: "2006-02-23 14:13:30"
+slug: my-superhero-quiz-results
+tags:
+- green lantern
+- superhero
+title: My Superhero Quiz Results
+url: /my-superhero-quiz-results/
+---
+When I found out I could discover my superhero identity, I had to try
 it. I was hoping for Spider-Man, who the quiz thinks I'm kinda like.
 
 Your results:

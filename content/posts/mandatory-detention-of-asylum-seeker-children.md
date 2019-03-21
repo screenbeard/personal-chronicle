@@ -1,15 +1,14 @@
-{
-    "date": "2015-02-26 10:01:24",
-    "draft": false,
-    "publishDate": "2015-02-26 10:01:24",
-    "slug": "mandatory-detention-of-asylum-seeker-children",
-    "title": "Mandatory Detention of Asylum Seeker Children",
-    "url": "\/mandatory-detention-of-asylum-seeker-children\/",
-    "tags": [],
-    "categories": [
-        "Rambling"
-    ]
-}
+---
+categories:
+- Rambling
+date: "2015-02-26 10:01:24"
+draft: false
+publishDate: "2015-02-26 10:01:24"
+slug: mandatory-detention-of-asylum-seeker-children
+tags: []
+title: Mandatory Detention of Asylum Seeker Children
+url: /mandatory-detention-of-asylum-seeker-children/
+---
 
 I'm livid lately at the state of this country's politics, and the reason is this government's absolutely disgraceful reaction to the Human Rights Commission report into the children in detention.
 

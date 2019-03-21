@@ -1,20 +1,19 @@
-{
-    "date": "2013-03-28 08:30:45",
-    "draft": false,
-    "publishDate": "2013-03-28 08:30:45",
-    "slug": "space-flight-704-chapter-49-violent-passage",
-    "title": "Space Flight 704, Chapter 49: Violent Passage",
-    "url": "\/space-flight-704-chapter-49-violent-passage\/",
-    "tags": [
-        "Anrianna",
-        "crash",
-        "Rex Havoc",
-        "The Princess"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Stop this. Look away.**
+---
+categories:
+- Space Flight 704
+date: "2013-03-28 08:30:45"
+draft: false
+publishDate: "2013-03-28 08:30:45"
+slug: space-flight-704-chapter-49-violent-passage
+tags:
+- Anrianna
+- crash
+- Rex Havoc
+- The Princess
+title: 'Space Flight 704, Chapter 49: Violent Passage'
+url: /space-flight-704-chapter-49-violent-passage/
+---
+**Stop this. Look away.**
 
 Rex feels the impact like a body slam, even through the impact foam.
 

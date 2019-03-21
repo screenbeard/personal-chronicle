@@ -1,20 +1,19 @@
-{
-    "date": "2009-06-01 12:28:21",
-    "draft": false,
-    "publishDate": "2009-06-01 12:28:21",
-    "slug": "google-wave",
-    "title": "So... Google Wave. This changes everything.",
-    "url": "\/google-wave\/",
-    "tags": [
-        "brilliant",
-        "google",
-        "Google Wave",
-        "technology"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}Finally got around to watching this. If Google's Wave takes off (and it
+---
+categories:
+- Tech
+date: "2009-06-01 12:28:21"
+draft: false
+publishDate: "2009-06-01 12:28:21"
+slug: google-wave
+tags:
+- brilliant
+- google
+- Google Wave
+- technology
+title: So... Google Wave. This changes everything.
+url: /google-wave/
+---
+Finally got around to watching this. If Google's Wave takes off (and it
 will), it will change everything. This is better than email, better than
 IM, better than a personal wiki. Within months of this going live, we
 will have a million new ways to communicate. That they've made it open

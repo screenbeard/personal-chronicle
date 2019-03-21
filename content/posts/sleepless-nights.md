@@ -1,20 +1,19 @@
-{
-    "date": "2005-11-11 09:52:55",
-    "draft": false,
-    "publishDate": "2005-11-11 09:52:55",
-    "slug": "sleepless-nights",
-    "title": "Sleepless Nights",
-    "url": "\/sleepless-nights\/",
-    "tags": [
-        "cfs",
-        "god",
-        "not fun",
-        "question"
-    ],
-    "categories": [
-        "Life"
-    ]
-}Just when I start to think that maybe we'll cope, and things couldn't
+---
+categories:
+- Life
+date: "2005-11-11 09:52:55"
+draft: false
+publishDate: "2005-11-11 09:52:55"
+slug: sleepless-nights
+tags:
+- cfs
+- god
+- not fun
+- question
+title: Sleepless Nights
+url: /sleepless-nights/
+---
+Just when I start to think that maybe we'll cope, and things couldn't
 get any worse then they were before, turns out I'm wrong.
 
 I wake up at four o'clock, and Mil says she can't move. She needs to

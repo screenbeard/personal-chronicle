@@ -1,26 +1,25 @@
-{
-    "date": "2011-07-20 11:45:05",
-    "draft": false,
-    "publishDate": "2011-07-20 11:45:05",
-    "slug": "comixology-comparing-digital-comic-reader",
-    "title": "Comixology: Comparing Digital Comic Readers",
-    "url": "\/comixology-comparing-digital-comic-reader\/",
-    "tags": [
-        "android",
-        "comics",
-        "comixology",
-        "darkhorse",
-        "dc",
-        "digital media",
-        "image",
-        "ios",
-        "iPhone",
-        "marvel"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}David Hawkins at **What Culture!** asks [*Can Marvel Digital Comics
+---
+categories:
+- Opinions
+date: "2011-07-20 11:45:05"
+draft: false
+publishDate: "2011-07-20 11:45:05"
+slug: comixology-comparing-digital-comic-reader
+tags:
+- android
+- comics
+- comixology
+- darkhorse
+- dc
+- digital media
+- image
+- ios
+- iPhone
+- marvel
+title: 'Comixology: Comparing Digital Comic Readers'
+url: /comixology-comparing-digital-comic-reader/
+---
+David Hawkins at **What Culture!** asks [*Can Marvel Digital Comics
 Conquer The Comic Readers of the
 World?*](http://whatculture.com/comics/can-marvel-digital-comics-conquer-the-comic-readers-of-the-world.php)
 

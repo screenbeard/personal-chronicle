@@ -1,21 +1,20 @@
-{
-    "date": "2007-07-01 07:55:09",
-    "draft": false,
-    "publishDate": "2007-07-01 07:55:09",
-    "slug": "free-music-from-triple-j-an-unofficial-feed",
-    "title": "Free music from Triple J - an unofficial feed",
-    "url": "\/free-music-from-triple-j-an-unofficial-feed\/",
-    "tags": [
-        "free",
-        "MP3",
-        "music",
-        "technology",
-        "triple j"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}<span class="update"><span class="date">Update: 2007-12</span> My feed
+---
+categories:
+- Invention
+date: "2007-07-01 07:55:09"
+draft: false
+publishDate: "2007-07-01 07:55:09"
+slug: free-music-from-triple-j-an-unofficial-feed
+tags:
+- free
+- MP3
+- music
+- technology
+- triple j
+title: Free music from Triple J - an unofficial feed
+url: /free-music-from-triple-j-an-unofficial-feed/
+---
+<span class="update"><span class="date">Update: 2007-12</span> My feed
 is superceded by the ACTUAL OFFICIAL [triple j: new music
 podcast](http://www.abc.net.au/triplej/listen/free_mp3s.xml). Please
 subscribe to it! It includes links to the actual MP3s.</span>

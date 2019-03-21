@@ -1,21 +1,20 @@
-{
-    "date": "2008-12-16 11:44:48",
-    "draft": false,
-    "publishDate": "2008-12-16 11:44:48",
-    "slug": "how-my-avatar-differs-from-my-real-face-a-guide",
-    "title": "How my Avatar differs from my Real Face (a guide)",
-    "url": "\/how-my-avatar-differs-from-my-real-face-a-guide\/",
-    "tags": [
-        "Avatar",
-        "Branding",
-        "Marketing",
-        "Social Networking",
-        "Twitter"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}While I was changing my
+---
+categories:
+- Rambling
+date: "2008-12-16 11:44:48"
+draft: false
+publishDate: "2008-12-16 11:44:48"
+slug: how-my-avatar-differs-from-my-real-face-a-guide
+tags:
+- Avatar
+- Branding
+- Marketing
+- Social Networking
+- Twitter
+title: How my Avatar differs from my Real Face (a guide)
+url: /how-my-avatar-differs-from-my-real-face-a-guide/
+---
+While I was changing my
 [Twitter](http://twitter.com "what are you doing?") picture I noticed
 that the service suggests that to be more personable and connect better
 I should use a picture of myself, rather than a random image as an

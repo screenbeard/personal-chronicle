@@ -1,20 +1,19 @@
-{
-    "date": "2009-06-06 01:06:00",
-    "draft": false,
-    "publishDate": "2009-06-06 01:06:00",
-    "slug": "crazy-crossbreed",
-    "title": "\"Crazy Crossbreed\"",
-    "url": "\/crazy-crossbreed\/",
-    "tags": [
-        "cnet",
-        "debate",
-        "discussion",
-        "first look"
-    ],
-    "categories": [
-        "Quote"
-    ]
-}> Wave feels like some crazy crossbreed of Docs, Gmail, and IM, but I
+---
+categories:
+- Quote
+date: "2009-06-06 01:06:00"
+draft: false
+publishDate: "2009-06-06 01:06:00"
+slug: crazy-crossbreed
+tags:
+- cnet
+- debate
+- discussion
+- first look
+title: '"Crazy Crossbreed"'
+url: /crazy-crossbreed/
+---
+> Wave feels like some crazy crossbreed of Docs, Gmail, and IM, but I
 > overall I find that refreshing more than troubling.
 
 [Debating the power of Google’s

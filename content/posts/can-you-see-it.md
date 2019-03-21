@@ -1,20 +1,19 @@
-{
-    "date": "2009-06-07 11:35:45",
-    "draft": false,
-    "publishDate": "2009-06-07 11:35:45",
-    "slug": "can-you-see-it",
-    "title": "Can you see it?",
-    "url": "\/can-you-see-it\/",
-    "tags": [
-        "Amelynne Grace",
-        "baby",
-        "beard",
-        "cute"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}People keep saying that Amelynne looks like me. I don't see it. Do you?
+---
+categories:
+- Invention
+date: "2009-06-07 11:35:45"
+draft: false
+publishDate: "2009-06-07 11:35:45"
+slug: can-you-see-it
+tags:
+- Amelynne Grace
+- baby
+- beard
+- cute
+title: Can you see it?
+url: /can-you-see-it/
+---
+People keep saying that Amelynne looks like me. I don't see it. Do you?
 
 [![Do I look Amish in
 this?](//farm4.static.flickr.com/3565/3599833719_86a48c8f7d_o.jpg){.alignnone}](http://www.flickr.com/photos/joshnunn/3599833719/ "Do I look Amish in this?"){.tt-flickr

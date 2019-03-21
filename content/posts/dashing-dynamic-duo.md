@@ -1,15 +1,14 @@
-{
-    "date": "2018-04-02 03:04:43",
-    "draft": false,
-    "publishDate": "2018-04-02 03:04:43",
-    "slug": "dashing-dynamic-duo",
-    "title": "Dashing Dynamic Duo",
-    "url": "\/dashing-dynamic-duo\/",
-    "tags": [],
-    "categories": [
-        "Rambling"
-    ]
-}
+---
+categories:
+- Rambling
+date: "2018-04-02 03:04:43"
+draft: false
+publishDate: "2018-04-02 03:04:43"
+slug: dashing-dynamic-duo
+tags: []
+title: Dashing Dynamic Duo
+url: /dashing-dynamic-duo/
+---
 
 ![Batman and Robin Comic Book Logo]( "Batman and Robin Comic Book Logo")
 

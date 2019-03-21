@@ -1,21 +1,20 @@
-{
-    "date": "2013-03-23 08:30:53",
-    "draft": false,
-    "publishDate": "2013-03-23 08:30:53",
-    "slug": "space-flight-704-chapter-47-perspective-collapse",
-    "title": "Space Flight 704, Chapter 47: Perspective Collapse",
-    "url": "\/space-flight-704-chapter-47-perspective-collapse\/",
-    "tags": [
-        "Anrianna",
-        "Hundred Tonne Husky",
-        "Rex Havoc",
-        "The Princess",
-        "The Professor"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Not this. Not this.**
+---
+categories:
+- Space Flight 704
+date: "2013-03-23 08:30:53"
+draft: false
+publishDate: "2013-03-23 08:30:53"
+slug: space-flight-704-chapter-47-perspective-collapse
+tags:
+- Anrianna
+- Hundred Tonne Husky
+- Rex Havoc
+- The Princess
+- The Professor
+title: 'Space Flight 704, Chapter 47: Perspective Collapse'
+url: /space-flight-704-chapter-47-perspective-collapse/
+---
+**Not this. Not this.**
 
 The Hundred-Tonne-Husky slammed into the atmosphere, igniting a trail
 across the sky.

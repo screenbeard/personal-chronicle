@@ -1,21 +1,20 @@
-{
-    "date": "2007-11-11 00:24:11",
-    "draft": false,
-    "publishDate": "2007-11-11 00:24:11",
-    "slug": "potential-google-game",
-    "title": "Potential Google Game",
-    "url": "\/potential-google-game\/",
-    "tags": [
-        "game",
-        "google",
-        "learning",
-        "search",
-        "wikipedia"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}[![Google Logo made of
+---
+categories:
+- Rambling
+date: "2007-11-11 00:24:11"
+draft: false
+publishDate: "2007-11-11 00:24:11"
+slug: potential-google-game
+tags:
+- game
+- google
+- learning
+- search
+- wikipedia
+title: Potential Google Game
+url: /potential-google-game/
+---
+[![Google Logo made of
 LEGO](https://turbo.geekorium.com.au/wp-content/uploads/108805307_c43af20f59_m.jpg)](http://flickr.com/photos/keso/108805307/)
 
 [google\_logo](http://flickr.com/photos/keso/108805307/ "Google Logo in LEGO")

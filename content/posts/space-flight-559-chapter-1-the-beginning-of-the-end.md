@@ -1,20 +1,19 @@
-{
-    "date": "2012-05-14 09:30:39",
-    "draft": false,
-    "publishDate": "2012-05-14 09:30:39",
-    "slug": "space-flight-559-chapter-1-the-beginning-of-the-end",
-    "title": "Space Flight 559, Chapter 1: The Beginning of the End",
-    "url": "\/space-flight-559-chapter-1-the-beginning-of-the-end\/",
-    "tags": [
-        "The Professor",
-        "time travel",
-        "time-belt",
-        "vortex"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Vworp**
+---
+categories:
+- Space Flight 704
+date: "2012-05-14 09:30:39"
+draft: false
+publishDate: "2012-05-14 09:30:39"
+slug: space-flight-559-chapter-1-the-beginning-of-the-end
+tags:
+- The Professor
+- time travel
+- time-belt
+- vortex
+title: 'Space Flight 559, Chapter 1: The Beginning of the End'
+url: /space-flight-559-chapter-1-the-beginning-of-the-end/
+---
+**Vworp**
 
 The Professor popped out of the time vortex with an ignominious crash.
 Dusting himself off, he lamented his lack of finesse compared to his

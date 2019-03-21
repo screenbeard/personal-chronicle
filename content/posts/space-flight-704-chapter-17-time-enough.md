@@ -1,21 +1,20 @@
-{
-    "date": "2011-10-05 07:30:47",
-    "draft": false,
-    "publishDate": "2011-10-05 07:30:47",
-    "slug": "space-flight-704-chapter-17-time-enough",
-    "title": "Space Flight 704, Chapter 17: Time Enough",
-    "url": "\/space-flight-704-chapter-17-time-enough\/",
-    "tags": [
-        "plans",
-        "Rex Havoc",
-        "time",
-        "voice in the dark",
-        "worry Jones"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**While the voice explained, Rex began forming his arms.**
+---
+categories:
+- Space Flight 704
+date: "2011-10-05 07:30:47"
+draft: false
+publishDate: "2011-10-05 07:30:47"
+slug: space-flight-704-chapter-17-time-enough
+tags:
+- plans
+- Rex Havoc
+- time
+- voice in the dark
+- worry Jones
+title: 'Space Flight 704, Chapter 17: Time Enough'
+url: /space-flight-704-chapter-17-time-enough/
+---
+**While the voice explained, Rex began forming his arms.**
 
 "So this Torimbalo is some sort of artefact?" he asked as the voice
 finished. "Something that imbues power through what? Touch?"

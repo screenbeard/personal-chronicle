@@ -1,23 +1,22 @@
-{
-    "date": "2010-01-31 05:06:26",
-    "draft": false,
-    "publishDate": "2010-01-31 05:06:26",
-    "slug": "read-a-wave-in-a-fast-simple-interface",
-    "title": "Read a Wave in a Fast, Simple Interface",
-    "url": "\/read-a-wave-in-a-fast-simple-interface\/",
-    "tags": [
-        "blogging",
-        "client",
-        "embed",
-        "future",
-        "interface",
-        "opensource",
-        "use case"
-    ],
-    "categories": [
-        "Post"
-    ]
-}Want to share a public wave with someone who hasn't jumped on the Wave
+---
+categories:
+- Post
+date: "2010-01-31 05:06:26"
+draft: false
+publishDate: "2010-01-31 05:06:26"
+slug: read-a-wave-in-a-fast-simple-interface
+tags:
+- blogging
+- client
+- embed
+- future
+- interface
+- opensource
+- use case
+title: Read a Wave in a Fast, Simple Interface
+url: /read-a-wave-in-a-fast-simple-interface/
+---
+Want to share a public wave with someone who hasn't jumped on the Wave
 bandwagon? Need to publish a Wave in a way that keeps it safe from
 editors and wanna-be trolls? How 'bout this [Wave
 Reader](http://antimatter15.com/wp/2010/01/wave-reader-4-6/) that takes

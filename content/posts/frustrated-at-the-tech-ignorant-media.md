@@ -1,18 +1,17 @@
-{
-    "date": "2010-02-15 09:02:38",
-    "draft": false,
-    "publishDate": "2010-02-15 09:02:38",
-    "slug": "frustrated-at-the-tech-ignorant-media",
-    "title": "Frustrated at the Tech-Ignorant Media.",
-    "url": "\/frustrated-at-the-tech-ignorant-media\/",
-    "tags": [
-        "correcting ignorance",
-        "technology"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}![](https://turbo.geekorium.com.au/images/262091025_9825a64b68.jpg)
+---
+categories:
+- Tech
+date: "2010-02-15 09:02:38"
+draft: false
+publishDate: "2010-02-15 09:02:38"
+slug: frustrated-at-the-tech-ignorant-media
+tags:
+- correcting ignorance
+- technology
+title: Frustrated at the Tech-Ignorant Media.
+url: /frustrated-at-the-tech-ignorant-media/
+---
+![](https://turbo.geekorium.com.au/images/262091025_9825a64b68.jpg)
 
 [SPAM! \[don't
 buy\]](http://www.flickr.com/photos/david-trattnig/262091025/) /\

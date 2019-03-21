@@ -1,20 +1,19 @@
-{
-    "date": "2010-03-15 07:59:35",
-    "draft": false,
-    "publishDate": "2010-03-15 07:59:35",
-    "slug": "hoping-for-feedback-so-far-getting-static",
-    "title": "Hoping for Feedback, So Far Getting Static",
-    "url": "\/hoping-for-feedback-so-far-getting-static\/",
-    "tags": [
-        "family",
-        "friend",
-        "please help me i'm so desperate for attention",
-        "stupid"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}[![Wooly
+---
+categories:
+- Rambling
+date: "2010-03-15 07:59:35"
+draft: false
+publishDate: "2010-03-15 07:59:35"
+slug: hoping-for-feedback-so-far-getting-static
+tags:
+- family
+- friend
+- please help me i'm so desperate for attention
+- stupid
+title: Hoping for Feedback, So Far Getting Static
+url: /hoping-for-feedback-so-far-getting-static/
+---
+[![Wooly
 hat](//farm3.static.flickr.com/2655/3689139118_7f000b5e61.jpg)](http://www.flickr.com/photos/joshnunn/3689139118/ "Wooly hat by joshnunn, on Flickr")
 
 This photo is not relevant to the rest of this post.\

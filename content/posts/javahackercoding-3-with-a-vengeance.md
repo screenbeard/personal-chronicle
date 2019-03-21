@@ -1,20 +1,19 @@
-{
-    "date": "2009-08-12 22:42:18",
-    "draft": false,
-    "publishDate": "2009-08-12 22:42:18",
-    "slug": "javahackercoding-3-with-a-vengeance",
-    "title": "Javahackercoding 3: With a Vengeance",
-    "url": "\/javahackercoding-3-with-a-vengeance\/",
-    "tags": [
-        "java",
-        "NetBeans",
-        "Programming",
-        "Tutorials"
-    ],
-    "categories": [
-        "Coding"
-    ]
-}This week has been mad. Both my girls have had colds and one has been
+---
+categories:
+- Coding
+date: "2009-08-12 22:42:18"
+draft: false
+publishDate: "2009-08-12 22:42:18"
+slug: javahackercoding-3-with-a-vengeance
+tags:
+- java
+- NetBeans
+- Programming
+- Tutorials
+title: 'Javahackercoding 3: With a Vengeance'
+url: /javahackercoding-3-with-a-vengeance/
+---
+This week has been mad. Both my girls have had colds and one has been
 teething ((I'll let you guess which)), so finding time to study between
 looking after them (and myself to make sure I don't get it too) has been
 difficult. I've read my chapters, but I'm not one ahead like I wanted to

@@ -1,20 +1,19 @@
-{
-    "date": "2009-07-02 11:49:50",
-    "draft": false,
-    "publishDate": "2009-07-02 11:49:50",
-    "slug": "mo-kargas-mokargas",
-    "title": "Mo Kargas (@mokargas)",
-    "url": "\/mo-kargas-mokargas\/",
-    "tags": [
-        "@mokargas",
-        "follow",
-        "friend",
-        "Twitter"
-    ],
-    "categories": [
-        "Share"
-    ]
-}I've never met Mo. You might think I'm afraid of him because he's scary
+---
+categories:
+- Share
+date: "2009-07-02 11:49:50"
+draft: false
+publishDate: "2009-07-02 11:49:50"
+slug: mo-kargas-mokargas
+tags:
+- '@mokargas'
+- follow
+- friend
+- Twitter
+title: Mo Kargas (@mokargas)
+url: /mo-kargas-mokargas/
+---
+I've never met Mo. You might think I'm afraid of him because he's scary
 lookin' or because he's a "400ft tall doomsday megabot ((web
 developer))" but I'm not. I just haven't had the opportunity yet. He
 isn't scary online though - in fact he's quite the opposite. His avatar

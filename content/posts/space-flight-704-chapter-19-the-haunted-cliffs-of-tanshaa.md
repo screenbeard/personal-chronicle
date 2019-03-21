@@ -1,21 +1,20 @@
-{
-    "date": "2011-10-07 08:30:54",
-    "draft": false,
-    "publishDate": "2011-10-07 08:30:54",
-    "slug": "space-flight-704-chapter-19-the-haunted-cliffs-of-tanshaa",
-    "title": "Space Flight 704, Chapter 19: The Haunted Cliffs of Tanshaa",
-    "url": "\/space-flight-704-chapter-19-the-haunted-cliffs-of-tanshaa\/",
-    "tags": [
-        "feelings",
-        "Rex Havoc",
-        "stranger",
-        "voice in the dark",
-        "who is it?"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex turned quickly on his heel**
+---
+categories:
+- Space Flight 704
+date: "2011-10-07 08:30:54"
+draft: false
+publishDate: "2011-10-07 08:30:54"
+slug: space-flight-704-chapter-19-the-haunted-cliffs-of-tanshaa
+tags:
+- feelings
+- Rex Havoc
+- stranger
+- voice in the dark
+- who is it?
+title: 'Space Flight 704, Chapter 19: The Haunted Cliffs of Tanshaa'
+url: /space-flight-704-chapter-19-the-haunted-cliffs-of-tanshaa/
+---
+**Rex turned quickly on his heel**
 
 "Aha"
 

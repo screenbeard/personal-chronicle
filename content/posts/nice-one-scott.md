@@ -1,20 +1,19 @@
-{
-    "date": "2007-07-12 01:38:29",
-    "draft": false,
-    "publishDate": "2007-07-12 01:38:29",
-    "slug": "nice-one-scott",
-    "title": "Nice one Scott!",
-    "url": "\/nice-one-scott\/",
-    "tags": [
-        "banking",
-        "customer service",
-        "hreview",
-        "microformat"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}<div id="hreview-Excellent-Customer-Service" class="hreview">
+---
+categories:
+- Opinions
+date: "2007-07-12 01:38:29"
+draft: false
+publishDate: "2007-07-12 01:38:29"
+slug: nice-one-scott
+tags:
+- banking
+- customer service
+- hreview
+- microformat
+title: Nice one Scott!
+url: /nice-one-scott/
+---
+<div id="hreview-Excellent-Customer-Service" class="hreview">
 
 ####  {#section .summary}
 

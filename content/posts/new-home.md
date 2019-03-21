@@ -1,18 +1,17 @@
-{
-    "date": "2006-12-04 13:31:57",
-    "draft": false,
-    "publishDate": "2006-12-04 13:31:57",
-    "slug": "new-home",
-    "title": "New Home",
-    "url": "\/new-home\/",
-    "tags": [
-        "house",
-        "purchase"
-    ],
-    "categories": [
-        "Life"
-    ]
-}I've updated my website's theme in honour of the biggest news I've had
+---
+categories:
+- Life
+date: "2006-12-04 13:31:57"
+draft: false
+publishDate: "2006-12-04 13:31:57"
+slug: new-home
+tags:
+- house
+- purchase
+title: New Home
+url: /new-home/
+---
+I've updated my website's theme in honour of the biggest news I've had
 since I told my family and friends I was getting married. And unlike
 then, it's actually taken people by surprise!
 

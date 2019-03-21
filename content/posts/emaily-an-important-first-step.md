@@ -1,20 +1,19 @@
-{
-    "date": "2009-10-19 00:21:58",
-    "draft": false,
-    "publishDate": "2009-10-19 00:21:58",
-    "slug": "emaily-an-important-first-step",
-    "title": "Emaily: An important first step.",
-    "url": "\/emaily-an-important-first-step\/",
-    "tags": [
-        "addon",
-        "bots",
-        "email",
-        "opinion"
-    ],
-    "categories": [
-        "Post"
-    ]
-}Emaily is a bot that sends an email alert for every new blip in a
+---
+categories:
+- Post
+date: "2009-10-19 00:21:58"
+draft: false
+publishDate: "2009-10-19 00:21:58"
+slug: emaily-an-important-first-step
+tags:
+- addon
+- bots
+- email
+- opinion
+title: 'Emaily: An important first step.'
+url: /emaily-an-important-first-step/
+---
+Emaily is a bot that sends an email alert for every new blip in a
 specified wave.
 
 If your main inbox is your email inbox then this bot could be an

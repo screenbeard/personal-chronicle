@@ -1,23 +1,22 @@
-{
-    "date": "2010-11-30 21:01:07",
-    "draft": false,
-    "publishDate": "2010-11-30 21:01:07",
-    "slug": "of-the-year",
-    "title": "... of the Year!!",
-    "url": "\/of-the-year\/",
-    "tags": [
-        "Aussie",
-        "Australian",
-        "award",
-        "inspiration",
-        "joy",
-        "love",
-        "share"
-    ],
-    "categories": [
-        "Life"
-    ]
-}This post was going to start out negative, calling for nominations for
+---
+categories:
+- Life
+date: "2010-11-30 21:01:07"
+draft: false
+publishDate: "2010-11-30 21:01:07"
+slug: of-the-year
+tags:
+- Aussie
+- Australian
+- award
+- inspiration
+- joy
+- love
+- share
+title: '... of the Year!!'
+url: /of-the-year/
+---
+This post was going to start out negative, calling for nominations for
 "Unaustralian of the Year". And whilst typically Australian, its not a
 particularly celebratory way to see the year out.
 

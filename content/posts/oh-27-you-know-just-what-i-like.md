@@ -1,20 +1,19 @@
-{
-    "date": "2008-12-14 13:15:18",
-    "draft": false,
-    "publishDate": "2008-12-14 13:15:18",
-    "slug": "oh-27-you-know-just-what-i-like",
-    "title": "Oh 2.7, you know just what I like...",
-    "url": "\/oh-27-you-know-just-what-i-like\/",
-    "tags": [
-        "FriendFeed",
-        "iPhone",
-        "Plug-in",
-        "wordpress"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}![The Visual design of Wordpress
+---
+categories:
+- Tech
+date: "2008-12-14 13:15:18"
+draft: false
+publishDate: "2008-12-14 13:15:18"
+slug: oh-27-you-know-just-what-i-like
+tags:
+- FriendFeed
+- iPhone
+- Plug-in
+- wordpress
+title: Oh 2.7, you know just what I like...
+url: /oh-27-you-know-just-what-i-like/
+---
+![The Visual design of Wordpress
 2.7](https://turbo.geekorium.com.au/images/newpost.png "The Visual design of Wordpress 2.7")
 
 Good Design in Wordpress 2.7

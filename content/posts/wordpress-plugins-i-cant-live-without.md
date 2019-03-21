@@ -1,20 +1,19 @@
-{
-    "date": "2010-04-06 03:52:07",
-    "draft": false,
-    "publishDate": "2010-04-06 03:52:07",
-    "slug": "wordpress-plugins-i-cant-live-without",
-    "title": "Wordpress Plugins I Can't Live Without",
-    "url": "\/wordpress-plugins-i-cant-live-without\/",
-    "tags": [
-        "plugin",
-        "technology",
-        "web",
-        "wordpress"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}There are a number of Wordpress plugins I use to do various bits and
+---
+categories:
+- Opinions
+date: "2010-04-06 03:52:07"
+draft: false
+publishDate: "2010-04-06 03:52:07"
+slug: wordpress-plugins-i-cant-live-without
+tags:
+- plugin
+- technology
+- web
+- wordpress
+title: Wordpress Plugins I Can't Live Without
+url: /wordpress-plugins-i-cant-live-without/
+---
+There are a number of Wordpress plugins I use to do various bits and
 bobs around the Geekorium. The Skribit tab and the Blogroll at the side
 are both produced with plugins for example. But there are some plugins
 that you never really "see" as such - they do their work silently behind

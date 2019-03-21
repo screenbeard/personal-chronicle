@@ -1,22 +1,21 @@
-{
-    "date": "2012-01-17 23:30:25",
-    "draft": false,
-    "publishDate": "2012-01-17 23:30:25",
-    "slug": "space-flight-557-disgust",
-    "title": "Space Flight 557: Disgust",
-    "url": "\/space-flight-557-disgust\/",
-    "tags": [
-        "Jones",
-        "jones-post",
-        "Ortrix",
-        "Time Diversion",
-        "time travel",
-        "time-belt"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**The fool!**
+---
+categories:
+- Space Flight 704
+date: "2012-01-17 23:30:25"
+draft: false
+publishDate: "2012-01-17 23:30:25"
+slug: space-flight-557-disgust
+tags:
+- Jones
+- jones-post
+- Ortrix
+- Time Diversion
+- time travel
+- time-belt
+title: 'Space Flight 557: Disgust'
+url: /space-flight-557-disgust/
+---
+**The fool!**
 
 The Ortrix was gone, slipped further out of his grasp. That idiot Mondex
 had botched the operation from the outset.

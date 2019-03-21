@@ -1,14 +1,13 @@
-{
-    "slug": "rpgs-and-native-animals",
-    "title": "RPGs and Native Animals",
-    "date": "2018-06-02 14:13:35",
-    "publishDate": "2018-06-02 14:13:35",
-    "url": "/rpgs-and-native-animals/",
-    "tags": null,
-    "categories": [
-        "Life"
-    ]
-}
+---
+categories:
+- Life
+date: "2018-06-02 14:13:35"
+publishDate: "2018-06-02 14:13:35"
+slug: rpgs-and-native-animals
+tags: null
+title: RPGs and Native Animals
+url: /rpgs-and-native-animals/
+---
 
 I took the kids and Mil to [Cleland Wildlife
 Park](http://www.clelandwildlifepark.sa.gov.au/Home) today. It's one of

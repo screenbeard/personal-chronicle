@@ -1,18 +1,18 @@
 ---
-date: 2011-01-09 07:04:34
+categories:
+- Rambling
+date: "2011-01-09 07:04:34"
 draft: false
-publishDate: 2011-01-09 07:04:34
+publishDate: "2011-01-09 07:04:34"
 slug: you-know-youre-a-nerd-when
-title: You know you're a nerd when
-url: /you-know-youre-a-nerd-when/
 tags:
 - batman
 - creepy photo
 - danny elfman
 - joker
 - music
-categories:
-- Rambling
+title: You know you're a nerd when
+url: /you-know-youre-a-nerd-when/
 ---
 
 {{< youtube kUZLVrBmuE4 >}}

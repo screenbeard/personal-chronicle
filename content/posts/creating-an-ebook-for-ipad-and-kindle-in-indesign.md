@@ -1,25 +1,24 @@
-{
-    "date": "2012-04-01 12:30:44",
-    "draft": false,
-    "publishDate": "2012-04-01 12:30:44",
-    "slug": "creating-an-ebook-for-ipad-and-kindle-in-indesign",
-    "title": "Creating an eBook for iPad and Kindle in InDesign",
-    "url": "\/creating-an-ebook-for-ipad-and-kindle-in-indesign\/",
-    "tags": [
-        "Calibre",
-        "epub",
-        "ibook",
-        "InDesign",
-        "iPad",
-        "iPhone",
-        "kindle",
-        "mobi",
-        "tutorial"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}This tutorial is for people with a grounding in InDesign already. You
+---
+categories:
+- Tech
+date: "2012-04-01 12:30:44"
+draft: false
+publishDate: "2012-04-01 12:30:44"
+slug: creating-an-ebook-for-ipad-and-kindle-in-indesign
+tags:
+- Calibre
+- epub
+- ibook
+- InDesign
+- iPad
+- iPhone
+- kindle
+- mobi
+- tutorial
+title: Creating an eBook for iPad and Kindle in InDesign
+url: /creating-an-ebook-for-ipad-and-kindle-in-indesign/
+---
+This tutorial is for people with a grounding in InDesign already. You
 should know the basics of creating a new document, adding *Paragraph
 Styles* and manipulating text. I'll be covering the "gotchas" I found
 creating an eBook from InDesign. Creating an eBook in InDesign will give

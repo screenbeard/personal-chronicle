@@ -1,22 +1,21 @@
-{
-    "date": "2008-03-22 01:38:49",
-    "draft": false,
-    "publishDate": "2008-03-22 01:38:49",
-    "slug": "and-the-addition-of-beau-giles-brings-me-to-16",
-    "title": "And the addition of Beau Giles brings me to 16.",
-    "url": "\/and-the-addition-of-beau-giles-brings-me-to-16\/",
-    "tags": [
-        "beau giles",
-        "confusion",
-        "feedburner",
-        "friend",
-        "hittail",
-        "poor poor effort"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}Thank you [Beau](http://beaugiles.net "Beau Giles") - your subscription
+---
+categories:
+- Site News
+date: "2008-03-22 01:38:49"
+draft: false
+publishDate: "2008-03-22 01:38:49"
+slug: and-the-addition-of-beau-giles-brings-me-to-16
+tags:
+- beau giles
+- confusion
+- feedburner
+- friend
+- hittail
+- poor poor effort
+title: And the addition of Beau Giles brings me to 16.
+url: /and-the-addition-of-beau-giles-brings-me-to-16/
+---
+Thank you [Beau](http://beaugiles.net "Beau Giles") - your subscription
 brings me to 16 subscribers in Feedburner!
 
 &lt;figure&gt;&lt;![Feedburner stats for March

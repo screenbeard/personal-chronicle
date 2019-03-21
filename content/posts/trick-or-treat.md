@@ -1,20 +1,19 @@
-{
-    "date": "2009-11-01 05:13:00",
-    "draft": false,
-    "publishDate": "2009-11-01 05:13:00",
-    "slug": "trick-or-treat",
-    "title": "Trick or Treat [Extension]",
-    "url": "\/trick-or-treat\/",
-    "tags": [
-        "bots",
-        "fun",
-        "gadgets",
-        "holiday"
-    ],
-    "categories": [
-        "Link"
-    ]
-}> First, the extension installer gives you an option in your New Wave
+---
+categories:
+- Link
+date: "2009-11-01 05:13:00"
+draft: false
+publishDate: "2009-11-01 05:13:00"
+slug: trick-or-treat
+tags:
+- bots
+- fun
+- gadgets
+- holiday
+title: Trick or Treat [Extension]
+url: /trick-or-treat/
+---
+> First, the extension installer gives you an option in your New Wave
 > menu to “Go Trick or Treating”. When you click that, it creates a new
 > wave and inserts a gadget (try clicking around that to see what
 > surprises await). Then, whenever a user types ‘trick or treat’, the

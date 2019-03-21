@@ -1,21 +1,20 @@
-{
-    "date": "2012-05-02 09:30:40",
-    "draft": false,
-    "publishDate": "2012-05-02 09:30:40",
-    "slug": "space-flight-704-chapter-35-olats-story-part-1",
-    "title": "Space Flight 704, Chapter 35: Olat's Story Part 1",
-    "url": "\/space-flight-704-chapter-35-olats-story-part-1\/",
-    "tags": [
-        "beastly",
-        "Commander Del",
-        "Doctor Van de Nippal",
-        "Olat",
-        "un-man"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Guardsman Olat was finishing up his bawdy tale when the alarm
+---
+categories:
+- Space Flight 704
+date: "2012-05-02 09:30:40"
+draft: false
+publishDate: "2012-05-02 09:30:40"
+slug: space-flight-704-chapter-35-olats-story-part-1
+tags:
+- beastly
+- Commander Del
+- Doctor Van de Nippal
+- Olat
+- un-man
+title: 'Space Flight 704, Chapter 35: Olat''s Story Part 1'
+url: /space-flight-704-chapter-35-olats-story-part-1/
+---
+**Guardsman Olat was finishing up his bawdy tale when the alarm
 sounded.**
 
 "So I pushed her off and told her I was done!" he laughed as he and his

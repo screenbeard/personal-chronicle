@@ -1,14 +1,14 @@
 ---
-date: 2010-04-13 16:30:54
+categories:
+- Google Wave
+date: "2010-04-13 16:30:54"
 draft: false
-publishDate: 2010-04-13 16:30:54
-title: 8 Google Wave Competitors
+publishDate: "2010-04-13 16:30:54"
 tags:
 - debate
 - direction
 - opinion
-categories:
-- Google Wave
+title: 8 Google Wave Competitors
 ---
 
 ### Introduction

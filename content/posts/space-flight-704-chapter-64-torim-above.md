@@ -1,19 +1,18 @@
-{
-    "date": "2013-05-18 06:55:48",
-    "draft": false,
-    "publishDate": "2013-05-18 06:55:48",
-    "slug": "space-flight-704-chapter-64-torim-above",
-    "title": "Space Flight 704, Chapter 64: Torim Above",
-    "url": "\/space-flight-704-chapter-64-torim-above\/",
-    "tags": [
-        "Rex Havoc",
-        "Torim above",
-        "Torim below"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**...**
+---
+categories:
+- Space Flight 704
+date: "2013-05-18 06:55:48"
+draft: false
+publishDate: "2013-05-18 06:55:48"
+slug: space-flight-704-chapter-64-torim-above
+tags:
+- Rex Havoc
+- Torim above
+- Torim below
+title: 'Space Flight 704, Chapter 64: Torim Above'
+url: /space-flight-704-chapter-64-torim-above/
+---
+**...**
 
 Rex watched time unfold in silence, the other by his side. He didn't
 look at his companion as they watched, but he sensed the tension

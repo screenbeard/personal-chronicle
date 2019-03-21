@@ -1,20 +1,19 @@
-{
-    "date": "2009-08-02 12:37:18",
-    "draft": false,
-    "publishDate": "2009-08-02 12:37:18",
-    "slug": "first-week-of-javahackercoding",
-    "title": "First Week of Javahackercoding",
-    "url": "\/first-week-of-javahackercoding\/",
-    "tags": [
-        "beginner",
-        "exercise",
-        "java",
-        "lesson"
-    ],
-    "categories": [
-        "Coding"
-    ]
-}Last Thursday was my first Java class in my TAFE programming course. I
+---
+categories:
+- Coding
+date: "2009-08-02 12:37:18"
+draft: false
+publishDate: "2009-08-02 12:37:18"
+slug: first-week-of-javahackercoding
+tags:
+- beginner
+- exercise
+- java
+- lesson
+title: First Week of Javahackercoding
+url: /first-week-of-javahackercoding/
+---
+Last Thursday was my first Java class in my TAFE programming course. I
 wasn't sure how I'd go, but I was feeling quite positive going into it,
 because I've been waiting to start for so long.
 

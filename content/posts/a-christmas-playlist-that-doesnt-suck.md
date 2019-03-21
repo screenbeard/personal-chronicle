@@ -1,7 +1,8 @@
 ---
-date: 2010-12-24 12:36:18
+categories:
+- Share
+date: "2010-12-24 12:36:18"
 draft: false
-title: A Christmas Playlist that Doesn't Suck
 tags:
 - carols
 - christmas
@@ -9,8 +10,7 @@ tags:
 - music
 - season
 - songs
-categories:
-- Share
+title: A Christmas Playlist that Doesn't Suck
 ---
 
 [~~Christmas by Joshua Nunn on Grooveshark~~](http://grooveshark.com/playlist/Christmas/41386196)

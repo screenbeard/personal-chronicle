@@ -1,20 +1,19 @@
-{
-    "date": "2013-05-27 11:44:59",
-    "draft": false,
-    "publishDate": "2013-05-27 11:44:59",
-    "slug": "space-flight-704-chapter-71",
-    "title": "Space Flight 704, Chapter 71: The Sum of the Whole",
-    "url": "\/space-flight-704-chapter-71\/",
-    "tags": [
-        "Ortrix",
-        "Rex Havoc",
-        "Torim",
-        "voice in the flesh"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He sensed the other watching him.**
+---
+categories:
+- Space Flight 704
+date: "2013-05-27 11:44:59"
+draft: false
+publishDate: "2013-05-27 11:44:59"
+slug: space-flight-704-chapter-71
+tags:
+- Ortrix
+- Rex Havoc
+- Torim
+- voice in the flesh
+title: 'Space Flight 704, Chapter 71: The Sum of the Whole'
+url: /space-flight-704-chapter-71/
+---
+**He sensed the other watching him.**
 
 "This is you, isn't it?" he asked, holding the Ortrix up.
 

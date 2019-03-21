@@ -1,22 +1,21 @@
-{
-    "date": "2011-12-16 08:30:00",
-    "draft": false,
-    "publishDate": "2011-12-16 08:30:00",
-    "slug": "space-flight-558-chapter-0-wiped",
-    "title": "Space Flight 558, Chapter 0: Wiped",
-    "url": "\/space-flight-558-chapter-0-wiped\/",
-    "tags": [
-        "anomaly",
-        "explosion",
-        "kaboom",
-        "The Professor",
-        "Time Diversion",
-        "weird"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**The Professor awoke to a hole where his lab should have been.**
+---
+categories:
+- Space Flight 704
+date: "2011-12-16 08:30:00"
+draft: false
+publishDate: "2011-12-16 08:30:00"
+slug: space-flight-558-chapter-0-wiped
+tags:
+- anomaly
+- explosion
+- kaboom
+- The Professor
+- Time Diversion
+- weird
+title: 'Space Flight 558, Chapter 0: Wiped'
+url: /space-flight-558-chapter-0-wiped/
+---
+**The Professor awoke to a hole where his lab should have been.**
 
 And no eyebrows.
 

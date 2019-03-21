@@ -1,21 +1,20 @@
-{
-    "date": "2011-10-24 08:30:11",
-    "draft": false,
-    "publishDate": "2011-10-24 08:30:11",
-    "slug": "space-flight-704-chapter-26-deadly-knowledge",
-    "title": "Space Flight 704, Chapter 26: Deadly Knowledge",
-    "url": "\/space-flight-704-chapter-26-deadly-knowledge\/",
-    "tags": [
-        "crushed",
-        "Rex Havoc",
-        "rock",
-        "unmade",
-        "Vellegas 6"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He immediately felt bad about it.**
+---
+categories:
+- Space Flight 704
+date: "2011-10-24 08:30:11"
+draft: false
+publishDate: "2011-10-24 08:30:11"
+slug: space-flight-704-chapter-26-deadly-knowledge
+tags:
+- crushed
+- Rex Havoc
+- rock
+- unmade
+- Vellegas 6
+title: 'Space Flight 704, Chapter 26: Deadly Knowledge'
+url: /space-flight-704-chapter-26-deadly-knowledge/
+---
+**He immediately felt bad about it.**
 
 With the understanding he found after hugging his chosen rock, he
 discovered he knew exactly what to do when The Other suggested he

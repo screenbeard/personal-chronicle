@@ -1,19 +1,18 @@
-{
-    "date": "2009-06-13 02:33:00",
-    "draft": false,
-    "publishDate": "2009-06-13 02:33:00",
-    "slug": "the-problem-with-embedding",
-    "title": "The Problem with Embedding",
-    "url": "\/the-problem-with-embedding\/",
-    "tags": [
-        "embed",
-        "limitation",
-        "problem"
-    ],
-    "categories": [
-        "Media"
-    ]
-}![GCni23Br0on9c9n2AL1UihaVo1\_250](https://turbo.geekorium.com.au/wp-content/uploads/GCni23Br0on9c9n2AL1UihaVo1_250.png){.alignnone
+---
+categories:
+- Media
+date: "2009-06-13 02:33:00"
+draft: false
+publishDate: "2009-06-13 02:33:00"
+slug: the-problem-with-embedding
+tags:
+- embed
+- limitation
+- problem
+title: The Problem with Embedding
+url: /the-problem-with-embedding/
+---
+![GCni23Br0on9c9n2AL1UihaVo1\_250](https://turbo.geekorium.com.au/wp-content/uploads/GCni23Br0on9c9n2AL1UihaVo1_250.png){.alignnone
 .size-full .wp-image-229478167 width="164" height="40"}
 
 > You've reached a page that contains content from Google Wave. We’re

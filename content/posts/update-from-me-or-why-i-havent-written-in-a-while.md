@@ -1,23 +1,22 @@
-{
-    "date": "2006-04-23 09:12:06",
-    "draft": false,
-    "publishDate": "2006-04-23 09:12:06",
-    "slug": "update-from-me-or-why-i-havent-written-in-a-while",
-    "title": "Update from Me (or 'Why I haven't written in a while')",
-    "url": "\/update-from-me-or-why-i-havent-written-in-a-while\/",
-    "tags": [
-        "animation",
-        "apple",
-        "batman",
-        "gift",
-        "internet",
-        "movie",
-        "superhero"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}To my 3 loyal readers, sorry I haven't written in a while. To be honest,
+---
+categories:
+- Site News
+date: "2006-04-23 09:12:06"
+draft: false
+publishDate: "2006-04-23 09:12:06"
+slug: update-from-me-or-why-i-havent-written-in-a-while
+tags:
+- animation
+- apple
+- batman
+- gift
+- internet
+- movie
+- superhero
+title: Update from Me (or 'Why I haven't written in a while')
+url: /update-from-me-or-why-i-havent-written-in-a-while/
+---
+To my 3 loyal readers, sorry I haven't written in a while. To be honest,
 I keep up with you regularly anyway, and you know all my news. And
 frankly, anything I think I'd like to share with the world gets covered
 in other blogs very quickly by a lot of people before I can anyway.

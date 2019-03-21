@@ -1,18 +1,17 @@
-{
-    "date": "2013-03-21 08:30:01",
-    "draft": false,
-    "publishDate": "2013-03-21 08:30:01",
-    "slug": "space-flight-704-chapter-46-fateful-realisation",
-    "title": "Space Flight 704, Chapter 46: Fateful Realisation",
-    "url": "\/space-flight-704-chapter-46-fateful-realisation\/",
-    "tags": [
-        "dick",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He'd been a bit of a dick.**
+---
+categories:
+- Space Flight 704
+date: "2013-03-21 08:30:01"
+draft: false
+publishDate: "2013-03-21 08:30:01"
+slug: space-flight-704-chapter-46-fateful-realisation
+tags:
+- dick
+- Rex Havoc
+title: 'Space Flight 704, Chapter 46: Fateful Realisation'
+url: /space-flight-704-chapter-46-fateful-realisation/
+---
+**He'd been a bit of a dick.**
 
 Rex reran his life in reverse and found himself wanting.
 

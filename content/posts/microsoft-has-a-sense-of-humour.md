@@ -1,21 +1,20 @@
-{
-    "date": "2009-08-31 23:37:44",
-    "draft": false,
-    "publishDate": "2009-08-31 23:37:44",
-    "slug": "microsoft-has-a-sense-of-humour",
-    "title": "Microsoft has a sense of Humour",
-    "url": "\/microsoft-has-a-sense-of-humour\/",
-    "tags": [
-        "cloning",
-        "fun",
-        "humour",
-        "Marketing",
-        "Microsoft"
-    ],
-    "categories": [
-        "Share"
-    ]
-}People here are always joking that my boss and I need to clone
+---
+categories:
+- Share
+date: "2009-08-31 23:37:44"
+draft: false
+publishDate: "2009-08-31 23:37:44"
+slug: microsoft-has-a-sense-of-humour
+tags:
+- cloning
+- fun
+- humour
+- Marketing
+- Microsoft
+title: Microsoft has a sense of Humour
+url: /microsoft-has-a-sense-of-humour/
+---
+People here are always joking that my boss and I need to clone
 ourselves. Usually because computers seem to only behave when we're
 peeking over someone's shoulders. With the "Digital Education
 Revolution" (more computers per school), having a clone seems like it

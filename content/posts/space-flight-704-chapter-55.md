@@ -1,19 +1,18 @@
-{
-    "date": "2013-04-16 09:30:51",
-    "draft": false,
-    "publishDate": "2013-04-16 09:30:51",
-    "slug": "space-flight-704-chapter-55",
-    "title": "Space Flight 704, Chapter 55: The Flight of the Ortrix",
-    "url": "\/space-flight-704-chapter-55\/",
-    "tags": [
-        "back way back",
-        "Rex Havoc",
-        "time-belt"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**It took a while.**
+---
+categories:
+- Space Flight 704
+date: "2013-04-16 09:30:51"
+draft: false
+publishDate: "2013-04-16 09:30:51"
+slug: space-flight-704-chapter-55
+tags:
+- back way back
+- Rex Havoc
+- time-belt
+title: 'Space Flight 704, Chapter 55: The Flight of the Ortrix'
+url: /space-flight-704-chapter-55/
+---
+**It took a while.**
 
 The Ortrix had led an interesting existence. As the time-belt it had
 observed the beginning and end of governments, watched the deaths of

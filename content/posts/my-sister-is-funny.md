@@ -1,15 +1,15 @@
-{
-    "date": "2010-05-24 05:17:06",
-    "draft": false,
-    "publishDate": "2010-05-24 05:17:06",
-    "slug": "my-sister-is-funny",
-    "title": "My Sister is Funny",
-    "url": "\/my-sister-is-funny\/",
-    "tags": [],
-    "categories": [
-        "Quick"
-    ]
-}<div id="tweet_14603337030" class="bbpBox"
+---
+categories:
+- Quick
+date: "2010-05-24 05:17:06"
+draft: false
+publishDate: "2010-05-24 05:17:06"
+slug: my-sister-is-funny
+tags: []
+title: My Sister is Funny
+url: /my-sister-is-funny/
+---
+<div id="tweet_14603337030" class="bbpBox"
 style="background:url(http://s.twimg.com/a/1274144130/images/themes/theme19/bg.gif) #FFF04D;padding:20px;">
 
 Wishing I'd made a list of all the "type these for security purposes"

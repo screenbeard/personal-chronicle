@@ -1,23 +1,22 @@
-{
-    "date": "2008-12-07 05:57:01",
-    "draft": false,
-    "publishDate": "2008-12-07 05:57:01",
-    "slug": "where-my-parenting-meets-the-cleanfeed",
-    "title": "Where my parenting meets the \"Cleanfeed\"",
-    "url": "\/where-my-parenting-meets-the-cleanfeed\/",
-    "tags": [
-        "baby",
-        "censorship",
-        "internet",
-        "nocleanfeed",
-        "Stephen Conroy",
-        "technology",
-        "Twitter"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}I love technology. The thrill of new possibilities. The excitement of
+---
+categories:
+- Tech
+date: "2008-12-07 05:57:01"
+draft: false
+publishDate: "2008-12-07 05:57:01"
+slug: where-my-parenting-meets-the-cleanfeed
+tags:
+- baby
+- censorship
+- internet
+- nocleanfeed
+- Stephen Conroy
+- technology
+- Twitter
+title: Where my parenting meets the "Cleanfeed"
+url: /where-my-parenting-meets-the-cleanfeed/
+---
+I love technology. The thrill of new possibilities. The excitement of
 learning. There's nothing that beats it.
 
 Actually, that's a complete lie. There is something that beats it. Beats

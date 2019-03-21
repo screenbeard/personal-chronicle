@@ -1,19 +1,18 @@
-{
-    "date": "2006-01-27 00:00:41",
-    "draft": false,
-    "publishDate": "2006-01-27 00:00:41",
-    "slug": "web-crazies",
-    "title": "Web Crazies",
-    "url": "\/web-crazies\/",
-    "tags": [
-        "crazy",
-        "david icke",
-        "lizard men"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}Why are websites by crazy people so damn ugly? So many websites about
+---
+categories:
+- Opinions
+date: "2006-01-27 00:00:41"
+draft: false
+publishDate: "2006-01-27 00:00:41"
+slug: web-crazies
+tags:
+- crazy
+- david icke
+- lizard men
+title: Web Crazies
+url: /web-crazies/
+---
+Why are websites by crazy people so damn ugly? So many websites about
 conspiracies and aliens are just shockingly ugly to look at. Like [2012
 Unlimited](http://www.2012.com.au), or the previously mentioned [David
 Icke](http://www.davidicke.com/). I couldn't find it, but there is

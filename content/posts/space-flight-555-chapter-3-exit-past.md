@@ -1,25 +1,24 @@
-{
-    "date": "2011-12-02 08:30:07",
-    "draft": false,
-    "publishDate": "2011-12-02 08:30:07",
-    "slug": "space-flight-555-chapter-3-exit-past",
-    "title": "Space Flight 555, Chapter 3: Exit, Past",
-    "url": "\/space-flight-555-chapter-3-exit-past\/",
-    "tags": [
-        "industrial planet",
-        "Mondex",
-        "past",
-        "plan",
-        "present",
-        "Rex Havoc",
-        "six months",
-        "the end",
-        "Time Diversion"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex waited for the universe to collapse.**
+---
+categories:
+- Space Flight 704
+date: "2011-12-02 08:30:07"
+draft: false
+publishDate: "2011-12-02 08:30:07"
+slug: space-flight-555-chapter-3-exit-past
+tags:
+- industrial planet
+- Mondex
+- past
+- plan
+- present
+- Rex Havoc
+- six months
+- the end
+- Time Diversion
+title: 'Space Flight 555, Chapter 3: Exit, Past'
+url: /space-flight-555-chapter-3-exit-past/
+---
+**Rex waited for the universe to collapse.**
 
 When it didn't, he wondered why.
 

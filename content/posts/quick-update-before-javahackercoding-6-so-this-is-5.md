@@ -1,22 +1,21 @@
-{
-    "date": "2009-09-03 08:40:09",
-    "draft": false,
-    "publishDate": "2009-09-03 08:40:09",
-    "slug": "quick-update-before-javahackercoding-6-so-this-is-5",
-    "title": "Quick update before javahackercoding 6 (so this is 5?)",
-    "url": "\/quick-update-before-javahackercoding-6-so-this-is-5\/",
-    "tags": [
-        "assignment",
-        "class",
-        "code",
-        "java",
-        "oo",
-        "tafe"
-    ],
-    "categories": [
-        "Coding"
-    ]
-}Quickie:
+---
+categories:
+- Coding
+date: "2009-09-03 08:40:09"
+draft: false
+publishDate: "2009-09-03 08:40:09"
+slug: quick-update-before-javahackercoding-6-so-this-is-5
+tags:
+- assignment
+- class
+- code
+- java
+- oo
+- tafe
+title: Quick update before javahackercoding 6 (so this is 5?)
+url: /quick-update-before-javahackercoding-6-so-this-is-5/
+---
+Quickie:
 
 -   Last class was useless, as I forgot my USB with my current work on
     it so I couldn't actually use the time to keep working on

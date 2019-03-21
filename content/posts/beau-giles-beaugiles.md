@@ -1,20 +1,19 @@
-{
-    "date": "2009-07-01 11:38:00",
-    "draft": false,
-    "publishDate": "2009-07-01 11:38:00",
-    "slug": "beau-giles-beaugiles",
-    "title": "Beau Giles (@BeauGiles)",
-    "url": "\/beau-giles-beaugiles\/",
-    "tags": [
-        "beaugiles",
-        "follow",
-        "friend",
-        "Twitter"
-    ],
-    "categories": [
-        "Share"
-    ]
-}Beau is one of my few core Twitterers who I haven't actually ever met in
+---
+categories:
+- Share
+date: "2009-07-01 11:38:00"
+draft: false
+publishDate: "2009-07-01 11:38:00"
+slug: beau-giles-beaugiles
+tags:
+- beaugiles
+- follow
+- friend
+- Twitter
+title: Beau Giles (@BeauGiles)
+url: /beau-giles-beaugiles/
+---
+Beau is one of my few core Twitterers who I haven't actually ever met in
 person. But he's the epitome of what the internet means for
 relationships for me. Though we've never met I've known him for about a
 year now, and I respect his knowledge of technology, I appreciate his

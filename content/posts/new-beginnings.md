@@ -1,20 +1,19 @@
-{
-    "date": "2013-03-31 22:30:22",
-    "draft": false,
-    "publishDate": "2013-03-31 22:30:22",
-    "slug": "new-beginnings",
-    "title": "new beginnings",
-    "url": "\/new-beginnings\/",
-    "tags": [
-        "beginnings",
-        "erotica",
-        "faerie",
-        "were-bear"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}after my most recent rex havoc story arc and **50th chapter** garnered
+---
+categories:
+- Site News
+date: "2013-03-31 22:30:22"
+draft: false
+publishDate: "2013-03-31 22:30:22"
+slug: new-beginnings
+tags:
+- beginnings
+- erotica
+- faerie
+- were-bear
+title: new beginnings
+url: /new-beginnings/
+---
+after my most recent rex havoc story arc and **50th chapter** garnered
 exactly 2 readers, i've decided that the "return" of rex havoc shall
 become the "retirement" of the illustrious hero. i've put a lot of work
 into the story, and to receive such a lacklustre response is more than

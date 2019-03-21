@@ -1,15 +1,15 @@
 ---
-title: 10 Surefire ways to make your baby sleep.
-date: 2009-08-31 07:21:08
-draft: false
-url: 10-surefire-ways-to-make-your-baby-sleep
-tags:
-    -   cute
-    -   baby
-    -   sleep
-    -   twitter bait
 categories:
-    -   Life
+- Life
+date: "2009-08-31 07:21:08"
+draft: false
+tags:
+- cute
+- baby
+- sleep
+- twitter bait
+title: 10 Surefire ways to make your baby sleep.
+url: 10-surefire-ways-to-make-your-baby-sleep
 ---
 
 {{< figure src="https://turbo.geekorium.com.au/wp-content/uploads/3146326254_7744f4e053.jpg" caption="Tuckered out" >}}

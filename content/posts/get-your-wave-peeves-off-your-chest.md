@@ -1,20 +1,19 @@
-{
-    "date": "2010-04-26 02:00:48",
-    "draft": false,
-    "publishDate": "2010-04-26 02:00:48",
-    "slug": "get-your-wave-peeves-off-your-chest",
-    "title": "Get Your Wave Peeves Off Your Chest!",
-    "url": "\/get-your-wave-peeves-off-your-chest\/",
-    "tags": [
-        "community",
-        "debate",
-        "direction",
-        "discussion"
-    ],
-    "categories": [
-        "Post"
-    ]
-}Something that's been bugging me about the Google Wave interface are the
+---
+categories:
+- Post
+date: "2010-04-26 02:00:48"
+draft: false
+publishDate: "2010-04-26 02:00:48"
+slug: get-your-wave-peeves-off-your-chest
+tags:
+- community
+- debate
+- direction
+- discussion
+title: Get Your Wave Peeves Off Your Chest!
+url: /get-your-wave-peeves-off-your-chest/
+---
+Something that's been bugging me about the Google Wave interface are the
 icons that show you three participants from each wave in your inbox (and
 other searches). The origins of the feature make sense - in email we're
 used to seeing who an email is **from** right from our inbox. In one and

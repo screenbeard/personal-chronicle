@@ -1,20 +1,19 @@
-{
-    "date": "2009-09-30 06:01:25",
-    "draft": false,
-    "publishDate": "2009-09-30 06:01:25",
-    "slug": "rocketships-monster-trucks-and-flamethrowers",
-    "title": "Rocketships, Monster Trucks and FLAMETHROWERS",
-    "url": "\/rocketships-monster-trucks-and-flamethrowers\/",
-    "tags": [
-        "cupcakes",
-        "fairies",
-        "gumdrop kisses",
-        "puppydogs"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}Totally manly.
+---
+categories:
+- Invention
+date: "2009-09-30 06:01:25"
+draft: false
+publishDate: "2009-09-30 06:01:25"
+slug: rocketships-monster-trucks-and-flamethrowers
+tags:
+- cupcakes
+- fairies
+- gumdrop kisses
+- puppydogs
+title: Rocketships, Monster Trucks and FLAMETHROWERS
+url: /rocketships-monster-trucks-and-flamethrowers/
+---
+Totally manly.
 
 Totally.
 

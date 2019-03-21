@@ -1,21 +1,20 @@
-{
-    "date": "2007-12-24 10:35:43",
-    "draft": false,
-    "publishDate": "2007-12-24 10:35:43",
-    "slug": "claim-theme",
-    "title": "Claim Theme",
-    "url": "\/claim-theme\/",
-    "tags": [
-        "claim",
-        "create",
-        "design",
-        "personal",
-        "wordpress"
-    ],
-    "categories": [
-        "Themes"
-    ]
-}A new theme for a new year - only one week early.
+---
+categories:
+- Themes
+date: "2007-12-24 10:35:43"
+draft: false
+publishDate: "2007-12-24 10:35:43"
+slug: claim-theme
+tags:
+- claim
+- create
+- design
+- personal
+- wordpress
+title: Claim Theme
+url: /claim-theme/
+---
+A new theme for a new year - only one week early.
 
 I loved my last theme (actually, my last two themes - but the C64 one
 was a throwaway), but every time I make a new theme I learn something,

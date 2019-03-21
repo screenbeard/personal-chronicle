@@ -1,21 +1,20 @@
-{
-    "date": "2006-09-03 13:16:03",
-    "draft": false,
-    "publishDate": "2006-09-03 13:16:03",
-    "slug": "batman-as-youve-never-seen-him",
-    "title": "Batman as you've never seen him.",
-    "url": "\/batman-as-youve-never-seen-him\/",
-    "tags": [
-        "batman",
-        "movie",
-        "serial",
-        "superhero",
-        "tv"
-    ],
-    "categories": [
-        "Share"
-    ]
-}I want to share one of my favourite things with you. Superheroes.
+---
+categories:
+- Share
+date: "2006-09-03 13:16:03"
+draft: false
+publishDate: "2006-09-03 13:16:03"
+slug: batman-as-youve-never-seen-him
+tags:
+- batman
+- movie
+- serial
+- superhero
+- tv
+title: Batman as you've never seen him.
+url: /batman-as-youve-never-seen-him/
+---
+I want to share one of my favourite things with you. Superheroes.
 Actually I want to share a few of my favourite things - Superheroes, old
 crappy movies, and animated GIFs of people doing amusing things.
 

@@ -1,20 +1,19 @@
-{
-    "date": "2007-11-10 23:38:02",
-    "draft": false,
-    "publishDate": "2007-11-10 23:38:02",
-    "slug": "godwins-law-bites-me",
-    "title": "Godwin's Law Bites Me",
-    "url": "\/godwins-law-bites-me\/",
-    "tags": [
-        "comicstrip",
-        "godwin",
-        "internet",
-        "xkcd"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}The day after reading about [Niniane's brush with Godwin's
+---
+categories:
+- Rambling
+date: "2007-11-10 23:38:02"
+draft: false
+publishDate: "2007-11-10 23:38:02"
+slug: godwins-law-bites-me
+tags:
+- comicstrip
+- godwin
+- internet
+- xkcd
+title: Godwin's Law Bites Me
+url: /godwins-law-bites-me/
+---
+The day after reading about [Niniane's brush with Godwin's
 Law](http://niniane.blogspot.com/2007/11/and-then-he-forced-me-to-leave-room.html "Niniane's Blog: and then I was obliged to leave the room"),
 I had my own internal conversation cut short by it...
 

@@ -1,20 +1,19 @@
-{
-    "date": "2009-11-10 11:09:29",
-    "draft": false,
-    "publishDate": "2009-11-10 11:09:29",
-    "slug": "find-local-waves",
-    "title": "Find Local Waves",
-    "url": "\/find-local-waves\/",
-    "tags": [
-        "first look",
-        "fun",
-        "tip",
-        "use case"
-    ],
-    "categories": [
-        "Post"
-    ]
-}By now if you've been using Wave long enough you should know that a
+---
+categories:
+- Post
+date: "2009-11-10 11:09:29"
+draft: false
+publishDate: "2009-11-10 11:09:29"
+slug: find-local-waves
+tags:
+- first look
+- fun
+- tip
+- use case
+title: Find Local Waves
+url: /find-local-waves/
+---
+By now if you've been using Wave long enough you should know that a
 search for \[with:public\] gets you a big long fast updating list of all
 the Waves that people have shared with the world. If you've been reading
 the [Complete Guide to Google

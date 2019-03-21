@@ -1,20 +1,18 @@
-{
-    "date": "2011-01-16 11:52:07",
-    "draft": false,
-    "publishDate": "2011-01-16 11:52:07",
-    "slug": "comic-book-hero",
-    "title": "Comic Book Hero Theme",
-    "url": "\/comic-book-hero\/",
-    "tags": [
-        "batman",
-        "comics",
-        "fun",
-        "pop art"
-    ],
-    "categories": [
-        "Themes"
-    ]
-}
+---
+categories:
+- Themes
+date: "2011-01-16 11:52:07"
+draft: false
+publishDate: "2011-01-16 11:52:07"
+slug: comic-book-hero
+tags:
+- batman
+- comics
+- fun
+- pop art
+title: Comic Book Hero Theme
+url: /comic-book-hero/
+---
 
 I've been searching for a new theme, and nothing out there really said "me". My other themes have been fairly modest and simple and this time I wanted something with big bold bright colours and some pop out graphics. Hopefully the comic book inspiration is evident and makes you feel a bit like you're reading something equally as entertaining.
 

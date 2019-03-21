@@ -1,14 +1,13 @@
-{
-    "slug": "what-is-amazing-is-that-google-has-developed-a-real-time-communication-framework-that-can-work-in-a",
-    "title": "",
-    "date": "2009-10-03 08:36:10",
-    "publishDate": "2009-10-03 08:36:10",
-    "url": "",
-    "tags": null,
-    "categories": [
-        "Quote"
-    ]
-}
+---
+categories:
+- Quote
+date: "2009-10-03 08:36:10"
+publishDate: "2009-10-03 08:36:10"
+slug: what-is-amazing-is-that-google-has-developed-a-real-time-communication-framework-that-can-work-in-a
+tags: null
+title: ""
+url: ""
+---
 
 > What is amazing is that Google has developed a real-time communication
 > framework that can work in a federated environment. People aren't

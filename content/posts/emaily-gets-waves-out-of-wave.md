@@ -1,21 +1,20 @@
-{
-    "date": "2010-04-02 22:30:58",
-    "draft": false,
-    "publishDate": "2010-04-02 22:30:58",
-    "slug": "emaily-gets-waves-out-of-wave",
-    "title": "Emaily Gets Waves Out of Wave",
-    "url": "\/emaily-gets-waves-out-of-wave\/",
-    "tags": [
-        "api",
-        "bots",
-        "collaboration",
-        "email",
-        "extensions"
-    ],
-    "categories": [
-        "Post"
-    ]
-}In yesterday's open thread, I used
+---
+categories:
+- Post
+date: "2010-04-02 22:30:58"
+draft: false
+publishDate: "2010-04-02 22:30:58"
+slug: emaily-gets-waves-out-of-wave
+tags:
+- api
+- bots
+- collaboration
+- email
+- extensions
+title: Emaily Gets Waves Out of Wave
+url: /emaily-gets-waves-out-of-wave/
+---
+In yesterday's open thread, I used
 [Mr-Ray](http://wave.to/projects/mr-ray) by [wave.to](http://wave.to) to
 allow non-wavers to access a wave. Mr-Ray's real purpose is to be an
 intermediary between Wavers and emailers. It does this by creating a

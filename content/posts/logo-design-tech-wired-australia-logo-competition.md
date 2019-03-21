@@ -1,20 +1,19 @@
-{
-    "date": "2008-11-04 01:27:28",
-    "draft": false,
-    "publishDate": "2008-11-04 01:27:28",
-    "slug": "logo-design-tech-wired-australia-logo-competition",
-    "title": "Logo Design: Tech Wired Australia logo competition",
-    "url": "\/logo-design-tech-wired-australia-logo-competition\/",
-    "tags": [
-        "Competition",
-        "Graphic design",
-        "Logo",
-        "RSS"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}A week ago, [Tech Wired](http://techwiredau.com/) offered a \$50 iTunes
+---
+categories:
+- Invention
+date: "2008-11-04 01:27:28"
+draft: false
+publishDate: "2008-11-04 01:27:28"
+slug: logo-design-tech-wired-australia-logo-competition
+tags:
+- Competition
+- Graphic design
+- Logo
+- RSS
+title: 'Logo Design: Tech Wired Australia logo competition'
+url: /logo-design-tech-wired-australia-logo-competition/
+---
+A week ago, [Tech Wired](http://techwiredau.com/) offered a \$50 iTunes
 card to the best [logo
 design](http://en.wikipedia.org/wiki/Logo "Logo"){.zem_slink} for their
 upcoming new website. Since then, they upgraded the offer to a \$100

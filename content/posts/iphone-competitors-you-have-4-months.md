@@ -1,20 +1,19 @@
-{
-    "date": "2010-04-09 03:46:07",
-    "draft": false,
-    "publishDate": "2010-04-09 03:46:07",
-    "slug": "iphone-competitors-you-have-4-months",
-    "title": "iPhone Competitors, You Have 4 Months",
-    "url": "\/iphone-competitors-you-have-4-months\/",
-    "tags": [
-        "google",
-        "iPhone",
-        "itunes",
-        "technology"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}![](https://turbo.geekorium.com.au/images/Dell-Mini-5-No-Watermark.jpg)
+---
+categories:
+- Tech
+date: "2010-04-09 03:46:07"
+draft: false
+publishDate: "2010-04-09 03:46:07"
+slug: iphone-competitors-you-have-4-months
+tags:
+- google
+- iPhone
+- itunes
+- technology
+title: iPhone Competitors, You Have 4 Months
+url: /iphone-competitors-you-have-4-months/
+---
+![](https://turbo.geekorium.com.au/images/Dell-Mini-5-No-Watermark.jpg)
 
 This might be my next phone...
 

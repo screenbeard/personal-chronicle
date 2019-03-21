@@ -1,19 +1,18 @@
-{
-    "date": "2009-10-23 09:54:36",
-    "draft": false,
-    "publishDate": "2009-10-23 09:54:36",
-    "slug": "waver-is-a-simple-adobe-air-app-for-google-wave",
-    "title": "Waver is a simple Adobe Air app for Google Wave",
-    "url": "\/waver-is-a-simple-adobe-air-app-for-google-wave\/",
-    "tags": [
-        "adobe air",
-        "client",
-        "interface"
-    ],
-    "categories": [
-        "Post"
-    ]
-}Put this in the same basket as
+---
+categories:
+- Post
+date: "2009-10-23 09:54:36"
+draft: false
+publishDate: "2009-10-23 09:54:36"
+slug: waver-is-a-simple-adobe-air-app-for-google-wave
+tags:
+- adobe air
+- client
+- interface
+title: Waver is a simple Adobe Air app for Google Wave
+url: /waver-is-a-simple-adobe-air-app-for-google-wave/
+---
+Put this in the same basket as
 [Waveboard](//the.geekorium.com.au/waveboard-stand-alone-wave-app/), the
 Mac only stand-alone app for Wave.
 [Waver](http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&offeringid=16581&marketplaceid=1)

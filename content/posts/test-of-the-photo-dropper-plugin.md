@@ -1,19 +1,18 @@
-{
-    "date": "2008-04-10 12:47:52",
-    "draft": false,
-    "publishDate": "2008-04-10 12:47:52",
-    "slug": "test-of-the-photo-dropper-plugin",
-    "title": "Test of the Photo Dropper plugin",
-    "url": "\/test-of-the-photo-dropper-plugin\/",
-    "tags": [
-        "creative commons",
-        "photo dropper",
-        "testing"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}[![Homemade
+---
+categories:
+- Tech
+date: "2008-04-10 12:47:52"
+draft: false
+publishDate: "2008-04-10 12:47:52"
+slug: test-of-the-photo-dropper-plugin
+tags:
+- creative commons
+- photo dropper
+- testing
+title: Test of the Photo Dropper plugin
+url: /test-of-the-photo-dropper-plugin/
+---
+[![Homemade
 Pizza](//farm4.static.flickr.com/3158/2402434587_16da167765_m.jpg)](http://www.flickr.com/photos/98622649@N00/2402434587/ "Homemade Pizza")
 
 [photo](http://www.photodropper.com/photos/) credit:

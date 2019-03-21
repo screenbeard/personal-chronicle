@@ -1,13 +1,13 @@
 ---
-date: 2011-10-21 23:21:40
+categories:
+- Life
+date: "2011-10-21 23:21:40"
 draft: false
-title: A Guest Post by Amelynne Grace
 tags:
 - Amelynne
 - she made me do it
 - typing
-categories:
-- Life
+title: A Guest Post by Amelynne Grace
 ---
 
 ruby\

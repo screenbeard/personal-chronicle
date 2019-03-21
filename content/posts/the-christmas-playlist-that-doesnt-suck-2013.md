@@ -1,24 +1,23 @@
-{
-    "date": "2013-12-02 09:38:25",
-    "draft": false,
-    "publishDate": "2013-12-02 09:38:25",
-    "slug": "the-christmas-playlist-that-doesnt-suck-2013",
-    "title": "The Christmas Playlist That Doesn't Suck (2013)",
-    "url": "\/the-christmas-playlist-that-doesnt-suck-2013\/",
-    "tags": [
-        "awesome",
-        "christmas",
-        "doesn't suck",
-        "folk",
-        "funk",
-        "playlist",
-        "rock",
-        "unusual"
-    ],
-    "categories": [
-        "Share"
-    ]
-}[![robot
+---
+categories:
+- Share
+date: "2013-12-02 09:38:25"
+draft: false
+publishDate: "2013-12-02 09:38:25"
+slug: the-christmas-playlist-that-doesnt-suck-2013
+tags:
+- awesome
+- christmas
+- doesn't suck
+- folk
+- funk
+- playlist
+- rock
+- unusual
+title: The Christmas Playlist That Doesn't Suck (2013)
+url: /the-christmas-playlist-that-doesnt-suck-2013/
+---
+[![robot
 christmas](https://farm4.staticflickr.com/3153/3099213212_efd511ef31_z.jpg){width="640"
 height="427"}](https://www.flickr.com/photos/andrew_d_miller/3099213212/ "robot christmas")
 

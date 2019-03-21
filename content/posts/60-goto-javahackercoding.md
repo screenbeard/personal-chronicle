@@ -1,14 +1,14 @@
 ---
-date: 2009-09-03 12:24:09
+categories:
+- Coding
+date: "2009-09-03 12:24:09"
 draft: false
-title: 60 GOTO JAVAHACKERCODING
 tags:
 - class
 - Coding
 - commodore 64
 - java
-categories:
-- Coding
+title: 60 GOTO JAVAHACKERCODING
 ---
 
 It's 9:30, so class just finished, but I left at 8. Another night of confusing information that would probably make sense if I'd read the text before hand, or wasn't being taught by someone who's thinking of examples on the fly and can't finish a sentence before moving on to another concept.

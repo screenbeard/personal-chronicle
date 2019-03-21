@@ -1,20 +1,18 @@
-{
-    "date": "2008-09-15 03:50:04",
-    "draft": false,
-    "publishDate": "2008-09-15 03:50:04",
-    "slug": "css-positioning-tricks-for-beginners",
-    "title": "CSS Positioning Tricks for Beginners",
-    "url": "\/css-positioning-tricks-for-beginners\/",
-    "tags": [
-        "beginners",
-        "Cascading Style Sheets",
-        "hints",
-        "html"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}
+---
+categories:
+- Rambling
+date: "2008-09-15 03:50:04"
+draft: false
+publishDate: "2008-09-15 03:50:04"
+slug: css-positioning-tricks-for-beginners
+tags:
+- beginners
+- Cascading Style Sheets
+- hints
+- html
+title: CSS Positioning Tricks for Beginners
+url: /css-positioning-tricks-for-beginners/
+---
 
 {{< figure src="https://turbo.geekorium.com.au/images/css-snippet.png" attr="Image via Wikipedia" attrlink="http://commons.wikipedia.org/wiki/Image:CSS.svg" title="A graphical depiction of a very simple css doc" >}}
 

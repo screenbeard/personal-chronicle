@@ -1,19 +1,18 @@
-{
-    "date": "2009-09-24 04:40:19",
-    "draft": false,
-    "publishDate": "2009-09-24 04:40:19",
-    "slug": "inglourious-basterds-vs-up",
-    "title": "Inglourious Basterds vs Up",
-    "url": "\/inglourious-basterds-vs-up\/",
-    "tags": [
-        "conversation",
-        "family",
-        "fun"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}A conversation I had with [my sister](http://twitter.com/mygirlbetty)
+---
+categories:
+- Rambling
+date: "2009-09-24 04:40:19"
+draft: false
+publishDate: "2009-09-24 04:40:19"
+slug: inglourious-basterds-vs-up
+tags:
+- conversation
+- family
+- fun
+title: Inglourious Basterds vs Up
+url: /inglourious-basterds-vs-up/
+---
+A conversation I had with [my sister](http://twitter.com/mygirlbetty)
 recently:
 
 Carlynne

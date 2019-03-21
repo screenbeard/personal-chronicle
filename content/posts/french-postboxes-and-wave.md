@@ -1,21 +1,20 @@
-{
-    "date": "2010-03-18 12:23:45",
-    "draft": false,
-    "publishDate": "2010-03-18 12:23:45",
-    "slug": "french-postboxes-and-wave",
-    "title": "French, Postboxes and Wave",
-    "url": "\/french-postboxes-and-wave\/",
-    "tags": [
-        "Competition",
-        "discussion",
-        "future",
-        "interface",
-        "problem"
-    ],
-    "categories": [
-        "Post"
-    ]
-}When I was in grade 8 I learnt French. I say learn, but it was a handful
+---
+categories:
+- Post
+date: "2010-03-18 12:23:45"
+draft: false
+publishDate: "2010-03-18 12:23:45"
+slug: french-postboxes-and-wave
+tags:
+- Competition
+- discussion
+- future
+- interface
+- problem
+title: French, Postboxes and Wave
+url: /french-postboxes-and-wave/
+---
+When I was in grade 8 I learnt French. I say learn, but it was a handful
 of disconnected words and maybe a sentence or two that I couldn't
 possibly remember now. The problem for me was that I **knew** I was
 going about learning it the wrong way, but relied on the teacher to

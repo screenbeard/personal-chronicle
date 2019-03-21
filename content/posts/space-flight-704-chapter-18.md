@@ -1,20 +1,19 @@
-{
-    "date": "2011-10-06 08:30:22",
-    "draft": false,
-    "publishDate": "2011-10-06 08:30:22",
-    "slug": "space-flight-704-chapter-18",
-    "title": "Space Flight 704, Chapter 18: Unwanted Answers",
-    "url": "\/space-flight-704-chapter-18\/",
-    "tags": [
-        "bird poop",
-        "Rex Havoc",
-        "solid!",
-        "willpower"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Two figures stood at the cliff top.**
+---
+categories:
+- Space Flight 704
+date: "2011-10-06 08:30:22"
+draft: false
+publishDate: "2011-10-06 08:30:22"
+slug: space-flight-704-chapter-18
+tags:
+- bird poop
+- Rex Havoc
+- solid!
+- willpower
+title: 'Space Flight 704, Chapter 18: Unwanted Answers'
+url: /space-flight-704-chapter-18/
+---
+**Two figures stood at the cliff top.**
 
 "How did I get here?" asked Rex, turning to his companion who eerily
 slid just out of view.

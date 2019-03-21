@@ -1,20 +1,19 @@
-{
-    "date": "2012-08-21 12:30:04",
-    "draft": false,
-    "publishDate": "2012-08-21 12:30:04",
-    "slug": "the-birth-of-twins",
-    "title": "The Birth of Twins",
-    "url": "\/the-birth-of-twins\/",
-    "tags": [
-        "babies",
-        "Evany Louisa",
-        "Merrick Hector",
-        "twins"
-    ],
-    "categories": [
-        "Life"
-    ]
-}What a crazy 8 weeks.
+---
+categories:
+- Life
+date: "2012-08-21 12:30:04"
+draft: false
+publishDate: "2012-08-21 12:30:04"
+slug: the-birth-of-twins
+tags:
+- babies
+- Evany Louisa
+- Merrick Hector
+- twins
+title: The Birth of Twins
+url: /the-birth-of-twins/
+---
+What a crazy 8 weeks.
 
 In case you hadn't picked up the news on the grapevine, I'm a daddy
 again! Twice more!

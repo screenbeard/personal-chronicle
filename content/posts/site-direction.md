@@ -1,15 +1,15 @@
-{
-    "date": "2009-07-28 13:36:42",
-    "draft": false,
-    "publishDate": "2009-07-28 13:36:42",
-    "slug": "site-direction",
-    "title": "Site Direction?",
-    "url": "\/site-direction\/",
-    "tags": [],
-    "categories": [
-        "Site News"
-    ]
-}This site was always just a place to practice my website building skills
+---
+categories:
+- Site News
+date: "2009-07-28 13:36:42"
+draft: false
+publishDate: "2009-07-28 13:36:42"
+slug: site-direction
+tags: []
+title: Site Direction?
+url: /site-direction/
+---
+This site was always just a place to practice my website building skills
 and publish **something** to attach to my name if anyone came looking
 for me. As I didn't have a burning need driving me to write (other than
 my [first post](//the.geekorium.com.au/sleepless-nights/)), I've

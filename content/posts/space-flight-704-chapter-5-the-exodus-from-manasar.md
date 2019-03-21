@@ -1,22 +1,21 @@
-{
-    "date": "2011-09-15 09:30:46",
-    "draft": false,
-    "publishDate": "2011-09-15 09:30:46",
-    "slug": "space-flight-704-chapter-5-the-exodus-from-manasar",
-    "title": "Space Flight 704, Chapter 5: The Exodus from Manasar",
-    "url": "\/space-flight-704-chapter-5-the-exodus-from-manasar\/",
-    "tags": [
-        "change of plans",
-        "explosives",
-        "Final Flight of Xarnash",
-        "Rex Havoc",
-        "starship",
-        "treachery"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**The explosion was deafening.**
+---
+categories:
+- Space Flight 704
+date: "2011-09-15 09:30:46"
+draft: false
+publishDate: "2011-09-15 09:30:46"
+slug: space-flight-704-chapter-5-the-exodus-from-manasar
+tags:
+- change of plans
+- explosives
+- Final Flight of Xarnash
+- Rex Havoc
+- starship
+- treachery
+title: 'Space Flight 704, Chapter 5: The Exodus from Manasar'
+url: /space-flight-704-chapter-5-the-exodus-from-manasar/
+---
+**The explosion was deafening.**
 
 Or would have been if he hadn't been ready for it with his hands over
 his ears. He'd found some explosives and a detonator in the weapons

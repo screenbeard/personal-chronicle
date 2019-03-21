@@ -1,21 +1,20 @@
-{
-    "date": "2012-05-09 09:30:00",
-    "draft": false,
-    "publishDate": "2012-05-09 09:30:00",
-    "slug": "space-flight-704-chapter-39-nowhere-to-run",
-    "title": "Space Flight 704, Chapter 39: Nowhere to Run",
-    "url": "\/space-flight-704-chapter-39-nowhere-to-run\/",
-    "tags": [
-        "Jones",
-        "Jones-thing",
-        "rending",
-        "Rex Havoc",
-        "voice"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Pain!**
+---
+categories:
+- Space Flight 704
+date: "2012-05-09 09:30:00"
+draft: false
+publishDate: "2012-05-09 09:30:00"
+slug: space-flight-704-chapter-39-nowhere-to-run
+tags:
+- Jones
+- Jones-thing
+- rending
+- Rex Havoc
+- voice
+title: 'Space Flight 704, Chapter 39: Nowhere to Run'
+url: /space-flight-704-chapter-39-nowhere-to-run/
+---
+**Pain!**
 
 Ripping and tearing, it unfocussed his mind and he cowered under the
 onslaught.

@@ -1,15 +1,15 @@
-{
-    "date": "2009-09-30 12:05:57",
-    "draft": false,
-    "publishDate": "2009-09-30 12:05:57",
-    "slug": "archive-post-sandman-night-nappies-review",
-    "title": "[Archive Post] Sandman Night Nappies Review",
-    "url": "\/archive-post-sandman-night-nappies-review\/",
-    "tags": [],
-    "categories": [
-        "Rambling"
-    ]
-}The ""Sandman" Night
+---
+categories:
+- Rambling
+date: "2009-09-30 12:05:57"
+draft: false
+publishDate: "2009-09-30 12:05:57"
+slug: archive-post-sandman-night-nappies-review
+tags: []
+title: '[Archive Post] Sandman Night Nappies Review'
+url: /archive-post-sandman-night-nappies-review/
+---
+The ""Sandman" Night
 Nappies":https://shpnappies.com.au/product/heavy-wetter-sandman-night-nappy/
 by [Sustainable Hemp Products](https://shpnappies.com.au/) are a
 specially made cloth nappy for use at night. It contains a fitted outer

@@ -1,15 +1,15 @@
 ---
-date: 2011-02-07 09:52:04
+categories:
+- Photo
+date: "2011-02-07 09:52:04"
 draft: false
-title: A dance interlude
 tags:
 - Amelynne Grace
 - animated gif
 - carlynne
 - cute
 - dancing
-categories:
-- Photo
+title: A dance interlude
 ---
 
 ![If they don't dance...](//turbo.geekorium.com.au/images/Dance-Carly-Ammy.gif)

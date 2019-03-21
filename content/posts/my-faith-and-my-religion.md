@@ -1,20 +1,19 @@
-{
-    "date": "2006-03-06 22:00:19",
-    "draft": false,
-    "publishDate": "2006-03-06 22:00:19",
-    "slug": "my-faith-and-my-religion",
-    "title": "My Faith and My Religion",
-    "url": "\/my-faith-and-my-religion\/",
-    "tags": [
-        "c.s. lewis",
-        "faith",
-        "god",
-        "proof"
-    ],
-    "categories": [
-        "Religion"
-    ]
-}I have lot of concerned and loving people in my life who have come to my
+---
+categories:
+- Religion
+date: "2006-03-06 22:00:19"
+draft: false
+publishDate: "2006-03-06 22:00:19"
+slug: my-faith-and-my-religion
+tags:
+- c.s. lewis
+- faith
+- god
+- proof
+title: My Faith and My Religion
+url: /my-faith-and-my-religion/
+---
+I have lot of concerned and loving people in my life who have come to my
 site hoping to get an insight into my life and how I am handling the
 pressures of an ill wife, and the gradual erosion of my faith. It is an
 easier thing to be able to say "check out my website", than to speak

@@ -1,18 +1,17 @@
-{
-    "date": "2006-03-21 03:06:02",
-    "draft": false,
-    "publishDate": "2006-03-21 03:06:02",
-    "slug": "yet-another-use-for-gmail-file-recovery",
-    "title": "Yet another use for Gmail - file recovery",
-    "url": "\/yet-another-use-for-gmail-file-recovery\/",
-    "tags": [
-        "gmail",
-        "google"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}I recently discovered another use for Gmail's 'convert to html' feature.
+---
+categories:
+- Tech
+date: "2006-03-21 03:06:02"
+draft: false
+publishDate: "2006-03-21 03:06:02"
+slug: yet-another-use-for-gmail-file-recovery
+tags:
+- gmail
+- google
+title: Yet another use for Gmail - file recovery
+url: /yet-another-use-for-gmail-file-recovery/
+---
+I recently discovered another use for Gmail's 'convert to html' feature.
 
 For those of you who weren't aware, Word and PDF files that you receive
 in Gmail can be opened in-browser as html files. What this means for you

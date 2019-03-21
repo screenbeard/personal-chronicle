@@ -1,20 +1,19 @@
-{
-    "date": "2007-12-16 08:29:56",
-    "draft": false,
-    "publishDate": "2007-12-16 08:29:56",
-    "slug": "oranges-big-oranges",
-    "title": "Oranges. Big Oranges.",
-    "url": "\/oranges-big-oranges\/",
-    "tags": [
-        "big orange",
-        "friend",
-        "holiday",
-        "tourist attraction"
-    ],
-    "categories": [
-        "Life"
-    ]
-}During my last holidays, Mil and I went to Canberra to see some family
+---
+categories:
+- Life
+date: "2007-12-16 08:29:56"
+draft: false
+publishDate: "2007-12-16 08:29:56"
+slug: oranges-big-oranges
+tags:
+- big orange
+- friend
+- holiday
+- tourist attraction
+title: Oranges. Big Oranges.
+url: /oranges-big-oranges/
+---
+During my last holidays, Mil and I went to Canberra to see some family
 we haven't seen in ages. It was very relaxing.
 
 Before we left, Anna and Andrew gave us strict instructions to take a

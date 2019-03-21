@@ -1,22 +1,21 @@
-{
-    "date": "2008-04-18 08:34:20",
-    "draft": false,
-    "publishDate": "2008-04-18 08:34:20",
-    "slug": "pro-monarchy",
-    "title": "Why Australia should remain part of the Commonwealth of Nations",
-    "url": "\/pro-monarchy\/",
-    "tags": [
-        "actor",
-        "debate",
-        "dr who",
-        "idea",
-        "monarchy",
-        "republic"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}I'm a republican at heart, but some things just shouldn't be tampered
+---
+categories:
+- Opinions
+date: "2008-04-18 08:34:20"
+draft: false
+publishDate: "2008-04-18 08:34:20"
+slug: pro-monarchy
+tags:
+- actor
+- debate
+- dr who
+- idea
+- monarchy
+- republic
+title: Why Australia should remain part of the Commonwealth of Nations
+url: /pro-monarchy/
+---
+I'm a republican at heart, but some things just shouldn't be tampered
 with. This morning when thinking about the issue of whether Australia
 should be looking to rule itself, and cut ties with the British
 monarchy, only one thing played on my mind as a possibly unintentional

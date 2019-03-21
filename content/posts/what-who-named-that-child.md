@@ -1,18 +1,17 @@
-{
-    "date": "2006-03-17 23:05:44",
-    "draft": false,
-    "publishDate": "2006-03-17 23:05:44",
-    "slug": "what-who-named-that-child",
-    "title": "WHAT!? Who named that child?",
-    "url": "\/what-who-named-that-child\/",
-    "tags": [
-        "gender confusion",
-        "name"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}I was doing that narcissistic thing where you look up your name on
+---
+categories:
+- Rambling
+date: "2006-03-17 23:05:44"
+draft: false
+publishDate: "2006-03-17 23:05:44"
+slug: what-who-named-that-child
+tags:
+- gender confusion
+- name
+title: WHAT!? Who named that child?
+url: /what-who-named-that-child/
+---
+I was doing that narcissistic thing where you look up your name on
 search engines... come on... you've done it... everyone does (and you're
 not blind and you don't have hairy palms like all the naysayers
 predicted)... Where was I?

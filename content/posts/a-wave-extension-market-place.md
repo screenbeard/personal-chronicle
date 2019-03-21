@@ -1,15 +1,15 @@
 ---
-date: 2009-10-27 04:46:00
+categories:
+- Google Wave
+date: "2009-10-27 04:46:00"
 draft: false
-title: A Wave Extension Market Place?
 tags:
 - direction
 - extensions
 - future
 - prediction
 - quote
-categories:
-- Google Wave
+title: A Wave Extension Market Place?
 ---
 
 > “…developers have asked us a lot for a market place where we’ll help them sell their extensions to our users including a revenue share so we’ll also make some money from it. “I’ll be very surprised if we don’t go down that route.” - [Google Wave to have application store | News | TechRadar

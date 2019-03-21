@@ -1,17 +1,17 @@
 ---
-date: 2013-04-18 22:35:00
+categories:
+- Share
+date: "2013-04-18 22:35:00"
 draft: false
-title: You Won't Share This Post
 tags:
-- '+1'
+- "+1"
 - comment
 - facebook
 - google
 - like
 - share
 - social
-categories:
-- Share
+title: You Won't Share This Post
 ---
 
 > Not so long ago, there was a much wider gap between the various methods for acknowledging online content. At one end, you had the option of reading something and then doing absolutely nothing. On the other, you had things like leaving a comment, emailing the post to a friend, or writing a blog post in response to another you read elsewhere. - [Len Kendall - Don't 'like' this post](http://readwrite.com/2013/04/17/like-experiment)

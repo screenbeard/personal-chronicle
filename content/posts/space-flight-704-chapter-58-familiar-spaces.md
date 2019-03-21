@@ -1,19 +1,18 @@
-{
-    "date": "2013-04-27 03:30:20",
-    "draft": false,
-    "publishDate": "2013-04-27 03:30:20",
-    "slug": "space-flight-704-chapter-58-familiar-spaces",
-    "title": "Space Flight 704, Chapter 58: Familiar Spaces",
-    "url": "\/space-flight-704-chapter-58-familiar-spaces\/",
-    "tags": [
-        "familiar",
-        "Ortrix",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**"I recognise this world."**
+---
+categories:
+- Space Flight 704
+date: "2013-04-27 03:30:20"
+draft: false
+publishDate: "2013-04-27 03:30:20"
+slug: space-flight-704-chapter-58-familiar-spaces
+tags:
+- familiar
+- Ortrix
+- Rex Havoc
+title: 'Space Flight 704, Chapter 58: Familiar Spaces'
+url: /space-flight-704-chapter-58-familiar-spaces/
+---
+**"I recognise this world."**
 
 "We came past here a little while ago, I think - but we were moving so
 fast I wasn't paying attention."

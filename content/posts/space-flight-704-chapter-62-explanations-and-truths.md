@@ -1,20 +1,19 @@
-{
-    "date": "2013-05-18 06:44:59",
-    "draft": false,
-    "publishDate": "2013-05-18 06:44:59",
-    "slug": "space-flight-704-chapter-62-explanations-and-truths",
-    "title": "Space Flight 704, Chapter 62: Explanations and Truths",
-    "url": "\/space-flight-704-chapter-62-explanations-and-truths\/",
-    "tags": [
-        "power",
-        "Torim",
-        "voice in the dark",
-        "voice in the flesh"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**\[voiceinthedark\]All Torim were born with great
+---
+categories:
+- Space Flight 704
+date: "2013-05-18 06:44:59"
+draft: false
+publishDate: "2013-05-18 06:44:59"
+slug: space-flight-704-chapter-62-explanations-and-truths
+tags:
+- power
+- Torim
+- voice in the dark
+- voice in the flesh
+title: 'Space Flight 704, Chapter 62: Explanations and Truths'
+url: /space-flight-704-chapter-62-explanations-and-truths/
+---
+**\[voiceinthedark\]All Torim were born with great
 power\[/voiceinthedark\]**
 
 % \[voiceinthedark\]But those below hummed with it, exuded it like a

@@ -1,30 +1,29 @@
-{
-    "date": "2009-09-05 12:57:43",
-    "draft": false,
-    "publishDate": "2009-09-05 12:57:43",
-    "slug": "laying-my-heart-music-on-the-line-for-you-people",
-    "title": "Laying my Heart (Music) on the Line for You People",
-    "url": "\/laying-my-heart-music-on-the-line-for-you-people\/",
-    "tags": [
-        "charleston",
-        "classical",
-        "dr steel",
-        "fun",
-        "mamas and papas",
-        "music",
-        "nasty tales",
-        "pachelbel",
-        "parov stelar",
-        "prokofiev",
-        "song",
-        "sound",
-        "unkle ho",
-        "waldeck"
-    ],
-    "categories": [
-        "Share"
-    ]
-}I've never known what I'd call the type of music I enjoy. Back when I
+---
+categories:
+- Share
+date: "2009-09-05 12:57:43"
+draft: false
+publishDate: "2009-09-05 12:57:43"
+slug: laying-my-heart-music-on-the-line-for-you-people
+tags:
+- charleston
+- classical
+- dr steel
+- fun
+- mamas and papas
+- music
+- nasty tales
+- pachelbel
+- parov stelar
+- prokofiev
+- song
+- sound
+- unkle ho
+- waldeck
+title: Laying my Heart (Music) on the Line for You People
+url: /laying-my-heart-music-on-the-line-for-you-people/
+---
+I've never known what I'd call the type of music I enjoy. Back when I
 was in high school it was whatever you'd call [what that Snow guy was
 doing](http://en.wikipedia.org/wiki/Informer_%28song%29) (also see the
 [Jim Carrey Spoof](http://www.youtube.com/watch?v=Icb_tRTnA4g)). About

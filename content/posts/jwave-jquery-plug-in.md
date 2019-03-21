@@ -1,19 +1,18 @@
-{
-    "date": "2009-06-14 00:58:39",
-    "draft": false,
-    "publishDate": "2009-06-14 00:58:39",
-    "slug": "jwave-jquery-plug-in",
-    "title": "jWave: jQuery Plug-in",
-    "url": "\/jwave-jquery-plug-in\/",
-    "tags": [
-        "api",
-        "embed",
-        "extensions"
-    ],
-    "categories": [
-        "Link"
-    ]
-}> jWave is a jQuery plug-in that you can use to easily embed a Google
+---
+categories:
+- Link
+date: "2009-06-14 00:58:39"
+draft: false
+publishDate: "2009-06-14 00:58:39"
+slug: jwave-jquery-plug-in
+tags:
+- api
+- embed
+- extensions
+title: 'jWave: jQuery Plug-in'
+url: /jwave-jquery-plug-in/
+---
+> jWave is a jQuery plug-in that you can use to easily embed a Google
 > Wave into your website with the grace and simplicity of jQuery.
 
 [jQuery Plugins](http://plugins.jquery.com/project/jWave)

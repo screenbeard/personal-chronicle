@@ -1,15 +1,14 @@
-{
-    "date": "2018-04-28 06:04:26",
-    "draft": false,
-    "publishDate": "2018-04-28 06:04:26",
-    "slug": "c128-journey",
-    "title": "C=128 Journey",
-    "url": "\/c128-journey\/",
-    "tags": [],
-    "categories": [
-        "Tech"
-    ]
-}
+---
+categories:
+- Tech
+date: "2018-04-28 06:04:26"
+draft: false
+publishDate: "2018-04-28 06:04:26"
+slug: c128-journey
+tags: []
+title: C=128 Journey
+url: /c128-journey/
+---
 
 ![On it's
 way](https://farm1.staticflickr.com/872/26882519227_9cd56c8050.jpg "On it's way")

@@ -1,19 +1,18 @@
-{
-    "date": "2011-10-18 08:30:20",
-    "draft": false,
-    "publishDate": "2011-10-18 08:30:20",
-    "slug": "space-flight-704-chapter-22-time-to-death",
-    "title": "Space Flight 704, Chapter 22: Time to Death",
-    "url": "\/space-flight-704-chapter-22-time-to-death\/",
-    "tags": [
-        "ramifications",
-        "Rex Havoc",
-        "voice in the dark"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He was not getting the hang of this.**
+---
+categories:
+- Space Flight 704
+date: "2011-10-18 08:30:20"
+draft: false
+publishDate: "2011-10-18 08:30:20"
+slug: space-flight-704-chapter-22-time-to-death
+tags:
+- ramifications
+- Rex Havoc
+- voice in the dark
+title: 'Space Flight 704, Chapter 22: Time to Death'
+url: /space-flight-704-chapter-22-time-to-death/
+---
+**He was not getting the hang of this.**
 
 <span>\[voiceinthedark\]I had hoped to help you master your mortal
 form.\[/voiceinthedark\]</span>

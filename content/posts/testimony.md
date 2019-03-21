@@ -1,19 +1,18 @@
-{
-    "date": "2006-03-10 15:59:33",
-    "draft": false,
-    "publishDate": "2006-03-10 15:59:33",
-    "slug": "testimony",
-    "title": "Testimony",
-    "url": "\/testimony\/",
-    "tags": [
-        "faith",
-        "god",
-        "testimony"
-    ],
-    "categories": [
-        "Religion"
-    ]
-}A quick intro to where I currently stand on spiritual matters. Read this
+---
+categories:
+- Religion
+date: "2006-03-10 15:59:33"
+draft: false
+publishDate: "2006-03-10 15:59:33"
+slug: testimony
+tags:
+- faith
+- god
+- testimony
+title: Testimony
+url: /testimony/
+---
+A quick intro to where I currently stand on spiritual matters. Read this
 before my other posts.
 
 I was born and raised in a Christian home. My father was a pastor so I

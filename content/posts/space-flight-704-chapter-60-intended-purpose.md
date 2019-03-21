@@ -1,20 +1,19 @@
-{
-    "date": "2013-05-18 06:25:57",
-    "draft": false,
-    "publishDate": "2013-05-18 06:25:57",
-    "slug": "space-flight-704-chapter-60-intended-purpose",
-    "title": "Space Flight 704, Chapter 60: Intended Purpose",
-    "url": "\/space-flight-704-chapter-60-intended-purpose\/",
-    "tags": [
-        "power",
-        "Rex Havoc",
-        "Torimbalo",
-        "voice in the dark"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**"How many times have I died?"**
+---
+categories:
+- Space Flight 704
+date: "2013-05-18 06:25:57"
+draft: false
+publishDate: "2013-05-18 06:25:57"
+slug: space-flight-704-chapter-60-intended-purpose
+tags:
+- power
+- Rex Havoc
+- Torimbalo
+- voice in the dark
+title: 'Space Flight 704, Chapter 60: Intended Purpose'
+url: /space-flight-704-chapter-60-intended-purpose/
+---
+**"How many times have I died?"**
 
 "And why is it, that with time and space bending to my will, I still
 keep forgetting stuff like this?"

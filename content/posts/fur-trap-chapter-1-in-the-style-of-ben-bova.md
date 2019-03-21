@@ -1,21 +1,20 @@
-{
-    "date": "2011-04-09 11:22:50",
-    "draft": false,
-    "publishDate": "2011-04-09 11:22:50",
-    "slug": "fur-trap-chapter-1-in-the-style-of-ben-bova",
-    "title": "Fur Trap: Chapter 1 (In the style of Ben Bova)",
-    "url": "\/fur-trap-chapter-1-in-the-style-of-ben-bova\/",
-    "tags": [
-        "ben bova",
-        "nonsense",
-        "parody",
-        "scifi",
-        "short story"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}[![rat-in-a-trap](//farm6.static.flickr.com/5230/5602953304_a4a33c5b7c_o.jpg){width="365"
+---
+categories:
+- Invention
+date: "2011-04-09 11:22:50"
+draft: false
+publishDate: "2011-04-09 11:22:50"
+slug: fur-trap-chapter-1-in-the-style-of-ben-bova
+tags:
+- ben bova
+- nonsense
+- parody
+- scifi
+- short story
+title: 'Fur Trap: Chapter 1 (In the style of Ben Bova)'
+url: /fur-trap-chapter-1-in-the-style-of-ben-bova/
+---
+[![rat-in-a-trap](//farm6.static.flickr.com/5230/5602953304_a4a33c5b7c_o.jpg){width="365"
 height="500"}](//www.flickr.com/photos/osmont/445849639/ "rat-in-a-trap by Osvaldo Montero Ilustrador, on Flickr")
 
 Illustration by [Osvaldo Montero

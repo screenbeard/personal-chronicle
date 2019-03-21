@@ -1,18 +1,17 @@
-{
-    "date": "2010-04-14 12:19:56",
-    "draft": false,
-    "publishDate": "2010-04-14 12:19:56",
-    "slug": "new-wave-this-function-and-buttons",
-    "title": "New \"Wave This!\" Function and Buttons",
-    "url": "\/new-wave-this-function-and-buttons\/",
-    "tags": [
-        "blogging",
-        "new feature"
-    ],
-    "categories": [
-        "Post"
-    ]
-}I was visiting Pamela Fox's personal website, and noticed she had a
+---
+categories:
+- Post
+date: "2010-04-14 12:19:56"
+draft: false
+publishDate: "2010-04-14 12:19:56"
+slug: new-wave-this-function-and-buttons
+tags:
+- blogging
+- new feature
+title: New "Wave This!" Function and Buttons
+url: /new-wave-this-function-and-buttons/
+---
+I was visiting Pamela Fox's personal website, and noticed she had a
 \_Wave This I can't find mention of the feature anywhere, and I'm not
 sure if it's permanent, but a specially formatted URL takes a title
 argument, a content argument and passes it to a special new *wavethis*

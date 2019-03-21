@@ -1,21 +1,20 @@
-{
-    "date": "2010-06-30 11:36:58",
-    "draft": false,
-    "publishDate": "2010-06-30 11:36:58",
-    "slug": "my-small-issue-with-the-windows-live-sync-beta",
-    "title": "My Small Issue With the Windows Live Sync Beta",
-    "url": "\/my-small-issue-with-the-windows-live-sync-beta\/",
-    "tags": [
-        "beta",
-        "Microsoft",
-        "problem",
-        "report",
-        "technology"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}Had a strange problem using the new [Microsoft Windows Live Sync
+---
+categories:
+- Tech
+date: "2010-06-30 11:36:58"
+draft: false
+publishDate: "2010-06-30 11:36:58"
+slug: my-small-issue-with-the-windows-live-sync-beta
+tags:
+- beta
+- Microsoft
+- problem
+- report
+- technology
+title: My Small Issue With the Windows Live Sync Beta
+url: /my-small-issue-with-the-windows-live-sync-beta/
+---
+Had a strange problem using the new [Microsoft Windows Live Sync
 Beta](http://explore.live.com/windows-live-devices-and-sync-sync-mesh-upgrade-ui).
 It's working fine on one of my computers, but on the other one, it drops
 a letter when I set up a folder to sync.

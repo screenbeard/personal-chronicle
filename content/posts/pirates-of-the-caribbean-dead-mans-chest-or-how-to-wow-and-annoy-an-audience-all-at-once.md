@@ -1,19 +1,19 @@
-{
-    "date": "2006-07-10 12:30:51",
-    "draft": false,
-    "publishDate": "2006-07-10 12:30:51",
-    "slug": "pirates-of-the-caribbean-dead-mans-chest-or-how-to-wow-and-annoy-an-audience-all-at-once",
-    "title": "Pirates of the Caribbean: Dead Man's Chest or \"How to wow and annoy an audience all at once\"",
-    "url": "\/pirates-of-the-caribbean-dead-mans-chest-or-how-to-wow-and-annoy-an-audience-all-at-once\/",
-    "tags": [
-        "imdb",
-        "movie",
-        "pirates of the caribbean"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}Went to see above-mentioned film on the weekend. First off let me take
+---
+categories:
+- Opinions
+date: "2006-07-10 12:30:51"
+draft: false
+publishDate: "2006-07-10 12:30:51"
+slug: pirates-of-the-caribbean-dead-mans-chest-or-how-to-wow-and-annoy-an-audience-all-at-once
+tags:
+- imdb
+- movie
+- pirates of the caribbean
+title: 'Pirates of the Caribbean: Dead Man''s Chest or "How to wow and annoy an audience
+  all at once"'
+url: /pirates-of-the-caribbean-dead-mans-chest-or-how-to-wow-and-annoy-an-audience-all-at-once/
+---
+Went to see above-mentioned film on the weekend. First off let me take
 the opportunity to say, "Shove over d\#@-head!". The session I went to
 was the biggest of the 30 screens on offer, but it was still
 overcrowded. Which wouldn't make me annoyed (well not in the same

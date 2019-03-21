@@ -1,15 +1,15 @@
-{
-    "date": "2010-01-01 02:09:32",
-    "draft": false,
-    "publishDate": "2010-01-01 02:09:32",
-    "slug": "terminology",
-    "title": "Terminology",
-    "url": "\/terminology\/",
-    "tags": [],
-    "categories": [
-        "Post"
-    ]
-}While browsing this site, you might be confused by our inconsistent use
+---
+categories:
+- Post
+date: "2010-01-01 02:09:32"
+draft: false
+publishDate: "2010-01-01 02:09:32"
+slug: terminology
+tags: []
+title: Terminology
+url: /terminology/
+---
+While browsing this site, you might be confused by our inconsistent use
 of *Wave*, *wave* and *Google Wave* to refer to what seems like a
 million different things within one sentence. Here is a simple guide:
 

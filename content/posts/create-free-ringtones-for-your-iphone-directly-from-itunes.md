@@ -1,20 +1,19 @@
-{
-    "date": "2008-09-21 11:42:14",
-    "draft": false,
-    "publishDate": "2008-09-21 11:42:14",
-    "slug": "create-free-ringtones-for-your-iphone-directly-from-itunes",
-    "title": "Create free ringtones for your iPhone directly from iTunes",
-    "url": "\/create-free-ringtones-for-your-iphone-directly-from-itunes\/",
-    "tags": [
-        "iPhone",
-        "itunes",
-        "Ringtone",
-        "tutorial"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}My mate Andrew thought my [last
+---
+categories:
+- Tech
+date: "2008-09-21 11:42:14"
+draft: false
+publishDate: "2008-09-21 11:42:14"
+slug: create-free-ringtones-for-your-iphone-directly-from-itunes
+tags:
+- iPhone
+- itunes
+- Ringtone
+- tutorial
+title: Create free ringtones for your iPhone directly from iTunes
+url: /create-free-ringtones-for-your-iphone-directly-from-itunes/
+---
+My mate Andrew thought my [last
 post](//the.geekorium.com.au/css-positioning-tricks-for-beginners) was a
 bit technical for him, and fair enough - it was something of limited
 value to some of my readers. So this post is for him.

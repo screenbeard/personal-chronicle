@@ -1,22 +1,21 @@
-{
-    "date": "2008-07-01 12:34:13",
-    "draft": false,
-    "publishDate": "2008-07-01 12:34:13",
-    "slug": "jungledisk-easy-cheap-reliable-backup-on-any-platform",
-    "title": "Jungledisk - easy cheap reliable backup on any platform",
-    "url": "\/jungledisk-easy-cheap-reliable-backup-on-any-platform\/",
-    "tags": [
-        "Amazon S3",
-        "Backup",
-        "Jungle Disk",
-        "Macintosh",
-        "Ubuntu",
-        "windows"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}![Jungle Disk - Reliable online storage powered by Amazon S3 -
+---
+categories:
+- Tech
+date: "2008-07-01 12:34:13"
+draft: false
+publishDate: "2008-07-01 12:34:13"
+slug: jungledisk-easy-cheap-reliable-backup-on-any-platform
+tags:
+- Amazon S3
+- Backup
+- Jungle Disk
+- Macintosh
+- Ubuntu
+- windows
+title: Jungledisk - easy cheap reliable backup on any platform
+url: /jungledisk-easy-cheap-reliable-backup-on-any-platform/
+---
+![Jungle Disk - Reliable online storage powered by Amazon S3 -
 JungleDisk](https://turbo.geekorium.com.au/images/4x5_bor_rou_sha.jpg "Jungle Disk - Reliable online storage powered by Amazon S3 - JungleDisk"):
 
 [Jungle Disk - Reliable online

@@ -1,21 +1,20 @@
-{
-    "date": "2012-01-31 01:12:03",
-    "draft": false,
-    "publishDate": "2012-01-31 01:12:03",
-    "slug": "space-flight-704-the-book",
-    "title": "Space Flight 704: The Book!",
-    "url": "\/space-flight-704-the-book\/",
-    "tags": [
-        "amazon",
-        "ebook",
-        "kindle",
-        "Rex Havoc",
-        "Time Diversion"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}[![](https://turbo.geekorium.com.au/wp-content/uploads/41HHGZN2TxL._BO2204203200_PIsitb-sticker-arrow-clickTopRight35-76_AA300_SH20_AA278_PIkin4BottomRight-4722_AA300_SH20_OU01_.jpg)](http://amzn.com/B00718SIHQ)
+---
+categories:
+- Invention
+date: "2012-01-31 01:12:03"
+draft: false
+publishDate: "2012-01-31 01:12:03"
+slug: space-flight-704-the-book
+tags:
+- amazon
+- ebook
+- kindle
+- Rex Havoc
+- Time Diversion
+title: 'Space Flight 704: The Book!'
+url: /space-flight-704-the-book/
+---
+[![](https://turbo.geekorium.com.au/wp-content/uploads/41HHGZN2TxL._BO2204203200_PIsitb-sticker-arrow-clickTopRight35-76_AA300_SH20_AA278_PIkin4BottomRight-4722_AA300_SH20_OU01_.jpg)](http://amzn.com/B00718SIHQ)
 
 Published!
 

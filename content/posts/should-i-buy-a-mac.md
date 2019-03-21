@@ -1,22 +1,21 @@
-{
-    "date": "2010-04-23 11:47:45",
-    "draft": false,
-    "publishDate": "2010-04-23 11:47:45",
-    "slug": "should-i-buy-a-mac",
-    "title": "Should I Buy a Mac?",
-    "url": "\/should-i-buy-a-mac\/",
-    "tags": [
-        "advice",
-        "apple",
-        "choice",
-        "dell",
-        "pc",
-        "technology"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}A teacher is after a new laptop, and asked if they should "just buy a
+---
+categories:
+- Tech
+date: "2010-04-23 11:47:45"
+draft: false
+publishDate: "2010-04-23 11:47:45"
+slug: should-i-buy-a-mac
+tags:
+- advice
+- apple
+- choice
+- dell
+- pc
+- technology
+title: Should I Buy a Mac?
+url: /should-i-buy-a-mac/
+---
+A teacher is after a new laptop, and asked if they should "just buy a
 Mac".
 
 A few years ago the answer would have been "absolutely". Not because I

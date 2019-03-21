@@ -1,19 +1,18 @@
-{
-    "date": "2006-05-11 15:31:56",
-    "draft": false,
-    "publishDate": "2006-05-11 15:31:56",
-    "slug": "bluehair",
-    "title": "Hey look at me! May 12th - CFS\/ME (FMS) Awareness day.",
-    "url": "\/bluehair\/",
-    "tags": [
-        "cfs",
-        "fibro",
-        "notcrazy"
-    ],
-    "categories": [
-        "Life"
-    ]
-}Check this out! I have blue hair:\
+---
+categories:
+- Life
+date: "2006-05-11 15:31:56"
+draft: false
+publishDate: "2006-05-11 15:31:56"
+slug: bluehair
+tags:
+- cfs
+- fibro
+- notcrazy
+title: Hey look at me! May 12th - CFS/ME (FMS) Awareness day.
+url: /bluehair/
+---
+Check this out! I have blue hair:\
 [![I have blue
 hair!](//farm2.static.flickr.com/1002/526976626_08f31c27d4.jpg)](http://www.flickr.com/photos/joshnunn/526976626/)
 

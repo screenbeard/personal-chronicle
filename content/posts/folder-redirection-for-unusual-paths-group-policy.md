@@ -1,24 +1,23 @@
-{
-    "date": "2010-03-12 05:23:23",
-    "draft": false,
-    "publishDate": "2010-03-12 05:23:23",
-    "slug": "folder-redirection-for-unusual-paths-group-policy",
-    "title": "Folder Redirection for Unusual Paths [Group Policy]",
-    "url": "\/folder-redirection-for-unusual-paths-group-policy\/",
-    "tags": [
-        "active directory",
-        "ad",
-        "administration",
-        "folder redirection",
-        "GP",
-        "group policy",
-        "sysadmin",
-        "technology"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}As part of my [Group Policy
+---
+categories:
+- Tech
+date: "2010-03-12 05:23:23"
+draft: false
+publishDate: "2010-03-12 05:23:23"
+slug: folder-redirection-for-unusual-paths-group-policy
+tags:
+- active directory
+- ad
+- administration
+- folder redirection
+- GP
+- group policy
+- sysadmin
+- technology
+title: Folder Redirection for Unusual Paths [Group Policy]
+url: /folder-redirection-for-unusual-paths-group-policy/
+---
+As part of my [Group Policy
 Rewrite](//the.geekorium.com.au/?s=group+policy) I'm attempting to make
 use of Folder Redirection which lets you specify where common important
 Windows folders reside on the network.

@@ -1,14 +1,14 @@
 ---
-date: 2010-02-05 06:25:21
+categories:
+- Share
+date: "2010-02-05 06:25:21"
 draft: false
-title: Listen to these guys. Then buy their album.
-url: listen-to-these-guys-then-buy-their-album
 tags:
 - awesome
 - fun
 - music
-categories:
-- Share
+title: Listen to these guys. Then buy their album.
+url: listen-to-these-guys-then-buy-their-album
 ---
 
 {{< youtube eB3RJ1U_MJA >}}

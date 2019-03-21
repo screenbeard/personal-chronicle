@@ -1,20 +1,19 @@
-{
-    "date": "2011-09-26 09:30:06",
-    "draft": false,
-    "publishDate": "2011-09-26 09:30:06",
-    "slug": "space-flight-704-chapter-12-an-answer-in-the-dark",
-    "title": "Space Flight 704, Chapter 12: An Answer in the Dark",
-    "url": "\/space-flight-704-chapter-12-an-answer-in-the-dark\/",
-    "tags": [
-        "incredulous",
-        "Rex Havoc",
-        "Torimbalo",
-        "voice in the dark"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**\[voiceinthedark\]I am another such as you.\[/voiceinthedark\]**
+---
+categories:
+- Space Flight 704
+date: "2011-09-26 09:30:06"
+draft: false
+publishDate: "2011-09-26 09:30:06"
+slug: space-flight-704-chapter-12-an-answer-in-the-dark
+tags:
+- incredulous
+- Rex Havoc
+- Torimbalo
+- voice in the dark
+title: 'Space Flight 704, Chapter 12: An Answer in the Dark'
+url: /space-flight-704-chapter-12-an-answer-in-the-dark/
+---
+**\[voiceinthedark\]I am another such as you.\[/voiceinthedark\]**
 
 The voice spoke in a grave yet comforting manner.
 

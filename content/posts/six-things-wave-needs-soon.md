@@ -1,21 +1,20 @@
-{
-    "date": "2010-03-31 22:30:45",
-    "draft": false,
-    "publishDate": "2010-03-31 22:30:45",
-    "slug": "six-things-wave-needs-soon",
-    "title": "Six Things Wave Needs Soon",
-    "url": "\/six-things-wave-needs-soon\/",
-    "tags": [
-        "direction",
-        "opinion",
-        "problem",
-        "search",
-        "use case"
-    ],
-    "categories": [
-        "Post"
-    ]
-}I love the potential of Google Wave, but that doesn't mean I'm not
+---
+categories:
+- Post
+date: "2010-03-31 22:30:45"
+draft: false
+publishDate: "2010-03-31 22:30:45"
+slug: six-things-wave-needs-soon
+tags:
+- direction
+- opinion
+- problem
+- search
+- use case
+title: Six Things Wave Needs Soon
+url: /six-things-wave-needs-soon/
+---
+I love the potential of Google Wave, but that doesn't mean I'm not
 sometimes frustrated with it. Here's my list of stuff I'd like to see
 sooner rather than later.
 

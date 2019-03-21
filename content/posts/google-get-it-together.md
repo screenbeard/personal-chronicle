@@ -1,21 +1,20 @@
-{
-    "date": "2010-04-23 00:50:17",
-    "draft": false,
-    "publishDate": "2010-04-23 00:50:17",
-    "slug": "google-get-it-together",
-    "title": "Google!! Get it together!",
-    "url": "\/google-get-it-together\/",
-    "tags": [
-        "application",
-        "argh!",
-        "google",
-        "internet",
-        "technology"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}The decisions Google makes don't normally annoy me, except in small
+---
+categories:
+- Opinions
+date: "2010-04-23 00:50:17"
+draft: false
+publishDate: "2010-04-23 00:50:17"
+slug: google-get-it-together
+tags:
+- application
+- argh!
+- google
+- internet
+- technology
+title: Google!! Get it together!
+url: /google-get-it-together/
+---
+The decisions Google makes don't normally annoy me, except in small
 geeky ways that most people would *pfft* at, and you may well *pfft* at
 me now but they are seriously annoying me now.
 

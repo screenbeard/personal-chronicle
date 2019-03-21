@@ -1,12 +1,16 @@
-{
-    "title": "Moving to Hugo",
-    "date": "2019-03-09T16:35:38+10:30",
-    "draft": false,
-    "tags": ["hugo","go","wordpress","change","pandoc"],
-    "categories": [
-        "Tech"
-    ]
-}
+---
+categories:
+- Tech
+date: "2019-03-09T16:35:38+10:30"
+draft: false
+tags:
+- hugo
+- go
+- wordpress
+- change
+- pandoc
+title: Moving to Hugo
+---
 
 They say "imitation is the sincerest form of flattery", and I do hope they're right. I've been reading [Rubenerd](//rubenerd.com) for the longest time, and his lovely minimal(ist) website built on [Hugo](https://gohugo.io/) has had me dying to try out the technology for the longest time.
 

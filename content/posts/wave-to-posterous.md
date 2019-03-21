@@ -1,19 +1,18 @@
-{
-    "date": "2009-11-10 20:46:58",
-    "draft": false,
-    "publishDate": "2009-11-10 20:46:58",
-    "slug": "wave-to-posterous",
-    "title": "Wave To Posterous",
-    "url": "\/wave-to-posterous\/",
-    "tags": [
-        "blogging",
-        "bots",
-        "use case"
-    ],
-    "categories": [
-        "Link"
-    ]
-}Google fan Lookon has created a [Bot to post to his Posterous
+---
+categories:
+- Link
+date: "2009-11-10 20:46:58"
+draft: false
+publishDate: "2009-11-10 20:46:58"
+slug: wave-to-posterous
+tags:
+- blogging
+- bots
+- use case
+title: Wave To Posterous
+url: /wave-to-posterous/
+---
+Google fan Lookon has created a [Bot to post to his Posterous
 blog](http://posterous-robot.appspot.com/ "Posterous Bot"), and written
 detailed instructions on how to do it.
 

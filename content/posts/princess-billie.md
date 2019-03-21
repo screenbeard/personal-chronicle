@@ -1,21 +1,20 @@
-{
-    "date": "2012-04-09 05:26:25",
-    "draft": false,
-    "publishDate": "2012-04-09 05:26:25",
-    "slug": "princess-billie",
-    "title": "Princess Billie",
-    "url": "\/princess-billie\/",
-    "tags": [
-        "Amelynne",
-        "ebook",
-        "Princess Billie",
-        "story",
-        "writing"
-    ],
-    "categories": [
-        "Share"
-    ]
-}About a year ago I began writing a story for my daughter Amelynne, using
+---
+categories:
+- Share
+date: "2012-04-09 05:26:25"
+draft: false
+publishDate: "2012-04-09 05:26:25"
+slug: princess-billie
+tags:
+- Amelynne
+- ebook
+- Princess Billie
+- story
+- writing
+title: Princess Billie
+url: /princess-billie/
+---
+About a year ago I began writing a story for my daughter Amelynne, using
 her toys as characters.
 
 ![](https://turbo.geekorium.com.au/wp-content/uploads/billie.png "Princess Billie"){.alignnone

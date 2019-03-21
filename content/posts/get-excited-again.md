@@ -1,15 +1,15 @@
-{
-    "date": "2011-07-06 11:02:34",
-    "draft": false,
-    "publishDate": "2011-07-06 11:02:34",
-    "slug": "get-excited-again",
-    "title": "Get excited again! ",
-    "url": "\/get-excited-again\/",
-    "tags": [],
-    "categories": [
-        "Status"
-    ]
-}Since my [last
+---
+categories:
+- Status
+date: "2011-07-06 11:02:34"
+draft: false
+publishDate: "2011-07-06 11:02:34"
+slug: get-excited-again
+tags: []
+title: 'Get excited again! '
+url: /get-excited-again/
+---
+Since my [last
 post](//the.geekorium.com.au/google-wave-live-and-available-for-everyone-including-google-apps-users/)
 more than a year ago, a lot has happened to Google Wave. Within months
 of opening Wave up to everyone at the Google I/O conference, Google

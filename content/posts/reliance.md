@@ -1,19 +1,18 @@
-{
-    "date": "2008-10-05 10:05:11",
-    "draft": false,
-    "publishDate": "2008-10-05 10:05:11",
-    "slug": "reliance",
-    "title": "Reliance",
-    "url": "\/reliance\/",
-    "tags": [
-        "Education",
-        "School",
-        "technology"
-    ],
-    "categories": [
-        "Education"
-    ]
-}[![Learning
+---
+categories:
+- Education
+date: "2008-10-05 10:05:11"
+draft: false
+publishDate: "2008-10-05 10:05:11"
+slug: reliance
+tags:
+- Education
+- School
+- technology
+title: Reliance
+url: /reliance/
+---
+[![Learning
 time](https://turbo.geekorium.com.au/wp-content/uploads/3948369923_f1d620f00b_o1.png){width="599"
 height="401"}](http://www.flickr.com/photos/34053291@N05/3948369923/ "Learning time by Temari 09, on Flickr")
 

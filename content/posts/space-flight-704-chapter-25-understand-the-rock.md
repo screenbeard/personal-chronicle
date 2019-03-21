@@ -1,20 +1,19 @@
-{
-    "date": "2011-10-21 08:30:09",
-    "draft": false,
-    "publishDate": "2011-10-21 08:30:09",
-    "slug": "space-flight-704-chapter-25-understand-the-rock",
-    "title": "Space Flight 704, Chapter 25: Let's Rock",
-    "url": "\/space-flight-704-chapter-25-understand-the-rock\/",
-    "tags": [
-        "exercise",
-        "Rex Havoc",
-        "solidifying",
-        "voice in the flesh"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He didn't expect unimaginable power to mean he'd have to hug rocks.**
+---
+categories:
+- Space Flight 704
+date: "2011-10-21 08:30:09"
+draft: false
+publishDate: "2011-10-21 08:30:09"
+slug: space-flight-704-chapter-25-understand-the-rock
+tags:
+- exercise
+- Rex Havoc
+- solidifying
+- voice in the flesh
+title: 'Space Flight 704, Chapter 25: Let''s Rock'
+url: /space-flight-704-chapter-25-understand-the-rock/
+---
+**He didn't expect unimaginable power to mean he'd have to hug rocks.**
 
 "Why am I doing this again?" he asked the other, his arms encircling the
 rock he'd picked at random.

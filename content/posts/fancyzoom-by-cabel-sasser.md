@@ -1,20 +1,19 @@
-{
-    "date": "2008-04-29 08:11:12",
-    "draft": false,
-    "publishDate": "2008-04-29 08:11:12",
-    "slug": "fancyzoom-by-cabel-sasser",
-    "title": "Checking out FancyZoom by Cabel Sasser",
-    "url": "\/fancyzoom-by-cabel-sasser\/",
-    "tags": [
-        "cabel sasser",
-        "fancyzoom",
-        "image",
-        "test"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}Oddly named [Cabel's Blog LOL](http://www.cabel.name/) has a fancy-pants
+---
+categories:
+- Tech
+date: "2008-04-29 08:11:12"
+draft: false
+publishDate: "2008-04-29 08:11:12"
+slug: fancyzoom-by-cabel-sasser
+tags:
+- cabel sasser
+- fancyzoom
+- image
+- test
+title: Checking out FancyZoom by Cabel Sasser
+url: /fancyzoom-by-cabel-sasser/
+---
+Oddly named [Cabel's Blog LOL](http://www.cabel.name/) has a fancy-pants
 (a technical term apparently) javascripty image zooming tool called
 FancyZoom. I've installed it for this post, but if it ain't working go
 [here](http://www.cabel.name/2008/02/fancyzoom-10.html). It's very

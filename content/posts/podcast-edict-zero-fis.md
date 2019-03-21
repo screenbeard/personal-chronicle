@@ -1,20 +1,18 @@
-{
-    "date": "2015-03-25 11:31:21",
-    "draft": false,
-    "publishDate": "2015-03-25 11:31:21",
-    "slug": "podcast-edict-zero-fis",
-    "title": "[Podcast] Edict Zero - FIS",
-    "url": "\/podcast-edict-zero-fis\/",
-    "tags": [
-        "audio drama",
-        "edict zero",
-        "jack kincaid",
-        "podcast"
-    ],
-    "categories": [
-        "Share"
-    ]
-}
+---
+categories:
+- Share
+date: "2015-03-25 11:31:21"
+draft: false
+publishDate: "2015-03-25 11:31:21"
+slug: podcast-edict-zero-fis
+tags:
+- audio drama
+- edict zero
+- jack kincaid
+- podcast
+title: '[Podcast] Edict Zero - FIS'
+url: /podcast-edict-zero-fis/
+---
 
 I'm not sure how many of my friends are in the market for good podcasts, but one of my favourites has just returned from a lengthy hiatus.
 

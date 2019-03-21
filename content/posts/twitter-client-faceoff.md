@@ -1,23 +1,22 @@
-{
-    "date": "2008-12-09 13:24:11",
-    "draft": false,
-    "publishDate": "2008-12-09 13:24:11",
-    "slug": "twitter-client-faceoff",
-    "title": "Twitter iPhone Client Faceoff",
-    "url": "\/twitter-client-faceoff\/",
-    "tags": [
-        "FriendFeed",
-        "iPhone",
-        "Stephen Fry",
-        "Tweetsville",
-        "Twitter",
-        "Twitterific",
-        "User interface"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}I've tried a number of
+---
+categories:
+- Tech
+date: "2008-12-09 13:24:11"
+draft: false
+publishDate: "2008-12-09 13:24:11"
+slug: twitter-client-faceoff
+tags:
+- FriendFeed
+- iPhone
+- Stephen Fry
+- Tweetsville
+- Twitter
+- Twitterific
+- User interface
+title: Twitter iPhone Client Faceoff
+url: /twitter-client-faceoff/
+---
+I've tried a number of
 [Twitter](http://twitter.com "Twitter"){.zem_slink} clients for my
 [iPhone](http://www.apple.com/iphone "iPhone"){.zem_slink} now. Most of
 them have something that makes them stand out, and all of them have

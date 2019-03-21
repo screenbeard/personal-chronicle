@@ -1,7 +1,8 @@
 ---
-date: 2006-01-20 04:50:27
+categories:
+- Religion
+date: "2006-01-20 04:50:27"
 draft: false
-title: Faith v Religion
 tags:
 - faith
 - god
@@ -9,8 +10,7 @@ tags:
 - proof
 - science fiction
 - streets of ashkelon
-categories:
-- Religion
+title: Faith v Religion
 ---
 
 This is the station that my train-of-thought has taken me. Join me here and I will fill you in on where I've been:

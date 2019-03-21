@@ -1,19 +1,18 @@
-{
-    "date": "2009-12-21 05:12:06",
-    "draft": false,
-    "publishDate": "2009-12-21 05:12:06",
-    "slug": "don-dodge-stole-my-idea",
-    "title": "Don Dodge stole my idea.",
-    "url": "\/don-dodge-stole-my-idea\/",
-    "tags": [
-        "awesome",
-        "fun",
-        "technology"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}> I think in the near future there will be docking stations everywhere
+---
+categories:
+- Tech
+date: "2009-12-21 05:12:06"
+draft: false
+publishDate: "2009-12-21 05:12:06"
+slug: don-dodge-stole-my-idea
+tags:
+- awesome
+- fun
+- technology
+title: Don Dodge stole my idea.
+url: /don-dodge-stole-my-idea/
+---
+> I think in the near future there will be docking stations everywhere
 > with a screen and a keyboard. You simply pull out your phone, plug it
 > into the docking station, and instantly all your applications and data
 > are available to you. Chrome, Google Apps, and Android make this

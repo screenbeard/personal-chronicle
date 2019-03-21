@@ -1,13 +1,13 @@
 ---
-date: 2009-06-04 11:16:00
+categories:
+- Google Wave
+date: "2009-06-04 11:16:00"
 draft: false
-title: About Google Wave
 tags:
 - direction
 - first look
 - quote
-categories:
-  - Google Wave
+title: About Google Wave
 ---
 
 > Google Wave is a new model for communication and collaboration on the web. - [Google Wave’s About page](http://wave.google.com/about.html)

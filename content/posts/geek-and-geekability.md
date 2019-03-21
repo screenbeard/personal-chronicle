@@ -1,7 +1,8 @@
 ---
-date: 2010-11-21 23:23:44
+categories:
+- Video
+date: "2010-11-21 23:23:44"
 draft: false
-title: Geek and Geekability
 tags:
 - ben bova
 - books
@@ -9,8 +10,7 @@ tags:
 - goldeneye
 - wii
 - vodcast
-categories:
-- Video
+title: Geek and Geekability
 ---
 
 {{< youtube pkr18kkmBls >}}

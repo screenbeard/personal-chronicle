@@ -1,22 +1,21 @@
-{
-    "date": "2008-04-16 05:34:40",
-    "draft": false,
-    "publishDate": "2008-04-16 05:34:40",
-    "slug": "cushycms",
-    "title": "CushyCMS - easy website editing",
-    "url": "\/cushycms\/",
-    "tags": [
-        "alternative",
-        "cms",
-        "cushycms",
-        "html",
-        "templates",
-        "wysiwyg"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}[![CushyCMS - Take the work out of managing
+---
+categories:
+- Tech
+date: "2008-04-16 05:34:40"
+draft: false
+publishDate: "2008-04-16 05:34:40"
+slug: cushycms
+tags:
+- alternative
+- cms
+- cushycms
+- html
+- templates
+- wysiwyg
+title: CushyCMS - easy website editing
+url: /cushycms/
+---
+[![CushyCMS - Take the work out of managing
 content](https://turbo.geekorium.com.au/images/6t9_bor_rou_sha.jpg "CushyCMS - Take the work out of managing content")](http://www.cushycms.com/)
 
 [CushyCMS - Take the work out of managing

@@ -1,23 +1,22 @@
-{
-    "date": "2010-04-16 01:08:28",
-    "draft": false,
-    "publishDate": "2010-04-16 01:08:28",
-    "slug": "the-massive-list-of-wave-resources",
-    "title": "The Massive (but not Exhaustive) List of Wave Resources",
-    "url": "\/the-massive-list-of-wave-resources\/",
-    "tags": [
-        "blogging",
-        "community",
-        "fun",
-        "opinion",
-        "support",
-        "use case",
-        "users"
-    ],
-    "categories": [
-        "Post"
-    ]
-}When I started First Waves I wanted to keep my readers up to date with
+---
+categories:
+- Post
+date: "2010-04-16 01:08:28"
+draft: false
+publishDate: "2010-04-16 01:08:28"
+slug: the-massive-list-of-wave-resources
+tags:
+- blogging
+- community
+- fun
+- opinion
+- support
+- use case
+- users
+title: The Massive (but not Exhaustive) List of Wave Resources
+url: /the-massive-list-of-wave-resources/
+---
+When I started First Waves I wanted to keep my readers up to date with
 Google Wave news and keep on top of changes and updates as they happen.
 However, looking around the net I soon found many sites that already do
 a great job of keeping up with Wave news, and I hate the idea of

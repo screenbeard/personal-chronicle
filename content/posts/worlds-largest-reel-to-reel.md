@@ -1,19 +1,18 @@
-{
-    "date": "2006-08-12 14:40:18",
-    "draft": false,
-    "publishDate": "2006-08-12 14:40:18",
-    "slug": "worlds-largest-reel-to-reel",
-    "title": "World's Largest Reel-to-Reel",
-    "url": "\/worlds-largest-reel-to-reel\/",
-    "tags": [
-        "google",
-        "internet",
-        "map"
-    ],
-    "categories": [
-        "Share"
-    ]
-}While zooming around my old home town of Gladstone, QLD through Google
+---
+categories:
+- Share
+date: "2006-08-12 14:40:18"
+draft: false
+publishDate: "2006-08-12 14:40:18"
+slug: worlds-largest-reel-to-reel
+tags:
+- google
+- internet
+- map
+title: World's Largest Reel-to-Reel
+url: /worlds-largest-reel-to-reel/
+---
+While zooming around my old home town of Gladstone, QLD through Google
 Map's much improved interface, I came across this from above.
 
 ![](https://farm1.staticflickr.com/797/39601288580_a5c0175f63.jpg)

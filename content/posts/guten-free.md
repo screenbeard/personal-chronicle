@@ -1,15 +1,19 @@
-{
-    "slug": "guten-free",
-    "url": "\/guten-free\/",
-    "title": "Guten Free",
-    "draft": false,
-    "date": "2019-02-11 12:49:53",
-    "publishDate": "2019-02-11 12:49:53",
-    "tags": ["puns", "wordpress", "technology", "star trek", "transporter"],
-    "categories": [
-        "Tech"
-    ]
-}
+---
+categories:
+- Tech
+date: "2019-02-11 12:49:53"
+draft: false
+publishDate: "2019-02-11 12:49:53"
+slug: guten-free
+tags:
+- puns
+- wordpress
+- technology
+- star trek
+- transporter
+title: Guten Free
+url: /guten-free/
+---
 
 So I came in here to do a post about something completely different, but discovered that Wordpress has enabled their [Gutenberg editor](https://wordpress.org/plugins/gutenberg/) by default with the latest version of the software, and it's both enticing and scary to try something new, so I thought I'd give it a shot.
 

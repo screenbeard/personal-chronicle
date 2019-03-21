@@ -1,15 +1,15 @@
-{
-    "date": "2010-05-19 20:11:13",
-    "draft": false,
-    "publishDate": "2010-05-19 20:11:13",
-    "slug": "google-wave-live-and-available-for-everyone-including-google-apps-users",
-    "title": "Google Wave Live and Available for Everyone! Including Google Apps users!",
-    "url": "\/google-wave-live-and-available-for-everyone-including-google-apps-users\/",
-    "tags": [],
-    "categories": [
-        "Post"
-    ]
-}Today at the [Google I/O
+---
+categories:
+- Post
+date: "2010-05-19 20:11:13"
+draft: false
+publishDate: "2010-05-19 20:11:13"
+slug: google-wave-live-and-available-for-everyone-including-google-apps-users
+tags: []
+title: Google Wave Live and Available for Everyone! Including Google Apps users!
+url: /google-wave-live-and-available-for-everyone-including-google-apps-users/
+---
+Today at the [Google I/O
 Conference](http://code.google.com/events/io/2010/){.vt-p} (the same one
 that Google Wave was [announced at last
 year](//the.geekorium.com.au/wave-preview-at-the-google-io-developer-conference/){.vt-p})

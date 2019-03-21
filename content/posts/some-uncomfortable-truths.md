@@ -1,18 +1,17 @@
-{
-    "date": "2009-06-16 13:03:55",
-    "draft": false,
-    "publishDate": "2009-06-16 13:03:55",
-    "slug": "some-uncomfortable-truths",
-    "title": "Some Uncomfortable Truths",
-    "url": "\/some-uncomfortable-truths\/",
-    "tags": [
-        "humour",
-        "truth bombs"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}1.  That show you like? Unless it involves people being voted off every
+---
+categories:
+- Opinions
+date: "2009-06-16 13:03:55"
+draft: false
+publishDate: "2009-06-16 13:03:55"
+slug: some-uncomfortable-truths
+tags:
+- humour
+- truth bombs
+title: Some Uncomfortable Truths
+url: /some-uncomfortable-truths/
+---
+1.  That show you like? Unless it involves people being voted off every
     week, it won't be on next season.
 
 2.  We know it took you a half an hour to 'mess up' your hair

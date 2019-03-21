@@ -1,12 +1,15 @@
-{
-    "title": "Posting from Mobile",
-    "date": "2019-03-11T11:38:45+10:30",
-    "draft": false,
-    "tags": ["writing","hugo","website", "github"],
-    "categories": [
-        "Site"
-    ]
-}
+---
+categories:
+- Site
+date: "2019-03-11T11:38:45+10:30"
+draft: false
+tags:
+- writing
+- hugo
+- website
+- github
+title: Posting from Mobile
+---
 
 One thing that moving away from WordPress means is that I can no longer publish on the go.
 

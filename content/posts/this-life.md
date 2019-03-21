@@ -1,21 +1,19 @@
-{
-    "date": "2016-04-06 11:34:44",
-    "draft": false,
-    "publishDate": "2016-04-06 11:34:44",
-    "slug": "this-life",
-    "title": "This Life",
-    "url": "\/this-life\/",
-    "tags": [
-        "happiness",
-        "kids",
-        "Life",
-        "trajectory",
-        "work"
-    ],
-    "categories": [
-        "Life"
-    ]
-}
+---
+categories:
+- Life
+date: "2016-04-06 11:34:44"
+draft: false
+publishDate: "2016-04-06 11:34:44"
+slug: this-life
+tags:
+- happiness
+- kids
+- Life
+- trajectory
+- work
+title: This Life
+url: /this-life/
+---
 
 Six years ago I wrote a post sitting in a park watching my daughter play. I called it ["The Life"](//the.geekorium.com.au/the-life/) and the feelings in it spring from what seem to be an eternal longing inside me to live other people's more "glamorous" lives. For instance, I listen to a lot of different podcasts and I find myself wishing I could "do that". Whatever that might be.
 

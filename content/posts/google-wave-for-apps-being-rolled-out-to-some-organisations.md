@@ -1,21 +1,20 @@
-{
-    "date": "2010-03-20 01:19:25",
-    "draft": false,
-    "publishDate": "2010-03-20 01:19:25",
-    "slug": "google-wave-for-apps-being-rolled-out-to-some-organisations",
-    "title": "Google Wave Available to 31000 University Students",
-    "url": "\/google-wave-for-apps-being-rolled-out-to-some-organisations\/",
-    "tags": [
-        "direction",
-        "future",
-        "new feature",
-        "preview",
-        "users"
-    ],
-    "categories": [
-        "Post"
-    ]
-}[![liu.gif](https://turbo.geekorium.com.au/images/liu.gif){.s3-img}](https://www.liu.se/?l=en)
+---
+categories:
+- Post
+date: "2010-03-20 01:19:25"
+draft: false
+publishDate: "2010-03-20 01:19:25"
+slug: google-wave-for-apps-being-rolled-out-to-some-organisations
+tags:
+- direction
+- future
+- new feature
+- preview
+- users
+title: Google Wave Available to 31000 University Students
+url: /google-wave-for-apps-being-rolled-out-to-some-organisations/
+---
+[![liu.gif](https://turbo.geekorium.com.au/images/liu.gif){.s3-img}](https://www.liu.se/?l=en)
 
 In a short and succinct tweet by [Joakim
 Nejdeby](http://twitter.com/joakimnejdeby), we finally have news of

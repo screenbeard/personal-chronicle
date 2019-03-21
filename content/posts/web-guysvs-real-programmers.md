@@ -1,19 +1,18 @@
-{
-    "date": "2009-08-14 13:31:03",
-    "draft": false,
-    "publishDate": "2009-08-14 13:31:03",
-    "slug": "web-guysvs-real-programmers",
-    "title": "\"Web Guys\"vs \"Real Programmers\"",
-    "url": "\/web-guysvs-real-programmers\/",
-    "tags": [
-        "learning",
-        "Programming",
-        "web"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}[Michael J.
+---
+categories:
+- Opinions
+date: "2009-08-14 13:31:03"
+draft: false
+publishDate: "2009-08-14 13:31:03"
+slug: web-guysvs-real-programmers
+tags:
+- learning
+- Programming
+- web
+title: '"Web Guys"vs "Real Programmers"'
+url: /web-guysvs-real-programmers/
+---
+[Michael J.
 Braude](http://michaelbraude.blogspot.com/2009/05/why-ill-never-be-web-guy.html)
 wrote a post on why he'll never be a "web guy". The gist being, the
 annoyances of writing for the web are not the sort of challenges he

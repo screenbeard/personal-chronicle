@@ -1,20 +1,19 @@
-{
-    "date": "2013-04-11 09:30:00",
-    "draft": false,
-    "publishDate": "2013-04-11 09:30:00",
-    "slug": "space-flight-704-chapter-54-singular-conundrum",
-    "title": "Space Flight 704, Chapter 54: Singular Conundrum.",
-    "url": "\/space-flight-704-chapter-54-singular-conundrum\/",
-    "tags": [
-        "Ortrix",
-        "Rex Havoc",
-        "The Other",
-        "time-belt"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**\[voiceinthedark\]They are one and the same.\[/voiceinthedark\]**
+---
+categories:
+- Space Flight 704
+date: "2013-04-11 09:30:00"
+draft: false
+publishDate: "2013-04-11 09:30:00"
+slug: space-flight-704-chapter-54-singular-conundrum
+tags:
+- Ortrix
+- Rex Havoc
+- The Other
+- time-belt
+title: 'Space Flight 704, Chapter 54: Singular Conundrum.'
+url: /space-flight-704-chapter-54-singular-conundrum/
+---
+**\[voiceinthedark\]They are one and the same.\[/voiceinthedark\]**
 
 % \[voiceinthedark\]The power of the Torimbalo was used in the device
 you observe.\[/voiceinthedark\]%

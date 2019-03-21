@@ -1,18 +1,17 @@
-{
-    "date": "2009-07-18 00:31:48",
-    "draft": false,
-    "publishDate": "2009-07-18 00:31:48",
-    "slug": "bioinformatics-on-aardvark",
-    "title": "Bioinformatics on Aardvark",
-    "url": "\/bioinformatics-on-aardvark\/",
-    "tags": [
-        "aardvark",
-        "fun"
-    ],
-    "categories": [
-        "Quick"
-    ]
-}> Can any aadvark molecular biologists help me to to find a
+---
+categories:
+- Quick
+date: "2009-07-18 00:31:48"
+draft: false
+publishDate: "2009-07-18 00:31:48"
+slug: bioinformatics-on-aardvark
+tags:
+- aardvark
+- fun
+title: Bioinformatics on Aardvark
+url: /bioinformatics-on-aardvark/
+---
+> Can any aadvark molecular biologists help me to to find a
 > primer-primer interactions detection software, I think I have to deal
 > with several probes annealing together in a multiplex assay but I
 > cannot solve it ? An [Aardvark](http://vark.com/s/GNOE) Question on

@@ -1,15 +1,15 @@
-{
-    "date": "2011-10-10 10:35:06",
-    "draft": false,
-    "publishDate": "2011-10-10 10:35:06",
-    "slug": "mac-osxwin7",
-    "title": "mac osx\/win7",
-    "url": "\/mac-osxwin7\/",
-    "tags": [],
-    "categories": [
-        "Rambling"
-    ]
-}I became an "Apple fanboy" while doing a film making course. The course
+---
+categories:
+- Rambling
+date: "2011-10-10 10:35:06"
+draft: false
+publishDate: "2011-10-10 10:35:06"
+slug: mac-osxwin7
+tags: []
+title: mac osx/win7
+url: /mac-osxwin7/
+---
+I became an "Apple fanboy" while doing a film making course. The course
 used Macs for editing, and at the time (about 8 years ago now) they were
 really the most reliable editing platform. Unless you had a high end PC,
 your home computer would not run video smoothly enough to edit without

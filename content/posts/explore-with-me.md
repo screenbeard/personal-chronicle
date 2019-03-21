@@ -1,13 +1,13 @@
 ---
-date: 2011-09-12 12:52:35
+categories:
+- Life
+date: "2011-09-12 12:52:35"
 draft: false
-title: Explore with me
 tags:
 - exploring
 - fun
 - seeing what's there
-categories:
-- Life
+title: Explore with me
 ---
 
 {{< figure src="https://turbo.geekorium.com.au/images/explore.jpg" alt="" link="//www.flickr.com/photos/joshnunn/6140167250/" title="How To Be An Explorer of the World" >}}

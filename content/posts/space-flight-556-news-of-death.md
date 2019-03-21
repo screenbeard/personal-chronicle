@@ -1,24 +1,23 @@
-{
-    "date": "2011-12-05 08:30:34",
-    "draft": false,
-    "publishDate": "2011-12-05 08:30:34",
-    "slug": "space-flight-556-news-of-death",
-    "title": "Space Flight 556: News of Death",
-    "url": "\/space-flight-556-news-of-death\/",
-    "tags": [
-        "Anrianna",
-        "future",
-        "plan",
-        "Rex Havoc",
-        "The Professor",
-        "time",
-        "Time Diversion",
-        "time-belt"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**"You're from the future![]()"**
+---
+categories:
+- Space Flight 704
+date: "2011-12-05 08:30:34"
+draft: false
+publishDate: "2011-12-05 08:30:34"
+slug: space-flight-556-news-of-death
+tags:
+- Anrianna
+- future
+- plan
+- Rex Havoc
+- The Professor
+- time
+- Time Diversion
+- time-belt
+title: 'Space Flight 556: News of Death'
+url: /space-flight-556-news-of-death/
+---
+**"You're from the future![]()"**
 
 The Professor was amused and amazed.
 

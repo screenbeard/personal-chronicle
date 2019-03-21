@@ -1,20 +1,19 @@
-{
-    "date": "2011-10-10 08:30:00",
-    "draft": false,
-    "publishDate": "2011-10-10 08:30:00",
-    "slug": "space-flight-704-chapter-20",
-    "title": "Space Flight 704, Chapter 20: Familiar Stranger",
-    "url": "\/space-flight-704-chapter-20\/",
-    "tags": [
-        "confusing being",
-        "Rex Havoc",
-        "voice in the dark",
-        "voice in the flesh"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**At least his discomfort was gone**
+---
+categories:
+- Space Flight 704
+date: "2011-10-10 08:30:00"
+draft: false
+publishDate: "2011-10-10 08:30:00"
+slug: space-flight-704-chapter-20
+tags:
+- confusing being
+- Rex Havoc
+- voice in the dark
+- voice in the flesh
+title: 'Space Flight 704, Chapter 20: Familiar Stranger'
+url: /space-flight-704-chapter-20/
+---
+**At least his discomfort was gone**
 
 The figure before him was a stranger, but someone vaguely familiar. He
 had thought at first he knew him, or was it a her?

@@ -1,23 +1,22 @@
-{
-    "date": "2009-03-25 11:33:16",
-    "draft": false,
-    "publishDate": "2009-03-25 11:33:16",
-    "slug": "wolfenstein-3d-officially-the-greatest-thing-on-my-iphone",
-    "title": "Wolfenstein 3D - officially the greatest thing on my iPhone.",
-    "url": "\/wolfenstein-3d-officially-the-greatest-thing-on-my-iphone\/",
-    "tags": [
-        "AppStore",
-        "awesome",
-        "commodore 64",
-        "First-person shooter",
-        "iPhone",
-        "Video Games",
-        "Wolfenstein"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}<div class="image">
+---
+categories:
+- Tech
+date: "2009-03-25 11:33:16"
+draft: false
+publishDate: "2009-03-25 11:33:16"
+slug: wolfenstein-3d-officially-the-greatest-thing-on-my-iphone
+tags:
+- AppStore
+- awesome
+- commodore 64
+- First-person shooter
+- iPhone
+- Video Games
+- Wolfenstein
+title: Wolfenstein 3D - officially the greatest thing on my iPhone.
+url: /wolfenstein-3d-officially-the-greatest-thing-on-my-iphone/
+---
+<div class="image">
 
 ![Wolfenstein, busting out of your
 iPhone](https://turbo.geekorium.com.au/images/header2.png)

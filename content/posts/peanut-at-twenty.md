@@ -1,20 +1,19 @@
-{
-    "date": "2008-03-04 10:46:08",
-    "draft": false,
-    "publishDate": "2008-03-04 10:46:08",
-    "slug": "peanut-at-twenty",
-    "title": "Peanut at Twenty",
-    "url": "\/peanut-at-twenty\/",
-    "tags": [
-        "baby",
-        "family",
-        "peanut",
-        "ultrasound"
-    ],
-    "categories": [
-        "Life"
-    ]
-}Here's your next dose of Peanut - in case you had been hanging out for
+---
+categories:
+- Life
+date: "2008-03-04 10:46:08"
+draft: false
+publishDate: "2008-03-04 10:46:08"
+slug: peanut-at-twenty
+tags:
+- baby
+- family
+- peanut
+- ultrasound
+title: Peanut at Twenty
+url: /peanut-at-twenty/
+---
+Here's your next dose of Peanut - in case you had been hanging out for
 it.\
 We had.
 

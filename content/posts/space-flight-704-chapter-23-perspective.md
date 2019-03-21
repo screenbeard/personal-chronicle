@@ -1,20 +1,19 @@
-{
-    "date": "2011-10-19 08:30:09",
-    "draft": false,
-    "publishDate": "2011-10-19 08:30:09",
-    "slug": "space-flight-704-chapter-23-perspective",
-    "title": "Space Flight 704, Chapter 23: Perspective",
-    "url": "\/space-flight-704-chapter-23-perspective\/",
-    "tags": [
-        "Rex Havoc",
-        "understanding",
-        "universe",
-        "voice in the dark"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**\[voiceinthedark\]You understand now, don't you?\[/voiceinthedark\]**
+---
+categories:
+- Space Flight 704
+date: "2011-10-19 08:30:09"
+draft: false
+publishDate: "2011-10-19 08:30:09"
+slug: space-flight-704-chapter-23-perspective
+tags:
+- Rex Havoc
+- understanding
+- universe
+- voice in the dark
+title: 'Space Flight 704, Chapter 23: Perspective'
+url: /space-flight-704-chapter-23-perspective/
+---
+**\[voiceinthedark\]You understand now, don't you?\[/voiceinthedark\]**
 
 Rex did understand. This life after death offered the chance to see the
 universe as he'd never seen it before. He was beginning to see beyond

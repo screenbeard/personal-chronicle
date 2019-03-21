@@ -1,15 +1,15 @@
-{
-    "date": "2010-03-02 10:48:43",
-    "draft": false,
-    "publishDate": "2010-03-02 10:48:43",
-    "slug": "twitter-sucks",
-    "title": "Twitter Sucks",
-    "url": "\/twitter-sucks\/",
-    "tags": [],
-    "categories": [
-        "Opinions"
-    ]
-}Twitter sucks.
+---
+categories:
+- Opinions
+date: "2010-03-02 10:48:43"
+draft: false
+publishDate: "2010-03-02 10:48:43"
+slug: twitter-sucks
+tags: []
+title: Twitter Sucks
+url: /twitter-sucks/
+---
+Twitter sucks.
 
 It feels good to finally get that off my chest.
 

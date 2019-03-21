@@ -1,21 +1,20 @@
-{
-    "date": "2011-11-14 08:30:01",
-    "draft": false,
-    "publishDate": "2011-11-14 08:30:01",
-    "slug": "space-flight-704-chapter-33-eye-on-the-universe",
-    "title": "Space Flight 704, Chapter 33: Eye on the Universe",
-    "url": "\/space-flight-704-chapter-33-eye-on-the-universe\/",
-    "tags": [
-        "awareness",
-        "Rex Havoc",
-        "training montage",
-        "travel",
-        "universe"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex took the hint.**
+---
+categories:
+- Space Flight 704
+date: "2011-11-14 08:30:01"
+draft: false
+publishDate: "2011-11-14 08:30:01"
+slug: space-flight-704-chapter-33-eye-on-the-universe
+tags:
+- awareness
+- Rex Havoc
+- training montage
+- travel
+- universe
+title: 'Space Flight 704, Chapter 33: Eye on the Universe'
+url: /space-flight-704-chapter-33-eye-on-the-universe/
+---
+**Rex took the hint.**
 
 He'd stopped worrying about time and let the other teach him about his
 powers.

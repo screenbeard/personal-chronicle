@@ -1,21 +1,20 @@
-{
-    "date": "2012-05-05 09:30:48",
-    "draft": false,
-    "publishDate": "2012-05-05 09:30:48",
-    "slug": "space-flight-704-chapter-37-the-redemption-of-nippal",
-    "title": "Space Flight 704, Chapter 37: The Redemption of Nippal",
-    "url": "\/space-flight-704-chapter-37-the-redemption-of-nippal\/",
-    "tags": [
-        "Doctor Van de Nippal",
-        "doomsday ray",
-        "island base",
-        "jolly silly mistake",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex smiled devilishly.**
+---
+categories:
+- Space Flight 704
+date: "2012-05-05 09:30:48"
+draft: false
+publishDate: "2012-05-05 09:30:48"
+slug: space-flight-704-chapter-37-the-redemption-of-nippal
+tags:
+- Doctor Van de Nippal
+- doomsday ray
+- island base
+- jolly silly mistake
+- Rex Havoc
+title: 'Space Flight 704, Chapter 37: The Redemption of Nippal'
+url: /space-flight-704-chapter-37-the-redemption-of-nippal/
+---
+**Rex smiled devilishly.**
 
 The crackling orange energy surrounded him. He let it wash over him,
 drank it in and understood it. He reached back down to its source and

@@ -1,21 +1,20 @@
-{
-    "date": "2009-08-28 02:38:44",
-    "draft": false,
-    "publishDate": "2009-08-28 02:38:44",
-    "slug": "lijit-search-impeccable-customer-service",
-    "title": "Lijit Search: Impeccable customer service",
-    "url": "\/lijit-search-impeccable-customer-service\/",
-    "tags": [
-        "search",
-        "Social Networking",
-        "technology",
-        "tools",
-        "widget"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}![lijit
+---
+categories:
+- Tech
+date: "2009-08-28 02:38:44"
+draft: false
+publishDate: "2009-08-28 02:38:44"
+slug: lijit-search-impeccable-customer-service
+tags:
+- search
+- Social Networking
+- technology
+- tools
+- widget
+title: 'Lijit Search: Impeccable customer service'
+url: /lijit-search-impeccable-customer-service/
+---
+![lijit
 stickers](//farm3.static.flickr.com/2130/2478273711_01b84d75a8.jpg "lijit stickers")://www.flickr.com/photos/stickergiant/2478273711/
 
 Photo by [teamstickergiant](http://www.flickr.com/photos/stickergiant/)

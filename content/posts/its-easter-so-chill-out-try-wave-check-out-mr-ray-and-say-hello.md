@@ -1,22 +1,21 @@
-{
-    "date": "2010-04-01 09:00:32",
-    "draft": false,
-    "publishDate": "2010-04-01 09:00:32",
-    "slug": "its-easter-so-chill-out-try-wave-check-out-mr-ray-and-say-hello",
-    "title": "It's Easter. So Chill Out, Try Wave, Check out Mr-Ray and Say Hello!",
-    "url": "\/its-easter-so-chill-out-try-wave-check-out-mr-ray-and-say-hello\/",
-    "tags": [
-        "chat",
-        "embed",
-        "fun",
-        "interface",
-        "use case",
-        "users"
-    ],
-    "categories": [
-        "Post"
-    ]
-}In honour of a couple of Wave extensions that allow wave-to-email
+---
+categories:
+- Post
+date: "2010-04-01 09:00:32"
+draft: false
+publishDate: "2010-04-01 09:00:32"
+slug: its-easter-so-chill-out-try-wave-check-out-mr-ray-and-say-hello
+tags:
+- chat
+- embed
+- fun
+- interface
+- use case
+- users
+title: It's Easter. So Chill Out, Try Wave, Check out Mr-Ray and Say Hello!
+url: /its-easter-so-chill-out-try-wave-check-out-mr-ray-and-say-hello/
+---
+In honour of a couple of Wave extensions that allow wave-to-email
 collaboration, I thought I'd try something light-hearted instead of my
 usual wordy post. Mr-Ray is a bot/gadget combo from
 [wave.to](http://wave.to), that lets you add people to a wave by their

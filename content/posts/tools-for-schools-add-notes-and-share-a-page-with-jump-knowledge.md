@@ -1,19 +1,18 @@
-{
-    "date": "2007-05-04 12:21:39",
-    "draft": false,
-    "publishDate": "2007-05-04 12:21:39",
-    "slug": "tools-for-schools-add-notes-and-share-a-page-with-jump-knowledge",
-    "title": "Tools for Schools: add notes and share a page with Jump Knowledge",
-    "url": "\/tools-for-schools-add-notes-and-share-a-page-with-jump-knowledge\/",
-    "tags": [
-        "software",
-        "Tech",
-        "tools for schools"
-    ],
-    "categories": [
-        "Education"
-    ]
-}![Jump Knowledge
+---
+categories:
+- Education
+date: "2007-05-04 12:21:39"
+draft: false
+publishDate: "2007-05-04 12:21:39"
+slug: tools-for-schools-add-notes-and-share-a-page-with-jump-knowledge
+tags:
+- software
+- Tech
+- tools for schools
+title: 'Tools for Schools: add notes and share a page with Jump Knowledge'
+url: /tools-for-schools-add-notes-and-share-a-page-with-jump-knowledge/
+---
+![Jump Knowledge
 example](https://turbo.geekorium.com.au/wp-content/uploads/2007/05/picture-2.png)
 
 Here's an easy to use little app for both staff and students. It's

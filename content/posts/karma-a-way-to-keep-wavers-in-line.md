@@ -1,19 +1,18 @@
-{
-    "date": "2010-02-04 05:41:14",
-    "draft": false,
-    "publishDate": "2010-02-04 05:41:14",
-    "slug": "karma-a-way-to-keep-wavers-in-line",
-    "title": "Karma: A Way to Keep Wavers In Line?",
-    "url": "\/karma-a-way-to-keep-wavers-in-line\/",
-    "tags": [
-        "bots",
-        "community",
-        "gadgets"
-    ],
-    "categories": [
-        "Link"
-    ]
-}Here's a neat little gadget/bot combo that could prove very useful for
+---
+categories:
+- Link
+date: "2010-02-04 05:41:14"
+draft: false
+publishDate: "2010-02-04 05:41:14"
+slug: karma-a-way-to-keep-wavers-in-line
+tags:
+- bots
+- community
+- gadgets
+title: 'Karma: A Way to Keep Wavers In Line?'
+url: /karma-a-way-to-keep-wavers-in-line/
+---
+Here's a neat little gadget/bot combo that could prove very useful for
 public waves if the system caught on.
 
 Add the Karma Gadget and Bot to your waves and use it to rate your users

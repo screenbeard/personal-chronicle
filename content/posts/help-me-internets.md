@@ -1,20 +1,19 @@
-{
-    "date": "2008-08-28 05:01:30",
-    "draft": false,
-    "publishDate": "2008-08-28 05:01:30",
-    "slug": "help-me-internets",
-    "title": "Help me internets!",
-    "url": "\/help-me-internets\/",
-    "tags": [
-        "Help me",
-        "iPhone",
-        "Media centre",
-        "Television"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}I have a small dilemma.
+---
+categories:
+- Rambling
+date: "2008-08-28 05:01:30"
+draft: false
+publishDate: "2008-08-28 05:01:30"
+slug: help-me-internets
+tags:
+- Help me
+- iPhone
+- Media centre
+- Television
+title: Help me internets!
+url: /help-me-internets/
+---
+I have a small dilemma.
 
 I want to upgrade my media viewing so that I can access all the [digital
 media](http://en.wikipedia.org/wiki/Digital_media "Digital media") I

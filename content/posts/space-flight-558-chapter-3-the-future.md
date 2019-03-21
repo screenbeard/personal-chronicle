@@ -1,25 +1,24 @@
-{
-    "date": "2011-11-30 08:30:00",
-    "draft": false,
-    "publishDate": "2011-11-30 08:30:00",
-    "slug": "space-flight-558-chapter-3-the-future",
-    "title": "Space Flight 558, Chapter 3: The Future",
-    "url": "\/space-flight-558-chapter-3-the-future\/",
-    "tags": [
-        "anomaly",
-        "Anrianna",
-        "future",
-        "past",
-        "Rex Havoc",
-        "The Princess",
-        "The Professor",
-        "Time Diversion",
-        "time travel"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**The Professor was concerned.**
+---
+categories:
+- Space Flight 704
+date: "2011-11-30 08:30:00"
+draft: false
+publishDate: "2011-11-30 08:30:00"
+slug: space-flight-558-chapter-3-the-future
+tags:
+- anomaly
+- Anrianna
+- future
+- past
+- Rex Havoc
+- The Princess
+- The Professor
+- Time Diversion
+- time travel
+title: 'Space Flight 558, Chapter 3: The Future'
+url: /space-flight-558-chapter-3-the-future/
+---
+**The Professor was concerned.**
 
 **The Professor was concerned.**
 

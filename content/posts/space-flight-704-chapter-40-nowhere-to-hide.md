@@ -1,21 +1,20 @@
-{
-    "date": "2012-05-11 09:30:13",
-    "draft": false,
-    "publishDate": "2012-05-11 09:30:13",
-    "slug": "space-flight-704-chapter-40-nowhere-to-hide",
-    "title": "Space Flight 704, Chapter 40: Nowhere to Hide",
-    "url": "\/space-flight-704-chapter-40-nowhere-to-hide\/",
-    "tags": [
-        "Jones",
-        "Jones-thing",
-        "Rex Havoc",
-        "Uber-Rex",
-        "universe"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He was fearsome.**
+---
+categories:
+- Space Flight 704
+date: "2012-05-11 09:30:13"
+draft: false
+publishDate: "2012-05-11 09:30:13"
+slug: space-flight-704-chapter-40-nowhere-to-hide
+tags:
+- Jones
+- Jones-thing
+- Rex Havoc
+- Uber-Rex
+- universe
+title: 'Space Flight 704, Chapter 40: Nowhere to Hide'
+url: /space-flight-704-chapter-40-nowhere-to-hide/
+---
+**He was fearsome.**
 
 Rex Havoc called to the stars. He summoned the energy of heavenly
 bodies.

@@ -1,15 +1,15 @@
-{
-    "date": "2010-04-12 00:00:40",
-    "draft": false,
-    "publishDate": "2010-04-12 00:00:40",
-    "slug": "what-would-get-me-back-to-social-media",
-    "title": "What Would Get Me Back to Social Media",
-    "url": "\/what-would-get-me-back-to-social-media\/",
-    "tags": [],
-    "categories": [
-        "Tech"
-    ]
-}I used Twitter for a while there and got quite into it. Then I got
+---
+categories:
+- Tech
+date: "2010-04-12 00:00:40"
+draft: false
+publishDate: "2010-04-12 00:00:40"
+slug: what-would-get-me-back-to-social-media
+tags: []
+title: What Would Get Me Back to Social Media
+url: /what-would-get-me-back-to-social-media/
+---
+I used Twitter for a while there and got quite into it. Then I got
 annoyed with it and stopped using it a bit, then came back, then left,
 then... you get the idea. Eventually I [officially
 left](http://twitter.com/joshnunn/status/10655459092). I've also been

@@ -1,20 +1,19 @@
-{
-    "date": "2009-07-03 13:48:51",
-    "draft": false,
-    "publishDate": "2009-07-03 13:48:51",
-    "slug": "network-video-aberfoyle-networkvideohub",
-    "title": "Network Video Aberfoyle (@networkvideohub)",
-    "url": "\/network-video-aberfoyle-networkvideohub\/",
-    "tags": [
-        "follow",
-        "recommendation",
-        "Twitter",
-        "Video"
-    ],
-    "categories": [
-        "Share"
-    ]
-}As of posting, @networkvideohub hasn't tweeted. I'm hoping that will
+---
+categories:
+- Share
+date: "2009-07-03 13:48:51"
+draft: false
+publishDate: "2009-07-03 13:48:51"
+slug: network-video-aberfoyle-networkvideohub
+tags:
+- follow
+- recommendation
+- Twitter
+- Video
+title: Network Video Aberfoyle (@networkvideohub)
+url: /network-video-aberfoyle-networkvideohub/
+---
+As of posting, @networkvideohub hasn't tweeted. I'm hoping that will
 change soon!
 
 Today's follow recommendation was a last minute ring-in. On a whim I

@@ -1,22 +1,20 @@
-{
-    "date": "2007-07-01 01:49:55",
-    "draft": false,
-    "publishDate": "2007-07-01 01:49:55",
-    "slug": "the-one-where-josh-communicates-with-someone-in-another-language",
-    "title": "The one where Josh communicates with someone in another language",
-    "url": "\/the-one-where-josh-communicates-with-someone-in-another-language\/",
-    "tags": [
-        "commenters rock",
-        "friend",
-        "internet",
-        "technology",
-        "translation",
-        "web"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}
+---
+categories:
+- Rambling
+date: "2007-07-01 01:49:55"
+draft: false
+publishDate: "2007-07-01 01:49:55"
+slug: the-one-where-josh-communicates-with-someone-in-another-language
+tags:
+- commenters rock
+- friend
+- internet
+- technology
+- translation
+- web
+title: The one where Josh communicates with someone in another language
+url: /the-one-where-josh-communicates-with-someone-in-another-language/
+---
 
 The Internet is so fun, I love it!
 

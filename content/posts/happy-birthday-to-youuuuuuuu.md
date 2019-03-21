@@ -1,21 +1,20 @@
-{
-    "date": "2010-11-11 12:48:01",
-    "draft": false,
-    "publishDate": "2010-11-11 12:48:01",
-    "slug": "happy-birthday-to-youuuuuuuu",
-    "title": "Happy Birthday to YOUUUUUUUU",
-    "url": "\/happy-birthday-to-youuuuuuuu\/",
-    "tags": [
-        "important",
-        "Life",
-        "milestones",
-        "news",
-        "update"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}[![Birthday
+---
+categories:
+- Site News
+date: "2010-11-11 12:48:01"
+draft: false
+publishDate: "2010-11-11 12:48:01"
+slug: happy-birthday-to-youuuuuuuu
+tags:
+- important
+- Life
+- milestones
+- news
+- update
+title: Happy Birthday to YOUUUUUUUU
+url: /happy-birthday-to-youuuuuuuu/
+---
+[![Birthday
 PARTY](//farm5.static.flickr.com/4116/4825980910_cd0f468596.jpg){.alignnone
 width="500"
 height="375"}](//www.flickr.com/photos/joshnunn/4825980910/ "Birthday PARTY"){.tt-flickr

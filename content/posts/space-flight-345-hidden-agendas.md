@@ -1,19 +1,18 @@
-{
-    "date": "2012-09-27 09:30:29",
-    "draft": false,
-    "publishDate": "2012-09-27 09:30:29",
-    "slug": "space-flight-345-hidden-agendas",
-    "title": "Space Flight 345: Hidden Agendas",
-    "url": "\/space-flight-345-hidden-agendas\/",
-    "tags": [
-        "Dr Phelchoff",
-        "Jones",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Jones and Havoc skidded to a stop behind the jeep. Backing up against
+---
+categories:
+- Space Flight 704
+date: "2012-09-27 09:30:29"
+draft: false
+publishDate: "2012-09-27 09:30:29"
+slug: space-flight-345-hidden-agendas
+tags:
+- Dr Phelchoff
+- Jones
+- Rex Havoc
+title: 'Space Flight 345: Hidden Agendas'
+url: /space-flight-345-hidden-agendas/
+---
+**Jones and Havoc skidded to a stop behind the jeep. Backing up against
 the vehicle, Jones peered around the edge and squeezed the detonator.**
 
 The aircraft hanger exploded, showering the pair with fuselage and

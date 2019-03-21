@@ -1,21 +1,20 @@
-{
-    "date": "2011-11-11 11:48:17",
-    "draft": false,
-    "publishDate": "2011-11-11 11:48:17",
-    "slug": "space-flight-704-chapter-32-the-patience-of-generations",
-    "title": "Space flight 704, Chapter 32: The Patience of Generations",
-    "url": "\/space-flight-704-chapter-32-the-patience-of-generations\/",
-    "tags": [
-        "AI",
-        "Heeyaas",
-        "Rex Havoc",
-        "rug weaving",
-        "voice in the flesh"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**"Rug weaving?"**
+---
+categories:
+- Space Flight 704
+date: "2011-11-11 11:48:17"
+draft: false
+publishDate: "2011-11-11 11:48:17"
+slug: space-flight-704-chapter-32-the-patience-of-generations
+tags:
+- AI
+- Heeyaas
+- Rex Havoc
+- rug weaving
+- voice in the flesh
+title: 'Space flight 704, Chapter 32: The Patience of Generations'
+url: /space-flight-704-chapter-32-the-patience-of-generations/
+---
+**"Rug weaving?"**
 
 Despite mastering the art of travel back to the white place, he had
 trouble doing it in reverse back to the normal world. The other had to

@@ -1,14 +1,14 @@
 ---
-title: Staticman Comments Are Go
-date: 2019-03-11T11:38:45+10:30
+categories:
+- Site
+date: "2019-03-11T11:38:45+10:30"
 draft: false
 tags:
-    -   staticman
-    -   hugo
-    -   tech
-    -   website
-categories:
-    -   Site
+- staticman
+- hugo
+- tech
+- website
+title: Staticman Comments Are Go
 ---
 
 I've re-enabled comments here at The Geekorium, and imported all my old comments, so go nuts!

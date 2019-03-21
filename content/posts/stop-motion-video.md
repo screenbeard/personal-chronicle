@@ -1,19 +1,18 @@
-{
-    "date": "2007-01-28 10:04:20",
-    "draft": false,
-    "publishDate": "2007-01-28 10:04:20",
-    "slug": "stop-motion-video",
-    "title": "Stop-motion video",
-    "url": "\/stop-motion-video\/",
-    "tags": [
-        "animation",
-        "create",
-        "movie"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}This was the first stop motion video I created using
+---
+categories:
+- Invention
+date: "2007-01-28 10:04:20"
+draft: false
+publishDate: "2007-01-28 10:04:20"
+slug: stop-motion-video
+tags:
+- animation
+- create
+- movie
+title: Stop-motion video
+url: /stop-motion-video/
+---
+This was the first stop motion video I created using
 [iStopMotion](http://www.istopmotion.com/), an excellent little mac
 program for creating frame-by-frame movies. I added the sound in Final
 Cut Express.

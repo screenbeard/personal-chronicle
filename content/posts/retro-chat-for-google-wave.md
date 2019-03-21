@@ -1,20 +1,19 @@
-{
-    "date": "2009-10-20 04:15:00",
-    "draft": false,
-    "publishDate": "2009-10-20 04:15:00",
-    "slug": "retro-chat-for-google-wave",
-    "title": "\"Retro\" Chat for Google Wave",
-    "url": "\/retro-chat-for-google-wave\/",
-    "tags": [
-        "chat",
-        "collaboration",
-        "gadgets",
-        "unusual uses"
-    ],
-    "categories": [
-        "Link"
-    ]
-}One of the biggest complaints from first time Google Wave users is the
+---
+categories:
+- Link
+date: "2009-10-20 04:15:00"
+draft: false
+publishDate: "2009-10-20 04:15:00"
+slug: retro-chat-for-google-wave
+tags:
+- chat
+- collaboration
+- gadgets
+- unusual uses
+title: '"Retro" Chat for Google Wave'
+url: /retro-chat-for-google-wave/
+---
+One of the biggest complaints from first time Google Wave users is the
 tidal wave of information and updates that threatens to suck their
 precious time away as they watch the chaos unfold.
 

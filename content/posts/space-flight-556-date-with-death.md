@@ -1,23 +1,22 @@
-{
-    "date": "2011-12-07 08:30:50",
-    "draft": false,
-    "publishDate": "2011-12-07 08:30:50",
-    "slug": "space-flight-556-date-with-death",
-    "title": "Space Flight 556: Date with Death",
-    "url": "\/space-flight-556-date-with-death\/",
-    "tags": [
-        "Anrianna",
-        "nesball",
-        "Rex Havoc",
-        "solidium",
-        "The Princess",
-        "the Sultan",
-        "Time Diversion"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex gripped the Eldoan Death Fish, only a hands-breadth from his
+---
+categories:
+- Space Flight 704
+date: "2011-12-07 08:30:50"
+draft: false
+publishDate: "2011-12-07 08:30:50"
+slug: space-flight-556-date-with-death
+tags:
+- Anrianna
+- nesball
+- Rex Havoc
+- solidium
+- The Princess
+- the Sultan
+- Time Diversion
+title: 'Space Flight 556: Date with Death'
+url: /space-flight-556-date-with-death/
+---
+**Rex gripped the Eldoan Death Fish, only a hands-breadth from his
 face.**
 
 The smell of doom was in the air.

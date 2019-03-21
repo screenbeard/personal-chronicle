@@ -1,21 +1,20 @@
-{
-    "date": "2010-03-16 12:10:43",
-    "draft": false,
-    "publishDate": "2010-03-16 12:10:43",
-    "slug": "wave-on-slow-cook",
-    "title": "Wave on Slow Cook",
-    "url": "\/wave-on-slow-cook\/",
-    "tags": [
-        "debate",
-        "direction",
-        "discussion",
-        "future",
-        "use case"
-    ],
-    "categories": [
-        "Post"
-    ]
-}I get the feeling talking to regular web-folk that Google Wave was a
+---
+categories:
+- Post
+date: "2010-03-16 12:10:43"
+draft: false
+publishDate: "2010-03-16 12:10:43"
+slug: wave-on-slow-cook
+tags:
+- debate
+- direction
+- discussion
+- future
+- use case
+title: Wave on Slow Cook
+url: /wave-on-slow-cook/
+---
+I get the feeling talking to regular web-folk that Google Wave was a
 huge disappointment for them. With the introduction of Buzz,
 [comments](http://www.marketingpilgrim.com/2010/02/google-buzz-launches-150-million-user-social-network.html#comment-109554)
 and

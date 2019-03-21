@@ -1,18 +1,17 @@
-{
-    "date": "2011-03-19 09:12:42",
-    "draft": false,
-    "publishDate": "2011-03-19 09:12:42",
-    "slug": "applicant-a-short-sci-fi-story",
-    "title": "\"Applicant\" - a short sci-fi story",
-    "url": "\/applicant-a-short-sci-fi-story\/",
-    "tags": [
-        "scifi",
-        "short story"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}[![Poise](//farm4.static.flickr.com/3660/3389963025_b96df815e3.jpg){width="372"
+---
+categories:
+- Invention
+date: "2011-03-19 09:12:42"
+draft: false
+publishDate: "2011-03-19 09:12:42"
+slug: applicant-a-short-sci-fi-story
+tags:
+- scifi
+- short story
+title: '"Applicant" - a short sci-fi story'
+url: /applicant-a-short-sci-fi-story/
+---
+[![Poise](//farm4.static.flickr.com/3660/3389963025_b96df815e3.jpg){width="372"
 height="500"}](http://www.flickr.com/photos/dorsner/3389963025/ "Poise by Dot D, on Flickr")
 
 [Poise by Dot D](http://www.flickr.com/photos/dorsner/3389963025/)

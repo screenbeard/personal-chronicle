@@ -1,20 +1,19 @@
-{
-    "date": "2009-10-27 07:04:36",
-    "draft": false,
-    "publishDate": "2009-10-27 07:04:36",
-    "slug": "add-characters-quickly-to-a-wave",
-    "title": "Add characters quickly to a wave",
-    "url": "\/add-characters-quickly-to-a-wave\/",
-    "tags": [
-        "bots",
-        "characters",
-        "editing",
-        "html"
-    ],
-    "categories": [
-        "Link"
-    ]
-}Wave has a WYSIWYG interface for styling your blips. For those of us
+---
+categories:
+- Link
+date: "2009-10-27 07:04:36"
+draft: false
+publishDate: "2009-10-27 07:04:36"
+slug: add-characters-quickly-to-a-wave
+tags:
+- bots
+- characters
+- editing
+- html
+title: Add characters quickly to a wave
+url: /add-characters-quickly-to-a-wave/
+---
+Wave has a WYSIWYG interface for styling your blips. For those of us
 used to working on the web however, the default Bold/Italic/Dot-point
 tools can leave a lot to be desired. Many wont have a character pallet
 handy, or remember the windows/mac keyboard codes for producing various

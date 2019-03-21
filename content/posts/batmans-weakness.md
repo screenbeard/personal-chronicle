@@ -1,21 +1,20 @@
-{
-    "date": "2008-03-05 10:05:09",
-    "draft": false,
-    "publishDate": "2008-03-05 10:05:09",
-    "slug": "batmans-weakness",
-    "title": "Batman's Weakness",
-    "url": "\/batmans-weakness\/",
-    "tags": [
-        "batman",
-        "kryptonite",
-        "nipple cripple",
-        "superhero",
-        "weakness"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}Most of the Justice League have one weakness that stops them dead in
+---
+categories:
+- Invention
+date: "2008-03-05 10:05:09"
+draft: false
+publishDate: "2008-03-05 10:05:09"
+slug: batmans-weakness
+tags:
+- batman
+- kryptonite
+- nipple cripple
+- superhero
+- weakness
+title: Batman's Weakness
+url: /batmans-weakness/
+---
+Most of the Justice League have one weakness that stops them dead in
 their tracks. I thought Batman was immune. Turns out he does have one
 weakness though - and it took an evil duplicate to find it... Batman
 can't handle a nipple cripple.

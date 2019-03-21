@@ -1,21 +1,20 @@
-{
-    "date": "2005-12-27 22:21:45",
-    "draft": false,
-    "publishDate": "2005-12-27 22:21:45",
-    "slug": "welcome-to-my-first-post",
-    "title": "Welcome to My First Post",
-    "url": "\/welcome-to-my-first-post\/",
-    "tags": [
-        "about",
-        "blogging",
-        "firefox",
-        "first",
-        "online"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}This is it. I'm online. I have a web presence. Yay.\
+---
+categories:
+- Site News
+date: "2005-12-27 22:21:45"
+draft: false
+publishDate: "2005-12-27 22:21:45"
+slug: welcome-to-my-first-post
+tags:
+- about
+- blogging
+- firefox
+- first
+- online
+title: Welcome to My First Post
+url: /welcome-to-my-first-post/
+---
+This is it. I'm online. I have a web presence. Yay.\
 It's two days after Christmas. I've wanted to get online for a while,
 being an IT guy but I've kept not doing it. I suppose I've thought I'm
 not interesting enough, and I may not be, but now I don't care anymore.

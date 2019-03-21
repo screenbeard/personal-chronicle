@@ -1,19 +1,18 @@
-{
-    "date": "2010-04-05 11:17:30",
-    "draft": false,
-    "publishDate": "2010-04-05 11:17:30",
-    "slug": "the-worst-movie-ive-seen-this-year",
-    "title": "The Worst Movie I've Seen This Year",
-    "url": "\/the-worst-movie-ive-seen-this-year\/",
-    "tags": [
-        "fun",
-        "movie",
-        "stupid"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}Unfortunately I have two movies that spring to mind when I was given
+---
+categories:
+- Opinions
+date: "2010-04-05 11:17:30"
+draft: false
+publishDate: "2010-04-05 11:17:30"
+slug: the-worst-movie-ive-seen-this-year
+tags:
+- fun
+- movie
+- stupid
+title: The Worst Movie I've Seen This Year
+url: /the-worst-movie-ive-seen-this-year/
+---
+Unfortunately I have two movies that spring to mind when I was given
 this suggestion:
 
 bq.:http://skribit.com/suggestions/review-the-worst-movie-youve-seen-this-year

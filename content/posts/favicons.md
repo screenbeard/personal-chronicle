@@ -1,20 +1,19 @@
-{
-    "date": "2010-05-11 11:49:19",
-    "draft": false,
-    "publishDate": "2010-05-11 11:49:19",
-    "slug": "favicons",
-    "title": "Favicons",
-    "url": "\/favicons\/",
-    "tags": [
-        "favicon",
-        "icon",
-        "internet",
-        "website"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}####
+---
+categories:
+- Tech
+date: "2010-05-11 11:49:19"
+draft: false
+publishDate: "2010-05-11 11:49:19"
+slug: favicons
+tags:
+- favicon
+- icon
+- internet
+- website
+title: Favicons
+url: /favicons/
+---
+####
 
 Quick plugin plug ((see what I did there?))
 

@@ -1,13 +1,13 @@
 ---
-date: 2010-03-05 03:22:46
+categories:
+- Tech
+date: "2010-03-05 03:22:46"
 draft: false
-title: A Standing Challenge
 tags:
 - learning
 - technology
 - work
-categories:
-- Tech
+title: A Standing Challenge
 ---
 
 About 6 months ago I read a Lifehacker article that advocated standing at your office desk to stay healthier. I thought it was a neat idea at the time but didn't try very hard to make it happen. Then Lifehacker again [linked to an article in the NY Times](http://opinionator.blogs.nytimes.com/2010/02/23/stand-up-while-you-read-this/?pagemode=print) about standing at work, and this time I decided to do something about it.

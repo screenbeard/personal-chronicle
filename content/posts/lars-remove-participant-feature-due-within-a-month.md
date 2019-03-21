@@ -1,20 +1,19 @@
-{
-    "date": "2010-02-13 04:51:17",
-    "draft": false,
-    "publishDate": "2010-02-13 04:51:17",
-    "slug": "lars-remove-participant-feature-due-within-a-month",
-    "title": "Lars: Remove Participant Feature due \"Within a Month\"",
-    "url": "\/lars-remove-participant-feature-due-within-a-month\/",
-    "tags": [
-        "direction",
-        "future",
-        "official help",
-        "support"
-    ],
-    "categories": [
-        "Quote"
-    ]
-}> We have begun testing remove participant internally and hopefully it
+---
+categories:
+- Quote
+date: "2010-02-13 04:51:17"
+draft: false
+publishDate: "2010-02-13 04:51:17"
+slug: lars-remove-participant-feature-due-within-a-month
+tags:
+- direction
+- future
+- official help
+- support
+title: 'Lars: Remove Participant Feature due "Within a Month"'
+url: /lars-remove-participant-feature-due-within-a-month/
+---
+> We have begun testing remove participant internally and hopefully it
 > will hit externally within a month
 
 -- Lars Rasmussen, one of the lead Wave developers.

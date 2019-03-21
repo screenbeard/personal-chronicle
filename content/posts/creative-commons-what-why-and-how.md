@@ -1,15 +1,15 @@
-{
-    "date": "2010-06-01 03:34:13",
-    "draft": false,
-    "publishDate": "2010-06-01 03:34:13",
-    "slug": "creative-commons-what-why-and-how",
-    "title": "Creative Commons: What, Why and How.",
-    "url": "\/creative-commons-what-why-and-how\/",
-    "tags": [],
-    "categories": [
-        "Tech"
-    ]
-}> [Creative Commons
+---
+categories:
+- Tech
+date: "2010-06-01 03:34:13"
+draft: false
+publishDate: "2010-06-01 03:34:13"
+slug: creative-commons-what-why-and-how
+tags: []
+title: 'Creative Commons: What, Why and How.'
+url: /creative-commons-what-why-and-how/
+---
+> [Creative Commons
 > Configurator](http://www.g-loaded.eu/2006/01/14/creative-commons-configurator-wordpress-plugin/ "Visit plugin homepage")\
 > Adds a Creative Commons license to your blog pages and feeds. Also,
 > provides some *Template Tags* for use in your theme templates.*[George

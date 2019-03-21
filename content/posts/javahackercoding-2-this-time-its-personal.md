@@ -1,23 +1,22 @@
-{
-    "date": "2009-08-06 22:18:57",
-    "draft": false,
-    "publishDate": "2009-08-06 22:18:57",
-    "slug": "javahackercoding-2-this-time-its-personal",
-    "title": "Javahackercoding 2: This time, it's personal",
-    "url": "\/javahackercoding-2-this-time-its-personal\/",
-    "tags": [
-        "classes",
-        "dog",
-        "functions",
-        "int",
-        "java",
-        "learning",
-        "rant"
-    ],
-    "categories": [
-        "Coding"
-    ]
-}Last night was a wash Java wise. I'll be writing another post soon, once
+---
+categories:
+- Coding
+date: "2009-08-06 22:18:57"
+draft: false
+publishDate: "2009-08-06 22:18:57"
+slug: javahackercoding-2-this-time-its-personal
+tags:
+- classes
+- dog
+- functions
+- int
+- java
+- learning
+- rant
+title: 'Javahackercoding 2: This time, it''s personal'
+url: /javahackercoding-2-this-time-its-personal/
+---
+Last night was a wash Java wise. I'll be writing another post soon, once
 I've gone through my text book ((yes I have it now!)), and dissecting
 what we covered last night. Until I do that, I'm completely lost. And
 not because I can't understand it so much as the delivery was all over

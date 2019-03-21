@@ -1,18 +1,17 @@
-{
-    "date": "2010-04-13 06:11:15",
-    "draft": false,
-    "publishDate": "2010-04-13 06:11:15",
-    "slug": "choke-point-starring-van-damme",
-    "title": "Choke Point, starring Van Damme",
-    "url": "\/choke-point-starring-van-damme\/",
-    "tags": [
-        "fun",
-        "nonsense"
-    ],
-    "categories": [
-        "Photo"
-    ]
-}![](https://turbo.geekorium.com.au/images/spelling-suggestion-for-sharepoint.png)
+---
+categories:
+- Photo
+date: "2010-04-13 06:11:15"
+draft: false
+publishDate: "2010-04-13 06:11:15"
+slug: choke-point-starring-van-damme
+tags:
+- fun
+- nonsense
+title: Choke Point, starring Van Damme
+url: /choke-point-starring-van-damme/
+---
+![](https://turbo.geekorium.com.au/images/spelling-suggestion-for-sharepoint.png)
 
 Tehe
 

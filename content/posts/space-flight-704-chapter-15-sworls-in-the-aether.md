@@ -1,21 +1,20 @@
-{
-    "date": "2011-10-03 08:30:33",
-    "draft": false,
-    "publishDate": "2011-10-03 08:30:33",
-    "slug": "space-flight-704-chapter-15-sworls-in-the-aether",
-    "title": "Space Flight 704, Chapter 15: Sworls in the \u00c6ther",
-    "url": "\/space-flight-704-chapter-15-sworls-in-the-aether\/",
-    "tags": [
-        "hands",
-        "physical form",
-        "Rex Havoc",
-        "time passing",
-        "voice in the dark"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex focused on his hands.**
+---
+categories:
+- Space Flight 704
+date: "2011-10-03 08:30:33"
+draft: false
+publishDate: "2011-10-03 08:30:33"
+slug: space-flight-704-chapter-15-sworls-in-the-aether
+tags:
+- hands
+- physical form
+- Rex Havoc
+- time passing
+- voice in the dark
+title: 'Space Flight 704, Chapter 15: Sworls in the Æther'
+url: /space-flight-704-chapter-15-sworls-in-the-aether/
+---
+**Rex focused on his hands.**
 
 He was startled to see that he could... see... them.
 

@@ -1,19 +1,18 @@
-{
-    "date": "2006-07-12 12:51:11",
-    "draft": false,
-    "publishDate": "2006-07-12 12:51:11",
-    "slug": "why-fred-basset-is-the-dumbest-comic-strip-ever",
-    "title": "Why Fred Basset is the \"Dumbest Comic Strip Ever\".",
-    "url": "\/why-fred-basset-is-the-dumbest-comic-strip-ever\/",
-    "tags": [
-        "comicstrip",
-        "dont care anymore",
-        "not fun"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}**Update: 2007-06-02** I don't care if you like Fred Basset. If you were
+---
+categories:
+- Opinions
+date: "2006-07-12 12:51:11"
+draft: false
+publishDate: "2006-07-12 12:51:11"
+slug: why-fred-basset-is-the-dumbest-comic-strip-ever
+tags:
+- comicstrip
+- dont care anymore
+- not fun
+title: Why Fred Basset is the "Dumbest Comic Strip Ever".
+url: /why-fred-basset-is-the-dumbest-comic-strip-ever/
+---
+**Update: 2007-06-02** I don't care if you like Fred Basset. If you were
 thinking of commenting read [this](//the.geekorium.com.au/what-i-write/)
 instead and then go away!
 

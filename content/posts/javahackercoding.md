@@ -1,15 +1,15 @@
-{
-    "date": "2009-10-29 11:19:36",
-    "draft": false,
-    "publishDate": "2009-10-29 11:19:36",
-    "slug": "javahackercoding",
-    "title": "Javahackercoding \u221e",
-    "url": "\/javahackercoding\/",
-    "tags": [],
-    "categories": [
-        "Coding"
-    ]
-}I lost track of what week we're up to, and I've got a few updates to
+---
+categories:
+- Coding
+date: "2009-10-29 11:19:36"
+draft: false
+publishDate: "2009-10-29 11:19:36"
+slug: javahackercoding
+tags: []
+title: Javahackercoding ∞
+url: /javahackercoding/
+---
+I lost track of what week we're up to, and I've got a few updates to
 roll into this one, so my titles are off.
 
 Had a major assignment and a test since last time I updated, so I

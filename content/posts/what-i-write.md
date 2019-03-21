@@ -1,22 +1,21 @@
-{
-    "date": "2007-04-22 00:28:27",
-    "draft": false,
-    "publishDate": "2007-04-22 00:28:27",
-    "slug": "what-i-write",
-    "title": "What I Write",
-    "url": "\/what-i-write\/",
-    "tags": [
-        "blogging",
-        "fred basset",
-        "hercules returns",
-        "internet",
-        "stupid",
-        "writing"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}When I started writing in my blog (infrequently as it is), I never
+---
+categories:
+- Site News
+date: "2007-04-22 00:28:27"
+draft: false
+publishDate: "2007-04-22 00:28:27"
+slug: what-i-write
+tags:
+- blogging
+- fred basset
+- hercules returns
+- internet
+- stupid
+- writing
+title: What I Write
+url: /what-i-write/
+---
+When I started writing in my blog (infrequently as it is), I never
 expected anyone to read it outside my friends and family. And I'm
 talking across the span of my life - I expected family and friends to
 visit my site occasionally and get maybe a few visits a year. Primarily,

@@ -1,22 +1,22 @@
-{
-    "date": "2010-05-19 19:34:43",
-    "draft": false,
-    "publishDate": "2010-05-19 19:34:43",
-    "slug": "wave-this-api-released-plus-official-chrome-extension-and-bonus-unofficial-wordpress-widget",
-    "title": "Wave This API released. Plus Official Chrome Extension and Bonus Unofficial Wordpress Widget",
-    "url": "\/wave-this-api-released-plus-official-chrome-extension-and-bonus-unofficial-wordpress-widget\/",
-    "tags": [
-        "addon",
-        "extensions",
-        "first look",
-        "new feature",
-        "official help",
-        "use case"
-    ],
-    "categories": [
-        "Post"
-    ]
-}A few weeks ago, I noticed a [new
+---
+categories:
+- Post
+date: "2010-05-19 19:34:43"
+draft: false
+publishDate: "2010-05-19 19:34:43"
+slug: wave-this-api-released-plus-official-chrome-extension-and-bonus-unofficial-wordpress-widget
+tags:
+- addon
+- extensions
+- first look
+- new feature
+- official help
+- use case
+title: Wave This API released. Plus Official Chrome Extension and Bonus Unofficial
+  Wordpress Widget
+url: /wave-this-api-released-plus-official-chrome-extension-and-bonus-unofficial-wordpress-widget/
+---
+A few weeks ago, I noticed a [new
 feature](//the.geekorium.com.au/new-wave-this-function-and-buttons/){.vt-p}
 of Google Wave that allowed a user to easily send websites and content
 to a new wave to easily share with others. The feature (called "Wave

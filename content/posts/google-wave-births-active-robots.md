@@ -1,22 +1,21 @@
-{
-    "date": "2010-03-02 22:20:31",
-    "draft": false,
-    "publishDate": "2010-03-02 22:20:31",
-    "slug": "google-wave-births-active-robots",
-    "title": "Google Wave Births \"Active Robots\"",
-    "url": "\/google-wave-births-active-robots\/",
-    "tags": [
-        "api",
-        "bots",
-        "extensions",
-        "gadgets",
-        "new feature",
-        "official help"
-    ],
-    "categories": [
-        "Link"
-    ]
-}[![An amigurumi
+---
+categories:
+- Link
+date: "2010-03-02 22:20:31"
+draft: false
+publishDate: "2010-03-02 22:20:31"
+slug: google-wave-births-active-robots
+tags:
+- api
+- bots
+- extensions
+- gadgets
+- new feature
+- official help
+title: Google Wave Births "Active Robots"
+url: /google-wave-births-active-robots/
+---
+[![An amigurumi
 robot](//farm4.static.flickr.com/3627/3441244946_5d2b9cdb62_m.jpg)](http://www.flickr.com/photos/avoiretc/3441244946/)
 
 In [my post

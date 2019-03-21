@@ -1,20 +1,19 @@
-{
-    "date": "2009-08-13 07:00:37",
-    "draft": false,
-    "publishDate": "2009-08-13 07:00:37",
-    "slug": "setjavahackercoding3-1",
-    "title": "setJavahackercoding(3.1)",
-    "url": "\/setjavahackercoding3-1\/",
-    "tags": [
-        "dumb",
-        "java",
-        "learning",
-        "technology"
-    ],
-    "categories": [
-        "Coding"
-    ]
-}I managed to code me up some of the exercises from chapter 4, and I'm
+---
+categories:
+- Coding
+date: "2009-08-13 07:00:37"
+draft: false
+publishDate: "2009-08-13 07:00:37"
+slug: setjavahackercoding3-1
+tags:
+- dumb
+- java
+- learning
+- technology
+title: setJavahackercoding(3.1)
+url: /setjavahackercoding3-1/
+---
+I managed to code me up some of the exercises from chapter 4, and I'm
 all over classes. The final exercise was to create a Robot class that
 took a name, weight, bad habit(?), artificial intelligence level, and
 whether it could see. As an extension exercise, it could also have a

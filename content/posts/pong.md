@@ -1,15 +1,14 @@
-{
-    "date": "2018-04-06 14:33:43",
-    "draft": false,
-    "publishDate": "2018-04-06 14:33:43",
-    "slug": "pong",
-    "title": "Pong",
-    "url": "\/pong\/",
-    "tags": [],
-    "categories": [
-        "Opinions"
-    ]
-}
+---
+categories:
+- Opinions
+date: "2018-04-06 14:33:43"
+draft: false
+publishDate: "2018-04-06 14:33:43"
+slug: pong
+tags: []
+title: Pong
+url: /pong/
+---
 
 I find myself in the fun position of following up on a [follow-up post](https://rubenerd.com/replacing-social-networks-with-rss/) to [my follow-up](/software-death/) on [Rubenerds original post](https://rubenerd.com/goodbye-digg-reader/).
 

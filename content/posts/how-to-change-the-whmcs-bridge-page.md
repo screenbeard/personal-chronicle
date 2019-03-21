@@ -1,15 +1,15 @@
-{
-    "date": "2013-06-13 14:26:06",
-    "draft": false,
-    "publishDate": "2013-06-13 14:26:06",
-    "slug": "how-to-change-the-whmcs-bridge-page",
-    "title": "How to Change the WHMCS Bridge Page",
-    "url": "\/how-to-change-the-whmcs-bridge-page\/",
-    "tags": [],
-    "categories": [
-        "Web Hosting"
-    ]
-}When you first install the WHMCS Bridge plugin from
+---
+categories:
+- Web Hosting
+date: "2013-06-13 14:26:06"
+draft: false
+publishDate: "2013-06-13 14:26:06"
+slug: how-to-change-the-whmcs-bridge-page
+tags: []
+title: How to Change the WHMCS Bridge Page
+url: /how-to-change-the-whmcs-bridge-page/
+---
+When you first install the WHMCS Bridge plugin from
 [Zingiri](http://www.zingiri.com/), the plugin warns you not to 'edit or
 delete this page', meaning don't touch the page that's automatically
 created by the plugin. Unfortunately, if you disable the plugin then

@@ -1,22 +1,21 @@
-{
-    "date": "2011-10-26 08:30:00",
-    "draft": false,
-    "publishDate": "2011-10-26 08:30:00",
-    "slug": "space-flight-704-chapter-27-judas-kiss",
-    "title": "Space Flight 704, Chapter 27: Judas Kiss",
-    "url": "\/space-flight-704-chapter-27-judas-kiss\/",
-    "tags": [
-        "head start",
-        "Jones",
-        "power",
-        "Rex Havoc",
-        "too late",
-        "voice in the flesh"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**If the sensation of unmaking the rock was like a kiss, then this felt
+---
+categories:
+- Space Flight 704
+date: "2011-10-26 08:30:00"
+draft: false
+publishDate: "2011-10-26 08:30:00"
+slug: space-flight-704-chapter-27-judas-kiss
+tags:
+- head start
+- Jones
+- power
+- Rex Havoc
+- too late
+- voice in the flesh
+title: 'Space Flight 704, Chapter 27: Judas Kiss'
+url: /space-flight-704-chapter-27-judas-kiss/
+---
+**If the sensation of unmaking the rock was like a kiss, then this felt
 like someone was nibbling his ear.**
 
 In the moment before the pain set in, destroying the rock was

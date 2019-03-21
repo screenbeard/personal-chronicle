@@ -1,19 +1,18 @@
-{
-    "date": "2006-05-14 14:08:29",
-    "draft": false,
-    "publishDate": "2006-05-14 14:08:29",
-    "slug": "why-you-want-a-mac",
-    "title": "Why you want a Mac",
-    "url": "\/why-you-want-a-mac\/",
-    "tags": [
-        "apple",
-        "application",
-        "buy"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}This post was my response to a [question asked by Ronnie
+---
+categories:
+- Tech
+date: "2006-05-14 14:08:29"
+draft: false
+publishDate: "2006-05-14 14:08:29"
+slug: why-you-want-a-mac
+tags:
+- apple
+- application
+- buy
+title: Why you want a Mac
+url: /why-you-want-a-mac/
+---
+This post was my response to a [question asked by Ronnie
 Swafford](http://ronnieswafford.newsvine.com/_news/2006/05/13/194953-convince-me-to-buy-a-mac "Ronnie Swafford's original question.")
 on [Newsvine](http://www.newsvine.com "Newsvine - Get Smarter Here"):
 Why was he, a Windows Programmer with no obvious need for a Mac so drawn

@@ -1,20 +1,19 @@
-{
-    "date": "2010-03-15 12:16:46",
-    "draft": false,
-    "publishDate": "2010-03-15 12:16:46",
-    "slug": "my-final-message-to-the-world-remember-me-fondly-on-wikipedia-preferably",
-    "title": "My Final Message to the World: Remember Me Fondly, on Wikipedia Preferably.",
-    "url": "\/my-final-message-to-the-world-remember-me-fondly-on-wikipedia-preferably\/",
-    "tags": [
-        "fun",
-        "humour",
-        "last words",
-        "stupid"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}I always thought the advice to "live life like there's no tomorrow" to
+---
+categories:
+- Rambling
+date: "2010-03-15 12:16:46"
+draft: false
+publishDate: "2010-03-15 12:16:46"
+slug: my-final-message-to-the-world-remember-me-fondly-on-wikipedia-preferably
+tags:
+- fun
+- humour
+- last words
+- stupid
+title: 'My Final Message to the World: Remember Me Fondly, on Wikipedia Preferably.'
+url: /my-final-message-to-the-world-remember-me-fondly-on-wikipedia-preferably/
+---
+I always thought the advice to "live life like there's no tomorrow" to
 be a bit odd. I guess people say it to convince others to take risks and
 try for things they might be scared to do, but I don't get that from it.
 

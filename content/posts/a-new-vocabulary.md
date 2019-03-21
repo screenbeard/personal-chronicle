@@ -1,7 +1,8 @@
 ---
-date: 2009-09-13 04:20:16
+categories:
+- Opinions
+date: "2009-09-13 04:20:16"
 draft: false
-title: A New Vocabulary
 tags:
 - chat
 - communication
@@ -9,8 +10,7 @@ tags:
 - online
 - Twitter
 - vocabulary
-categories:
-- Opinions
+title: A New Vocabulary
 ---
 
 Online communication fraught with peril. An innocent conversation with a friend can turn nasty in seconds with the slip of misplaced word. Umpteen times this week I have put my foot in my mouth, or written something only to spend the rest of the day worrying if what I wrote might have offended someone. Written communication has never been so difficult. Why has it gotten harder, the more ways we have to communicate?

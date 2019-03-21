@@ -1,20 +1,19 @@
-{
-    "date": "2007-06-15 11:46:11",
-    "draft": false,
-    "publishDate": "2007-06-15 11:46:11",
-    "slug": "new-nunnone-theme-and-advice",
-    "title": "New NunnOne theme and advice",
-    "url": "\/new-nunnone-theme-and-advice\/",
-    "tags": [
-        "browsers",
-        "creative commons",
-        "internet explorer",
-        "upgrade"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}My personal [Wordpress](http://www.wordpress.com) theme is finished.
+---
+categories:
+- Site News
+date: "2007-06-15 11:46:11"
+draft: false
+publishDate: "2007-06-15 11:46:11"
+slug: new-nunnone-theme-and-advice
+tags:
+- browsers
+- creative commons
+- internet explorer
+- upgrade
+title: New NunnOne theme and advice
+url: /new-nunnone-theme-and-advice/
+---
+My personal [Wordpress](http://www.wordpress.com) theme is finished.
 It's something I've been wanting to do since I first installed
 Wordpress, and I've finally managed it. It isn't fancy, but it's mine
 from start to finish (with the help of some [online

@@ -1,20 +1,19 @@
-{
-    "date": "2010-02-25 00:15:24",
-    "draft": false,
-    "publishDate": "2010-02-25 00:15:24",
-    "slug": "deploy-printers-with-group-policy-without-using-local-loopback",
-    "title": "Deploy Printers with Group Policy without using Local Loopback",
-    "url": "\/deploy-printers-with-group-policy-without-using-local-loopback\/",
-    "tags": [
-        "group policy",
-        "settings",
-        "sysadmin",
-        "windows"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}![](https://turbo.geekorium.com.au/images/3656648715_eae0212b5e_b660.jpg):http://www.flickr.com/photos/tstadler/3656648715/
+---
+categories:
+- Tech
+date: "2010-02-25 00:15:24"
+draft: false
+publishDate: "2010-02-25 00:15:24"
+slug: deploy-printers-with-group-policy-without-using-local-loopback
+tags:
+- group policy
+- settings
+- sysadmin
+- windows
+title: Deploy Printers with Group Policy without using Local Loopback
+url: /deploy-printers-with-group-policy-without-using-local-loopback/
+---
+![](https://turbo.geekorium.com.au/images/3656648715_eae0212b5e_b660.jpg):http://www.flickr.com/photos/tstadler/3656648715/
 
 [Stupid printer
 tricks](http://www.flickr.com/photos/tstadler/3656648715/) /\

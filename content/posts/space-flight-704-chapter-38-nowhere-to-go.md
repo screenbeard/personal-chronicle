@@ -1,20 +1,19 @@
-{
-    "date": "2012-05-07 09:30:39",
-    "draft": false,
-    "publishDate": "2012-05-07 09:30:39",
-    "slug": "space-flight-704-chapter-38-nowhere-to-go",
-    "title": "Space Flight 704, Chapter 38: Nowhere to Go",
-    "url": "\/space-flight-704-chapter-38-nowhere-to-go\/",
-    "tags": [
-        "fear",
-        "Jones",
-        "powerless",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex Havoc was afraid**
+---
+categories:
+- Space Flight 704
+date: "2012-05-07 09:30:39"
+draft: false
+publishDate: "2012-05-07 09:30:39"
+slug: space-flight-704-chapter-38-nowhere-to-go
+tags:
+- fear
+- Jones
+- powerless
+- Rex Havoc
+title: 'Space Flight 704, Chapter 38: Nowhere to Go'
+url: /space-flight-704-chapter-38-nowhere-to-go/
+---
+**Rex Havoc was afraid**
 
 In his past life he had thought he knew fear. He had laughed at it, even
 believed himself above it. He had mocked fear, and those who let fear

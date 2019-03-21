@@ -1,15 +1,15 @@
-{
-    "date": "2011-09-11 11:00:41",
-    "draft": false,
-    "publishDate": "2011-09-11 11:00:41",
-    "slug": "guessing-game",
-    "title": "Guessing Game",
-    "url": "\/guessing-game\/",
-    "tags": [],
-    "categories": [
-        "Rambling"
-    ]
-}Playing a guessing game with Amelynne:
+---
+categories:
+- Rambling
+date: "2011-09-11 11:00:41"
+draft: false
+publishDate: "2011-09-11 11:00:41"
+slug: guessing-game
+tags: []
+title: Guessing Game
+url: /guessing-game/
+---
+Playing a guessing game with Amelynne:
 
 Me:
 

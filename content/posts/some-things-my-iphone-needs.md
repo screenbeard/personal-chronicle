@@ -1,21 +1,19 @@
-{
-    "date": "2008-08-11 12:58:27",
-    "draft": false,
-    "publishDate": "2008-08-11 12:58:27",
-    "slug": "some-things-my-iphone-needs",
-    "title": "Some Things My iPhone Needs",
-    "url": "\/some-things-my-iphone-needs\/",
-    "tags": [
-        "App Store",
-        "apple",
-        "iPhone",
-        "itunes",
-        "Smartphones"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}
+---
+categories:
+- Tech
+date: "2008-08-11 12:58:27"
+draft: false
+publishDate: "2008-08-11 12:58:27"
+slug: some-things-my-iphone-needs
+tags:
+- App Store
+- apple
+- iPhone
+- itunes
+- Smartphones
+title: Some Things My iPhone Needs
+url: /some-things-my-iphone-needs/
+---
 
 {{< figure src="https://turbo.geekorium.com.au/wp-content/uploads/100x150.jpg" attrlink="http://www.daylife.com/image/06v1ekSgOD4QC" attr="Image by Getty Images" caption="SAN FRANCISCO, CA - JANUARY 9: Apple CEO Steve Jobs" >}}
 

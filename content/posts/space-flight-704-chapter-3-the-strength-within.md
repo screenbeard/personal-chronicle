@@ -1,22 +1,21 @@
-{
-    "date": "2011-09-13 09:30:03",
-    "draft": false,
-    "publishDate": "2011-09-13 09:30:03",
-    "slug": "space-flight-704-chapter-3-the-strength-within",
-    "title": "Space Flight 704, Chapter 3: The Strength Within",
-    "url": "\/space-flight-704-chapter-3-the-strength-within\/",
-    "tags": [
-        "Final Flight of Xarnash",
-        "old habits",
-        "plan",
-        "Rex Havoc",
-        "routine",
-        "uncertainty"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex *really* didn't know this time.**
+---
+categories:
+- Space Flight 704
+date: "2011-09-13 09:30:03"
+draft: false
+publishDate: "2011-09-13 09:30:03"
+slug: space-flight-704-chapter-3-the-strength-within
+tags:
+- Final Flight of Xarnash
+- old habits
+- plan
+- Rex Havoc
+- routine
+- uncertainty
+title: 'Space Flight 704, Chapter 3: The Strength Within'
+url: /space-flight-704-chapter-3-the-strength-within/
+---
+**Rex *really* didn't know this time.**
 
 Usually when Rex Havoc was tortured for information he'd scoff at their
 attempts to draw out the location of the secret base or superweapon or

@@ -1,20 +1,19 @@
-{
-    "date": "2010-05-25 12:19:46",
-    "draft": false,
-    "publishDate": "2010-05-25 12:19:46",
-    "slug": "fluffy-oat-pancakes",
-    "title": "Fluffy Oat Pancakes",
-    "url": "\/fluffy-oat-pancakes\/",
-    "tags": [
-        "awesome",
-        "cooking",
-        "food",
-        "pancakes"
-    ],
-    "categories": [
-        "Share"
-    ]
-}Here's my favourite pancake recipe. It's excellent with some good
+---
+categories:
+- Share
+date: "2010-05-25 12:19:46"
+draft: false
+publishDate: "2010-05-25 12:19:46"
+slug: fluffy-oat-pancakes
+tags:
+- awesome
+- cooking
+- food
+- pancakes
+title: Fluffy Oat Pancakes
+url: /fluffy-oat-pancakes/
+---
+Here's my favourite pancake recipe. It's excellent with some good
 quality yoghurt and fruit instead of maple syrup.
 
 <div class="hrecipe">

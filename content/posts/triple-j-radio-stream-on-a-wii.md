@@ -1,21 +1,20 @@
-{
-    "date": "2009-06-08 08:37:02",
-    "draft": false,
-    "publishDate": "2009-06-08 08:37:02",
-    "slug": "triple-j-radio-stream-on-a-wii",
-    "title": "Triple J radio stream on a Wii",
-    "url": "\/triple-j-radio-stream-on-a-wii\/",
-    "tags": [
-        "flash",
-        "free software",
-        "internet radio",
-        "music",
-        "triplej"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}When we bought our Wii, I promised Mil that we could listen to
+---
+categories:
+- Invention
+date: "2009-06-08 08:37:02"
+draft: false
+publishDate: "2009-06-08 08:37:02"
+slug: triple-j-radio-stream-on-a-wii
+tags:
+- flash
+- free software
+- internet radio
+- music
+- triplej
+title: Triple J radio stream on a Wii
+url: /triple-j-radio-stream-on-a-wii/
+---
+When we bought our Wii, I promised Mil that we could listen to
 [TripleJ](http://triplej.net.au) using it, as we haven't had a radio in
 our lounge room for years, and she was missing it. So I set up
 [Orb](http://orb.com/) to play my iTunes library and TripleJ and Radio

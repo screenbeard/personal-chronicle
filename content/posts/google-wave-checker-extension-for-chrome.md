@@ -1,19 +1,18 @@
-{
-    "date": "2009-12-05 11:40:09",
-    "draft": false,
-    "publishDate": "2009-12-05 11:40:09",
-    "slug": "google-wave-checker-extension-for-chrome",
-    "title": "Google Wave Checker Extension for Chrome",
-    "url": "\/google-wave-checker-extension-for-chrome\/",
-    "tags": [
-        "client",
-        "extensions",
-        "tip"
-    ],
-    "categories": [
-        "Link"
-    ]
-}If like me you find Chrome gives you the most stable, enjoyable
+---
+categories:
+- Link
+date: "2009-12-05 11:40:09"
+draft: false
+publishDate: "2009-12-05 11:40:09"
+slug: google-wave-checker-extension-for-chrome
+tags:
+- client
+- extensions
+- tip
+title: Google Wave Checker Extension for Chrome
+url: /google-wave-checker-extension-for-chrome/
+---
+If like me you find Chrome gives you the most stable, enjoyable
 experience of Google Wave, you might also be pining for [the notifier
 extension](https://addons.mozilla.org/en-US/firefox/addon/14973) Firefox
 users get.

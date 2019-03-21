@@ -1,19 +1,18 @@
-{
-    "date": "2009-06-26 10:35:54",
-    "draft": false,
-    "publishDate": "2009-06-26 10:35:54",
-    "slug": "google-wave-terminology",
-    "title": "Google Wave Terminology",
-    "url": "\/google-wave-terminology\/",
-    "tags": [
-        "guide",
-        "support",
-        "tip"
-    ],
-    "categories": [
-        "Link"
-    ]
-}A very straight-forward introduction to the slightly confusing Wave
+---
+categories:
+- Link
+date: "2009-06-26 10:35:54"
+draft: false
+publishDate: "2009-06-26 10:35:54"
+slug: google-wave-terminology
+tags:
+- guide
+- support
+- tip
+title: Google Wave Terminology
+url: /google-wave-terminology/
+---
+A very straight-forward introduction to the slightly confusing Wave
 terminology.
 
 [Google Wave is coming \[Juice

@@ -1,22 +1,20 @@
-{
-    "date": "2010-05-19 18:15:06",
-    "draft": false,
-    "publishDate": "2010-05-19 18:15:06",
-    "slug": "wave-this-widget",
-    "title": "Wave This Widget for Wordpress",
-    "url": "\/wave-this-widget\/",
-    "tags": [
-        "Google Wave",
-        "sidebar",
-        "wave",
-        "wave this",
-        "widget",
-        "wordpress"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}
+---
+categories:
+- Invention
+date: "2010-05-19 18:15:06"
+draft: false
+publishDate: "2010-05-19 18:15:06"
+slug: wave-this-widget
+tags:
+- Google Wave
+- sidebar
+- wave
+- wave this
+- widget
+- wordpress
+title: Wave This Widget for Wordpress
+url: /wave-this-widget/
+---
 
 Announcing the [Wave This Widget for
 Wordpress](http://wordpress.org/extend/plugins/wave-this-widget/).

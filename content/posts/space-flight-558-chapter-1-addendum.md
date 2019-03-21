@@ -1,23 +1,22 @@
-{
-    "date": "2012-01-16 08:30:35",
-    "draft": false,
-    "publishDate": "2012-01-16 08:30:35",
-    "slug": "space-flight-558-chapter-1-addendum",
-    "title": "Space Flight 558, Chapter 1: Addendum",
-    "url": "\/space-flight-558-chapter-1-addendum\/",
-    "tags": [
-        "Anrianna",
-        "future",
-        "madness",
-        "past",
-        "Rex Havoc",
-        "The Princess",
-        "Time Diversion"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**"Do we dare?"**
+---
+categories:
+- Space Flight 704
+date: "2012-01-16 08:30:35"
+draft: false
+publishDate: "2012-01-16 08:30:35"
+slug: space-flight-558-chapter-1-addendum
+tags:
+- Anrianna
+- future
+- madness
+- past
+- Rex Havoc
+- The Princess
+- Time Diversion
+title: 'Space Flight 558, Chapter 1: Addendum'
+url: /space-flight-558-chapter-1-addendum/
+---
+**"Do we dare?"**
 
 The Princess Anrianna looked at Rex with shock at his suggestion.
 

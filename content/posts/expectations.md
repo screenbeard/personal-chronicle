@@ -1,20 +1,19 @@
-{
-    "date": "2009-11-10 11:42:20",
-    "draft": false,
-    "publishDate": "2009-11-10 11:42:20",
-    "slug": "expectations",
-    "title": "Expectations",
-    "url": "\/expectations\/",
-    "tags": [
-        "direction",
-        "support",
-        "tip",
-        "use case"
-    ],
-    "categories": [
-        "Quote"
-    ]
-}> Set suitable expectations. Despite the months of buzz, and
+---
+categories:
+- Quote
+date: "2009-11-10 11:42:20"
+draft: false
+publishDate: "2009-11-10 11:42:20"
+slug: expectations
+tags:
+- direction
+- support
+- tip
+- use case
+title: Expectations
+url: /expectations/
+---
+> Set suitable expectations. Despite the months of buzz, and
 > blogosphere- and Twitterverse-wide clamoring for Google Wave invites,
 > the product is still in preview and has some rough edges. Therefore,
 > it does all parties good to be realistic, even if everybody is psyched

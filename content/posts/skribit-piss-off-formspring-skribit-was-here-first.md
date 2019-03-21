@@ -1,21 +1,20 @@
-{
-    "date": "2010-01-22 05:14:45",
-    "draft": false,
-    "publishDate": "2010-01-22 05:14:45",
-    "slug": "skribit-piss-off-formspring-skribit-was-here-first",
-    "title": "Skribit - Piss off Formspring, Skribit was here first",
-    "url": "\/skribit-piss-off-formspring-skribit-was-here-first\/",
-    "tags": [
-        "free software",
-        "fun",
-        "review",
-        "skribit",
-        "Tech"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}[![Skribit.png](https://turbo.geekorium.com.au/images/Skribit.png){.s3-img}](http://skribit.com/)
+---
+categories:
+- Tech
+date: "2010-01-22 05:14:45"
+draft: false
+publishDate: "2010-01-22 05:14:45"
+slug: skribit-piss-off-formspring-skribit-was-here-first
+tags:
+- free software
+- fun
+- review
+- skribit
+- Tech
+title: Skribit - Piss off Formspring, Skribit was here first
+url: /skribit-piss-off-formspring-skribit-was-here-first/
+---
+[![Skribit.png](https://turbo.geekorium.com.au/images/Skribit.png){.s3-img}](http://skribit.com/)
 
 There's this
 [new](http://www.techcrunch.com/2010/01/04/formspring-ask-me-anything/)

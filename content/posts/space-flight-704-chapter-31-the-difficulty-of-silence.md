@@ -1,21 +1,20 @@
-{
-    "date": "2011-11-09 08:31:05",
-    "draft": false,
-    "publishDate": "2011-11-09 08:31:05",
-    "slug": "space-flight-704-chapter-31-the-difficulty-of-silence",
-    "title": "Space Flight 704, Chapter 31: The Difficulty of Silence",
-    "url": "\/space-flight-704-chapter-31-the-difficulty-of-silence\/",
-    "tags": [
-        "consciousness",
-        "cupcakes",
-        "new power",
-        "nothingness",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He hated to admit it, but dying a second time had been informative.**
+---
+categories:
+- Space Flight 704
+date: "2011-11-09 08:31:05"
+draft: false
+publishDate: "2011-11-09 08:31:05"
+slug: space-flight-704-chapter-31-the-difficulty-of-silence
+tags:
+- consciousness
+- cupcakes
+- new power
+- nothingness
+- Rex Havoc
+title: 'Space Flight 704, Chapter 31: The Difficulty of Silence'
+url: /space-flight-704-chapter-31-the-difficulty-of-silence/
+---
+**He hated to admit it, but dying a second time had been informative.**
 
 When the other had pushed him off the cliff, he'd only been moments away
 from mastering what the other now called "withdrawing".

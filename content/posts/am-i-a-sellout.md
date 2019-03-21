@@ -1,20 +1,19 @@
-{
-    "date": "2010-03-22 10:15:19",
-    "draft": false,
-    "publishDate": "2010-03-22 10:15:19",
-    "slug": "am-i-a-sellout",
-    "title": "Am I a Sellout?",
-    "url": "\/am-i-a-sellout\/",
-    "tags": [
-        "advertising",
-        "internet",
-        "technology",
-        "website"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}When I started the Geekorium (back then, just "nunnone"), I decided to
+---
+categories:
+- Rambling
+date: "2010-03-22 10:15:19"
+draft: false
+publishDate: "2010-03-22 10:15:19"
+slug: am-i-a-sellout
+tags:
+- advertising
+- internet
+- technology
+- website
+title: Am I a Sellout?
+url: /am-i-a-sellout/
+---
+When I started the Geekorium (back then, just "nunnone"), I decided to
 do it without ads. It was a protest against the appalling
 punch-the-monkey type ads that were most common at the time, and
 something I felt proud of. My website was not made to "generate

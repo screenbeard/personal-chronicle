@@ -1,20 +1,19 @@
-{
-    "date": "2007-12-01 03:47:48",
-    "draft": false,
-    "publishDate": "2007-12-01 03:47:48",
-    "slug": "rules-for-buses",
-    "title": "Rules for Buses",
-    "url": "\/rules-for-buses\/",
-    "tags": [
-        "adelaide",
-        "bus",
-        "humour",
-        "public transport"
-    ],
-    "categories": [
-        "Invention"
-    ]
-}1.  The bus is always late.\
+---
+categories:
+- Invention
+date: "2007-12-01 03:47:48"
+draft: false
+publishDate: "2007-12-01 03:47:48"
+slug: rules-for-buses
+tags:
+- adelaide
+- bus
+- humour
+- public transport
+title: Rules for Buses
+url: /rules-for-buses/
+---
+1.  The bus is always late.\
     \
     [![Bus
     (by CloCkWeRX)](//static.flickr.com/31/43512195_eeb6c76bb8_m.jpg "Bus (by CloCkWeRX)")](//www.flickr.com/photos/clockwerx/43512195/ "Bus (by CloCkWeRX)")

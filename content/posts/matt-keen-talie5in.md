@@ -1,21 +1,20 @@
-{
-    "date": "2009-07-04 12:28:49",
-    "draft": false,
-    "publishDate": "2009-07-04 12:28:49",
-    "slug": "matt-keen-talie5in",
-    "title": "Matt Keen (@Talie5in)",
-    "url": "\/matt-keen-talie5in\/",
-    "tags": [
-        "freind",
-        "geek",
-        "Microsoft",
-        "sso",
-        "Twitter"
-    ],
-    "categories": [
-        "Share"
-    ]
-}Matt is a fellow school support officer, doing ICT at another large
+---
+categories:
+- Share
+date: "2009-07-04 12:28:49"
+draft: false
+publishDate: "2009-07-04 12:28:49"
+slug: matt-keen-talie5in
+tags:
+- freind
+- geek
+- Microsoft
+- sso
+- Twitter
+title: Matt Keen (@Talie5in)
+url: /matt-keen-talie5in/
+---
+Matt is a fellow school support officer, doing ICT at another large
 metropolitan high school. He's highly qualified and extremely
 knowledgeable, and a huge Microsoft fanboy. He's my first port of call
 for questions about Windows Server and Active Directory, as I know he's

@@ -1,19 +1,17 @@
-{
-    "date": "2011-09-22 09:30:54",
-    "draft": false,
-    "publishDate": "2011-09-22 09:30:54",
-    "slug": "space-flight-704-chapter-10-new-flight",
-    "title": "Space Flight 704, Chapter 10: New Flight",
-    "url": "\/space-flight-704-chapter-10-new-flight\/",
-    "tags": [
-        "Final Flight of Xarnash",
-        "huh",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}
+---
+categories:
+- Space Flight 704
+date: "2011-09-22 09:30:54"
+draft: false
+publishDate: "2011-09-22 09:30:54"
+slug: space-flight-704-chapter-10-new-flight
+tags:
+- Final Flight of Xarnash
+- huh
+- Rex Havoc
+title: 'Space Flight 704, Chapter 10: New Flight'
+url: /space-flight-704-chapter-10-new-flight/
+---
 
 **That wasn't supposed to happen.**
 

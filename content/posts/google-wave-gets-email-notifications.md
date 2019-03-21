@@ -1,21 +1,20 @@
-{
-    "date": "2010-03-04 23:12:53",
-    "draft": false,
-    "publishDate": "2010-03-04 23:12:53",
-    "slug": "google-wave-gets-email-notifications",
-    "title": "Google Wave Gets Email Notifications",
-    "url": "\/google-wave-gets-email-notifications\/",
-    "tags": [
-        "addon",
-        "direction",
-        "email",
-        "new feature",
-        "official help"
-    ],
-    "categories": [
-        "Post"
-    ]
-}One of the problems with Google Wave for the non-geek crowd has been how
+---
+categories:
+- Post
+date: "2010-03-04 23:12:53"
+draft: false
+publishDate: "2010-03-04 23:12:53"
+slug: google-wave-gets-email-notifications
+tags:
+- addon
+- direction
+- email
+- new feature
+- official help
+title: Google Wave Gets Email Notifications
+url: /google-wave-gets-email-notifications/
+---
+One of the problems with Google Wave for the non-geek crowd has been how
 you know you have a new wave?
 
 For dedicated geeks, there are

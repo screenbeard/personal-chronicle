@@ -1,21 +1,20 @@
-{
-    "date": "2010-04-29 12:41:33",
-    "draft": false,
-    "publishDate": "2010-04-29 12:41:33",
-    "slug": "some-neat-wordpress-plugins",
-    "title": "Some Neat WordPress Plugins",
-    "url": "\/some-neat-wordpress-plugins\/",
-    "tags": [
-        "application",
-        "plugin",
-        "technology",
-        "useful",
-        "wordpress"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}Previously I wrote about some [plugins I
+---
+categories:
+- Tech
+date: "2010-04-29 12:41:33"
+draft: false
+publishDate: "2010-04-29 12:41:33"
+slug: some-neat-wordpress-plugins
+tags:
+- application
+- plugin
+- technology
+- useful
+- wordpress
+title: Some Neat WordPress Plugins
+url: /some-neat-wordpress-plugins/
+---
+Previously I wrote about some [plugins I
 love](//the.geekorium.com.au/wordpress-plugins-i-cant-live-without/) for
 making writing posts easier. This is a list of the little plugins I love
 that just do cool things around the place. They're all useful, and most

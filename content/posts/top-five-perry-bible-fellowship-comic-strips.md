@@ -1,20 +1,18 @@
-{
-    "date": "2007-11-04 05:05:17",
-    "draft": false,
-    "publishDate": "2007-11-04 05:05:17",
-    "slug": "top-five-perry-bible-fellowship-comic-strips",
-    "title": "Top Five Perry Bible Fellowship Comic Strips",
-    "url": "\/top-five-perry-bible-fellowship-comic-strips\/",
-    "tags": [
-        "books",
-        "comicstrip",
-        "perry bible fellowship",
-        "top five"
-    ],
-    "categories": [
-        "Share"
-    ]
-}
+---
+categories:
+- Share
+date: "2007-11-04 05:05:17"
+draft: false
+publishDate: "2007-11-04 05:05:17"
+slug: top-five-perry-bible-fellowship-comic-strips
+tags:
+- books
+- comicstrip
+- perry bible fellowship
+- top five
+title: Top Five Perry Bible Fellowship Comic Strips
+url: /top-five-perry-bible-fellowship-comic-strips/
+---
 
 {{< figure src="https://turbo.geekorium.com.au/wp-content/uploads/Cover-CU.jpg" title="The Trial of Colonel Sweeto Cover" >}}
 

@@ -1,20 +1,19 @@
-{
-    "date": "2011-11-07 08:30:00",
-    "draft": false,
-    "publishDate": "2011-11-07 08:30:00",
-    "slug": "space-flight-704-chapter-30-dubious-powers",
-    "title": "Space Flight 704, Chapter 30: Dubious Powers",
-    "url": "\/space-flight-704-chapter-30-dubious-powers\/",
-    "tags": [
-        "Jones",
-        "problem",
-        "Rex Havoc",
-        "voice in the flesh"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He didn't like the answer.**
+---
+categories:
+- Space Flight 704
+date: "2011-11-07 08:30:00"
+draft: false
+publishDate: "2011-11-07 08:30:00"
+slug: space-flight-704-chapter-30-dubious-powers
+tags:
+- Jones
+- problem
+- Rex Havoc
+- voice in the flesh
+title: 'Space Flight 704, Chapter 30: Dubious Powers'
+url: /space-flight-704-chapter-30-dubious-powers/
+---
+**He didn't like the answer.**
 
 He was hoping for a solution like "Laser-Vision" or "Cosmic Hug" to the
 problem of Jones' increasing power.

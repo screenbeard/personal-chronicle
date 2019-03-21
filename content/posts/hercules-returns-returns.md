@@ -1,20 +1,19 @@
-{
-    "date": "2006-12-25 11:33:56",
-    "draft": false,
-    "publishDate": "2006-12-25 11:33:56",
-    "slug": "hercules-returns-returns",
-    "title": "Hercules Returns Returns!",
-    "url": "\/hercules-returns-returns\/",
-    "tags": [
-        "commenters rock",
-        "hercules returns",
-        "internet",
-        "movie"
-    ],
-    "categories": [
-        "Share"
-    ]
-}Yippee! My biggest Christmas present so far has been finally getting a
+---
+categories:
+- Share
+date: "2006-12-25 11:33:56"
+draft: false
+publishDate: "2006-12-25 11:33:56"
+slug: hercules-returns-returns
+tags:
+- commenters rock
+- hercules returns
+- internet
+- movie
+title: Hercules Returns Returns!
+url: /hercules-returns-returns/
+---
+Yippee! My biggest Christmas present so far has been finally getting a
 copy of *Hercules Returns* on DVD. For those of you who don't know why
 I'm so excited, check out my previous post on [Hercules
 Returns](//the.geekorium.com.au/hercules-returns-please/)

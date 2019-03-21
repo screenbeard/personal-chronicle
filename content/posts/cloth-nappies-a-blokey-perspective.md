@@ -1,20 +1,19 @@
-{
-    "date": "2009-09-30 13:37:44",
-    "draft": false,
-    "publishDate": "2009-09-30 13:37:44",
-    "slug": "cloth-nappies-a-blokey-perspective",
-    "title": "Cloth Nappies - a blokey perspective.",
-    "url": "\/cloth-nappies-a-blokey-perspective\/",
-    "tags": [
-        "housewife",
-        "kittens",
-        "nappies",
-        "unicorns"
-    ],
-    "categories": [
-        "Share"
-    ]
-}So while I'm girly-blogging (see my [cupcake
+---
+categories:
+- Share
+date: "2009-09-30 13:37:44"
+draft: false
+publishDate: "2009-09-30 13:37:44"
+slug: cloth-nappies-a-blokey-perspective
+tags:
+- housewife
+- kittens
+- nappies
+- unicorns
+title: Cloth Nappies - a blokey perspective.
+url: /cloth-nappies-a-blokey-perspective/
+---
+So while I'm girly-blogging (see my [cupcake
 post](//the.geekorium.com.au/rocketships-monster-trucks-and-flamethrowers/)
 from earlier today) I thought I'd share a bit about our use of cloth
 nappies. I'll try and give a blokey perspective, and as Mil says guys

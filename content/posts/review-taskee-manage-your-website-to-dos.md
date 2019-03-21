@@ -1,22 +1,21 @@
-{
-    "date": "2007-11-18 10:26:14",
-    "draft": false,
-    "publishDate": "2007-11-18 10:26:14",
-    "slug": "review-taskee-manage-your-website-to-dos",
-    "title": "Review: Taskee - Manage your website 'to-dos'",
-    "url": "\/review-taskee-manage-your-website-to-dos\/",
-    "tags": [
-        "application",
-        "design",
-        "free",
-        "internet",
-        "task management",
-        "web"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}A month and a half ago I was contacted by a Martin Vrabel, who sent me
+---
+categories:
+- Opinions
+date: "2007-11-18 10:26:14"
+draft: false
+publishDate: "2007-11-18 10:26:14"
+slug: review-taskee-manage-your-website-to-dos
+tags:
+- application
+- design
+- free
+- internet
+- task management
+- web
+title: 'Review: Taskee - Manage your website ''to-dos'''
+url: /review-taskee-manage-your-website-to-dos/
+---
+A month and a half ago I was contacted by a Martin Vrabel, who sent me
 this:
 
 > email from Martin Vrabel of Taskee.comHi Joshua,

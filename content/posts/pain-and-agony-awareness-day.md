@@ -1,25 +1,24 @@
-{
-    "date": "2008-05-12 05:14:54",
-    "draft": false,
-    "publishDate": "2008-05-12 05:14:54",
-    "slug": "pain-and-agony-awareness-day",
-    "title": "Pain and Agony Awareness Day",
-    "url": "\/pain-and-agony-awareness-day\/",
-    "tags": [
-        "cfs",
-        "chronic fatigue",
-        "Conditions and Diseases",
-        "fibromyalgia",
-        "fms",
-        "Health",
-        "me",
-        "Musculoskeletal Disorders",
-        "Neurological Disorders"
-    ],
-    "categories": [
-        "Life"
-    ]
-}[![27/365: fractured reality/grace under
+---
+categories:
+- Life
+date: "2008-05-12 05:14:54"
+draft: false
+publishDate: "2008-05-12 05:14:54"
+slug: pain-and-agony-awareness-day
+tags:
+- cfs
+- chronic fatigue
+- Conditions and Diseases
+- fibromyalgia
+- fms
+- Health
+- me
+- Musculoskeletal Disorders
+- Neurological Disorders
+title: Pain and Agony Awareness Day
+url: /pain-and-agony-awareness-day/
+---
+[![27/365: fractured reality/grace under
 pain](//farm3.static.flickr.com/2158/2226802594_f4bac55da4.jpg)](http://www.flickr.com/photos/55242755@N00/2226802594/ "27/365: fractured reality/grace under pain")
 
 [photo](http://www.photodropper.com/photos/) credit: [Journal Girl

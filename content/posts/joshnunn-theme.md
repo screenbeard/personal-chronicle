@@ -1,19 +1,18 @@
-{
-    "date": "2007-06-14 23:30:32",
-    "draft": false,
-    "publishDate": "2007-06-14 23:30:32",
-    "slug": "joshnunn-theme",
-    "title": "joshnunn Theme",
-    "url": "\/joshnunn-theme\/",
-    "tags": [
-        "create",
-        "design",
-        "wordpress"
-    ],
-    "categories": [
-        "Themes"
-    ]
-}Thanks for your interest in my theme, *joshnunn 0.1*. joshnunn is a
+---
+categories:
+- Themes
+date: "2007-06-14 23:30:32"
+draft: false
+publishDate: "2007-06-14 23:30:32"
+slug: joshnunn-theme
+tags:
+- create
+- design
+- wordpress
+title: joshnunn Theme
+url: /joshnunn-theme/
+---
+Thanks for your interest in my theme, *joshnunn 0.1*. joshnunn is a
 simple two column theme with static header, footer and sidebar. My
 biggest achievement with it was making it entirely with 'em's for
 maximum resizable-ness!

@@ -1,11 +1,11 @@
 ---
-date: 2012-05-21 11:36:05
-draft: false
-title: A belated farewell to Google Wave and First Waves
-tags:
-- First Waves
 categories:
 - Google Wave
+date: "2012-05-21 11:36:05"
+draft: false
+tags:
+- First Waves
+title: A belated farewell to Google Wave and First Waves
 ---
 
 Google Wave is dead. I don't care. For a while I did care, and I had a site about Google Wave called First Waves.

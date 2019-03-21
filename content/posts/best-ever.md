@@ -1,20 +1,19 @@
-{
-    "date": "2006-04-05 12:00:51",
-    "draft": false,
-    "publishDate": "2006-04-05 12:00:51",
-    "slug": "best-ever",
-    "title": "BEST EVER!",
-    "url": "\/best-ever\/",
-    "tags": [
-        "come on a my house",
-        "itunes",
-        "music",
-        "nasty tales"
-    ],
-    "categories": [
-        "Share"
-    ]
-}Ok, I'm sitting at home, feeling pretty tired, run down and fairly
+---
+categories:
+- Share
+date: "2006-04-05 12:00:51"
+draft: false
+publishDate: "2006-04-05 12:00:51"
+slug: best-ever
+tags:
+- come on a my house
+- itunes
+- music
+- nasty tales
+title: BEST EVER!
+url: /best-ever/
+---
+Ok, I'm sitting at home, feeling pretty tired, run down and fairly
 unhappy. A [blog I'm
 reading](http://www.bogglethemind.com/index.php?itemid=29 "Boggle the Mind's mention of iTunes")
 mentions iTunes, and I fire it up to listen to some cheery music. While

@@ -1,20 +1,19 @@
-{
-    "date": "2007-12-08 23:00:30",
-    "draft": false,
-    "publishDate": "2007-12-08 23:00:30",
-    "slug": "loading-ready-run",
-    "title": "LOADING... READY. RUN",
-    "url": "\/loading-ready-run\/",
-    "tags": [
-        "commodore 64",
-        "create",
-        "design",
-        "wordpress"
-    ],
-    "categories": [
-        "Themes"
-    ]
-}![Screenshot of my new Wordpress theme LOADING... READY.
+---
+categories:
+- Themes
+date: "2007-12-08 23:00:30"
+draft: false
+publishDate: "2007-12-08 23:00:30"
+slug: loading-ready-run
+tags:
+- commodore 64
+- create
+- design
+- wordpress
+title: LOADING... READY. RUN
+url: /loading-ready-run/
+---
+![Screenshot of my new Wordpress theme LOADING... READY.
 RUN](//farm3.static.flickr.com/2253/2095773419_6ed3ff2dc1_o.png){width="267"
 height="158"}
 

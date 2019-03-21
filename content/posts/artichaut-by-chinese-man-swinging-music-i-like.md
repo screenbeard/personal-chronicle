@@ -1,12 +1,12 @@
 ---
-date: 2009-11-26 05:50:04
+categories:
+- Share
+date: "2009-11-26 05:50:04"
 draft: false
-title: Artichaut by Chinese Man - Swinging Music I Like
 tags:
 - fun
 - music
-categories:
-- Share
+title: Artichaut by Chinese Man - Swinging Music I Like
 ---
 
 {{< youtube gnwyxr0UdSU >}}

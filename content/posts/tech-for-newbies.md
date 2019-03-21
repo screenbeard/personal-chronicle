@@ -1,19 +1,18 @@
-{
-    "date": "2010-04-23 11:47:25",
-    "draft": false,
-    "publishDate": "2010-04-23 11:47:25",
-    "slug": "tech-for-newbies",
-    "title": "Tech for Newbies!",
-    "url": "\/tech-for-newbies\/",
-    "tags": [
-        "new",
-        "Site News",
-        "technology"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}I'm gonna try to get a new series going here on the Geekorium where I
+---
+categories:
+- Tech
+date: "2010-04-23 11:47:25"
+draft: false
+publishDate: "2010-04-23 11:47:25"
+slug: tech-for-newbies
+tags:
+- new
+- Site News
+- technology
+title: Tech for Newbies!
+url: /tech-for-newbies/
+---
+I'm gonna try to get a new series going here on the Geekorium where I
 answer some of the questions I get asked in my job. I get asked for
 advice every day, and it's often more interesting than the sorts of
 things I actually do to get paid. Ages ago I toyed with the idea of

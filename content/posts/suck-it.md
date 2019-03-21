@@ -1,12 +1,12 @@
 ---
-date: 2010-11-07 06:40:03
+categories:
+- Video
+date: "2010-11-07 06:40:03"
 draft: false
+tags:
+- vodcast
 title: suck it.
 url: suck-it
-tags:
-    -   vodcast
-categories:
-    -   Video
 ---
 
 {{< youtube SnFVw2JkYFw >}}

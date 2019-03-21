@@ -1,18 +1,17 @@
-{
-    "date": "2006-06-24 21:43:06",
-    "draft": false,
-    "publishDate": "2006-06-24 21:43:06",
-    "slug": "lost-season-two",
-    "title": "Lost: Season Two",
-    "url": "\/lost-season-two\/",
-    "tags": [
-        "lost",
-        "tv"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}I'm loving this.
+---
+categories:
+- Rambling
+date: "2006-06-24 21:43:06"
+draft: false
+publishDate: "2006-06-24 21:43:06"
+slug: lost-season-two
+tags:
+- lost
+- tv
+title: 'Lost: Season Two'
+url: /lost-season-two/
+---
+I'm loving this.
 
 In Australia we're about - I dunno, somewhere past halfway through the
 season. Hurley has just had his 'crazy' episode, and things seem to be

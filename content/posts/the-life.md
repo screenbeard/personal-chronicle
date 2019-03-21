@@ -1,20 +1,19 @@
-{
-    "date": "2010-04-05 01:19:40",
-    "draft": false,
-    "publishDate": "2010-04-05 01:19:40",
-    "slug": "the-life",
-    "title": "The Life",
-    "url": "\/the-life\/",
-    "tags": [
-        "child",
-        "family",
-        "joy",
-        "relaxing"
-    ],
-    "categories": [
-        "Life"
-    ]
-}I'm sitting under a lovely big tree in a park, watching my girl play on
+---
+categories:
+- Life
+date: "2010-04-05 01:19:40"
+draft: false
+publishDate: "2010-04-05 01:19:40"
+slug: the-life
+tags:
+- child
+- family
+- joy
+- relaxing
+title: The Life
+url: /the-life/
+---
+I'm sitting under a lovely big tree in a park, watching my girl play on
 a slide with her Grandma nearby. I'm reading feeds on Reeder on my
 iPhone, and writing this in the Wordpress app. I'm wishing this could be
 my profession. All this iPad chatter has me wishing I had money to

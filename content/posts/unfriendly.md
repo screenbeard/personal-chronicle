@@ -1,15 +1,18 @@
-{
-    "date": "2018-03-30 14:00:32",
-    "draft": false,
-    "publishDate": "2018-03-30 14:00:32",
-    "slug": "unfriendly",
-    "title": "Unfriendly",
-    "url": "\/unfriendly\/",
-    "tags": ["blogging","technology","facebook","alternatives"],
-    "categories": [
-        "Opinions"
-    ]
-}
+---
+categories:
+- Opinions
+date: "2018-03-30 14:00:32"
+draft: false
+publishDate: "2018-03-30 14:00:32"
+slug: unfriendly
+tags:
+- blogging
+- technology
+- facebook
+- alternatives
+title: Unfriendly
+url: /unfriendly/
+---
 
 I haven't properly "blogged" here in so very long. With so many other social sites around like the Facebloops and the whatnots, it's seemed a little pointless putting anything up here where no one would read it. I could post a pic of my kids on that site that everyone has an account for and get a bunch of interactions there instead, so putting the effort into this site seemed pointless.
 

@@ -1,15 +1,15 @@
-{
-    "date": "2010-03-16 12:51:48",
-    "draft": false,
-    "publishDate": "2010-03-16 12:51:48",
-    "slug": "first-waves-focus-and-feedback",
-    "title": "First Waves - Focus and Feedback",
-    "url": "\/first-waves-focus-and-feedback\/",
-    "tags": [],
-    "categories": [
-        "Post"
-    ]
-}![waveblue.png](https://turbo.geekorium.com.au/images/waveblue.png){.s3-img}
+---
+categories:
+- Post
+date: "2010-03-16 12:51:48"
+draft: false
+publishDate: "2010-03-16 12:51:48"
+slug: first-waves-focus-and-feedback
+tags: []
+title: First Waves - Focus and Feedback
+url: /first-waves-focus-and-feedback/
+---
+![waveblue.png](https://turbo.geekorium.com.au/images/waveblue.png){.s3-img}
 
 As a follow on from my last post, I felt the need to clarify that this
 site, First Waves, is not meant to be cutting edge day-to-day technology

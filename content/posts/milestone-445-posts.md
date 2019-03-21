@@ -1,14 +1,16 @@
-{
-    "date": "2018-04-11 14:26:48",
-    "draft": false,
-    "publishDate": "2018-04-11 14:26:48",
-    "slug": "milestone-445-posts",
-    "title": "Milestone: 445 Posts!",
-    "tags": ["milestone","celebration","event"],
-    "categories": [
-        "Rambling"
-    ]
-}
+---
+categories:
+- Rambling
+date: "2018-04-11 14:26:48"
+draft: false
+publishDate: "2018-04-11 14:26:48"
+slug: milestone-445-posts
+tags:
+- milestone
+- celebration
+- event
+title: 'Milestone: 445 Posts!'
+---
 
 This was going to be a post for my 500th published... post. 500 is a big milestone. So I've been cleaning up my site, migrating and consolidating AWS S3 buckets and setting up https hosting on one for some of the images and videos I've posted here in the past.
 

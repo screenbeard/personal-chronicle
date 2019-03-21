@@ -1,14 +1,19 @@
-{
-    "date": "2018-04-20 13:48:54",
-    "draft": false,
-    "publishDate": "2018-04-20 13:48:54",
-    "slug": "letting-the-internet-die",
-    "title": "Letting the Internet Die",
-    "tags": ["let it go","comments","feedback","twitter","alternatives","keep control"],
-    "categories": [
-        "Opinions"
-    ]
-}
+---
+categories:
+- Opinions
+date: "2018-04-20 13:48:54"
+draft: false
+publishDate: "2018-04-20 13:48:54"
+slug: letting-the-internet-die
+tags:
+- let it go
+- comments
+- feedback
+- twitter
+- alternatives
+- keep control
+title: Letting the Internet Die
+---
 
 I'm still stuck on this idea of how to enable comments and feedback on personal netlogs[^netlog] in this world of Facebook and Twitter.
 

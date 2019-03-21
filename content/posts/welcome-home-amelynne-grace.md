@@ -1,21 +1,20 @@
-{
-    "date": "2008-08-16 03:00:16",
-    "draft": false,
-    "publishDate": "2008-08-16 03:00:16",
-    "slug": "welcome-home-amelynne-grace",
-    "title": "Welcome Home Amelynne Grace",
-    "url": "\/welcome-home-amelynne-grace\/",
-    "tags": [
-        "Amelynne Grace",
-        "beautiful",
-        "Camilla",
-        "daughter",
-        "Relationships"
-    ],
-    "categories": [
-        "Life"
-    ]
-}I've been putting off writing this, telling myself that I just don't
+---
+categories:
+- Life
+date: "2008-08-16 03:00:16"
+draft: false
+publishDate: "2008-08-16 03:00:16"
+slug: welcome-home-amelynne-grace
+tags:
+- Amelynne Grace
+- beautiful
+- Camilla
+- daughter
+- Relationships
+title: Welcome Home Amelynne Grace
+url: /welcome-home-amelynne-grace/
+---
+I've been putting off writing this, telling myself that I just don't
 have time now I'm a new dad, but truth is, I wanted to say something
 special and couldn't think of the words. I still can't, but I need to
 say hello so bad, that I can't put it off any more.

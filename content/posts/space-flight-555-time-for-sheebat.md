@@ -1,22 +1,21 @@
-{
-    "date": "2011-11-08 08:30:58",
-    "draft": false,
-    "publishDate": "2011-11-08 08:30:58",
-    "slug": "space-flight-555-time-for-sheebat",
-    "title": "Space Flight 555: Time for Sheebat",
-    "url": "\/space-flight-555-time-for-sheebat\/",
-    "tags": [
-        "cards",
-        "croupier",
-        "Rex Havoc",
-        "sheebat",
-        "Time Diversion",
-        "zombie plan"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex stared hard at his opponent. They both knew how this would end.**
+---
+categories:
+- Space Flight 704
+date: "2011-11-08 08:30:58"
+draft: false
+publishDate: "2011-11-08 08:30:58"
+slug: space-flight-555-time-for-sheebat
+tags:
+- cards
+- croupier
+- Rex Havoc
+- sheebat
+- Time Diversion
+- zombie plan
+title: 'Space Flight 555: Time for Sheebat'
+url: /space-flight-555-time-for-sheebat/
+---
+**Rex stared hard at his opponent. They both knew how this would end.**
 
 His face was a mask, had to be. Grubner was partially telepathic and
 used facial signals to confirm what he called his "hunches".

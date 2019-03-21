@@ -1,22 +1,21 @@
-{
-    "date": "2008-04-27 11:17:43",
-    "draft": false,
-    "publishDate": "2008-04-27 11:17:43",
-    "slug": "pdfmenotcom",
-    "title": "PDFmenot.com vs Vuzit.com",
-    "url": "\/pdfmenotcom\/",
-    "tags": [
-        "embed",
-        "javascript",
-        "pdf",
-        "pdfmenot",
-        "tool",
-        "vuzit"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}Just testing pdfmenot.com - a tool from the people behind bugmenot.com,
+---
+categories:
+- Tech
+date: "2008-04-27 11:17:43"
+draft: false
+publishDate: "2008-04-27 11:17:43"
+slug: pdfmenotcom
+tags:
+- embed
+- javascript
+- pdf
+- pdfmenot
+- tool
+- vuzit
+title: PDFmenot.com vs Vuzit.com
+url: /pdfmenotcom/
+---
+Just testing pdfmenot.com - a tool from the people behind bugmenot.com,
 retailmenot.com and cushycms.com. It lets you read a PDF in your browser
 without downloading it, and even embed a pdf in another page with a bit
 of javascript. Also trying out an alternative, vuzit.com.

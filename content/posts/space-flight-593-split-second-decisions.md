@@ -1,20 +1,19 @@
-{
-    "date": "2013-04-02 08:30:51",
-    "draft": false,
-    "publishDate": "2013-04-02 08:30:51",
-    "slug": "space-flight-593-split-second-decisions",
-    "title": "Space Flight 593: Split Second Decisions",
-    "url": "\/space-flight-593-split-second-decisions\/",
-    "tags": [
-        "Anrianna",
-        "bad decisions",
-        "Jones",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**It's OK, you don't have to live with this.**
+---
+categories:
+- Space Flight 704
+date: "2013-04-02 08:30:51"
+draft: false
+publishDate: "2013-04-02 08:30:51"
+slug: space-flight-593-split-second-decisions
+tags:
+- Anrianna
+- bad decisions
+- Jones
+- Rex Havoc
+title: 'Space Flight 593: Split Second Decisions'
+url: /space-flight-593-split-second-decisions/
+---
+**It's OK, you don't have to live with this.**
 
 **It's OK, I'm certain I can change this.**
 

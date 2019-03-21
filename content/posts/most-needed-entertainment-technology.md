@@ -1,17 +1,16 @@
-{
-    "date": "2006-04-26 09:59:49",
-    "draft": false,
-    "publishDate": "2006-04-26 09:59:49",
-    "slug": "most-needed-entertainment-technology",
-    "title": "Most needed entertainment technology",
-    "url": "\/most-needed-entertainment-technology\/",
-    "tags": [
-        "music"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}What you need is a way to give instant feedback on TV and radio. The
+---
+categories:
+- Opinions
+date: "2006-04-26 09:59:49"
+draft: false
+publishDate: "2006-04-26 09:59:49"
+slug: most-needed-entertainment-technology
+tags:
+- music
+title: Most needed entertainment technology
+url: /most-needed-entertainment-technology/
+---
+What you need is a way to give instant feedback on TV and radio. The
 Internet is a wonderful thing, where you can switch off things that
 annoy you, and turn away from sites that don't do it for you.
 

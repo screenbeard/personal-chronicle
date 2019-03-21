@@ -1,21 +1,20 @@
-{
-    "date": "2011-11-02 08:30:00",
-    "draft": false,
-    "publishDate": "2011-11-02 08:30:00",
-    "slug": "space-flight-704-chapter-29",
-    "title": "Space Flight 704, Chapter 29: Squared Away",
-    "url": "\/space-flight-704-chapter-29\/",
-    "tags": [
-        "cogitating",
-        "Jones",
-        "Ortrix",
-        "plan",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**It stood to reason that Jones would be unhappy with him. He had shot
+---
+categories:
+- Space Flight 704
+date: "2011-11-02 08:30:00"
+draft: false
+publishDate: "2011-11-02 08:30:00"
+slug: space-flight-704-chapter-29
+tags:
+- cogitating
+- Jones
+- Ortrix
+- plan
+- Rex Havoc
+title: 'Space Flight 704, Chapter 29: Squared Away'
+url: /space-flight-704-chapter-29/
+---
+**It stood to reason that Jones would be unhappy with him. He had shot
 him, a lot.**
 
 Then again, Jones had vapourised him from space, so they should be

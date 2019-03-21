@@ -1,20 +1,19 @@
-{
-    "date": "2012-05-19 23:45:43",
-    "draft": false,
-    "publishDate": "2012-05-19 23:45:43",
-    "slug": "that-damn-basset-hound-again",
-    "title": "That Damn Basset Hound Again",
-    "url": "\/that-damn-basset-hound-again\/",
-    "tags": [
-        "fred basset",
-        "read something else instead",
-        "stupid commenters",
-        "valued commenters"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}I just got my first actual real life death threat in a comment on my
+---
+categories:
+- Rambling
+date: "2012-05-19 23:45:43"
+draft: false
+publishDate: "2012-05-19 23:45:43"
+slug: that-damn-basset-hound-again
+tags:
+- fred basset
+- read something else instead
+- stupid commenters
+- valued commenters
+title: That Damn Basset Hound Again
+url: /that-damn-basset-hound-again/
+---
+I just got my first actual real life death threat in a comment on my
 [oh-so-stupid-I-wish-I-hadn't-written-it Fred Basset
 post](//the.geekorium.com.au/why-fred-basset-is-the-dumbest-comic-strip-ever/).
 It was a dumb post I wrote back when I was desperate for stuff to write

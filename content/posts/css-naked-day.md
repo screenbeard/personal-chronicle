@@ -1,21 +1,20 @@
-{
-    "date": "2006-04-03 08:21:41",
-    "draft": false,
-    "publishDate": "2006-04-03 08:21:41",
-    "slug": "css-naked-day",
-    "title": "CSS Naked Day",
-    "url": "\/css-naked-day\/",
-    "tags": [
-        "browsers",
-        "css",
-        "dustin diaz",
-        "internet",
-        "naked day"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}<span class="update"><span class="date">Update: 2006-04-06</span> It's
+---
+categories:
+- Site News
+date: "2006-04-03 08:21:41"
+draft: false
+publishDate: "2006-04-03 08:21:41"
+slug: css-naked-day
+tags:
+- browsers
+- css
+- dustin diaz
+- internet
+- naked day
+title: CSS Naked Day
+url: /css-naked-day/
+---
+<span class="update"><span class="date">Update: 2006-04-06</span> It's
 over and I lived!</span>
 
 I'm getting this in early, in case I forget or don't have time on the

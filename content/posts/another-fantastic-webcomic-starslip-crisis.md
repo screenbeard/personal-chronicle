@@ -1,18 +1,17 @@
-{
-    "date": "2008-04-16 10:21:47",
-    "draft": false,
-    "publishDate": "2008-04-16 10:21:47",
-    "slug": "another-fantastic-webcomic-starslip-crisis",
-    "title": "Another fantastic webcomic - Starslip Crisis",
-    "url": "\/another-fantastic-webcomic-starslip-crisis\/",
-    "tags": [
-        "comicstrip",
-        "starslip crisis"
-    ],
-    "categories": [
-        "Share"
-    ]
-}I've linked to [comics I've
+---
+categories:
+- Share
+date: "2008-04-16 10:21:47"
+draft: false
+publishDate: "2008-04-16 10:21:47"
+slug: another-fantastic-webcomic-starslip-crisis
+tags:
+- comicstrip
+- starslip crisis
+title: Another fantastic webcomic - Starslip Crisis
+url: /another-fantastic-webcomic-starslip-crisis/
+---
+I've linked to [comics I've
 liked](//the.geekorium.com.au/tag/comicstrip/ "nunnone pages tagged comicstrips")
 in the past, and have been meaning to do the same with this one for a
 while. [Starslip

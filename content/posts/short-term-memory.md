@@ -1,15 +1,15 @@
-{
-    "date": "2011-03-19 00:29:14",
-    "draft": false,
-    "publishDate": "2011-03-19 00:29:14",
-    "slug": "short-term-memory",
-    "title": "Short Term Memory",
-    "url": "\/short-term-memory\/",
-    "tags": [],
-    "categories": [
-        "Share"
-    ]
-}Ashamed to say that I only recently learned about [Victor
+---
+categories:
+- Share
+date: "2011-03-19 00:29:14"
+draft: false
+publishDate: "2011-03-19 00:29:14"
+slug: short-term-memory
+tags: []
+title: Short Term Memory
+url: /short-term-memory/
+---
+Ashamed to say that I only recently learned about [Victor
 Borge](http://en.wikipedia.org/wiki/Victor_Borge) who from only a few
 YouTube clips I can tell was a genius - a brilliant musician and
 comedian. I found him watching old Muppet Show clips, and it's clear to

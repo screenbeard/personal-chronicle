@@ -1,18 +1,17 @@
-{
-    "date": "2011-11-11 12:30:14",
-    "draft": false,
-    "publishDate": "2011-11-11 12:30:14",
-    "slug": "the-geekorium-turns-six",
-    "title": "The Geekorium Turns Six!",
-    "url": "\/the-geekorium-turns-six\/",
-    "tags": [
-        "happy birthday you thing from another world you",
-        "six friggin' years"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}It was six years ago on a [Sleepless
+---
+categories:
+- Site News
+date: "2011-11-11 12:30:14"
+draft: false
+publishDate: "2011-11-11 12:30:14"
+slug: the-geekorium-turns-six
+tags:
+- happy birthday you thing from another world you
+- six friggin' years
+title: The Geekorium Turns Six!
+url: /the-geekorium-turns-six/
+---
+It was six years ago on a [Sleepless
 Night](//the.geekorium.com.au/2005-11/sleepless-nights/) that I wrote my
 first blog post on what was then (maybe) not even my own domain. I
 didn't set up nunnone.com with Google Mail for about a year after that

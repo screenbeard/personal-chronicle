@@ -1,18 +1,17 @@
-{
-    "date": "2009-10-20 09:38:50",
-    "draft": false,
-    "publishDate": "2009-10-20 09:38:50",
-    "slug": "waveboard-stand-alone-wave-app",
-    "title": "Waveboard - Stand-Alone Wave App",
-    "url": "\/waveboard-stand-alone-wave-app\/",
-    "tags": [
-        "client",
-        "interface"
-    ],
-    "categories": [
-        "Link"
-    ]
-}Waveboard is an app for the Mac (and coming soon for iPhone) that puts
+---
+categories:
+- Link
+date: "2009-10-20 09:38:50"
+draft: false
+publishDate: "2009-10-20 09:38:50"
+slug: waveboard-stand-alone-wave-app
+tags:
+- client
+- interface
+title: Waveboard - Stand-Alone Wave App
+url: /waveboard-stand-alone-wave-app/
+---
+Waveboard is an app for the Mac (and coming soon for iPhone) that puts
 Google Wave into it’s own application window. Observant readers might
 recognise that this is not really all that different from using
 [Fluid](http://fluidapp.com/) or [Prism](http://prism.mozillalabs.com)

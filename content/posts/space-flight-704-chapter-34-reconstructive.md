@@ -1,21 +1,20 @@
-{
-    "date": "2012-03-01 08:30:13",
-    "draft": false,
-    "publishDate": "2012-03-01 08:30:13",
-    "slug": "space-flight-704-chapter-34-reconstructive",
-    "title": "Space Flight 704, Chapter 34: Reconstructive",
-    "url": "\/space-flight-704-chapter-34-reconstructive\/",
-    "tags": [
-        "cyber-bear",
-        "cyber-hawk",
-        "cyber-wolf",
-        "Doctor Van de Nippal",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex Havoc punched the bear in the face.**
+---
+categories:
+- Space Flight 704
+date: "2012-03-01 08:30:13"
+draft: false
+publishDate: "2012-03-01 08:30:13"
+slug: space-flight-704-chapter-34-reconstructive
+tags:
+- cyber-bear
+- cyber-hawk
+- cyber-wolf
+- Doctor Van de Nippal
+- Rex Havoc
+title: 'Space Flight 704, Chapter 34: Reconstructive'
+url: /space-flight-704-chapter-34-reconstructive/
+---
+**Rex Havoc punched the bear in the face.**
 
 After what seemed like an eternity in "training", it felt good to be out
 and in the thick of the action again. Just like old times.

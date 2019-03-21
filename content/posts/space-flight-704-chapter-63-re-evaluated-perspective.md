@@ -1,19 +1,18 @@
-{
-    "date": "2013-05-18 06:50:27",
-    "draft": false,
-    "publishDate": "2013-05-18 06:50:27",
-    "slug": "space-flight-704-chapter-63-re-evaluated-perspective",
-    "title": "Space Flight 704, Chapter 63: Re-evaluated Perspective",
-    "url": "\/space-flight-704-chapter-63-re-evaluated-perspective\/",
-    "tags": [
-        "emotions",
-        "Rex Havoc",
-        "voice in the flesh"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**"So what happens next?"**
+---
+categories:
+- Space Flight 704
+date: "2013-05-18 06:50:27"
+draft: false
+publishDate: "2013-05-18 06:50:27"
+slug: space-flight-704-chapter-63-re-evaluated-perspective
+tags:
+- emotions
+- Rex Havoc
+- voice in the flesh
+title: 'Space Flight 704, Chapter 63: Re-evaluated Perspective'
+url: /space-flight-704-chapter-63-re-evaluated-perspective/
+---
+**"So what happens next?"**
 
 "The Torim below created the Ortrix. If they didn't make it as a weapon,
 then for what?"

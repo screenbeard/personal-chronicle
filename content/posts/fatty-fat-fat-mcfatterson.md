@@ -1,19 +1,18 @@
-{
-    "date": "2007-08-05 11:41:42",
-    "draft": false,
-    "publishDate": "2007-08-05 11:41:42",
-    "slug": "fatty-fat-fat-mcfatterson",
-    "title": "Fatty Fat Fat McFatterson",
-    "url": "\/fatty-fat-fat-mcfatterson\/",
-    "tags": [
-        "diet",
-        "fat",
-        "weightloss"
-    ],
-    "categories": [
-        "Life"
-    ]
-}Today is the day.
+---
+categories:
+- Life
+date: "2007-08-05 11:41:42"
+draft: false
+publishDate: "2007-08-05 11:41:42"
+slug: fatty-fat-fat-mcfatterson
+tags:
+- diet
+- fat
+- weightloss
+title: Fatty Fat Fat McFatterson
+url: /fatty-fat-fat-mcfatterson/
+---
+Today is the day.
 
 Months ago I started wishing I had a bigger monitor for my Mac. I use
 dual monitors at work and I cannot deny how much easier it makes my

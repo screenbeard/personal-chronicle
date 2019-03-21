@@ -1,19 +1,18 @@
-{
-    "date": "2009-12-09 01:18:10",
-    "draft": false,
-    "publishDate": "2009-12-09 01:18:10",
-    "slug": "group-waves",
-    "title": "Group Waves",
-    "url": "\/group-waves\/",
-    "tags": [
-        "new feature",
-        "official help",
-        "preview"
-    ],
-    "categories": [
-        "Link"
-    ]
-}Google has just unveiled their plans for group waves. The Google Wave
+---
+categories:
+- Link
+date: "2009-12-09 01:18:10"
+draft: false
+publishDate: "2009-12-09 01:18:10"
+slug: group-waves
+tags:
+- new feature
+- official help
+- preview
+title: Group Waves
+url: /group-waves/
+---
+Google has just unveiled their plans for group waves. The Google Wave
 Blog outlines the steps to set up a Google Group (yes, you have to use
 **another** tool) then add the group as a contact in Google Wave.
 

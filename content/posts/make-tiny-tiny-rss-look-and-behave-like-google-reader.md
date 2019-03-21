@@ -1,22 +1,21 @@
-{
-    "date": "2013-03-15 11:42:44",
-    "draft": false,
-    "publishDate": "2013-03-15 11:42:44",
-    "slug": "make-tiny-tiny-rss-look-and-behave-like-google-reader",
-    "title": "Make Tiny Tiny RSS Look and Behave Like Google Reader",
-    "url": "\/make-tiny-tiny-rss-look-and-behave-like-google-reader\/",
-    "tags": [
-        "bad decisions",
-        "google",
-        "google reader",
-        "RSS",
-        "Tech",
-        "tiny tiny rss"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}Since Google announced they were closing Google Reader down in June,
+---
+categories:
+- Tech
+date: "2013-03-15 11:42:44"
+draft: false
+publishDate: "2013-03-15 11:42:44"
+slug: make-tiny-tiny-rss-look-and-behave-like-google-reader
+tags:
+- bad decisions
+- google
+- google reader
+- RSS
+- Tech
+- tiny tiny rss
+title: Make Tiny Tiny RSS Look and Behave Like Google Reader
+url: /make-tiny-tiny-rss-look-and-behave-like-google-reader/
+---
+Since Google announced they were closing Google Reader down in June,
 people have been scrambling to find something to use in it's place. I'm
 not sure what the rush is, but I was caught up in it too. My replacement
 of choice is [Tiny Tiny RSS](http://tt-rss.org) because it's self

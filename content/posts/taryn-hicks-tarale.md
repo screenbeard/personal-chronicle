@@ -1,15 +1,15 @@
-{
-    "date": "2009-06-30 11:43:35",
-    "draft": false,
-    "publishDate": "2009-06-30 11:43:35",
-    "slug": "taryn-hicks-tarale",
-    "title": "Taryn Hicks (@Tarale)",
-    "url": "\/taryn-hicks-tarale\/",
-    "tags": [],
-    "categories": [
-        "Share"
-    ]
-}I know Taryn from her days on the state school ICT helpdesk. She was
+---
+categories:
+- Share
+date: "2009-06-30 11:43:35"
+draft: false
+publishDate: "2009-06-30 11:43:35"
+slug: taryn-hicks-tarale
+tags: []
+title: Taryn Hicks (@Tarale)
+url: /taryn-hicks-tarale/
+---
+I know Taryn from her days on the state school ICT helpdesk. She was
 very helpful and cheerful (on the outside at least), and willing to work
 through stuff over the phone. Then she moved into the section that dealt
 with website stuff, got hopelessly frustrated and left for greener

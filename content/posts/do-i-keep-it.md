@@ -1,15 +1,15 @@
-{
-    "date": "2009-07-28 12:29:11",
-    "draft": false,
-    "publishDate": "2009-07-28 12:29:11",
-    "slug": "do-i-keep-it",
-    "title": "Do I Keep It?",
-    "url": "\/do-i-keep-it\/",
-    "tags": [],
-    "categories": [
-        "Share"
-    ]
-}My good friend Elle has started a product review site called [Do I Keep
+---
+categories:
+- Share
+date: "2009-07-28 12:29:11"
+draft: false
+publishDate: "2009-07-28 12:29:11"
+slug: do-i-keep-it
+tags: []
+title: Do I Keep It?
+url: /do-i-keep-it/
+---
+My good friend Elle has started a product review site called [Do I Keep
 It?](http://www.doikeepit.com). The site covers an assortment of
 products under broad categories such as "[Health and
 Beauty](http://www.doikeepit.com/reviews/health-and-beauty/)",

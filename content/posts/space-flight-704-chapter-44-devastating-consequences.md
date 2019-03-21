@@ -1,21 +1,20 @@
-{
-    "date": "2012-05-22 09:30:05",
-    "draft": false,
-    "publishDate": "2012-05-22 09:30:05",
-    "slug": "space-flight-704-chapter-44-devastating-consequences",
-    "title": "Space Flight 704, Chapter 44: Devastating Consequences",
-    "url": "\/space-flight-704-chapter-44-devastating-consequences\/",
-    "tags": [
-        "consequences",
-        "devastation",
-        "Jones",
-        "Rex Havoc",
-        "Xentash"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex wept for days.**
+---
+categories:
+- Space Flight 704
+date: "2012-05-22 09:30:05"
+draft: false
+publishDate: "2012-05-22 09:30:05"
+slug: space-flight-704-chapter-44-devastating-consequences
+tags:
+- consequences
+- devastation
+- Jones
+- Rex Havoc
+- Xentash
+title: 'Space Flight 704, Chapter 44: Devastating Consequences'
+url: /space-flight-704-chapter-44-devastating-consequences/
+---
+**Rex wept for days.**
 
 He was responsible for this. A whole planet tortured mercilessly for
 years, it's people enslaved, and their world destroyed.

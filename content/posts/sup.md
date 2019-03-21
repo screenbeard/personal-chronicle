@@ -1,13 +1,13 @@
 ---
-date: 2010-10-23 11:52:04
+categories:
+- Video
+date: "2010-10-23 11:52:04"
 draft: false
-title: Sup?
 tags:
 - rambly
 - update
 - Vodcast
-categories:
-- Video
+title: Sup?
 ---
 
 {{< youtube 5mLjtmsJsz4 >}}

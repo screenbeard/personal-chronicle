@@ -1,20 +1,19 @@
-{
-    "date": "2007-09-07 01:30:03",
-    "draft": false,
-    "publishDate": "2007-09-07 01:30:03",
-    "slug": "the-weekend",
-    "title": "the weekend",
-    "url": "\/the-weekend\/",
-    "tags": [
-        "bichon frise",
-        "cute",
-        "puppy",
-        "things look like things"
-    ],
-    "categories": [
-        "Share"
-    ]
-}[![a puppy running through a
+---
+categories:
+- Share
+date: "2007-09-07 01:30:03"
+draft: false
+publishDate: "2007-09-07 01:30:03"
+slug: the-weekend
+tags:
+- bichon frise
+- cute
+- puppy
+- things look like things
+title: the weekend
+url: /the-weekend/
+---
+[![a puppy running through a
 field](//farm1.static.flickr.com/68/200468433_e454752346.jpg)](http://www.flickr.com/photos/littlelakey/200468433/ "photo sharing")
 
 [the weekend](http://www.flickr.com/photos/littlelakey/200468433/),

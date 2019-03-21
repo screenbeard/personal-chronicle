@@ -1,19 +1,18 @@
-{
-    "date": "2009-11-03 02:14:30",
-    "draft": false,
-    "publishDate": "2009-11-03 02:14:30",
-    "slug": "waves-headaches-sleep",
-    "title": "Waves, headaches, sleep",
-    "url": "\/waves-headaches-sleep\/",
-    "tags": [
-        "Life",
-        "update",
-        "wave"
-    ],
-    "categories": [
-        "Life"
-    ]
-}I have been pretty tired lately. My bubby girl has not been sleeping
+---
+categories:
+- Life
+date: "2009-11-03 02:14:30"
+draft: false
+publishDate: "2009-11-03 02:14:30"
+slug: waves-headaches-sleep
+tags:
+- Life
+- update
+- wave
+title: Waves, headaches, sleep
+url: /waves-headaches-sleep/
+---
+I have been pretty tired lately. My bubby girl has not been sleeping
 well overnight for weeks, and as a result I'm not getting as much sleep
 as I'd like myself. In addition, I get headaches whenever I try and
 concentrate, which I had been putting down to tiredness, but might

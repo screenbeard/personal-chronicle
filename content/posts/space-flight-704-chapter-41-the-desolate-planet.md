@@ -1,18 +1,17 @@
-{
-    "date": "2012-05-16 09:30:31",
-    "draft": false,
-    "publishDate": "2012-05-16 09:30:31",
-    "slug": "space-flight-704-chapter-41-the-desolate-planet",
-    "title": "Space Flight 704, Chapter 41: The Desolate Planet",
-    "url": "\/space-flight-704-chapter-41-the-desolate-planet\/",
-    "tags": [
-        "Rex Havoc",
-        "voice in the flesh"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**"What did I do?"**
+---
+categories:
+- Space Flight 704
+date: "2012-05-16 09:30:31"
+draft: false
+publishDate: "2012-05-16 09:30:31"
+slug: space-flight-704-chapter-41-the-desolate-planet
+tags:
+- Rex Havoc
+- voice in the flesh
+title: 'Space Flight 704, Chapter 41: The Desolate Planet'
+url: /space-flight-704-chapter-41-the-desolate-planet/
+---
+**"What did I do?"**
 
 Rex and The Other walked the deserted city and Rex repeated the question
 again and again.

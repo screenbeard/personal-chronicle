@@ -1,21 +1,20 @@
-{
-    "date": "2013-04-01 00:55:22",
-    "draft": false,
-    "publishDate": "2013-04-01 00:55:22",
-    "slug": "space-flight-704-chapter-51-the-end",
-    "title": "Space Flight 704, Chapter P=51: The End",
-    "url": "\/space-flight-704-chapter-51-the-end\/",
-    "tags": [
-        "AF",
-        "Jones",
-        "jones-post",
-        "the end",
-        "whatever"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**I can travel through time?!**
+---
+categories:
+- Space Flight 704
+date: "2013-04-01 00:55:22"
+draft: false
+publishDate: "2013-04-01 00:55:22"
+slug: space-flight-704-chapter-51-the-end
+tags:
+- AF
+- Jones
+- jones-post
+- the end
+- whatever
+title: 'Space Flight 704, Chapter P=51: The End'
+url: /space-flight-704-chapter-51-the-end/
+---
+**I can travel through time?!**
 
 This is true power.
 

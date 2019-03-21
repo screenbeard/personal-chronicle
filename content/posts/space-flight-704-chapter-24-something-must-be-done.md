@@ -1,20 +1,19 @@
-{
-    "date": "2011-10-20 08:30:50",
-    "draft": false,
-    "publishDate": "2011-10-20 08:30:50",
-    "slug": "space-flight-704-chapter-24-something-must-be-done",
-    "title": "Space Flight 704, Chapter 24: Something Must Be Done",
-    "url": "\/space-flight-704-chapter-24-something-must-be-done\/",
-    "tags": [
-        "explode something",
-        "Rex Havoc",
-        "rocks",
-        "voice in the flesh"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex was itching to blast a hole in something.**
+---
+categories:
+- Space Flight 704
+date: "2011-10-20 08:30:50"
+draft: false
+publishDate: "2011-10-20 08:30:50"
+slug: space-flight-704-chapter-24-something-must-be-done
+tags:
+- explode something
+- Rex Havoc
+- rocks
+- voice in the flesh
+title: 'Space Flight 704, Chapter 24: Something Must Be Done'
+url: /space-flight-704-chapter-24-something-must-be-done/
+---
+**Rex was itching to blast a hole in something.**
 
 You could put a gun in his hand and he was unstoppable.
 

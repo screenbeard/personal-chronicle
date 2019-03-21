@@ -1,21 +1,20 @@
-{
-    "date": "2007-08-24 12:21:58",
-    "draft": false,
-    "publishDate": "2007-08-24 12:21:58",
-    "slug": "yellow-dog-cam",
-    "title": "Yellow Dog Cam",
-    "url": "\/yellow-dog-cam\/",
-    "tags": [
-        "camera",
-        "dog",
-        "friend",
-        "technology",
-        "web"
-    ],
-    "categories": [
-        "Share"
-    ]
-}Al's class of miniLegends got me this wonderful gift on Monday to say
+---
+categories:
+- Share
+date: "2007-08-24 12:21:58"
+draft: false
+publishDate: "2007-08-24 12:21:58"
+slug: yellow-dog-cam
+tags:
+- camera
+- dog
+- friend
+- technology
+- web
+title: Yellow Dog Cam
+url: /yellow-dog-cam/
+---
+Al's class of miniLegends got me this wonderful gift on Monday to say
 thank you for fixing and running the school's computers (it was SSO
 week).
 

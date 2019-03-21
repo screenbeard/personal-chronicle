@@ -1,15 +1,15 @@
-{
-    "date": "2009-09-23 07:57:21",
-    "draft": false,
-    "publishDate": "2009-09-23 07:57:21",
-    "slug": "private-int-javahackercoding-7",
-    "title": "private int javaHackerCoding = 7;",
-    "url": "\/private-int-javahackercoding-7\/",
-    "tags": [],
-    "categories": [
-        "Coding"
-    ]
-}I may have skipped one there I think. Class was good this last week. I
+---
+categories:
+- Coding
+date: "2009-09-23 07:57:21"
+draft: false
+publishDate: "2009-09-23 07:57:21"
+slug: private-int-javahackercoding-7
+tags: []
+title: private int javaHackerCoding = 7;
+url: /private-int-javahackercoding-7/
+---
+I may have skipped one there I think. Class was good this last week. I
 had a look at the example code we were given for the last hand up I did,
 and used it to properly break my long code into methods.
 

@@ -1,22 +1,21 @@
-{
-    "date": "2011-11-21 08:30:00",
-    "draft": false,
-    "publishDate": "2011-11-21 08:30:00",
-    "slug": "space-flight-556-stranger-in-her-midst",
-    "title": "Space Flight 556: Stranger in Her Midst.",
-    "url": "\/space-flight-556-stranger-in-her-midst\/",
-    "tags": [
-        "body double",
-        "replicant?",
-        "Rex Havoc",
-        "suspicion",
-        "Time Diversion",
-        "who is that man?"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He was infuriating and insufferable.**
+---
+categories:
+- Space Flight 704
+date: "2011-11-21 08:30:00"
+draft: false
+publishDate: "2011-11-21 08:30:00"
+slug: space-flight-556-stranger-in-her-midst
+tags:
+- body double
+- replicant?
+- Rex Havoc
+- suspicion
+- Time Diversion
+- who is that man?
+title: 'Space Flight 556: Stranger in Her Midst.'
+url: /space-flight-556-stranger-in-her-midst/
+---
+**He was infuriating and insufferable.**
 
 She hated to admit, he had his charms and a certain dangerous allure,
 but most of the time he also held an air of entitlement that made her

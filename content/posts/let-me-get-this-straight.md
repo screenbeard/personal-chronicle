@@ -1,19 +1,18 @@
-{
-    "date": "2011-03-15 20:58:40",
-    "draft": false,
-    "publishDate": "2011-03-15 20:58:40",
-    "slug": "let-me-get-this-straight",
-    "title": "Let me get this straight",
-    "url": "\/let-me-get-this-straight\/",
-    "tags": [
-        "stupid",
-        "working together",
-        "wtf"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}![](//tools.google.com/dlpage/res/webmmf/webm-ie9-yt-screenshot.png)://tools.google.com/dlpage/webmmf
+---
+categories:
+- Tech
+date: "2011-03-15 20:58:40"
+draft: false
+publishDate: "2011-03-15 20:58:40"
+slug: let-me-get-this-straight
+tags:
+- stupid
+- working together
+- wtf
+title: Let me get this straight
+url: /let-me-get-this-straight/
+---
+![](//tools.google.com/dlpage/res/webmmf/webm-ie9-yt-screenshot.png)://tools.google.com/dlpage/webmmf
 
 Why can't we all just get along?"
 

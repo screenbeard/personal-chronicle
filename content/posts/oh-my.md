@@ -1,17 +1,16 @@
-{
-    "date": "2009-10-20 03:56:40",
-    "draft": false,
-    "publishDate": "2009-10-20 03:56:40",
-    "slug": "oh-my",
-    "title": "Oh my.",
-    "url": "\/oh-my\/",
-    "tags": [
-        "fun"
-    ],
-    "categories": [
-        "Media"
-    ]
-}![tumblr\_krq1qrB4hW1qa7o0ko1\_500.jpg](https://turbo.geekorium.com.au/images/tumblr_krq1qrB4hW1qa7o0ko1_500.jpg){.s3-img}
+---
+categories:
+- Media
+date: "2009-10-20 03:56:40"
+draft: false
+publishDate: "2009-10-20 03:56:40"
+slug: oh-my
+tags:
+- fun
+title: Oh my.
+url: /oh-my/
+---
+![tumblr\_krq1qrB4hW1qa7o0ko1\_500.jpg](https://turbo.geekorium.com.au/images/tumblr_krq1qrB4hW1qa7o0ko1_500.jpg){.s3-img}
 
 > I think us Wavers should be worried…
 

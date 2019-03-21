@@ -1,23 +1,22 @@
-{
-    "date": "2009-10-27 22:34:47",
-    "draft": false,
-    "publishDate": "2009-10-27 22:34:47",
-    "slug": "four-reasons-wave-has-a-real-chance-to-replace-email",
-    "title": "Four reasons Wave has a real chance to replace email.",
-    "url": "\/four-reasons-wave-has-a-real-chance-to-replace-email\/",
-    "tags": [
-        "email",
-        "extensions",
-        "future",
-        "money",
-        "preview",
-        "roadmap",
-        "store"
-    ],
-    "categories": [
-        "Post"
-    ]
-}[The Next
+---
+categories:
+- Post
+date: "2009-10-27 22:34:47"
+draft: false
+publishDate: "2009-10-27 22:34:47"
+slug: four-reasons-wave-has-a-real-chance-to-replace-email
+tags:
+- email
+- extensions
+- future
+- money
+- preview
+- roadmap
+- store
+title: Four reasons Wave has a real chance to replace email.
+url: /four-reasons-wave-has-a-real-chance-to-replace-email/
+---
+[The Next
 Web](http://thenextweb.com/2009/10/27/google-wave-future-gtug-london/)
 attended the Google Wave GTUG (Google Technology User Group) meetup in
 London where Lars Rasmussen and Stephanie Hannon (the two responsible

@@ -1,22 +1,21 @@
-{
-    "date": "2011-09-14 09:30:50",
-    "draft": false,
-    "publishDate": "2011-09-14 09:30:50",
-    "slug": "space-flight-704-chapter-4-trust-is-not-a-destination",
-    "title": "Space Flight 704, Chapter 4: Trust Is Not a Destination",
-    "url": "\/space-flight-704-chapter-4-trust-is-not-a-destination\/",
-    "tags": [
-        "Final Flight of Xarnash",
-        "inventions",
-        "plan",
-        "Rex Havoc",
-        "shootout",
-        "The Professor"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**He'd have to thank The Professor.**
+---
+categories:
+- Space Flight 704
+date: "2011-09-14 09:30:50"
+draft: false
+publishDate: "2011-09-14 09:30:50"
+slug: space-flight-704-chapter-4-trust-is-not-a-destination
+tags:
+- Final Flight of Xarnash
+- inventions
+- plan
+- Rex Havoc
+- shootout
+- The Professor
+title: 'Space Flight 704, Chapter 4: Trust Is Not a Destination'
+url: /space-flight-704-chapter-4-trust-is-not-a-destination/
+---
+**He'd have to thank The Professor.**
 
 Every mission, it was usually The Professor's neat inventions that got
 him out of his predicaments. At least the minor predicaments anyway - he

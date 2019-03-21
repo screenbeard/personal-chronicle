@@ -1,20 +1,19 @@
-{
-    "date": "2010-03-02 03:57:33",
-    "draft": false,
-    "publishDate": "2010-03-02 03:57:33",
-    "slug": "submitty-and-gadgitty-two-bots-to-help-wave-developers",
-    "title": "Submitty and Gadgitty - Two Bots to Help Wave Developers",
-    "url": "\/submitty-and-gadgitty-two-bots-to-help-wave-developers\/",
-    "tags": [
-        "bots",
-        "extensions",
-        "gadgets",
-        "official help"
-    ],
-    "categories": [
-        "Post"
-    ]
-}Recently, the Wave Team have made a big push to publicise more bots and
+---
+categories:
+- Post
+date: "2010-03-02 03:57:33"
+draft: false
+publishDate: "2010-03-02 03:57:33"
+slug: submitty-and-gadgitty-two-bots-to-help-wave-developers
+tags:
+- bots
+- extensions
+- gadgets
+- official help
+title: Submitty and Gadgitty - Two Bots to Help Wave Developers
+url: /submitty-and-gadgitty-two-bots-to-help-wave-developers/
+---
+Recently, the Wave Team have made a big push to publicise more bots and
 extensions. In [a post to the Google Wave Help
 forum](http://www.google.com/support/forum/p/wave/thread?tid=33e8c48d858bd0ea&hl=en "Google Wave Help Forum Extension Link info"),
 Kylie announced that some users might start seeing a new Extensions link

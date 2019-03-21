@@ -1,18 +1,17 @@
-{
-    "date": "2005-12-28 05:10:43",
-    "draft": false,
-    "publishDate": "2005-12-28 05:10:43",
-    "slug": "outrage",
-    "title": "Outrage",
-    "url": "\/outrage\/",
-    "tags": [
-        "google",
-        "virus alert"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}It seems that I'm the only one shocked that Google keeps putting up
+---
+categories:
+- Tech
+date: "2005-12-28 05:10:43"
+draft: false
+publishDate: "2005-12-28 05:10:43"
+slug: outrage
+tags:
+- google
+- virus alert
+title: Outrage
+url: /outrage/
+---
+It seems that I'm the only one shocked that Google keeps putting up
 pages telling users (customers) that they have a virus. For those who
 don't know, some users (when making searches) are sent to a page that
 declares:

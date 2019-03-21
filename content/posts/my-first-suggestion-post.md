@@ -1,20 +1,19 @@
-{
-    "date": "2010-04-03 11:02:10",
-    "draft": false,
-    "publishDate": "2010-04-03 11:02:10",
-    "slug": "my-first-suggestion-post",
-    "title": "My First \"Suggestion\" Post",
-    "url": "\/my-first-suggestion-post\/",
-    "tags": [
-        "fun",
-        "rude",
-        "silly",
-        "spam"
-    ],
-    "categories": [
-        "Rambling"
-    ]
-}[![Wanker
+---
+categories:
+- Rambling
+date: "2010-04-03 11:02:10"
+draft: false
+publishDate: "2010-04-03 11:02:10"
+slug: my-first-suggestion-post
+tags:
+- fun
+- rude
+- silly
+- spam
+title: My First "Suggestion" Post
+url: /my-first-suggestion-post/
+---
+[![Wanker
 Grabber](//farm3.static.flickr.com/2100/2150918984_1681622289.jpg)](http://www.flickr.com/photos/chipandandy/2150918984/)
 
 It's relevant. I Swear.\

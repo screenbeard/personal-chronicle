@@ -1,15 +1,15 @@
-{
-    "date": "2010-06-13 13:06:05",
-    "draft": false,
-    "publishDate": "2010-06-13 13:06:05",
-    "slug": "as-good-as",
-    "title": "As Good As",
-    "url": "\/as-good-as\/",
-    "tags": [],
-    "categories": [
-        "Invention"
-    ]
-}I've been working on a new design for The Geekorium. I'm constantly
+---
+categories:
+- Invention
+date: "2010-06-13 13:06:05"
+draft: false
+publishDate: "2010-06-13 13:06:05"
+slug: as-good-as
+tags: []
+title: As Good As
+url: /as-good-as/
+---
+I've been working on a new design for The Geekorium. I'm constantly
 revising and trying to get it looking right, and I've previously made
 [my](//the.geekorium.com.au/joshnunn-theme/)
 [own](//the.geekorium.com.au/loading-ready-run/)

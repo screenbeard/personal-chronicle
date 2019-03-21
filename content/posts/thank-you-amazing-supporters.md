@@ -1,17 +1,16 @@
-{
-    "date": "2011-10-22 09:28:48",
-    "draft": false,
-    "publishDate": "2011-10-22 09:28:48",
-    "slug": "thank-you-amazing-supporters",
-    "title": "Thank You Amazing Supporters",
-    "url": "\/thank-you-amazing-supporters\/",
-    "tags": [
-        "cheers big ears!"
-    ],
-    "categories": [
-        "Site News"
-    ]
-}Hi there!
+---
+categories:
+- Site News
+date: "2011-10-22 09:28:48"
+draft: false
+publishDate: "2011-10-22 09:28:48"
+slug: thank-you-amazing-supporters
+tags:
+- cheers big ears!
+title: Thank You Amazing Supporters
+url: /thank-you-amazing-supporters/
+---
+Hi there!
 
 [![Thank you
 \*](https://turbo.geekorium.com.au/wp-content/uploads/2486506322_0df7094b181.jpg){width="412"

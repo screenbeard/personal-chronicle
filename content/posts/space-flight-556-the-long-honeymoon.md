@@ -1,21 +1,20 @@
-{
-    "date": "2011-12-14 08:30:00",
-    "draft": false,
-    "publishDate": "2011-12-14 08:30:00",
-    "slug": "space-flight-556-the-long-honeymoon",
-    "title": "Space Flight 556: The Long Honeymoon",
-    "url": "\/space-flight-556-the-long-honeymoon\/",
-    "tags": [
-        "cheap tricks",
-        "incarceration",
-        "Rex Havoc",
-        "The Princess",
-        "Time Diversion"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**"We've been locked in here for three weeks, how in space do you wake
+---
+categories:
+- Space Flight 704
+date: "2011-12-14 08:30:00"
+draft: false
+publishDate: "2011-12-14 08:30:00"
+slug: space-flight-556-the-long-honeymoon
+tags:
+- cheap tricks
+- incarceration
+- Rex Havoc
+- The Princess
+- Time Diversion
+title: 'Space Flight 556: The Long Honeymoon'
+url: /space-flight-556-the-long-honeymoon/
+---
+**"We've been locked in here for three weeks, how in space do you wake
 up cheerful every day? "**
 
 Rex had been whistling as usual, and despite herself, Anrianna felt

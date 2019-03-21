@@ -1,20 +1,19 @@
-{
-    "date": "2006-01-30 05:36:49",
-    "draft": false,
-    "publishDate": "2006-01-30 05:36:49",
-    "slug": "games-and-the-meaning-of-the-universe",
-    "title": "Games and the Meaning of the Universe",
-    "url": "\/games-and-the-meaning-of-the-universe\/",
-    "tags": [
-        "evolution",
-        "faith",
-        "game",
-        "god"
-    ],
-    "categories": [
-        "Religion"
-    ]
-}Ever heard of a Game called [Whizz
+---
+categories:
+- Religion
+date: "2006-01-30 05:36:49"
+draft: false
+publishDate: "2006-01-30 05:36:49"
+slug: games-and-the-meaning-of-the-universe
+tags:
+- evolution
+- faith
+- game
+- god
+title: Games and the Meaning of the Universe
+url: /games-and-the-meaning-of-the-universe/
+---
+Ever heard of a Game called [Whizz
 Ball](http://kids.discovery.com/games/whizzball/whizzball.html)? There
 was a game that I played on my Commodore 64 that was frickin' awesome
 called Wizball - the game I am talking about *isn't* that game. This

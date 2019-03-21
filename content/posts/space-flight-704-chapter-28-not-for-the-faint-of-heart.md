@@ -1,22 +1,21 @@
-{
-    "date": "2011-10-31 08:30:00",
-    "draft": false,
-    "publishDate": "2011-10-31 08:30:00",
-    "slug": "space-flight-704-chapter-28-not-for-the-faint-of-heart",
-    "title": "Space Flight 704, Chapter 28: Not for the Faint of Heart",
-    "url": "\/space-flight-704-chapter-28-not-for-the-faint-of-heart\/",
-    "tags": [
-        "destruction",
-        "Jones",
-        "mind",
-        "pain",
-        "power",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**It hadn't been particularly smart, in hindsight.**
+---
+categories:
+- Space Flight 704
+date: "2011-10-31 08:30:00"
+draft: false
+publishDate: "2011-10-31 08:30:00"
+slug: space-flight-704-chapter-28-not-for-the-faint-of-heart
+tags:
+- destruction
+- Jones
+- mind
+- pain
+- power
+- Rex Havoc
+title: 'Space Flight 704, Chapter 28: Not for the Faint of Heart'
+url: /space-flight-704-chapter-28-not-for-the-faint-of-heart/
+---
+**It hadn't been particularly smart, in hindsight.**
 
 He wasn't sure what he was going to do once he found him, but as soon as
 he'd realised Jones was the source of the ripples he felt, he began

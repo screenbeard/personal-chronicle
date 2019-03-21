@@ -1,9 +1,9 @@
 ---
-date: 2010-02-25 02:13:38
-draft: false
-title: Intermission
 categories:
 - Quick
+date: "2010-02-25 02:13:38"
+draft: false
+title: Intermission
 ---
 
 {{< youtube Mw91RJ_m_7g >}}

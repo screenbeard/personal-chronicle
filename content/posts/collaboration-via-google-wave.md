@@ -1,17 +1,16 @@
-{
-    "date": "2009-10-16 05:17:24",
-    "draft": false,
-    "publishDate": "2009-10-16 05:17:24",
-    "slug": "collaboration-via-google-wave",
-    "title": "Collaboration via Google Wave",
-    "url": "\/collaboration-via-google-wave\/",
-    "tags": [
-        "use case"
-    ],
-    "categories": [
-        "Media"
-    ]
-}[Original
+---
+categories:
+- Media
+date: "2009-10-16 05:17:24"
+draft: false
+publishDate: "2009-10-16 05:17:24"
+slug: collaboration-via-google-wave
+tags:
+- use case
+title: Collaboration via Google Wave
+url: /collaboration-via-google-wave/
+---
+[Original
 link](http://www.sdn.sap.com/irj/scn/elearn?rid=/library/uuid/e03471b6-db79-2c10-0681-b428df45d83c&overridelayout=true)
 
 The subject matter might be dry, but this 7 minute video demonstrates

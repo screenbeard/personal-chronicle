@@ -1,20 +1,19 @@
-{
-    "date": "2009-11-15 13:11:38",
-    "draft": false,
-    "publishDate": "2009-11-15 13:11:38",
-    "slug": "gadgets",
-    "title": "Gadget. A fun one",
-    "url": "\/gadgets\/",
-    "tags": [
-        "api",
-        "fun",
-        "gadgets",
-        "wave"
-    ],
-    "categories": [
-        "Post"
-    ]
-}Now I'm rather pleased that I can get myself around Wave, post links to
+---
+categories:
+- Post
+date: "2009-11-15 13:11:38"
+draft: false
+publishDate: "2009-11-15 13:11:38"
+slug: gadgets
+tags:
+- api
+- fun
+- gadgets
+- wave
+title: Gadget. A fun one
+url: /gadgets/
+---
+Now I'm rather pleased that I can get myself around Wave, post links to
 my photos and generally do all the good stuff.
 
 There are however, people of my acquaintance who are a lot more

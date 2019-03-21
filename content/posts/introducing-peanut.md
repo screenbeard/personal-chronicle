@@ -1,24 +1,23 @@
-{
-    "date": "2008-01-11 03:37:02",
-    "draft": false,
-    "publishDate": "2008-01-11 03:37:02",
-    "slug": "introducing-peanut",
-    "title": "Introducing... Peanut",
-    "url": "\/introducing-peanut\/",
-    "tags": [
-        "baby",
-        "family",
-        "first",
-        "friend",
-        "new addition",
-        "peanut",
-        "picture",
-        "ultrasound"
-    ],
-    "categories": [
-        "Life"
-    ]
-}Today is the day. Most of you already know, but today I get to write
+---
+categories:
+- Life
+date: "2008-01-11 03:37:02"
+draft: false
+publishDate: "2008-01-11 03:37:02"
+slug: introducing-peanut
+tags:
+- baby
+- family
+- first
+- friend
+- new addition
+- peanut
+- picture
+- ultrasound
+title: Introducing... Peanut
+url: /introducing-peanut/
+---
+Today is the day. Most of you already know, but today I get to write
 about it.
 
 I'm gonna be a daddy. My wife of five years is pregnant and we couldn't

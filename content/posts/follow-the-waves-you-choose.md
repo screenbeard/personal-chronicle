@@ -1,20 +1,19 @@
-{
-    "date": "2009-11-12 23:05:26",
-    "draft": false,
-    "publishDate": "2009-11-12 23:05:26",
-    "slug": "follow-the-waves-you-choose",
-    "title": "Follow, Follow, Follow, Follow the Waves You Choose",
-    "url": "\/follow-the-waves-you-choose\/",
-    "tags": [
-        "community",
-        "new feature",
-        "official help",
-        "tip"
-    ],
-    "categories": [
-        "Post"
-    ]
-}Probably the most important part of the Wave experience for new user has
+---
+categories:
+- Post
+date: "2009-11-12 23:05:26"
+draft: false
+publishDate: "2009-11-12 23:05:26"
+slug: follow-the-waves-you-choose
+tags:
+- community
+- new feature
+- official help
+- tip
+title: Follow, Follow, Follow, Follow the Waves You Choose
+url: /follow-the-waves-you-choose/
+---
+Probably the most important part of the Wave experience for new user has
 been the ability to search for public waves to join. Without Public
 Waves many people would not have enough of a network to really
 experience Wave in full, and the Wave community may not have grown as

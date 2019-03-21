@@ -1,20 +1,19 @@
-{
-    "date": "2009-10-24 01:00:00",
-    "draft": false,
-    "publishDate": "2009-10-24 01:00:00",
-    "slug": "expecting-invites-to-give-out",
-    "title": "Expecting invites to give out? This is why you might not have them",
-    "url": "\/expecting-invites-to-give-out\/",
-    "tags": [
-        "faq",
-        "invites",
-        "official help",
-        "support"
-    ],
-    "categories": [
-        "Link"
-    ]
-}One thing I've been wondering is how we'll get the chance to invite more
+---
+categories:
+- Link
+date: "2009-10-24 01:00:00"
+draft: false
+publishDate: "2009-10-24 01:00:00"
+slug: expecting-invites-to-give-out
+tags:
+- faq
+- invites
+- official help
+- support
+title: Expecting invites to give out? This is why you might not have them
+url: /expecting-invites-to-give-out/
+---
+One thing I've been wondering is how we'll get the chance to invite more
 people to Wave. I was one of the lucky ones who got in on the first
 round, and had invites to share, but those I've invited haven't been so
 lucky. Currently my invite counter is sitting at “00” too.

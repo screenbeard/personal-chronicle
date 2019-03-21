@@ -1,21 +1,20 @@
-{
-    "date": "2011-09-27 09:30:14",
-    "draft": false,
-    "publishDate": "2011-09-27 09:30:14",
-    "slug": "space-flight-704-chapter-13-confusion-is-a-stranger-in-bed",
-    "title": "Space Flight 704, Chapter 13: Confusion is a Stranger in Bed",
-    "url": "\/space-flight-704-chapter-13-confusion-is-a-stranger-in-bed\/",
-    "tags": [
-        "ghost",
-        "mortal",
-        "Rex Havoc",
-        "Torimbalo",
-        "voice in the dark"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**The voice was taking shape inside his mind.**
+---
+categories:
+- Space Flight 704
+date: "2011-09-27 09:30:14"
+draft: false
+publishDate: "2011-09-27 09:30:14"
+slug: space-flight-704-chapter-13-confusion-is-a-stranger-in-bed
+tags:
+- ghost
+- mortal
+- Rex Havoc
+- Torimbalo
+- voice in the dark
+title: 'Space Flight 704, Chapter 13: Confusion is a Stranger in Bed'
+url: /space-flight-704-chapter-13-confusion-is-a-stranger-in-bed/
+---
+**The voice was taking shape inside his mind.**
 
 Each time it spoke, Rex imagined he saw a dark form slowly growing
 clearer in front of him.

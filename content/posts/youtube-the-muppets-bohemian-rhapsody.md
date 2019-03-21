@@ -1,13 +1,13 @@
 ---
-date: 2009-11-25 00:44:47
+categories:
+- Share
+date: "2009-11-25 00:44:47"
 draft: false
-title: 'YouTube - The Muppets: Bohemian Rhapsody'
 tags:
 - blatantly ripped
 - fun
 - muppet
-categories:
-- Share
+title: 'YouTube - The Muppets: Bohemian Rhapsody'
 ---
 
 {{< youtube tgbNymZ7vqY >}}

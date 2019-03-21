@@ -1,15 +1,15 @@
-{
-    "date": "2011-09-07 23:42:00",
-    "draft": false,
-    "publishDate": "2011-09-07 23:42:00",
-    "slug": "blast",
-    "title": "Blast.",
-    "url": "\/blast\/",
-    "tags": [],
-    "categories": [
-        "Quick"
-    ]
-}I can't find a social network that doesn't give me the shits.
+---
+categories:
+- Quick
+date: "2011-09-07 23:42:00"
+draft: false
+publishDate: "2011-09-07 23:42:00"
+slug: blast
+tags: []
+title: Blast.
+url: /blast/
+---
+I can't find a social network that doesn't give me the shits.
 
 Maybe I'll try Buddycloud.
 

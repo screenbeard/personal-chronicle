@@ -1,18 +1,17 @@
-{
-    "date": "2006-06-04 13:45:11",
-    "draft": false,
-    "publishDate": "2006-06-04 13:45:11",
-    "slug": "confusion-and-head-trauma",
-    "title": "Confusion and head-trauma",
-    "url": "\/confusion-and-head-trauma\/",
-    "tags": [
-        "faith",
-        "god"
-    ],
-    "categories": [
-        "Religion"
-    ]
-}Just a quick update. I've wanted to write for a while because I have a
+---
+categories:
+- Religion
+date: "2006-06-04 13:45:11"
+draft: false
+publishDate: "2006-06-04 13:45:11"
+slug: confusion-and-head-trauma
+tags:
+- faith
+- god
+title: Confusion and head-trauma
+url: /confusion-and-head-trauma/
+---
+Just a quick update. I've wanted to write for a while because I have a
 lot of questions spinning around in my head. The problems are - I have
 no time to think, and the thoughts are so large and complex that I
 cannot hold them together for a long enough time to write them down.

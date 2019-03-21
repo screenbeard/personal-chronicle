@@ -1,22 +1,21 @@
-{
-    "date": "2007-04-22 10:36:24",
-    "draft": false,
-    "publishDate": "2007-04-22 10:36:24",
-    "slug": "im-sorry-i-swore-id-never-do-this",
-    "title": "I'm sorry, I swore I'd never do this",
-    "url": "\/im-sorry-i-swore-id-never-do-this\/",
-    "tags": [
-        "comicstrip",
-        "dr mcninja",
-        "perry bible fellowship",
-        "saturday morning breakfast cereal",
-        "wondermark",
-        "xkcd"
-    ],
-    "categories": [
-        "Share"
-    ]
-}I told myself this blog would not just be made up of snippets of other
+---
+categories:
+- Share
+date: "2007-04-22 10:36:24"
+draft: false
+publishDate: "2007-04-22 10:36:24"
+slug: im-sorry-i-swore-id-never-do-this
+tags:
+- comicstrip
+- dr mcninja
+- perry bible fellowship
+- saturday morning breakfast cereal
+- wondermark
+- xkcd
+title: I'm sorry, I swore I'd never do this
+url: /im-sorry-i-swore-id-never-do-this/
+---
+I told myself this blog would not just be made up of snippets of other
 people's work co-opted and written into mine. So I'm very appalled at
 myself for what I'm about to do - namely: stick someone's web comic into
 a post and call it a night.

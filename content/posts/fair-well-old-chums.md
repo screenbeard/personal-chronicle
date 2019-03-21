@@ -1,15 +1,15 @@
 ---
-date: 2010-06-17 05:30:09
+categories:
+- Share
+date: "2010-06-17 05:30:09"
 draft: false
-title: Fair-well Old Chums
 tags:
 - awesome
 - cute
 - fun
 - humour
 - muppet show
-categories:
-- Share
+title: Fair-well Old Chums
 ---
 
 As much as I miss the genius of [Jim Henson](http://en.wikipedia.org/wiki/Jim_Henson), I realised the other day that I will miss something else just as much as Jim's Muppet characters. I will miss the insane and brilliant pieces of comedy gold he used to create with [Frank Oz](http://en.wikipedia.org/wiki/Frank_Oz).

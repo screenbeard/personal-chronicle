@@ -1,21 +1,20 @@
-{
-    "date": "2011-10-25 08:32:45",
-    "draft": false,
-    "publishDate": "2011-10-25 08:32:45",
-    "slug": "space-flight-631-the-dungeons-of-belgarr-2",
-    "title": "Space Flight 631: The Dungeons of Belgarr",
-    "url": "\/space-flight-631-the-dungeons-of-belgarr-2\/",
-    "tags": [
-        "Belgarr",
-        "lost chapter",
-        "prequel",
-        "Princess",
-        "Rex Havoc"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**Rex clutched the Princess to his chest and leapt from the tower.**
+---
+categories:
+- Space Flight 704
+date: "2011-10-25 08:32:45"
+draft: false
+publishDate: "2011-10-25 08:32:45"
+slug: space-flight-631-the-dungeons-of-belgarr-2
+tags:
+- Belgarr
+- lost chapter
+- prequel
+- Princess
+- Rex Havoc
+title: 'Space Flight 631: The Dungeons of Belgarr'
+url: /space-flight-631-the-dungeons-of-belgarr-2/
+---
+**Rex clutched the Princess to his chest and leapt from the tower.**
 
 The Professor's new grappling line snapped taut and swung Rex and his
 charge in a wide arc around the outside of the tower and back in towards

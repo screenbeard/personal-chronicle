@@ -1,20 +1,18 @@
-{
-    "date": "2012-02-05 10:03:59",
-    "draft": false,
-    "publishDate": "2012-02-05 10:03:59",
-    "slug": "get-space-flight-704",
-    "title": "Get Space Flight 704: Free Downloads",
-    "url": "\/get-space-flight-704\/",
-    "tags": [
-        "ebook",
-        "Final Flight of Xarnash",
-        "Rex Havoc",
-        "Space Flight 704"
-    ],
-    "categories": [
-        "eBook"
-    ]
-}
+---
+categories:
+- eBook
+date: "2012-02-05 10:03:59"
+draft: false
+publishDate: "2012-02-05 10:03:59"
+slug: get-space-flight-704
+tags:
+- ebook
+- Final Flight of Xarnash
+- Rex Havoc
+- Space Flight 704
+title: 'Get Space Flight 704: Free Downloads'
+url: /get-space-flight-704/
+---
 
 {{< figure src="https://turbo.geekorium.com.au/wp-content/uploads/Final-Flight-of-Xarnash-cover-421x600.png" caption="Found an old copy in the attic" >}}
 

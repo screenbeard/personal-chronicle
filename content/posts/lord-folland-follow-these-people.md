@@ -1,18 +1,17 @@
-{
-    "date": "2009-06-29 11:23:07",
-    "draft": false,
-    "publishDate": "2009-06-29 11:23:07",
-    "slug": "lord-folland-follow-these-people",
-    "title": "Lord Folland (@lordfolland)",
-    "url": "\/lord-folland-follow-these-people\/",
-    "tags": [
-        "friend",
-        "Twitter"
-    ],
-    "categories": [
-        "Share"
-    ]
-}[Lord Folland of Albion](http://lordfolland.blogspot.com/) (or David as
+---
+categories:
+- Share
+date: "2009-06-29 11:23:07"
+draft: false
+publishDate: "2009-06-29 11:23:07"
+slug: lord-folland-follow-these-people
+tags:
+- friend
+- Twitter
+title: Lord Folland (@lordfolland)
+url: /lord-folland-follow-these-people/
+---
+[Lord Folland of Albion](http://lordfolland.blogspot.com/) (or David as
 he was known before he took the throne of Albion in a ~~bloody~~ *muddy*
 coup) has been a mate of mine for years. We used to attend the same
 church, and had enormous fun making videos together and editing them on

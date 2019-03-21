@@ -1,18 +1,17 @@
-{
-    "date": "2008-07-19 12:46:48",
-    "draft": false,
-    "publishDate": "2008-07-19 12:46:48",
-    "slug": "my-batman-the-dark-knight-review-in-700-characters-or-less",
-    "title": "My \"Batman: the Dark Knight\" review in 700 characters or less",
-    "url": "\/my-batman-the-dark-knight-review-in-700-characters-or-less\/",
-    "tags": [
-        "Dark Knight",
-        "Iron Man"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}I loved the *Dark Knight*. It was fun, but it was also dark and
+---
+categories:
+- Opinions
+date: "2008-07-19 12:46:48"
+draft: false
+publishDate: "2008-07-19 12:46:48"
+slug: my-batman-the-dark-knight-review-in-700-characters-or-less
+tags:
+- Dark Knight
+- Iron Man
+title: 'My "Batman: the Dark Knight" review in 700 characters or less'
+url: /my-batman-the-dark-knight-review-in-700-characters-or-less/
+---
+I loved the *Dark Knight*. It was fun, but it was also dark and
 difficult to watch. The film was experimental (for a comic book movie)
 that was a contrast to the big loud and also terrific *Iron Man* a
 couple of months ago.

@@ -1,22 +1,21 @@
-{
-    "date": "2009-06-06 01:17:00",
-    "draft": false,
-    "publishDate": "2009-06-06 01:17:00",
-    "slug": "wave-the-platform",
-    "title": "Wave the Platform",
-    "url": "\/wave-the-platform\/",
-    "tags": [
-        "api",
-        "bots",
-        "debate",
-        "extensions",
-        "gadgets",
-        "use case"
-    ],
-    "categories": [
-        "Post"
-    ]
-}This is Google Wave as a Platform, one of the "Three Ps" of the Wave.
+---
+categories:
+- Post
+date: "2009-06-06 01:17:00"
+draft: false
+publishDate: "2009-06-06 01:17:00"
+slug: wave-the-platform
+tags:
+- api
+- bots
+- debate
+- extensions
+- gadgets
+- use case
+title: Wave the Platform
+url: /wave-the-platform/
+---
+This is Google Wave as a Platform, one of the "Three Ps" of the Wave.
 The [API](http://code.google.com/apis/wave/) gives developers a way to
 plug in to the Wave product and offer new and interesting ways of using
 waves. For instance at the preview, a software robot developed using the

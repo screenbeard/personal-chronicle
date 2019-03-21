@@ -1,19 +1,18 @@
-{
-    "date": "2009-10-23 23:15:53",
-    "draft": false,
-    "publishDate": "2009-10-23 23:15:53",
-    "slug": "exits-are-east-south",
-    "title": "Exits are East, South: Wave Dice Gadget",
-    "url": "\/exits-are-east-south\/",
-    "tags": [
-        "extensions",
-        "gadgets",
-        "games"
-    ],
-    "categories": [
-        "Link"
-    ]
-}For the geeks out there (oh wait, that's all of you) this gadget is for
+---
+categories:
+- Link
+date: "2009-10-23 23:15:53"
+draft: false
+publishDate: "2009-10-23 23:15:53"
+slug: exits-are-east-south
+tags:
+- extensions
+- gadgets
+- games
+title: 'Exits are East, South: Wave Dice Gadget'
+url: /exits-are-east-south/
+---
+For the geeks out there (oh wait, that's all of you) this gadget is for
 you.
 
 The Wave Dice Gadget generates a dice-roll for you, and supports

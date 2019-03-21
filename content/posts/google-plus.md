@@ -1,22 +1,21 @@
-{
-    "date": "2011-07-13 13:02:33",
-    "draft": false,
-    "publishDate": "2011-07-13 13:02:33",
-    "slug": "google-plus",
-    "title": "Google+ (or Google Plus if you wanna be search-engine friendly)",
-    "url": "\/google-plus\/",
-    "tags": [
-        "buzz",
-        "facebook",
-        "google",
-        "new",
-        "sharing",
-        "social"
-    ],
-    "categories": [
-        "Post"
-    ]
-}So I'm hanging out on Google+. I mean literally of course - the second
+---
+categories:
+- Post
+date: "2011-07-13 13:02:33"
+draft: false
+publishDate: "2011-07-13 13:02:33"
+slug: google-plus
+tags:
+- buzz
+- facebook
+- google
+- new
+- sharing
+- social
+title: Google+ (or Google Plus if you wanna be search-engine friendly)
+url: /google-plus/
+---
+So I'm hanging out on Google+. I mean literally of course - the second
 ((or third?)) new social network that Google has launched in the last
 couple of years has a "hangout" feature where you can chat with lots of
 friends simultaneously via video. I've never tried it, so I'm sitting

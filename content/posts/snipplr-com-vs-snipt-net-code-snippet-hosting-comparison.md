@@ -1,20 +1,19 @@
-{
-    "date": "2009-07-30 01:31:20",
-    "draft": false,
-    "publishDate": "2009-07-30 01:31:20",
-    "slug": "snipplr-com-vs-snipt-net-code-snippet-hosting-comparison",
-    "title": "Snipplr.com vs Snipt.net - code snippet hosting comparison.",
-    "url": "\/snipplr-com-vs-snipt-net-code-snippet-hosting-comparison\/",
-    "tags": [
-        "learning",
-        "services",
-        "snipplr",
-        "snipt.net"
-    ],
-    "categories": [
-        "Coding"
-    ]
-}So I'm looking to start storing short bits of code online. With my Java
+---
+categories:
+- Coding
+date: "2009-07-30 01:31:20"
+draft: false
+publishDate: "2009-07-30 01:31:20"
+slug: snipplr-com-vs-snipt-net-code-snippet-hosting-comparison
+tags:
+- learning
+- services
+- snipplr
+- snipt.net
+title: Snipplr.com vs Snipt.net - code snippet hosting comparison.
+url: /snipplr-com-vs-snipt-net-code-snippet-hosting-comparison/
+---
+So I'm looking to start storing short bits of code online. With my Java
 course starting tonight, it might be nice to have a place to share and
 exchange code with my classmates, and store for later use. I've been
 checking out some online code snippet repositories, and narrowed it down

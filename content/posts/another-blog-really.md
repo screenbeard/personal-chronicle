@@ -1,18 +1,17 @@
-{
-    "date": "2007-03-12 09:56:57",
-    "draft": false,
-    "publishDate": "2007-03-12 09:56:57",
-    "slug": "another-blog-really",
-    "title": "Another Blog? Really?",
-    "url": "\/another-blog-really\/",
-    "tags": [
-        "personal",
-        "Tech"
-    ],
-    "categories": [
-        "Education"
-    ]
-}This was my first thought when Al said he'd created an EduBlogs blog for
+---
+categories:
+- Education
+date: "2007-03-12 09:56:57"
+draft: false
+publishDate: "2007-03-12 09:56:57"
+slug: another-blog-really
+tags:
+- personal
+- Tech
+title: Another Blog? Really?
+url: /another-blog-really/
+---
+This was my first thought when Al said he'd created an EduBlogs blog for
 me. I already blog infrequently on two of my own blogs, and it seems
 every website that ever tried to be 'two point oh' offers a free blog. I
 have an unused blogger account, a wordpress blog that I had to sign up

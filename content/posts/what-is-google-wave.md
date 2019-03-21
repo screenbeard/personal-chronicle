@@ -1,13 +1,13 @@
 ---
-date: 2009-10-03 09:03:14
+categories:
+- Media
+date: "2009-10-03 09:03:14"
 draft: false
-title: What is Google Wave?
 tags:
 - guide
 - support
 - use case
-categories:
-- Media
+title: What is Google Wave?
 ---
 
 {{< youtube rDu2A3WzQpo >}}

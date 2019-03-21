@@ -1,19 +1,18 @@
-{
-    "date": "2010-04-12 12:10:50",
-    "draft": false,
-    "publishDate": "2010-04-12 12:10:50",
-    "slug": "bye-bye-disqus",
-    "title": "Bye Bye, Disqus",
-    "url": "\/bye-bye-disqus\/",
-    "tags": [
-        "comments",
-        "technology",
-        "test"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}Tonight I disabled Disqus and tried to implement some of the same
+---
+categories:
+- Tech
+date: "2010-04-12 12:10:50"
+draft: false
+publishDate: "2010-04-12 12:10:50"
+slug: bye-bye-disqus
+tags:
+- comments
+- technology
+- test
+title: Bye Bye, Disqus
+url: /bye-bye-disqus/
+---
+Tonight I disabled Disqus and tried to implement some of the same
 features manually. Rubenerd has been [pushing his anti-disqus
 agenda](//rubenerd.com/shocking-truth-disqus-et-al/) for some time, and
 it ramped up when [Taryn proclaimed it's

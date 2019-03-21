@@ -1,19 +1,18 @@
-{
-    "date": "2006-07-03 05:15:39",
-    "draft": false,
-    "publishDate": "2006-07-03 05:15:39",
-    "slug": "hercules-returns-please",
-    "title": "Hercules Returns: PLEASE!",
-    "url": "\/hercules-returns-please\/",
-    "tags": [
-        "comedy",
-        "hercules returns",
-        "movie"
-    ],
-    "categories": [
-        "Opinions"
-    ]
-}I was reading about some stupid but fun movies on [DVD
+---
+categories:
+- Opinions
+date: "2006-07-03 05:15:39"
+draft: false
+publishDate: "2006-07-03 05:15:39"
+slug: hercules-returns-please
+tags:
+- comedy
+- hercules returns
+- movie
+title: 'Hercules Returns: PLEASE!'
+url: /hercules-returns-please/
+---
+I was reading about some stupid but fun movies on [DVD
 Verdict](http://www.dvdverdict.com/ "DVD Verdict: DVD Reviews, with Flair"),
 and thought I'd get their opinion on a movie released in 1993 that was
 one of the silliest, and most quotable movies of all time - *Hercules

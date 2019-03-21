@@ -1,21 +1,20 @@
-{
-    "date": "2013-04-23 07:30:04",
-    "draft": false,
-    "publishDate": "2013-04-23 07:30:04",
-    "slug": "space-flight-704-chapter-56",
-    "title": "Space Flight 704, Chapter 56: The Changes of Time",
-    "url": "\/space-flight-704-chapter-56\/",
-    "tags": [
-        "Jones",
-        "Ortirx",
-        "Rex Havoc",
-        "The Professor",
-        "time-belt"
-    ],
-    "categories": [
-        "Space Flight 704"
-    ]
-}**The time-belt was the Ortrix again.**
+---
+categories:
+- Space Flight 704
+date: "2013-04-23 07:30:04"
+draft: false
+publishDate: "2013-04-23 07:30:04"
+slug: space-flight-704-chapter-56
+tags:
+- Jones
+- Ortirx
+- Rex Havoc
+- The Professor
+- time-belt
+title: 'Space Flight 704, Chapter 56: The Changes of Time'
+url: /space-flight-704-chapter-56/
+---
+**The time-belt was the Ortrix again.**
 
 And now the time-belt.
 

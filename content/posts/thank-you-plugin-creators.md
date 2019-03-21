@@ -1,20 +1,19 @@
-{
-    "date": "2009-01-29 03:14:45",
-    "draft": false,
-    "publishDate": "2009-01-29 03:14:45",
-    "slug": "thank-you-plugin-creators",
-    "title": "Thank You Plugin Creators!",
-    "url": "\/thank-you-plugin-creators\/",
-    "tags": [
-        "Flickr",
-        "Matt Mullenweg",
-        "plugin",
-        "wordpress"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}Matt Mullenweg has declared today "[Thank a Plugin Developer
+---
+categories:
+- Tech
+date: "2009-01-29 03:14:45"
+draft: false
+publishDate: "2009-01-29 03:14:45"
+slug: thank-you-plugin-creators
+tags:
+- Flickr
+- Matt Mullenweg
+- plugin
+- wordpress
+title: Thank You Plugin Creators!
+url: /thank-you-plugin-creators/
+---
+Matt Mullenweg has declared today "[Thank a Plugin Developer
 Day](http://wordpress.org/development/2009/01/thank-a-plugin-developer-day/)"
 to celebrate Wordpress passing the 4000 plugin mark. Often Plugins are
 created for free and have tonnes of hard work put into them for little

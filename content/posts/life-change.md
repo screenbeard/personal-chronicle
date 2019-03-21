@@ -1,15 +1,14 @@
-{
-    "date": "2012-04-18 21:00:00",
-    "draft": false,
-    "publishDate": "2012-04-18 21:00:00",
-    "slug": "life-change",
-    "title": "Life == Change",
-    "url": "\/life-change\/",
-    "tags": [],
-    "categories": [
-        "Life"
-    ]
-}
+---
+categories:
+- Life
+date: "2012-04-18 21:00:00"
+draft: false
+publishDate: "2012-04-18 21:00:00"
+slug: life-change
+tags: []
+title: Life == Change
+url: /life-change/
+---
 
 The ever-lovely Mil has been feeling pretty crap of late, more so than
 usual. It's really weird. Sort of a sickness. In the morning [^actually,

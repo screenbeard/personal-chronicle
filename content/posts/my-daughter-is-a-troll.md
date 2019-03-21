@@ -1,21 +1,20 @@
-{
-    "date": "2011-03-31 23:53:52",
-    "draft": false,
-    "publishDate": "2011-03-31 23:53:52",
-    "slug": "my-daughter-is-a-troll",
-    "title": "My daughter is a troll",
-    "url": "\/my-daughter-is-a-troll\/",
-    "tags": [
-        "Amelynne",
-        "Camilla",
-        "conversation",
-        "troll",
-        "who's on first"
-    ],
-    "categories": [
-        "Share"
-    ]
-}Amelynne in a conversation with Mil.
+---
+categories:
+- Share
+date: "2011-03-31 23:53:52"
+draft: false
+publishDate: "2011-03-31 23:53:52"
+slug: my-daughter-is-a-troll
+tags:
+- Amelynne
+- Camilla
+- conversation
+- troll
+- who's on first
+title: My daughter is a troll
+url: /my-daughter-is-a-troll/
+---
+Amelynne in a conversation with Mil.
 
 **Amelynne**: (muttering something uninteligable) Does it Mama?\
 **Camilla**: Does what?\

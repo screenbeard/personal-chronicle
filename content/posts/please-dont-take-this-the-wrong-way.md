@@ -1,19 +1,18 @@
-{
-    "date": "2006-03-16 22:51:06",
-    "draft": false,
-    "publishDate": "2006-03-16 22:51:06",
-    "slug": "please-dont-take-this-the-wrong-way",
-    "title": "Please don't take this the wrong way.",
-    "url": "\/please-dont-take-this-the-wrong-way\/",
-    "tags": [
-        "atheism",
-        "discuss",
-        "god"
-    ],
-    "categories": [
-        "Religion"
-    ]
-}**I am not an atheist!** I say this because I am about to link to an
+---
+categories:
+- Religion
+date: "2006-03-16 22:51:06"
+draft: false
+publishDate: "2006-03-16 22:51:06"
+slug: please-dont-take-this-the-wrong-way
+tags:
+- atheism
+- discuss
+- god
+title: Please don't take this the wrong way.
+url: /please-dont-take-this-the-wrong-way/
+---
+**I am not an atheist!** I say this because I am about to link to an
 article that makes a few excellent points about common Christian
 arguments. Before I give you the link I want to stress that I am not
 saying that I am an atheist, or that there are no reasonable arguments

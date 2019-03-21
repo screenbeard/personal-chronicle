@@ -1,19 +1,18 @@
-{
-    "date": "2010-05-28 08:18:24",
-    "draft": false,
-    "publishDate": "2010-05-28 08:18:24",
-    "slug": "bozo-the-clown-communications-minister",
-    "title": "Bozo, the Clown Communications Minister",
-    "url": "\/bozo-the-clown-communications-minister\/",
-    "tags": [
-        "numbskull",
-        "seriously just be quiet now",
-        "stop talking please"
-    ],
-    "categories": [
-        "Tech"
-    ]
-}> "This is probably the single greatest breach in the history of
+---
+categories:
+- Tech
+date: "2010-05-28 08:18:24"
+draft: false
+publishDate: "2010-05-28 08:18:24"
+slug: bozo-the-clown-communications-minister
+tags:
+- numbskull
+- seriously just be quiet now
+- stop talking please
+title: Bozo, the Clown Communications Minister
+url: /bozo-the-clown-communications-minister/
+---
+> "This is probably the single greatest breach in the history of
 > privacy."
 
 Steven Conroy on Google's (accidental) collection of *unsecured* (and

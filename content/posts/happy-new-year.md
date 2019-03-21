@@ -1,18 +1,17 @@
-{
-    "date": "2006-01-02 01:59:26",
-    "draft": false,
-    "publishDate": "2006-01-02 01:59:26",
-    "slug": "happy-new-year",
-    "title": "Happy New Year",
-    "url": "\/happy-new-year\/",
-    "tags": [
-        "christmas",
-        "new year"
-    ],
-    "categories": [
-        "Life"
-    ]
-}Hope you all had a great 2005. I had an average year, with some really
+---
+categories:
+- Life
+date: "2006-01-02 01:59:26"
+draft: false
+publishDate: "2006-01-02 01:59:26"
+slug: happy-new-year
+tags:
+- christmas
+- new year
+title: Happy New Year
+url: /happy-new-year/
+---
+Hope you all had a great 2005. I had an average year, with some really
 great things, like being given a job at a great place I love to work,
 and some not so great things. At Christmas lunch with the family I was
 made to score my year, and I gave it a P1 (pass).

@@ -1,15 +1,14 @@
-{
-    "date": "2018-04-12 13:28:26",
-    "draft": false,
-    "publishDate": "2018-04-12 13:28:26",
-    "slug": "internet-draft-comment-systems",
-    "title": "Internet Draft: Comment systems",
-    "url": "\/internet-draft-comment-systems\/",
-    "tags": [],
-    "categories": [
-    "Rambling"
-    ]
-}
+---
+categories:
+- Rambling
+date: "2018-04-12 13:28:26"
+draft: false
+publishDate: "2018-04-12 13:28:26"
+slug: internet-draft-comment-systems
+tags: []
+title: 'Internet Draft: Comment systems'
+url: /internet-draft-comment-systems/
+---
 
 Having fired up the old blogging engine[^die], I now find myself wanting to comment on [Rubenerd's latest post](https://rubenerd.com/rfc-comment-systems/) about enabling a commenting system, but find that due to lack of a comment system I cannot! And also having trashed both my Twitter and Facebook accounts in a single week, I now have NO CONCEIVABLE WAY to get in touch with the man. I mean, despite email and other antiquated ways of communication - should I perhaps be sending smoke signals?
 

@@ -1,22 +1,21 @@
-{
-    "date": "2009-08-27 08:02:34",
-    "draft": false,
-    "publishDate": "2009-08-27 08:02:34",
-    "slug": "the-big-4-oh-javahackercoding",
-    "title": "The big 4 oh (javahackercoding)",
-    "url": "\/the-big-4-oh-javahackercoding\/",
-    "tags": [
-        "class",
-        "code",
-        "fun",
-        "java",
-        "tafe",
-        "thanks"
-    ],
-    "categories": [
-        "Coding"
-    ]
-}So I have neglectfully not blogged since my update during class last
+---
+categories:
+- Coding
+date: "2009-08-27 08:02:34"
+draft: false
+publishDate: "2009-08-27 08:02:34"
+slug: the-big-4-oh-javahackercoding
+tags:
+- class
+- code
+- fun
+- java
+- tafe
+- thanks
+title: The big 4 oh (javahackercoding)
+url: /the-big-4-oh-javahackercoding/
+---
+So I have neglectfully not blogged since my update during class last
 week. All week I was thinking I had already. When my mum ((hello mum!))
 said she'd read my site and hoped class would get better for me I
 realised the impression I had left you with was still that I had no idea

@@ -1,20 +1,19 @@
-{
-    "date": "2010-03-30 06:10:20",
-    "draft": false,
-    "publishDate": "2010-03-30 06:10:20",
-    "slug": "how-wave-could-tackle-the-spam-problem",
-    "title": "How Wave Could Tackle the Spam Problem",
-    "url": "\/how-wave-could-tackle-the-spam-problem\/",
-    "tags": [
-        "future",
-        "opinion",
-        "problem",
-        "spam"
-    ],
-    "categories": [
-        "Post"
-    ]
-}The Wave team have said very little about how they will address the spam
+---
+categories:
+- Post
+date: "2010-03-30 06:10:20"
+draft: false
+publishDate: "2010-03-30 06:10:20"
+slug: how-wave-could-tackle-the-spam-problem
+tags:
+- future
+- opinion
+- problem
+- spam
+title: How Wave Could Tackle the Spam Problem
+url: /how-wave-could-tackle-the-spam-problem/
+---
+The Wave team have said very little about how they will address the spam
 problem, but from some clues and hints in the interface and what they
 have said, I can take a couple of guesses about how they could start to
 tackle it.
