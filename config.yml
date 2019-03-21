@@ -34,5 +34,8 @@ params:
         site: the.geekorium.com.au
 permalinks:
     posts: /:title
+privacy:
+  youtube:
+    privacyEnhanced: true
 title: The Geekorium
 theme: ooh-er
