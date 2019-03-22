@@ -24,9 +24,11 @@ url: /the-christmas-playlist-that-doesnt-suck-2015/
 
 I've scoured Soundcloud to find the best Christmas music I could find. It's chock full of Christmas favourites (and a few new ones) that are guaranteed to:
 
-1.  Bring Christmas cheer 
+1.  Bring Christmas cheer
 2.  Not suck
 
 Thank you to all the artists who have shared their Christmas songs on SoundCloud for the rest of us!
+
+{{< soundcloud 167228826 >}}
 
 [The Christmas Playlist That Doesn't Suck (2015)](//soundcloud.com/screenbeard/sets/christmas-playlist-2015)

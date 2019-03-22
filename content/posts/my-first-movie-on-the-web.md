@@ -12,4 +12,7 @@ tags:
 title: My second movie on the web
 url: /my-first-movie-on-the-web/
 ---
+
 This is another movie I did a while ago with iStopMotion.
+
+{{< youtube 8Am9IsftFBM >}}

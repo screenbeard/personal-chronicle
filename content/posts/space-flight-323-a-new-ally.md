@@ -52,5 +52,6 @@ the hapless goons.
 "Jones," said Jones with a smile, as he led the way through the hole in
 the wall.
 
-*This guy is good,* thought Rex. ((This post was originally published as
-a subscriber only story.))
+*This guy is good,* thought Rex.[^1]
+
+[^1]: This post was originally published as a subscriber only story.

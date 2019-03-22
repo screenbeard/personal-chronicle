@@ -28,6 +28,8 @@ version of Jingle Bell Rock that doesn't make me want to cancel
 Christmas, Silent Night, and sixteen more classics reimagined in ways
 that don't suck.
 
+{{< soundcloud 394314926 >}}
+
 The whole [Christmas Playlist That Doesn't Suck (2017)](https://soundcloud.com/screenbeard/sets/christmas-playlist-2017) is up on Soundcloud right now, go have a listen!
 
 Thank you to all the artists who have shared their Christmas songs on

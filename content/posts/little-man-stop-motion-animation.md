@@ -13,3 +13,5 @@ title: '"Little Man" stop motion animation'
 url: /little-man-stop-motion-animation/
 ---
 My first clay-mation... if you could call it that.
+
+{{< youtube cXlTW9RN2YA >}}

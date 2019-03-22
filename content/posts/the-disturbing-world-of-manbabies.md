@@ -12,13 +12,9 @@ tags:
 title: The disturbing world of Manbabies.
 url: /the-disturbing-world-of-manbabies/
 ---
-<div
-style="text-align:left;font-size:x-small;margin-top:0;width:640px;">
 
-[Manbabies](http://www.funnyordie.com/videos/b366eb5ebe/manbabies "'from beefandsage")
-- watch more [funny
-videos](http://www.funnyordie.com/ "on Funny Or Die")
+{{< youtube 10hw000d10Y >}}
 
-</div>
+[Manbabies](http://www.funnyordie.com/videos/b366eb5ebe/manbabies "'from beefandsage") - watch more [funny videos](http://www.funnyordie.com/ "on Funny Or Die")
 
 Found at [ManBabies](http://manbabies.com/) - scary but hilarious.

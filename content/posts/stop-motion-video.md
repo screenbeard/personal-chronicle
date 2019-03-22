@@ -17,5 +17,7 @@ This was the first stop motion video I created using
 program for creating frame-by-frame movies. I added the sound in Final
 Cut Express.
 
+{{< youtube AgsHTvMiJH0 >}}
+
 I'm gonna start putting this stuff online, as it's wasted sitting on my
 hard drive. It's my blog - I'll do as I like

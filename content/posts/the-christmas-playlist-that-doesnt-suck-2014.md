@@ -16,20 +16,20 @@ tags:
 title: The Christmas Playlist That Doesn't Suck (2014)
 url: /the-christmas-playlist-that-doesnt-suck-2014/
 ---
-[![Christmas
-2010](https://farm6.staticflickr.com/5082/5291376908_af378418a1_z.jpg){width="594"
-height="640"}](https://www.flickr.com/photos/demonbaby/5291376908/ "Christmas 2010")
+
+{{< figure src="https://farm6.staticflickr.com/5082/5291376908_af378418a1_z.jpg" alt="An illustration of a cute but ugly monster sitting in a weird and twisted snowscape eating a candycane broken off a nearby tentacle" caption="Christmas 2010" attr="by Rob Sheridan" attrlink="https://flic.kr/p/94zG1m" >}}
 
 I've scoured Soundcloud to find the best Christmas music I could find.
 It's chock full of Christmas favourites (and a few new ones) that are
 guaranteed to:
 
 1.  Bring Christmas cheer
-
 2.  Not suck
 
 Thank you to all the artists who have shared their Christmas songs on
 SoundCloud for the rest of us!
+
+{{< soundcloud 62612028 >}}
 
 [The Christmas Playlist That Doesn't Suck
 (2014)](https://soundcloud.com/screenbeard/sets/christmas-playlist-2014)
