@@ -60,5 +60,4 @@ So that's my first week. I'm nervous, but looking forward to my next lesson. I'l
 
 I've taken another look at the code and rewritten it to use `int` for all the money transactions. I've also used `Math.floor` on the (now `double`) field dimensions to account for sizes other than whole meters, to get the maximum number of plants into the field[^2] . Any better? Is it ok to leave the values as `int` and print as `double`? I can't get the printed costs to round to two decimal places. A few suggestions I found look like overkill.
 
-[^1]: which of course only shows them if I actually CAN do it
-[^2]: of course this neglects the fact you could put less than five plants into a partial square meter, but this is getting ridiculous already
+[^1]: which of course only shows them if I actually CAN do it [^2]: of course this neglects the fact you could put less than five plants into a partial square meter, but this is getting ridiculous already
