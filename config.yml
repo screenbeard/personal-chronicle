@@ -26,7 +26,7 @@ params:
     GitHubUser: screenbeard
     Subtitle: Home of Rex Havoc, Space Adventurer and other assorted Geekeries.
     Staticman:
-        endpoint: https://dev.staticman.net/v3/entry/github/
+        endpoint: https://api.staticman.net/v3/entry/github/
         username: screenbeard
         repository: personal-chronicle
         branch: master
