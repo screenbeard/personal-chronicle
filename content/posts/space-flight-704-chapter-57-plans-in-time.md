@@ -13,6 +13,8 @@ tags:
 - voice in the dark
 title: 'Space Flight 704, Chapter 57: Plans in Time'
 url: /space-flight-704-chapter-57-plans-in-time/
+series:
+- Space Flight 704
 ---
 **The Other travelled with him.**
 

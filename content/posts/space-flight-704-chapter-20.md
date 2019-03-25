@@ -12,6 +12,8 @@ tags:
 - voice in the flesh
 title: 'Space Flight 704, Chapter 20: Familiar Stranger'
 url: /space-flight-704-chapter-20/
+series:
+- Space Flight 704
 ---
 **At least his discomfort was gone**
 

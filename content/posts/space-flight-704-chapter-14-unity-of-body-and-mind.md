@@ -14,6 +14,8 @@ tags:
 - voice in the dark
 title: 'Space Flight 704, Chapter 14: Unity of Body and Mind'
 url: /space-flight-704-chapter-14-unity-of-body-and-mind/
+series:
+- Space Flight 704
 ---
 **Rex felt a sensation he soon identified as "solidifying".**
 

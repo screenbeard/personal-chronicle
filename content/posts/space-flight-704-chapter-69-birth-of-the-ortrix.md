@@ -12,6 +12,8 @@ tags:
 - Torim below
 title: 'Space Flight 704, Chapter 69: Birth of the Ortrix'
 url: /space-flight-704-chapter-69-birth-of-the-ortrix/
+series:
+- Space Flight 704
 ---
 **But the Torim below survived.**
 

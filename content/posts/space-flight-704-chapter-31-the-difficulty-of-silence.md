@@ -13,6 +13,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 31: The Difficulty of Silence'
 url: /space-flight-704-chapter-31-the-difficulty-of-silence/
+series:
+- Space Flight 704
 ---
 **He hated to admit it, but dying a second time had been informative.**
 

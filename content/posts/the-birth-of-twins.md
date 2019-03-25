@@ -13,6 +13,7 @@ tags:
 title: The Birth of Twins
 url: /the-birth-of-twins/
 ---
+
 What a crazy 8 weeks.
 
 In case you hadn't picked up the news on the grapevine, I'm a daddy
@@ -65,5 +66,6 @@ officially.
 
 So welcome Merrick and Evany! Thank you all for your support and
 understanding. We look forward to introducing them to you all in real
-life soon. ((This post was originally shared on Facebook and added to
-the Geekorium on 9 Feb 2013))
+life soon[^1].
+
+[^1]: This post was originally shared on Facebook and added to the Geekorium on 9 Feb 2013

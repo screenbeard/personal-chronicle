@@ -11,6 +11,8 @@ tags:
 - time-belt
 title: 'Space Flight 704, Chapter 55: The Flight of the Ortrix'
 url: /space-flight-704-chapter-55/
+series:
+- Space Flight 704
 ---
 **It took a while.**
 

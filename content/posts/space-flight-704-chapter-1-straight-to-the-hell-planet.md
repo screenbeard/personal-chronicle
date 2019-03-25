@@ -13,6 +13,8 @@ tags:
 - treachery
 title: 'Space Flight 704, Chapter 1: Straight to the Hell Planet'
 url: /space-flight-704-chapter-1-straight-to-the-hell-planet/
+series:
+- Space Flight 704
 ---
 **Rex holstered his gun.**
 

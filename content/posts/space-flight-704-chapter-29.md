@@ -13,6 +13,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 29: Squared Away'
 url: /space-flight-704-chapter-29/
+series:
+- Space Flight 704
 ---
 **It stood to reason that Jones would be unhappy with him. He had shot
 him, a lot.**

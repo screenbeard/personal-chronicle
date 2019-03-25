@@ -12,6 +12,8 @@ tags:
 - willpower
 title: 'Space Flight 704, Chapter 18: Unwanted Answers'
 url: /space-flight-704-chapter-18/
+series:
+- Space Flight 704
 ---
 **Two figures stood at the cliff top.**
 

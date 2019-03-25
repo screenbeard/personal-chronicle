@@ -13,6 +13,8 @@ tags:
 - Torim below
 title: 'Space Flight 704, Chapter 68: Torim Genocide'
 url: /space-flight-704-chapter-68-torim-genocide/
+series:
+- Space Flight 704
 ---
 **The tension broke.**
 

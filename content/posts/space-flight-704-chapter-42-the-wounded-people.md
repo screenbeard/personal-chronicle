@@ -11,6 +11,8 @@ tags:
 - time reversal
 title: 'Space Flight 704, Chapter 42: The Wounded People'
 url: /space-flight-704-chapter-42-the-wounded-people/
+series:
+- Space Flight 704
 ---
 <div class="timereverse-2">
 

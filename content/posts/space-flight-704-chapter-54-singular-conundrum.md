@@ -12,6 +12,8 @@ tags:
 - time-belt
 title: 'Space Flight 704, Chapter 54: Singular Conundrum.'
 url: /space-flight-704-chapter-54-singular-conundrum/
+series:
+- Space Flight 704
 ---
 **\[voiceinthedark\]They are one and the same.\[/voiceinthedark\]**
 

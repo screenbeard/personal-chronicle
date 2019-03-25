@@ -11,6 +11,8 @@ tags:
 - voice in the dark
 title: 'Space Flight 704, Chapter 22: Time to Death'
 url: /space-flight-704-chapter-22-time-to-death/
+series:
+- Space Flight 704
 ---
 **He was not getting the hang of this.**
 

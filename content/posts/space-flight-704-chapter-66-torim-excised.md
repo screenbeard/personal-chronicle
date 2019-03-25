@@ -11,6 +11,8 @@ tags:
 - Torim below
 title: 'Space Flight 704, Chapter 66: Torim Excised'
 url: /space-flight-704-chapter-66-torim-excised/
+series:
+- Space Flight 704
 ---
 **One by one they were taken.**
 

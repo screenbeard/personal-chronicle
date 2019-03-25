@@ -13,6 +13,8 @@ tags:
 - willpower
 title: 'Space Flight 704, Chapter 16: Willing Hands'
 url: /space-flight-704-chapter-16/
+series:
+- Space Flight 704
 ---
 **\[voiceinthedark\]Do not be dismayed.\[/voiceinthedark\]**
 

@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* "Clean White" Template by Dieter Schneider | www.csstemplateheaven.com */
+
+* {margin: 0; padding: 0}
+
+img {border: none}
+
+body {font-family: arial, helvetica, sans-serif; font-size: 100%; color:#666}
+
+#container {width: 800px; height:470px; margin: 20px auto; font-size: .875em }
+
+#logo {width: 220px; height:64px; float: left; margin-bottom: 20px}
+
+#header {height: 420px; background: url(imges/header.jpg) bottom; clear: both }
+
+#wrap {clear: both}
+
+#left {width: 250px; float: left}
+
+#right {width: 250px; float: right}
+
+#middle {margin-left: 275px; margin-right: 275px}
+
+#left, #right, #middle {margin-bottom: 40px}
+
+#footer {background: url(imges/footer.jpg) no-repeat; clear:both; padding: 20px; text-align: center; font-size: .8em}
+
+/* typography */
+
+a {color: #930}
+
+p {padding: 15px 0; text-align: justify}
+
+h2 {background:#303030; padding:10px; color: #FFF; font-weight: normal; letter-spacing: .15em}
+
+/* navigation */
+
+#navcontainer ul
+{
+color: White;
+float: right;
+width: 580px;
+padding-top: 25px
+}
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+padding: 0px 1em;
+color: #999;
+font-weight: bold;
+text-decoration: none;
+float: right;
+border-right: 1px solid #fff;
+}
+
+#navcontainer ul li a:hover
+{
+color: #000;
+font-weight: bold
+}
+

@@ -13,6 +13,8 @@ tags:
 - un-man
 title: 'Space Flight 704, Chapter 35: Olat''s Story Part 1'
 url: /space-flight-704-chapter-35-olats-story-part-1/
+series:
+- Space Flight 704
 ---
 **Guardsman Olat was finishing up his bawdy tale when the alarm
 sounded.**

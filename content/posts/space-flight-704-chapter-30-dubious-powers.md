@@ -12,6 +12,8 @@ tags:
 - voice in the flesh
 title: 'Space Flight 704, Chapter 30: Dubious Powers'
 url: /space-flight-704-chapter-30-dubious-powers/
+series:
+- Space Flight 704
 ---
 **He didn't like the answer.**
 

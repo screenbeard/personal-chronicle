@@ -13,6 +13,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 34: Reconstructive'
 url: /space-flight-704-chapter-34-reconstructive/
+series:
+- Space Flight 704
 ---
 **Rex Havoc punched the bear in the face.**
 

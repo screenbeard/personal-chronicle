@@ -13,6 +13,8 @@ tags:
 - whatever
 title: 'Space Flight 704, Chapter P=51: The End'
 url: /space-flight-704-chapter-51-the-end/
+series:
+- Space Flight 704
 ---
 **I can travel through time?!**
 

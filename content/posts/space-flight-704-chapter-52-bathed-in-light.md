@@ -14,6 +14,8 @@ tags:
 - time
 title: 'Space Flight 704, Chapter 52: Bathed in Light'
 url: /space-flight-704-chapter-52-bathed-in-light/
+series:
+- Space Flight 704
 ---
 **Rex crashed through the past.**
 

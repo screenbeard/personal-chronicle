@@ -13,10 +13,12 @@ tags:
 - voice in the dark
 title: 'Space Flight 704, Chapter 61: Origins of the Torimbalo'
 url: /space-flight-704-chapter-61-origins-of-the-torimbalo/
+series:
+- Space Flight 704
 ---
 **"I sense disharmony."**
 
-% \[voiceinthedark\]This is not a world at peace.\[/voiceinthedark\]%
+% {{< voiceinthedark >}}This is not a world at peace.{{< /voiceinthedark >}}%
 
 Rex let his awareness expand, encompassing the planet.
 

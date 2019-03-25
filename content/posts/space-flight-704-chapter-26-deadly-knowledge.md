@@ -13,6 +13,8 @@ tags:
 - Vellegas 6
 title: 'Space Flight 704, Chapter 26: Deadly Knowledge'
 url: /space-flight-704-chapter-26-deadly-knowledge/
+series:
+- Space Flight 704
 ---
 **He immediately felt bad about it.**
 

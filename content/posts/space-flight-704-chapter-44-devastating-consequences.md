@@ -13,6 +13,8 @@ tags:
 - Xentash
 title: 'Space Flight 704, Chapter 44: Devastating Consequences'
 url: /space-flight-704-chapter-44-devastating-consequences/
+series:
+- Space Flight 704
 ---
 **Rex wept for days.**
 

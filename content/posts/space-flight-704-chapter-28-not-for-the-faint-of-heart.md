@@ -14,6 +14,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 28: Not for the Faint of Heart'
 url: /space-flight-704-chapter-28-not-for-the-faint-of-heart/
+series:
+- Space Flight 704
 ---
 **It hadn't been particularly smart, in hindsight.**
 

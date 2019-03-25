@@ -13,6 +13,8 @@ tags:
 - voice in the dark
 title: 'Space Flight 704, Chapter 13: Confusion is a Stranger in Bed'
 url: /space-flight-704-chapter-13-confusion-is-a-stranger-in-bed/
+series:
+- Space Flight 704
 ---
 **The voice was taking shape inside his mind.**
 

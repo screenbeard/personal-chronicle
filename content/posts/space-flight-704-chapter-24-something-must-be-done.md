@@ -12,6 +12,8 @@ tags:
 - voice in the flesh
 title: 'Space Flight 704, Chapter 24: Something Must Be Done'
 url: /space-flight-704-chapter-24-something-must-be-done/
+series:
+- Space Flight 704
 ---
 **Rex was itching to blast a hole in something.**
 

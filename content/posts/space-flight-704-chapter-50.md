@@ -10,6 +10,8 @@ tags:
 - Rex Havoc
 title: Space Flight 704, Chapter 50
 url: /space-flight-704-chapter-50/
+series:
+- Space Flight 704
 ---
 **Leave here. Don't stay.**
 

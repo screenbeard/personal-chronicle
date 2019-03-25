@@ -12,6 +12,8 @@ tags:
 - voice in the dark
 title: 'Space Flight 704, Chapter 23: Perspective'
 url: /space-flight-704-chapter-23-perspective/
+series:
+- Space Flight 704
 ---
 **\[voiceinthedark\]You understand now, don't you?\[/voiceinthedark\]**
 

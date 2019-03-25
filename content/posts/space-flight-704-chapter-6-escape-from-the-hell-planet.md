@@ -13,6 +13,8 @@ tags:
 - starship
 title: 'Space Flight 704, Chapter 6: Escape from the Hell Planet'
 url: /space-flight-704-chapter-6-escape-from-the-hell-planet/
+series:
+- Space Flight 704
 ---
 **He wasn't sure he could do it this time.**
 

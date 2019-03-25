@@ -11,6 +11,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 58: Familiar Spaces'
 url: /space-flight-704-chapter-58-familiar-spaces/
+series:
+- Space Flight 704
 ---
 **"I recognise this world."**
 

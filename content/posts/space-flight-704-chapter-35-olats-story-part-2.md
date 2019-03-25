@@ -17,6 +17,8 @@ tags:
 - Zenmar
 title: 'Space Flight 704, Chapter 35: Olat''s Story Part 2'
 url: /space-flight-704-chapter-35-olats-story-part-2/
+series:
+- Space Flight 704
 ---
 **Egron went down to his left, screaming. Olat fumbled with his clip.**
 

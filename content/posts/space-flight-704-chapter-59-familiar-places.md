@@ -14,6 +14,8 @@ tags:
 - the end
 title: 'Space Flight 704, Chapter 59: Familiar Places'
 url: /space-flight-704-chapter-59-familiar-places/
+series:
+- Space Flight 704
 ---
 **"I'm sure I've been here before."**
 

@@ -12,6 +12,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 38: Nowhere to Go'
 url: /space-flight-704-chapter-38-nowhere-to-go/
+series:
+- Space Flight 704
 ---
 **Rex Havoc was afraid**
 

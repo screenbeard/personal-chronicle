@@ -11,6 +11,8 @@ tags:
 - voice in the flesh
 title: 'Space Flight 704, Chapter 63: Re-evaluated Perspective'
 url: /space-flight-704-chapter-63-re-evaluated-perspective/
+series:
+- Space Flight 704
 ---
 **"So what happens next?"**
 

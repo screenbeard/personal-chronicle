@@ -14,6 +14,8 @@ tags:
 - voice in the flesh
 title: 'Space Flight 704, Chapter 27: Judas Kiss'
 url: /space-flight-704-chapter-27-judas-kiss/
+series:
+- Space Flight 704
 ---
 **If the sensation of unmaking the rock was like a kiss, then this felt
 like someone was nibbling his ear.**

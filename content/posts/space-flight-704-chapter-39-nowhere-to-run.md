@@ -13,6 +13,8 @@ tags:
 - voice
 title: 'Space Flight 704, Chapter 39: Nowhere to Run'
 url: /space-flight-704-chapter-39-nowhere-to-run/
+series:
+- Space Flight 704
 ---
 **Pain!**
 

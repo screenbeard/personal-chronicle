@@ -13,6 +13,8 @@ tags:
 - voice in the dark
 title: 'Space Flight 704, Chapter 15: Sworls in the Æther'
 url: /space-flight-704-chapter-15-sworls-in-the-aether/
+series:
+- Space Flight 704
 ---
 **Rex focused on his hands.**
 

@@ -13,6 +13,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 37: The Redemption of Nippal'
 url: /space-flight-704-chapter-37-the-redemption-of-nippal/
+series:
+- Space Flight 704
 ---
 **Rex smiled devilishly.**
 

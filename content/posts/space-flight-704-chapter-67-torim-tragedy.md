@@ -13,6 +13,8 @@ tags:
 - Torim below
 title: 'Space Flight 704, Chapter 67: Torim Tragedy'
 url: /space-flight-704-chapter-67-torim-tragedy/
+series:
+- Space Flight 704
 ---
 **Eventually they gave up.**
 

@@ -11,6 +11,8 @@ tags:
 - underwhelmed
 title: 'Space Flight 704, Chapter 70: Introspection'
 url: /space-flight-704-chapter-70-introspection/
+series:
+- Space Flight 704
 ---
 **The Ortrix.**
 

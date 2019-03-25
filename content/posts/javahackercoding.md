@@ -3,11 +3,11 @@ categories:
 - Coding
 date: "2009-10-29 11:19:36 +0930"
 draft: false
-publishdate: "2009-10-29 11:19:36 +0930"
-slug: javahackercoding
 tags: []
 title: Javahackercoding ∞
-url: /javahackercoding/
+url: javahackercoding
+series:
+- javahackercoding
 ---
 I lost track of what week we're up to, and I've got a few updates to
 roll into this one, so my titles are off.
@@ -23,27 +23,31 @@ was to not:
 
 Eg in my *toString* class I put:
 
-bc(java).. public String toString() {\
-return super.toString() +\
-" Place: " +\
-place +\
-"; State: " +\
-state +\
-"; Postcode: " +\
-postcode +\
-"; Country: " +\
-country;\
+```java
+public String toString() {
+    return super.toString() +
+    " Place: " +
+    place +
+    "; State: " +
+    state +
+    "; Postcode: " +
+    postcode +
+    "; Country: " +
+    country;
 }
+```
 
 Instead of:
 
-bc(java).. public String toString() {\
-return super.toString() +\
-" Place: " + place +\
-"; State: " + state +\
-"; Postcode: " + postcode +\
-"; Country: " + country;\
+```java
+public String toString() {
+    return super.toString() +
+    " Place: " + place +
+    "; State: " + state +
+    "; Postcode: " + postcode +
+    "; Country: " + country;
 }
+```
 
 Obvious, but worth marking me down? Maybe I did something else wrong,
 but I don't think so.
@@ -53,9 +57,7 @@ done any study on arrays. I was worried. But the test was open book, so
 I learned what I needed as I went, and even had time to attempt the
 merit. My result?
 
-![](//farm3.static.flickr.com/2786/4054735931_596552f2d4_o.jpg):http://www.flickr.com/photos/joshnunn/4054735931/
-
-**That's** better!
+{{< figure src="//farm3.static.flickr.com/2786/4054735931_596552f2d4_o.jpg" alt="" caption="**That's** better!" link="http://www.flickr.com/photos/joshnunn/4054735931/"  >}}
 
 So I'm pretty happy with that.
 

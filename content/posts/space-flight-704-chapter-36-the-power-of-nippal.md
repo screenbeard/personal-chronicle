@@ -12,6 +12,8 @@ tags:
 - island base
 title: 'Space Flight 704, Chapter 36: The Power of Nippal'
 url: /space-flight-704-chapter-36-the-power-of-nippal/
+series:
+- Space Flight 704
 ---
 **Rex pounded on the walls of his glass prison.**
 

@@ -14,6 +14,8 @@ tags:
 - The Professor
 title: 'Space Flight 704, Chapter 48: Dull Impact'
 url: /space-flight-704-chapter-48-dull-impact/
+series:
+- Space Flight 704
 ---
 **Please not this.**
 

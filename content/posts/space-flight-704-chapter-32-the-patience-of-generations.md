@@ -13,6 +13,8 @@ tags:
 - voice in the flesh
 title: 'Space flight 704, Chapter 32: The Patience of Generations'
 url: /space-flight-704-chapter-32-the-patience-of-generations/
+series:
+- Space Flight 704
 ---
 **"Rug weaving?"**
 

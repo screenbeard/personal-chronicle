@@ -14,6 +14,8 @@ tags:
 - treachery
 title: 'Space Flight 704, Chapter 5: The Exodus from Manasar'
 url: /space-flight-704-chapter-5-the-exodus-from-manasar/
+series:
+- Space Flight 704
 ---
 **The explosion was deafening.**
 

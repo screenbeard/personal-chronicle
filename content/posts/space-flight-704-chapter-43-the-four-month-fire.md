@@ -10,6 +10,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 43: The Four-Month Fire'
 url: /space-flight-704-chapter-43-the-four-month-fire/
+series:
+- Space Flight 704
 ---
 <div class="timereverse-3">
 

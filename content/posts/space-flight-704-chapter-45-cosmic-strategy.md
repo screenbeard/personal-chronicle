@@ -11,6 +11,8 @@ tags:
 - time travel
 title: 'Space Flight 704, Chapter 45: Cosmic Strategy'
 url: /space-flight-704-chapter-45-cosmic-strategy/
+series:
+- Space Flight 704
 ---
 **Rex went back, way back.**
 

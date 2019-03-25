@@ -13,6 +13,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 2: The Secrets of Manasar'
 url: /space-flight-704-chapter-2-the-secrets-of-manasar/
+series:
+- Space Flight 704
 ---
 **He'd almost done it too.**
 

@@ -12,6 +12,8 @@ tags:
 - voice in the dark
 title: 'Space Flight 704, Chapter 60: Intended Purpose'
 url: /space-flight-704-chapter-60-intended-purpose/
+series:
+- Space Flight 704
 ---
 **"How many times have I died?"**
 

@@ -13,6 +13,8 @@ tags:
 - universe
 title: 'Space Flight 704, Chapter 40: Nowhere to Hide'
 url: /space-flight-704-chapter-40-nowhere-to-hide/
+series:
+- Space Flight 704
 ---
 **He was fearsome.**
 

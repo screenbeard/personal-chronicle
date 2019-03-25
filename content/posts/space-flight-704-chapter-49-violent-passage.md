@@ -12,6 +12,8 @@ tags:
 - The Princess
 title: 'Space Flight 704, Chapter 49: Violent Passage'
 url: /space-flight-704-chapter-49-violent-passage/
+series:
+- Space Flight 704
 ---
 **Stop this. Look away.**
 

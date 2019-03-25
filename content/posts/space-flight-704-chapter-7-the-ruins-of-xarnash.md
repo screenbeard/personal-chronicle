@@ -14,6 +14,8 @@ tags:
 - treachery
 title: 'Space Flight 704, Chapter 7: The Ruins of Xarnash'
 url: /space-flight-704-chapter-7-the-ruins-of-xarnash/
+series:
+- Space Flight 704
 ---
 **The Professor was dead.**
 

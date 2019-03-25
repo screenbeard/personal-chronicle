@@ -12,6 +12,8 @@ tags:
 - Torim below
 title: 'Space Flight 704, Chapter 65: Torim Struggles'
 url: /space-flight-704-chapter-65-torim-struggles/
+series:
+- Space Flight 704
 ---
 **Not all Torim were fearful.**
 

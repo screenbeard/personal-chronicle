@@ -14,6 +14,8 @@ tags:
 - uncertainty
 title: 'Space Flight 704, Chapter 3: The Strength Within'
 url: /space-flight-704-chapter-3-the-strength-within/
+series:
+- Space Flight 704
 ---
 **Rex *really* didn't know this time.**
 

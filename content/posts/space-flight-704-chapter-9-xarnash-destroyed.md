@@ -11,6 +11,8 @@ tags:
 - unexpected
 title: 'Space Flight 704, Chapter 9: Xarnash Destroyed'
 url: /space-flight-704-chapter-9-xarnash-destroyed/
+series:
+- Space Flight 704
 ---
 **It took death to bring him around.**
 

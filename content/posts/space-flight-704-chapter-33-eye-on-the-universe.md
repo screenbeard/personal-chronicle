@@ -13,6 +13,8 @@ tags:
 - universe
 title: 'Space Flight 704, Chapter 33: Eye on the Universe'
 url: /space-flight-704-chapter-33-eye-on-the-universe/
+series:
+- Space Flight 704
 ---
 **Rex took the hint.**
 

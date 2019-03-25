@@ -9,6 +9,8 @@ tags:
 - commodore 64
 - java
 title: 60 GOTO JAVAHACKERCODING
+series:
+- javahackercoding
 ---
 
 It's 9:30, so class just finished, but I left at 8. Another night of confusing information that would probably make sense if I'd read the text before hand, or wasn't being taught by someone who's thinking of examples on the fly and can't finish a sentence before moving on to another concept.

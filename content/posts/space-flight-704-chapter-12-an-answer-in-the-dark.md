@@ -12,6 +12,8 @@ tags:
 - voice in the dark
 title: 'Space Flight 704, Chapter 12: An Answer in the Dark'
 url: /space-flight-704-chapter-12-an-answer-in-the-dark/
+series:
+- Space Flight 704
 ---
 **\[voiceinthedark\]I am another such as you.\[/voiceinthedark\]**
 

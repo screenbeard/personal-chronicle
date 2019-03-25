@@ -13,6 +13,8 @@ tags:
 - worry Jones
 title: 'Space Flight 704, Chapter 17: Time Enough'
 url: /space-flight-704-chapter-17-time-enough/
+series:
+- Space Flight 704
 ---
 **While the voice explained, Rex began forming his arms.**
 

@@ -10,6 +10,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 46: Fateful Realisation'
 url: /space-flight-704-chapter-46-fateful-realisation/
+series:
+- Space Flight 704
 ---
 **He'd been a bit of a dick.**
 

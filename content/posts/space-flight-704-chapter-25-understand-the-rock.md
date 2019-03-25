@@ -12,6 +12,8 @@ tags:
 - voice in the flesh
 title: 'Space Flight 704, Chapter 25: Let''s Rock'
 url: /space-flight-704-chapter-25-understand-the-rock/
+series:
+- Space Flight 704
 ---
 **He didn't expect unimaginable power to mean he'd have to hug rocks.**
 

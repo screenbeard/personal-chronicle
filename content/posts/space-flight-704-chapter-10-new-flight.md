@@ -11,6 +11,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 10: New Flight'
 url: /space-flight-704-chapter-10-new-flight/
+series:
+- Space Flight 704
 ---
 
 **That wasn't supposed to happen.**

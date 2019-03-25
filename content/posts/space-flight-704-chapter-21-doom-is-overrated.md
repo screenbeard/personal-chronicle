@@ -13,6 +13,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 21: Doom is Overrated'
 url: /space-flight-704-chapter-21-doom-is-overrated/
+series:
+- Space Flight 704
 ---
 **Rex Plummeted to his death.**
 

@@ -12,6 +12,8 @@ tags:
 - time travel
 title: 'Space Flight 704, Chapter 53: Lost is Found'
 url: /space-flight-704-chapter-53-lost-is-found/
+series:
+- Space Flight 704
 ---
 **\[voiceinthedark\]You are searching for the Torimbalo.
 \[/voiceinthedark\]**

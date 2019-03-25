@@ -13,6 +13,8 @@ tags:
 - time-belt
 title: 'Space Flight 704, Chapter 56: The Changes of Time'
 url: /space-flight-704-chapter-56/
+series:
+- Space Flight 704
 ---
 **The time-belt was the Ortrix again.**
 

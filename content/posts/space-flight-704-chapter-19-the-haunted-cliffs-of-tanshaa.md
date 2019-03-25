@@ -13,6 +13,8 @@ tags:
 - who is it?
 title: 'Space Flight 704, Chapter 19: The Haunted Cliffs of Tanshaa'
 url: /space-flight-704-chapter-19-the-haunted-cliffs-of-tanshaa/
+series:
+- Space Flight 704
 ---
 **Rex turned quickly on his heel**
 

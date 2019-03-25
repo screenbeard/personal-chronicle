@@ -14,6 +14,8 @@ tags:
 - The Professor
 title: 'Space Flight 704, Chapter 4: Trust Is Not a Destination'
 url: /space-flight-704-chapter-4-trust-is-not-a-destination/
+series:
+- Space Flight 704
 ---
 **He'd have to thank The Professor.**
 

@@ -15,6 +15,8 @@ tags:
 - Rex Havoc
 title: 'Space Flight 704, Chapter 8: The Xarnash Wilderness'
 url: /space-flight-704-chapter-8-the-xarnash-wilderness/
+series:
+- Space Flight 704
 ---
 **His mind was blank.**
 

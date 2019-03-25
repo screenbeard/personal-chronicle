@@ -13,6 +13,8 @@ tags:
 - The Professor
 title: 'Space Flight 704, Chapter 47: Perspective Collapse'
 url: /space-flight-704-chapter-47-perspective-collapse/
+series:
+- Space Flight 704
 ---
 **Not this. Not this.**
 

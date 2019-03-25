@@ -39,3 +39,9 @@ privacy:
     privacyEnhanced: true
 title: The Geekorium
 theme: ooh-er
+pygmentsCodeFences: true
+pygmentsStyle: native
+taxonomies:
+  category: categories
+  series: series
+  tag: tags

@@ -10,6 +10,8 @@ tags:
 - voice in the flesh
 title: 'Space Flight 704, Chapter 41: The Desolate Planet'
 url: /space-flight-704-chapter-41-the-desolate-planet/
+series:
+- Space Flight 704
 ---
 **"What did I do?"**
 
