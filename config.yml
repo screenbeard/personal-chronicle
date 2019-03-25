@@ -40,7 +40,8 @@ privacy:
 title: The Geekorium
 theme: ooh-er
 pygmentsCodeFences: true
-pygmentsStyle: native
+pygmentsStyle: solarized-dark
+pygmentsUseClasses: true
 taxonomies:
   category: categories
   series: series
