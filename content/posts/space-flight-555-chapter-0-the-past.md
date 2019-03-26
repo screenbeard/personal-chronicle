@@ -17,7 +17,6 @@ title: 'Space Flight 555, Chapter 0: The Past'
 url: space-flight-555-chapter-0-the-past
 series:
 - 'Space Flight 704 Time Diversion'
-weight: 0
 ---
 {{% timeswap %}}
 {{% timeline 1 %}}**I'm tracking a spacetime anomaly.**{{% /timeline %}}
