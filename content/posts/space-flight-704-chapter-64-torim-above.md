@@ -16,16 +16,10 @@ series:
 ---
 **...**
 
-Rex watched time unfold in silence, the other by his side. He didn't
-look at his companion as they watched, but he sensed the tension
-permeating the non-space they shared.
+Rex watched time unfold in silence, the other by his side. He didn't look at his companion as they watched, but he sensed the tension permeating the non-space they shared.
 
-He watched the Torim drive their fellow Torim underground. In deep
-cavernous bunkers they waited, uncertain, afraid, but too generous to
-resist.
+He watched the Torim drive their fellow Torim underground. In deep cavernous bunkers they waited, uncertain, afraid, but too generous to resist.
 
-He watched the Torim above make plans. They sensed the amassed energy of
-their captives below and it drove them, ever fearful, to unspeakable
-acts.
+He watched the Torim above make plans. They sensed the amassed energy of their captives below and it drove them, ever fearful, to unspeakable acts.
 
 Rex shuddered.

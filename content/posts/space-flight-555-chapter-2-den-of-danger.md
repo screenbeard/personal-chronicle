@@ -3,8 +3,6 @@ categories:
 - Space Flight 704
 date: "2011-11-25 08:30:00 +0930"
 draft: false
-publishdate: "2011-11-25 08:30:00 +0930"
-slug: space-flight-555-chapter-2-den-of-danger
 tags:
 - evil in the shadows
 - future
@@ -14,9 +12,11 @@ tags:
 - Rex Havoc
 - Time Diversion
 title: 'Space Flight 555, Chapter 2: Den of Danger'
-url: /space-flight-555-chapter-2-den-of-danger/
+url: space-flight-555-chapter-2-den-of-danger
+aliases:
+- space-flight-555-chapter-2
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
 ---
 **Rex plunged through the vortex, falling like a paraglider into an unknown destination. Rex was right behind him.**
 

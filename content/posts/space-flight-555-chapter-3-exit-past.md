@@ -18,7 +18,7 @@ tags:
 title: 'Space Flight 555, Chapter 3: Exit, Past'
 url: /space-flight-555-chapter-3-exit-past/
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
 ---
 **Rex waited for the universe to collapse.**
 

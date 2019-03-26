@@ -16,6 +16,7 @@ url: /space-flight-704-the-book/
 series:
 - Space Flight 704
 ---
+
 [![](https://turbo.geekorium.com.au/wp-content/uploads/41HHGZN2TxL._BO2204203200_PIsitb-sticker-arrow-clickTopRight35-76_AA300_SH20_AA278_PIkin4BottomRight-4722_AA300_SH20_OU01_.jpg)](http://amzn.com/B00718SIHQ)
 
 Published!
@@ -47,11 +48,7 @@ from Amazon will give you a warm glow, and something to read on the bus.
 If you're still not convinced read these [5 Star
 Reviews](http://www.amazon.com/Space-Flight-704-Diversion-ebook/product-reviews/B00718SIHQ/ref=cm_cr_pr_hist_5?ie=UTF8&showViewpoints=0&filterBy=addFiveStar).
 
-> A ripping space yarn of the Old School variety, this action-packed
-> short story harks back to the golden days of Flash Gordon serials with
-> tongue firmly in cheek. Both wonderfully amusing and butt-clenchingly
-> thrilling, not a sentence is wasted that doesn't thrust the story
-> forward like a rocket ship.
+> A ripping space yarn of the Old School variety, this action-packed short story harks back to the golden days of Flash Gordon serials with tongue firmly in cheek. Both wonderfully amusing and butt-clenchingly thrilling, not a sentence is wasted that doesn't thrust the story forward like a rocket ship.
 
 [HugePedlar](http://www.amazon.com/review/R1NX4FJDRIYIE2/ref=cm_cr_pr_perm?ie=UTF8&ASIN=B00718SIHQ&nodeID=&tag=&linkCode=%3C/cite%3E)
 

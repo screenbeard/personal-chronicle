@@ -12,7 +12,7 @@ url: space-flight-704-chapter-11-the-voice-in-the-light
 series:
 - Space Flight 704
 ---
-**{{% voiceinthedark %}}Do not be alarmed.{{% /voiceinthedark %}}**
+{{% voiceinthedark %}}**Do not be alarmed.**{{% /voiceinthedark %}}
 
 The voice came out of nowhere. This made sense, as Rex *was* nowhere and
 had no senses as such to pinpoint the origin of the... sound? Was it a

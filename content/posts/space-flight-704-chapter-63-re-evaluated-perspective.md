@@ -16,11 +16,9 @@ series:
 ---
 **"So what happens next?"**
 
-"The Torim below created the Ortrix. If they didn't make it as a weapon,
-then for what?"
+"The Torim below created the Ortrix. If they didn't make it as a weapon, then for what?"
 
-The Other had materialised, and Rex searched his face for a clue.
-Instead, he was shocked to see his companion crying.
+The Other had materialised, and Rex searched his face for a clue. Instead, he was shocked to see his companion crying.
 
 For a moment, Rex was speechless.
 

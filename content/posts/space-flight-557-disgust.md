@@ -15,7 +15,7 @@ tags:
 title: 'Space Flight 557: Disgust'
 url: /space-flight-557-disgust/
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
 ---
 **The fool!**
 

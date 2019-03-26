@@ -3,15 +3,13 @@ categories:
 - Space Flight 704
 date: "2011-10-10 08:30:00 +0930"
 draft: false
-publishdate: "2011-10-10 08:30:00 +0930"
-slug: space-flight-704-chapter-20
 tags:
 - confusing being
 - Rex Havoc
 - voice in the dark
 - voice in the flesh
 title: 'Space Flight 704, Chapter 20: Familiar Stranger'
-url: /space-flight-704-chapter-20/
+url: space-flight-704-chapter-20
 series:
 - Space Flight 704
 ---
@@ -28,7 +26,7 @@ feature.
 The other hadn't changed, still looked the same, but Rex still had
 trouble recalling him even while staring straight at her.
 
-"\[voiceinthedark\]I am no one I remember,\[/voiceinthedark\]" came the
+{{% voiceinthedark %}}"I am no one I remember,"{{% /voiceinthedark %}} came the
 familiar voice from the unfamiliar source, more resonant and somehow
 younger - though still ageless.
 

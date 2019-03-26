@@ -20,14 +20,8 @@ series:
 
 And now the time-belt.
 
-It wouldn't stay each way for long. While tracing it backward and
-forward through time, he'd seen it forged into time-belts and reverted
-back to something like the Ortrix so many times he wasn't sure which was
-the original any more.
+It wouldn't stay each way for long. While tracing it backward and forward through time, he'd seen it forged into time-belts and reverted back to something like the Ortrix so many times he wasn't sure which was the original any more.
 
-Occasionally it had been sent back in time to collect itself with
-varying levels of success. He held his out-of-body breath as he followed
-it through the short time Jones had it.
+Occasionally it had been sent back in time to collect itself with varying levels of success. He held his out-of-body breath as he followed it through the short time Jones had it.
 
-He also wondered about the sneaky joy-ride The Professor had taken it on
-once.
+He also wondered about the sneaky joy-ride The Professor had taken it on once.

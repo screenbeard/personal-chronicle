@@ -16,12 +16,8 @@ series:
 ---
 **One by one they were taken.**
 
-In the darkness, they came with powerful lights that blinded. Although
-they were met without resistance they brought weapons.
+In the darkness, they came with powerful lights that blinded. Although they were met without resistance they brought weapons.
 
-They rounded up a few at a time and they took them above. They opened
-them up to see where the power lived and tried to pull it out.
+They rounded up a few at a time and they took them above. They opened them up to see where the power lived and tried to pull it out.
 
-Of course it failed. The power was not caused by any part of their
-physical body, unless you count their consciousness or their ever-loving
-minds.
+Of course it failed. The power was not caused by any part of their physical body, unless you count their consciousness or their ever-loving minds.

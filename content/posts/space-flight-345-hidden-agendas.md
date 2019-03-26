@@ -3,14 +3,12 @@ categories:
 - Space Flight 704
 date: "2012-09-27 09:30:29 +0930"
 draft: false
-publishdate: "2012-09-27 09:30:29 +0930"
-slug: space-flight-345-hidden-agendas
 tags:
 - Dr Phelchoff
 - Jones
 - Rex Havoc
 title: 'Space Flight 345: Hidden Agendas'
-url: /space-flight-345-hidden-agendas/
+url: space-flight-345-hidden-agendas
 series:
 - Space Flight 704
 ---

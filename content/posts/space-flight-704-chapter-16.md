@@ -16,22 +16,16 @@ url: /space-flight-704-chapter-16/
 series:
 - Space Flight 704
 ---
-**\[voiceinthedark\]Do not be dismayed.\[/voiceinthedark\]**
+{{% voiceinthedark %}}**Do not be dismayed.**{{% /voiceinthedark %}}
 
 The voice was commanding, reassuring.
 
-% \[voiceinthedark\]Control over the physical takes time, concentration,
-patience, willpower.\[/voiceinthedark\]%
+{{% voiceinthedark %}}Control over the physical takes time, concentration, patience, willpower.{{% /voiceinthedark %}}
 
-Rex willed his hands to appear. Concentrating heavily, he spoke slowly
-and carefully.
+Rex willed his hands to appear. Concentrating heavily, he spoke slowly and carefully.
 
-"Tell me more about the Torimbalo," he asked, still focussed on his
-hands.
+"Tell me more about the Torimbalo," he asked, still focussed on his hands.
 
-As the voice spoke, he watched his hands, forcing them to remain whole
-even as he tried to follow the words of the other.
+As the voice spoke, he watched his hands, forcing them to remain whole even as he tried to follow the words of the other.
 
-% \[voiceinthedark\]The Torimbalo was forged a million lifetimes ago,
-under the surface of an unimportant planet far from
-here.\[/voiceinthedark\]%
+{{% voiceinthedark %}}The Torimbalo was forged a million lifetimes ago, under the surface of an unimportant planet far from here.{{% /voiceinthedark %}}

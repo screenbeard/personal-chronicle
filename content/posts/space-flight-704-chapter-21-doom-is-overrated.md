@@ -18,21 +18,12 @@ series:
 ---
 **Rex Plummeted to his death.**
 
-He had been pushed, he knew he had. Yet as he fell, he didn't feel
-anger, only surprise it had happened so soon.
+He had been pushed, he knew he had. Yet as he fell, he didn't feel anger, only surprise it had happened so soon.
 
-As before, with certain doom rushing to meet his face, he experienced
-clarity. This time though it was different, the clarity stretched out
-into infinity at either end. His descent seemed slow, like plunging
-through custard, and he had time to think. He could feel each instant
-present in his mind.
+As before, with certain doom rushing to meet his face, he experienced clarity. This time though it was different, the clarity stretched out into infinity at either end. His descent seemed slow, like plunging through custard, and he had time to think. He could feel each instant present in his mind.
 
-He was astounded by the possibilities: the one moment of clarity brought
-on by adrenaline and imminent death - stretched to a lifetime with his
-untapped powers.
+He was astounded by the possibilities: the one moment of clarity brought on by adrenaline and imminent death - stretched to a lifetime with his untapped powers.
 
 He felt god-like.
 
-Each of his bones splintered within his ruptured skin as he hit the
-rocks. He felt indescribable pain for an infinity before his mortal body
-finally passed out.
+Each of his bones splintered within his ruptured skin as he hit the rocks. He felt indescribable pain for an infinity before his mortal body finally passed out.

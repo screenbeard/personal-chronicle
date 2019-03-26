@@ -16,13 +16,13 @@ tags:
 title: 'Space Flight 556: Date with Death'
 url: /space-flight-556-date-with-death/
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
 ---
 **Rex gripped the Eldoan Death Fish, only a hands-breadth from his face.**
 
 The smell of doom was in the air.
 
-As the monster slipped towards his throat, a bolt from one of his Coral Specials ended it's life and saved his.
+As the monster slipped towards his throat, a bolt from one of his Corral Specials ended it's life and saved his.
 
 Limp in his hands now, he dropped it to the floor and grinned at the Princess, poised with his gun still raised and smoking, nearby.
 

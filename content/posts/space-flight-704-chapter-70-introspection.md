@@ -16,14 +16,10 @@ series:
 ---
 **The Ortrix.**
 
-For an object that contained the essence of an entire race, it was
-underwhelmingly nondescript. It even lacked the ostentatious metalwork
-it would eventually pick up on its travels.
+For an object that contained the essence of an entire race, it was underwhelmingly nondescript. It even lacked the ostentatious metalwork it would eventually pick up on its travels.
 
-Rex felt the weight of it in his hand. Not just its mass - again it felt
-not-enough - but the weight of it's future.
+Rex felt the weight of it in his hand. Not just its mass - again it felt not-enough - but the weight of it's future.
 
-He could sense its journey from here, had seen it in reverse, and knew
-where it ended up.
+He could sense its journey from here, had seen it in reverse, and knew where it ended up.
 
 If he concentrated, he could hear every soul that had created it.

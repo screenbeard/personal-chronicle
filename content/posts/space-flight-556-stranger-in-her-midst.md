@@ -15,7 +15,7 @@ tags:
 title: 'Space Flight 556: Stranger in Her Midst.'
 url: /space-flight-556-stranger-in-her-midst/
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
 ---
 **He was infuriating and insufferable.**
 

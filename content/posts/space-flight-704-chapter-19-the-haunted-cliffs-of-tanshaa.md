@@ -30,9 +30,7 @@ unnerving. Rex wondered if this was what it felt like to be haunted.
 "Can you stay still so I can finally get a look at you?" he demanded of
 the other.
 
-% \[voiceinthedark\]I assure you I am quite still,\[/voiceinthedark\]
-the voice replied, \[voiceinthedark\]but I understand your discomfort.
-Allow me to make myself physical.\[/voiceinthedark\]%
+{{% voiceinthedark %}}I assure you I am quite still,{{% /voiceinthedark %}} the voice replied, {{% voiceinthedark %}}but I understand your discomfort. Allow me to make myself physical.{{% /voiceinthedark %}}
 
 Rex waited.
 

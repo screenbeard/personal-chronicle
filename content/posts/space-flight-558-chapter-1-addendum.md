@@ -16,7 +16,7 @@ tags:
 title: 'Space Flight 558, Chapter 1: Addendum'
 url: /space-flight-558-chapter-1-addendum/
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
 ---
 **"Do we dare?"**
 

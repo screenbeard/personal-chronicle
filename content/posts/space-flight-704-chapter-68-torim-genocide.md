@@ -18,11 +18,8 @@ series:
 ---
 **The tension broke.**
 
-The Torim above took action. They felt the power from below like
-electric prickles on their skin and they could no longer bear it.
+The Torim above took action. They felt the power from below like electric prickles on their skin and they could no longer bear it.
 
-They sent armies below, and with fire and plasma and the rending of guns
-they silenced the voices in their ears and released the pressure on
-their chests.
+They sent armies below, and with fire and plasma and the rending of guns they silenced the voices in their ears and released the pressure on their chests.
 
 For a little while at least they even felt relief.

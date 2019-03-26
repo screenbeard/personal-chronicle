@@ -3,17 +3,16 @@ categories:
 - Space Flight 704
 date: "2012-05-14 09:30:39 +0930"
 draft: false
-publishdate: "2012-05-14 09:30:39 +0930"
-slug: space-flight-559-chapter-1-the-beginning-of-the-end
 tags:
 - The Professor
 - time travel
 - time-belt
+- Time Diversion
 - vortex
 title: 'Space Flight 559, Chapter 1: The Beginning of the End'
-url: /space-flight-559-chapter-1-the-beginning-of-the-end/
+url: space-flight-559-chapter-1-the-beginning-of-the-end
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
 ---
 **Vworp**
 

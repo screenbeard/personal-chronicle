@@ -12,9 +12,9 @@ tags:
 - The Princess
 - Time Diversion
 title: 'Space Flight 556: The Long Honeymoon'
-url: /space-flight-556-the-long-honeymoon/
+url: space-flight-556-the-long-honeymoon
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
 ---
 **"We've been locked in here for three weeks, how in space do you wake up cheerful every day? "**
 

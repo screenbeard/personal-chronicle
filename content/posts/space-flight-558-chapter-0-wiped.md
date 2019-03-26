@@ -15,7 +15,7 @@ tags:
 title: 'Space Flight 558, Chapter 0: Wiped'
 url: /space-flight-558-chapter-0-wiped/
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
 ---
 **The Professor awoke to a hole where his lab should have been.**
 

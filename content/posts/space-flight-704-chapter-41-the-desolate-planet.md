@@ -13,6 +13,7 @@ url: /space-flight-704-chapter-41-the-desolate-planet/
 series:
 - Space Flight 704
 ---
+
 **"What did I do?"**
 
 Rex and The Other walked the deserted city and Rex repeated the question
@@ -29,13 +30,12 @@ When he had arrived on this planet, he had reached into the planet to
 learn what had happened to its inhabitants. The picture was fuzzy,
 distorted and incomplete. The Other nudged him.
 
-"\[voiceinthedark\]Try looking backwards.\[/voiceinthedark\]"
+{{% voiceinthedark %}}"Try looking backwards."{{% /voiceinthedark %}}
 
 Rex shifted his focus. His previous time-travel helped. He reached
 backwards through time to follow the fate of this world.
 
-<div class="timereverse-1">
-
+{{% timereverse 1 %}}
 He watched huge ships land across the planet and disgorge millions of
 unhappy broken people. He saw them strip their ships of technology and
 begin to rebuild their cold city. The ships grew smaller. Generations
@@ -44,5 +44,4 @@ to life.
 
 The newly re-animated told dark stories about the sky-stranger that left
 instructions for them.
-
-</div>
+{{% /timereverse %}}

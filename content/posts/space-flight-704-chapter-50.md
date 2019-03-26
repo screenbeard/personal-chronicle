@@ -21,20 +21,17 @@ Rex is conscious now.
 
 He rises slowly, groggily, then frantically as he remembers.
 
-Anrianna is not at her station behind him, and a tiny mewling sound
-escapes unbidden from Rex's throat.
+Anrianna is not at her station behind him, and a tiny mewling sound escapes unbidden from Rex's throat.
 
-He pushes violently at the door release. Punches it. Screams in
-frustration and pulls the door open with brute strength.
+He pushes violently at the door release. Punches it. Screams in frustration and pulls the door open with brute strength.
 
 Stumbling down corridors. Door after door.
 
 He finds her.
-
+\
+\
+\
+\
 \
 
 "...Anrianna..."
-
-\
-\
-\

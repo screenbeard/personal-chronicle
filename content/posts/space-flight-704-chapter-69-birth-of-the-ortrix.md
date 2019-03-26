@@ -17,13 +17,10 @@ series:
 ---
 **But the Torim below survived.**
 
-Not as physical beings. Not when their bodies were forcibly taken.
-Reduced to so much ash and dust.
+Not as physical beings. Not when their bodies were forcibly taken. Reduced to so much ash and dust.
 
-Not as minds. The Torim below had found a power that linked them deeper
-than that simple structure.
+Not as minds. The Torim below had found a power that linked them deeper than that simple structure.
 
-Not as a single being, but as an entity of thought and presence and
-power.
+Not as a single being, but as an entity of thought and presence and power.
 
 And in the caverns of Torim, an Ortrix.

@@ -3,14 +3,12 @@ categories:
 - Space Flight 704
 date: "2011-11-03 08:57:00 +0930"
 draft: false
-publishdate: "2011-11-03 08:57:00 +0930"
-slug: space-flight-323-a-new-ally
 tags:
 - prequel
 - Rex Havoc
 - stranger
 title: 'Space Flight 323: A New Ally'
-url: /space-flight-323-a-new-ally/
+url: space-flight-323-a-new-ally
 series:
 - Space Flight 704
 ---

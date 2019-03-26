@@ -15,7 +15,8 @@ tags:
 title: 'Space Flight 555: Time for Sheebat'
 url: /space-flight-555-time-for-sheebat/
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
+weight: 1
 ---
 **Rex stared hard at his opponent. They both knew how this would end.**
 

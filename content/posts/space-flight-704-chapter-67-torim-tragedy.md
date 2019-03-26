@@ -20,9 +20,6 @@ series:
 
 The experiments failed while the fear in those above grew.
 
-All the while Rex could feel the power of the Ortrix increase although
-he could not locate it. It was not quite the same power as those below
-possessed.
+All the while Rex could feel the power of the Ortrix increase although he could not locate it. It was not quite the same power as those below possessed.
 
-And tension grew. And hatred grew. And Rex's heart felt heavy with more
-grief than he thought he could handle.
+And tension grew. And hatred grew. And Rex's heart felt heavy with more grief than he thought he could handle.

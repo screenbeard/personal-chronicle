@@ -17,7 +17,7 @@ tags:
 title: 'Space Flight 556: News of Death'
 url: /space-flight-556-news-of-death/
 series:
-- Space Flight 704
+- 'Space Flight 704: Time Diversion'
 ---
 **"You're from the future!"**
 

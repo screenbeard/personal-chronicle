@@ -15,17 +15,13 @@ url: /space-flight-704-chapter-53-lost-is-found/
 series:
 - Space Flight 704
 ---
-**\[voiceinthedark\]You are searching for the Torimbalo.
-\[/voiceinthedark\]**
+{{% voiceinthedark %}}**You are searching for the Torimbalo.**{{% /voiceinthedark %}}
 
-"Well I still don't know what that is," corrected Rex, "I'm looking for
-the Ortrix right now."
+"Well I still don't know what that is," corrected Rex, "I'm looking for the Ortrix right now."
 
-Rex continued his clumsy dance through time and space, following the
-temporally luminous thread of the Ortrix. The Other followed alongside.
+Rex continued his clumsy dance through time and space, following the temporally luminous thread of the Ortrix. The Other followed alongside.
 
-On a nondescript planetoid, in a system that no longer existed, the
-thread unravelled.
+On a nondescript planetoid, in a system that no longer existed, the thread unravelled.
 
 Finding where it ended, Rex turned to his companion bewildered.
 

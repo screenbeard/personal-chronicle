@@ -14,8 +14,7 @@ url: /space-flight-704-chapter-42-the-wounded-people/
 series:
 - Space Flight 704
 ---
-<div class="timereverse-2">
-
+{{% timereverse 2 %}}
 **The ships were now raw materials.**
 
 Huge factories staffed by millions of de-aging people ripped the ships
@@ -33,5 +32,4 @@ Jones appeared.
 He was a god-like figure in the heavens. The enormous spectre spoke to
 the people and warned them that what they had just experienced was a
 taste of what he could do to them if they did not do his will.
-
-</div>
+{{% /timereverse %}}

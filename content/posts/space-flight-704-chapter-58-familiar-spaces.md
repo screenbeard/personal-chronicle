@@ -16,11 +16,9 @@ series:
 ---
 **"I recognise this world."**
 
-"We came past here a little while ago, I think - but we were moving so
-fast I wasn't paying attention."
+"We came past here a little while ago, I think - but we were moving so fast I wasn't paying attention."
 
-Rex was solid again and standing next to an enormous featureless
-skyscraper.
+Rex was solid again and standing next to an enormous featureless skyscraper.
 
 "The Ortrix will be here again some time in the future."
 
@@ -28,7 +26,6 @@ He put his hand on the stonework of the building.
 
 "These stones are enormous!"
 
-Stepping back, he wandered away from the buildings to get a better look
-at it's entirety.
+Stepping back, he wandered away from the buildings to get a better look at it's entirety.
 
 "That's no skyscraper," he gasped, "that's a stone hut!"
