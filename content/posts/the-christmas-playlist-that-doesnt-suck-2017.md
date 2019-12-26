@@ -11,6 +11,8 @@ tags:
 - tradition
 title: The Christmas Playlist That Doesn't Suck (2017)
 url: /the-christmas-playlist-that-doesnt-suck-2017/
+series:
+- christmas playlist
 ---
 
 {{< figure src="https://turbo.geekorium.com.au/images/space-santa.jpg" alt="A night photo of a big anamatronic Santa in a space ship" caption="Space santa" attr="by Beth Wilson" attrlink="https://flic.kr/p/dBnG1y" >}}

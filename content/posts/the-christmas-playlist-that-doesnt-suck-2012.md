@@ -16,6 +16,8 @@ tags:
 - unusual
 title: The Christmas Playlist That Doesn't Suck (2012)
 url: /the-christmas-playlist-that-doesnt-suck-2012/
+series:
+- christmas playlist
 ---
 
 {{< figure src="https://turbo.geekorium.com.au/images/candycanes.jpg" alt="Teeny tiny candycanes on the tips of someone's fingers" title="Miniature Peppermint Candy Canes" attr="Aminimanda" >}}
