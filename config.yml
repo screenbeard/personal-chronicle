@@ -22,6 +22,10 @@ menu:
     -   name: Webhosting
         url: https://websites.geekorium.com.au/
         weight: 30
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
 params:
     AuthorName: screenbeard
     GitHubUser: screenbeard
