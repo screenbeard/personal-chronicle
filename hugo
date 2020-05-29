@@ -1,0 +1,7 @@
+#!/bin/bash
+
+docker run -it --rm \
+    --network host \
+    --volume=$(pwd):/site \
+    --name hugo \
+    $(docker build -q .) "$@";
