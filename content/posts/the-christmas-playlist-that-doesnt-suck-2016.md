@@ -11,6 +11,8 @@ tags:
 - tradition
 title: The Christmas Playlist That Doesn't Suck (2016)
 url: /the-christmas-playlist-that-doesnt-suck-2016/
+series:
+- christmas playlist
 ---
 
 {{< figure src="https://turbo.geekorium.com.au/images/christmas-daleks.jpg" alt="A photo of some Dalek toys with Santa hats" caption="Christmas on Skaro" attr="by Mr. Evil Cheese Scientist" attrlink="https://flic.kr/p/7iP8Ec" >}}

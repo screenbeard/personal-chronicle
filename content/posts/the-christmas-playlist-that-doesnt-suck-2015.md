@@ -18,6 +18,8 @@ tags:
 - unusual
 title: The Christmas Playlist That Doesn't Suck (2015)
 url: /the-christmas-playlist-that-doesnt-suck-2015/
+series:
+- christmas playlist
 ---
 
 {{< figure src="https://turbo.geekorium.com.au/images/stormtrooper-christmas.jpg" alt="A photo of a Star Wars Stormtrooper toy in a Christmas tree with twinkling lights behind" caption="Merry Christmas" attr="by Jose Maria Cuellar" attrlink="//flic.kr/p/qcZ7u8" >}}

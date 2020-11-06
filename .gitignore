@@ -1,4 +1,6 @@
 public/**
 resources/**
 themes/**
-1
+deploy
+.vscode/**
+.env

@@ -1,0 +1,8 @@
+<video controls muted preload="metadata">
+    {{ with .Get "mp4"}}<source src="{{.}}" type="video/mp4">{{ end }}
+    {{ with .Get "ogg"}}<source src="{{.}}" type="video/ogg">{{ end }}
+    {{ with .Get "webm"}}<source src="{{.}}" type="video/webm">{{ end }}
+    {{ with .Get "vtt_en"}}<track src="{{.}}" kind="subtitles" srclang="en" label="English" />
+    {{ end }}
+    Your browser does not support the video tag.
+</video>

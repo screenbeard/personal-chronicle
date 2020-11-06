@@ -14,7 +14,7 @@ url: /bye-bye-disqus/
 ---
 Tonight I disabled Disqus and tried to implement some of the same features manually. Rubenerd has been [pushing his anti-disqus agenda](https://rubenerd.com/shocking-truth-disqus-et-al/) for some time, and it ramped up when [Taryn proclaimed it's virtues](http://blog.tarynhicks.com.au/why-you-should-use-disqus/) and [Zombie\_Plan bleated and caved too](http://zombieskittles.com/tucking-it-in)[^1].
 
-{{< figure src="https://farm1.static.flickr.com/46/150053152_bd851bf585.jpg" alt="" title="See ya! BYE" caption="" attr="Taz etc." attrlink="http://www.flickr.com/photos/taz/150053152/" >}}
+{{< figure src="https://live.staticflickr.com/46/150053152_bd851bf585_c.jpg" alt="" title="See ya! BYE" caption="" attr="Taz etc." attrlink="http://www.flickr.com/photos/taz/150053152/" >}}
 
 So as an experiment (and due to my underlying desire to stop handing stuff over to third parties), I turned it off. Here's what I installed in its place:
 

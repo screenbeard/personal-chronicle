@@ -1,7 +1,1 @@
-#!/bin/sh
-HOST=geekorium
-DIR=public_html/the/   # might sometimes be empty!
-
-hugo && rsync -az --info=progress2 --delete --exclude .htaccess public/ ${HOST}:~/${DIR}
-
-exit 0
+rsync -avz --delete public/ geekorium:~/public_html/the

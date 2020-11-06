@@ -22,6 +22,10 @@ menu:
     -   name: Webhosting
         url: https://websites.geekorium.com.au/
         weight: 30
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
 params:
     AuthorName: screenbeard
     GitHubUser: screenbeard
@@ -33,6 +37,10 @@ params:
         branch: master
     DuckDuckGo:
         site: the.geekorium.com.au
+    RelMe: 
+        - https://aus.social/@screenbeard
+        - https://codeberg.org/screenbeard
+        - https://github.com/screenbeard/
 permalinks:
     posts: /:title
 privacy:

@@ -15,6 +15,8 @@ tags:
 - unusual
 title: The Christmas Playlist That Doesn't Suck (2014)
 url: /the-christmas-playlist-that-doesnt-suck-2014/
+series:
+- christmas playlist
 ---
 
 {{< figure src="https://farm6.staticflickr.com/5082/5291376908_af378418a1_z.jpg" alt="An illustration of a cute but ugly monster sitting in a weird and twisted snowscape eating a candycane broken off a nearby tentacle" caption="Christmas 2010" attr="by Rob Sheridan" attrlink="https://flic.kr/p/94zG1m" >}}

@@ -12,7 +12,7 @@ title: 8 Google Wave Competitors
 
 ### Introduction
 
-{{< figure src="//farm4.static.flickr.com/3445/3951502557_bb869d3375.jpg" alt="A photograph of a mural depicting a cute cartoon turtle riding a surfboard on a big wave" attr="The Ultimate Wave Adventure by JEFFREY'S MURALS" attrlink="https://www.flickr.com/photos/jwthegreat/3951502557/" >}}
+{{< figure src="//live.staticflickr.com/3445/3951502557_bb869d3375_z.jpg" alt="A photograph of a mural depicting a cute cartoon turtle riding a surfboard on a big wave" attr="The Ultimate Wave Adventure by JEFFREY'S MURALS" attrlink="https://www.flickr.com/photos/jwthegreat/3951502557/" >}}
 
 Google Wave is a product that's trying to do something massive to the way we communicate online. Its stated goal is to be what email might look like if it were invented today. A number of other services are labeled as competitors to Google Wave, including the recently updated Google Docs (which is too new for me to comment on in this article), but I wanted to take a look at which of these services are **real** competition. Below are the services who show the most promise at becoming the next generation of online communication.
 

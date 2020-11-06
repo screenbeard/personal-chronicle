@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  feedparser:
+    image: php:7.4
+    env_file: .env
+    volumes: 
+        - ./parse.php:/var/tmp/parse.php
+        - ./${OUTPUT_FILE}:/var/tmp/output.md
+    # user: "${UID}:${GID}"
+    command: ["/usr/local/bin/php", "-f", "/var/tmp/parse.php"]

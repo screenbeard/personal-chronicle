@@ -9,6 +9,8 @@ tags:
 - playlist
 - tradition
 title: The Christmas Playlist That Doesn't Suck (2018)
+series:
+- christmas playlist
 ---
 
 {{< figure src="https://turbo.geekorium.com.au/images/mario-mushroom.jpg" alt="A photo of a handmade mushroom from Nintendo Mario games hanging on a Christmas tree" caption="Mini Mario Mushroom" attr="by Amy Dianna" attrlink="https://flic.kr/p/7jtyN1" >}}
